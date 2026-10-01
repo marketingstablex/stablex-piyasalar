@@ -38,7 +38,8 @@ jobs:
             git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
             git add data/coins.json
             git commit -m "Coin listesi Stablex ile eşitlendi"
-            git push
+                           for i in 1 2 3; do git pull -q --rebase && git push -q && exit 0; sleep 5; done
+               exit 1
           fi
 
       - name: Kontrol edilecekler varsa issue aç
