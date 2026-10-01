@@ -6,6 +6,8 @@ Haber botu: index.html'deki HABERLER tarifine göre data/news.json üretir.
   - Son 24 saatin haberleri; daha önce işlenenler tekrar işlenmez.
   - Gemini ile: borsa haberlerini ayıklar, Türkçe başlık/özet (≤150 kelime) üretir,
     ilgili coinleri (yalnızca data/coins.json'daki semboller) ve 1-5 önem puanını belirler.
+  - Türkçe olmayan sonuçları ayrıca çevirtir; çevrilemeyen haber yayınlanmaz, sonraki çalıştırmada yeniden denenir.
+  - Farklı kaynaklardan gelen aynı olayı tek habere indirir.
   - Çıktı: { updated, bySymbol: { BTC: [ {title, summary, url, published, importance}, ... ] }, seen: {...} }
 
 Ortam değişkenleri: GEMINI_API_KEY (zorunlu), GEMINI_MODEL (isteğe bağlı).
@@ -151,7 +153,7 @@ Haberler:
 {items}"""
 
 
-def gemini(prompt: str) -> list:
+def gemini(prompt: str):
     key = os.environ.get("GEMINI_API_KEY")
     if not key:
         raise SystemExit("GEMINI_API_KEY tanımlı değil (Settings → Secrets → Actions).")
@@ -168,8 +170,7 @@ def gemini(prompt: str) -> list:
                 with urllib.request.urlopen(req, timeout=90) as r:
                     j = json.loads(r.read().decode())
                 text = j["candidates"][0]["content"]["parts"][0]["text"]
-                data = json.loads(text)
-                return data if isinstance(data, list) else data.get("items", [])
+                return json.loads(text)
             except urllib.error.HTTPError as e:
                 last = f"{model}: {e.code} {e.read().decode(errors='replace')[:200]}"
                 if e.code == 404:
@@ -184,6 +185,92 @@ def gemini(prompt: str) -> list:
     raise RuntimeError(f"Gemini başarısız: {last}")
 
 
+# re.I KULLANMA: büyük/küçük harf duyarsız modda "ı" harfi "i" ile eşleşir ve her İngilizce metin Türkçe sayılır
+TR_HINT = re.compile(r"[çğıöşüÇĞİÖŞÜ]|\b(?:[Vv]e|[Bb]ir|[Ii]le|[Ii]çin|olarak|yüzde|milyar|milyon|dolar|sonra|göre)\b")
+
+
+def is_tr(item: dict) -> bool:
+    return bool(TR_HINT.search(item.get("title", ""))) and bool(TR_HINT.search(item.get("summary", "")))
+
+
+TR_PROMPT = """Aşağıdaki kripto para haberlerinin başlığını ve özetini TÜRKÇEYE ÇEVİR.
+Anlamı değiştirme, bilgi ekleme veya çıkarma; şirket, proje ve kişi adlarını olduğu gibi bırak.
+Yanıtın SADECE şu biçimde bir JSON dizisi olsun: [{{"i": <numara>, "baslik": "Türkçe başlık", "ozet": "Türkçe özet"}}]
+
+{items}"""
+
+
+def translate(items: list[dict]) -> None:
+    """Türkçe olmayan başlık/özetleri yerinde Türkçeye çevirir (başaramazsa olduğu gibi bırakır)."""
+    for b in range(0, len(items), 10):
+        part = items[b:b + 10]
+        listing = "\n\n".join(f"[{i}] Başlık: {x['title']}\nÖzet: {x['summary']}" for i, x in enumerate(part))
+        try:
+            res = gemini(TR_PROMPT.format(items=listing))
+        except Exception as e:
+            print(f"! Çeviri başarısız: {e}")
+            continue
+        for r in res if isinstance(res, list) else []:
+            try:
+                x = part[int(r["i"])]
+            except Exception:
+                continue
+            cand = {"title": clean(r.get("baslik") or ""), "summary": clip_words(clean(r.get("ozet") or ""))}
+            if cand["title"] and cand["summary"] and is_tr(cand):
+                x.update(cand)
+        time.sleep(4)
+
+
+DUP_PROMPT = """Aşağıdaki haber başlıklarından AYNI OLAYI anlatanları grupla (farklı kaynaklardan gelen aynı haber).
+Sadece gerçekten aynı olayı anlatanları grupla; aynı coin hakkında farklı gelişmeler ayrı kalmalı.
+Yanıtın SADECE şu biçimde olsun: {{"gruplar": [[<numara>, <numara>], ...]}} — yalnızca 2 veya daha fazla elemanlı gruplar.
+
+{items}"""
+
+
+def dedupe(by_symbol: dict) -> int:
+    """Aynı olayı anlatan haberlerden yalnızca birini tutar; atılanların coinlerini tutulana aktarır."""
+    uniq: dict[str, dict] = {}
+    syms_of: dict[str, set] = {}
+    for s, lst in by_symbol.items():
+        for x in lst:
+            uniq.setdefault(x["url"], x)
+            syms_of.setdefault(x["url"], set()).add(s)
+    items = list(uniq.values())
+    if len(items) < 2:
+        return 0
+    listing = "\n".join(f"[{i}] {x['title']}" for i, x in enumerate(items))
+    try:
+        res = gemini(DUP_PROMPT.format(items=listing))
+        groups = res.get("gruplar", []) if isinstance(res, dict) else res
+    except Exception as e:
+        print(f"! Tekrar ayıklama atlandı: {e}")
+        return 0
+    drop: set[str] = set()
+    for g in groups or []:
+        try:
+            members = [items[int(i)] for i in g if 0 <= int(i) < len(items)]
+        except Exception:
+            continue
+        members = [m for m in members if m["url"] not in drop]
+        if len(members) < 2:
+            continue
+        # tercih: önem → Türkçe kaynak (çeviri değil) → en yeni
+        keep = max(members, key=lambda m: (m["importance"], domain_of(m["url"]) == "cointelegraph-tr.com", m["published"]))
+        for m in members:
+            if m is keep:
+                continue
+            drop.add(m["url"])
+            for s in syms_of[m["url"]] - syms_of[keep["url"]]:
+                by_symbol.setdefault(s, []).append(keep)
+            syms_of[keep["url"]] |= syms_of[m["url"]]
+    for s in list(by_symbol):
+        by_symbol[s] = [x for x in by_symbol[s] if x["url"] not in drop]
+        if not by_symbol[s]:
+            del by_symbol[s]
+    return len(drop)
+
+
 # ---------------- ana akış ----------------
 def main() -> int:
     symbols = [c[0] for c in json.loads(COINS_FILE.read_text(encoding="utf-8"))["coins"]]
@@ -192,6 +279,7 @@ def main() -> int:
     now = time.time()
 
     seen: dict[str, float] = {u: t for u, t in prev.get("seen", {}).items() if now - t < SEEN_KEEP_H * 3600}
+    tries: dict[str, int] = {u: n for u, n in prev.get("tries", {}).items() if u in seen or n < 3}
     by_symbol: dict[str, list] = prev.get("bySymbol", {})
 
     # 1) RSS'leri çek
@@ -214,7 +302,8 @@ def main() -> int:
     print(f"İşlenecek yeni haber: {len(fresh)}")
 
     # 2) Gemini ile işle
-    added = skipped_exchange = no_symbol = 0
+    added = skipped_exchange = no_symbol = not_tr = 0
+    candidates: list[tuple[dict, list]] = []
     for b in range(0, len(fresh), BATCH):
         batch = fresh[b:b + BATCH]
         listing = "\n\n".join(
@@ -224,7 +313,7 @@ def main() -> int:
         except Exception as e:
             print(f"! {e} — bu grup bir sonraki çalıştırmada tekrar denenecek.")
             continue
-        for r in res:
+        for r in res if isinstance(res, list) else res.get("items", []):
             try:
                 it = batch[int(r["i"])]
             except Exception:
@@ -244,15 +333,36 @@ def main() -> int:
                 "published": iso(it["published_ts"]),
                 "importance": max(1, min(5, int(r.get("onem") or 2))),
             }
-            for s in syms:
-                lst = by_symbol.setdefault(s, [])
-                if all(x["url"] != item["url"] for x in lst):
-                    lst.append(item)
-            added += 1
+            candidates.append((item, syms))
         time.sleep(4)   # ücretsiz kota için istekler arası bekleme
 
-    # 3) Eskileri temizle, sırala, sınırla
+    # 2b) Türkçe kontrolü: yeni adaylar + daha önce kaydedilmiş ama Türkçe olmayanlar
+    stored_en = {x["url"]: x for lst in by_symbol.values() for x in lst if not is_tr(x)}
+    need = [c[0] for c in candidates if not is_tr(c[0])] + list(stored_en.values())
+    if need:
+        print(f"Türkçe olmayan {len(need)} haber çeviriye gönderiliyor")
+        translate(need)
+    for s in list(by_symbol):          # çevrilemeyen eski kayıtları yayından kaldır
+        by_symbol[s] = [x for x in by_symbol[s] if is_tr(x)]
+    for item, syms in candidates:
+        if not is_tr(item):
+            not_tr += 1
+            tries[item["url"]] = tries.get(item["url"], 0) + 1
+            if tries[item["url"]] < 3:
+                seen.pop(item["url"], None)   # sonraki çalıştırmada tekrar dene
+            continue
+        tries.pop(item["url"], None)
+        for s in syms:
+            lst = by_symbol.setdefault(s, [])
+            if all(x["url"] != item["url"] for x in lst):
+                lst.append(item)
+        added += 1
+
+    # 3) Eskileri temizle, aynı olayın tekrarlarını ayıkla, sırala, sınırla
     cutoff = now - KEEP_H * 3600
+    for s in list(by_symbol):
+        by_symbol[s] = [x for x in by_symbol[s] if (parse_date(x["published"]) or 0) >= cutoff]
+    dup = dedupe(by_symbol) if (added or need) else 0
     for s in list(by_symbol):
         if s not in sym_set:
             del by_symbol[s]
@@ -269,9 +379,10 @@ def main() -> int:
         "sources": sorted(ALLOWED),
         "bySymbol": dict(sorted(by_symbol.items())),
         "seen": seen,
+        "tries": tries,
     }, ensure_ascii=False, indent=1) + "\n", encoding="utf-8")
     print(f"Eklendi: {added} · borsa haberi elendi: {skipped_exchange} · coin ilgisiz: {no_symbol} · "
-          f"haberi olan coin: {len(by_symbol)}")
+          f"Türkçe yapılamadı: {not_tr} · tekrar ayıklandı: {dup} · haberi olan coin: {len(by_symbol)}")
     return 0
 
 
