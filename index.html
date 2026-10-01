@@ -1179,7 +1179,42 @@ async function loadNews(r){
   return pickNews(data.bySymbol?.[r.sym]);
 }
 
-/* ---- seviyeler: son 24 saatlik klasik pivot ---- */
+/* ---- seviyeler: HAFTALIK klasik pivot ----
+   Geçen haftanın (pazartesi-pazar, UTC) en yüksek/en düşük/kapanışından hesaplanır, hafta boyunca sabit kalır;
+   pazartesi UTC 00:00'da (TR 03:00) yenilenir. Kaynak: Binance haftalık mum; Binance'te yoksa CoinGecko 4 saatlik OHLC.
+   İkisine de ulaşılamazsa aşağıdaki levelsFor (son 24 saat) yedek olarak kullanılır. */
+const weeklyCache = {};
+async function weeklyHLC(r){
+  const c = weeklyCache[r.sym];
+  if (c && Date.now() - c.ts < 600_000) return c.v;
+  let v = null;
+  const pair = bnPair(r.sym);
+  if (pair) for (const host of ["https://data-api.binance.vision", "https://api.binance.com"]) {
+    try {
+      const res = await fetch(`${host}/api/v3/klines?symbol=${pair}&interval=1w&limit=2`);
+      if (res.status === 400) break;
+      if (res.ok) { const k = await res.json(); if (k.length === 2) v = { H: +k[0][2], L: +k[0][3], C: +k[0][4], last: +k[1][4] }; break; }
+    } catch (e) {}
+  }
+  if (!v) {
+    try {
+      const ohlc = await getJSON(`${CG}/coins/${r.id}/ohlc?vs_currency=usd&days=14`);   // 4 saatlik mumlar, zaman = mum kapanışı
+      const n = new Date(), dow = (n.getUTCDay() + 6) % 7;
+      const thisMon = Date.UTC(n.getUTCFullYear(), n.getUTCMonth(), n.getUTCDate() - dow), prevMon = thisMon - 7 * DAY;
+      const wk = ohlc.filter(([t]) => t > prevMon && t <= thisMon);
+      if (wk.length >= 20) v = { H: Math.max(...wk.map(x => x[2])), L: Math.min(...wk.map(x => x[3])), C: wk[wk.length - 1][4], last: ohlc[ohlc.length - 1][4] };
+    } catch (e) {}
+  }
+  weeklyCache[r.sym] = { v, ts: Date.now() };
+  return v;
+}
+function weeklyLevels(r, wk){
+  const fx = state.cur === "usd" ? 1 : r.price / wk.last;          // TL görünümünde USD seviyeleri TL'ye çevir
+  const H = wk.H * fx, L = wk.L * fx, P = (H + L + wk.C * fx) / 3;
+  return { H, L, C: r.price, P, R1: 2 * P - L, S1: 2 * P - H, R2: P + (H - L), S2: P - (H - L), weekly: true };
+}
+
+/* ---- yedek: son 24 saatlik klasik pivot ---- */
 function levelsFor(r, d1){
   const sc = r.price / d1[d1.length - 1].p;
   const H = r.high ?? Math.max(...d1.map(d => d.h)) * sc;
@@ -1199,7 +1234,8 @@ function drawChart(r, s, p, lv){
   const pts = s.map(d => ({ t: d.t, v: d.p * sc }));
   const W = 640, H = 240, pl = 6, pr = 72, pt = 12, pb = 26;
   let min = Math.min(...pts.map(d => d.v)), max = Math.max(...pts.map(d => d.v));
-  if (p === "d1" && lv) { min = Math.min(min, lv.S1); max = Math.max(max, lv.R1); }
+  const showLv = lv && (lv.weekly ? p !== "d1" : p === "d1");   // haftalık seviyeler 1 Hafta / 1 Ay grafiğinde çizilir
+  if (showLv) { min = Math.min(min, lv.S1); max = Math.max(max, lv.R1); }
   const padR = (max - min) * .08 || max * .01; min -= padR; max += padR;
   const x = i => pl + i / (pts.length - 1) * (W - pl - pr);
   const y = v => pt + (1 - (v - min) / (max - min)) * (H - pt - pb);
@@ -1216,7 +1252,7 @@ function drawChart(r, s, p, lv){
     const i = Math.round(k / 3 * (pts.length - 1));
     g += `<text x="${x(i)}" y="${H - 7}" class="ax" text-anchor="${k === 0 ? "start" : k === 3 ? "end" : "middle"}">${timeFmt(pts[i].t, p)}</text>`;
   }
-  if (p === "d1" && lv) {
+  if (showLv) {
     for (const [k, c, lab] of [["R1", "var(--down)", "Direnç 1"], ["S1", "var(--up)", "Destek 1"]]) {
       const yy = y(lv[k]);
       g += `<line x1="${pl}" x2="${W - pr}" y1="${yy}" y2="${yy}" stroke="${c}" stroke-dasharray="4 4" opacity=".7"/><text x="${pl + 4}" y="${yy - 5}" class="ax" fill="${c}" style="fill:${c}">${lab}</text>`;
@@ -1255,9 +1291,11 @@ function renderLevels(r, lv){
   ].sort((a, b) => b[1] - a[1]);
   el.innerHTML = rows.map(([n, v, k]) =>
     `<li class="lvr ${k}"><span class="k">${n}</span><span class="v">${price(v)}</span><span class="dd">${k === "now" ? pct(r.ch24) : d(v)}</span></li>`).join("");
+  const note = detailTr.querySelector(".dp-levels .note");
+  if (note) note.textContent = lv.weekly ? "haftalık · geçen haftaya göre" : "son 24 saate göre";
   const pos = lv.H > lv.L ? (lv.C - lv.L) / (lv.H - lv.L) * 100 : 50;
   detailTr.querySelector(".rng").innerHTML = `
-    <div class="rng-top"><span>24s en düşük</span><span>24s en yüksek</span></div>
+    <div class="rng-top"><span>${lv.weekly ? "Geçen hafta en düşük" : "24s en düşük"}</span><span>${lv.weekly ? "Geçen hafta en yüksek" : "24s en yüksek"}</span></div>
     <div class="rng-bar"><span style="left:${Math.max(0, Math.min(100, pos))}%"></span></div>
     <div class="rng-vals"><b style="color:var(--down)">${price(lv.L)}</b><b style="color:var(--up)">${price(lv.H)}</b></div>`;
 }
@@ -1328,9 +1366,9 @@ function buildDetail(r){
 const rowBySym = sym => state.rows.find(x => x.sym === sym);
 async function fillChart(sym){
   const r = rowBySym(sym), p = state.chartP;
-  const [d1, s] = await Promise.all([loadSeries(r, "d1"), loadSeries(r, p)]);
+  const [d1, s, wk] = await Promise.all([loadSeries(r, "d1"), loadSeries(r, p), state.demo ? null : weeklyHLC(r)]);
   if (state.open !== sym || state.chartP !== p) return;
-  const lv = levelsFor(rowBySym(sym), d1);
+  const lv = wk ? weeklyLevels(rowBySym(sym), wk) : levelsFor(rowBySym(sym), d1);
   drawChart(rowBySym(sym), s, p, lv);
   renderLevels(rowBySym(sym), lv);
 }
