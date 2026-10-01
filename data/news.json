@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-01T15:51:35Z",
+ "updated": "2026-10-01T16:23:32Z",
  "sources": [
   "coindesk.com",
   "cointelegraph-tr.com",
@@ -100,6 +100,13 @@
     "importance": 4
    },
    {
+    "title": "Ethereum staking ödülü yakma teklifi EIP-8363, Hegota güncellemesinden çıkarıldı",
+    "summary": "Ortak yazar Jérôme de Tychey, sektör katılımcılarının ve çekirdek katkıda bulunanların kendisini, bir kapsam belirleme sürecinin ihraç değişikliği için yanlış bir platform olduğuna ikna ettiğini belirtti.",
+    "url": "https://www.theblock.co/news/ecosystems/2026-10-01-ethereum-staking-reward-burn-proposal-eip-8363-pulled-hegota-upgrade-417419",
+    "published": "2026-10-01T16:17:23Z",
+    "importance": 3
+   },
+   {
     "title": "MetaMask, açıklanmayan güvenlik olayı nedeniyle Ethereum doğrulayıcılarından ayrılıyor",
     "summary": "MetaMask, tehdidi şirket içinde araştırdığını ve cüzdanlarına yönelik acil bir tehdit tespit etmediğini açıkladı.",
     "url": "https://cointelegraph-tr.com/news/metamask-exits-lido-validators-as-it-investigates-security-incident",
@@ -184,7 +191,10 @@
   "https://cointelegraph-tr.com/news/latam-stablecoin-liquidity-may-depend-on-few-providers-investor-says": 1790864763.7040339,
   "https://cointelegraph-tr.com/magazine/stablecoins-can-drain-from-banks-and-nations-at-lightning-speed": 1790864763.7040339,
   "https://www.theblock.co/news/deals/2026-10-01-evernorth-xrpn-nasdaq-armada-shareholders-approve-417413": 1790868294.1419697,
-  "https://www.coindesk.com/coindesk-indices/2026/10/01/crypto-for-advisors-the-clarity-act-failed-but-the-rules-came-anyway": 1790868294.1419697
+  "https://www.coindesk.com/coindesk-indices/2026/10/01/crypto-for-advisors-the-clarity-act-failed-but-the-rules-came-anyway": 1790868294.1419697,
+  "https://www.theblock.co/news/ecosystems/2026-10-01-ethereum-staking-reward-burn-proposal-eip-8363-pulled-hegota-upgrade-417419": 1790871812.6655443,
+  "https://cointelegraph-tr.com/news/new-york-wyoming-regulators-sign-pact-coordinate-crypto-oversight": 1790871812.6655443,
+  "https://cointelegraph-tr.com/news/near-intents-exploit-assistance-bitget-hack": 1790871812.6655443
  },
  "tries": {}
 }
