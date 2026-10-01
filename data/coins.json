@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-01T07:20:00Z",
+ "updated": "2026-10-01T07:47:06Z",
  "source": "https://stablex.com.tr/piyasalar",
  "note": "Bu dosya scripts/sync_coins.py tarafından otomatik güncellenir. Sıra: sembol, CoinGecko id, ad, kategoriler. binance: Binance çifti kullanılmayacak coinler (null).",
  "coins": [
@@ -624,6 +624,7 @@
   ]
  ],
  "binance": {
-  "LIT": null
+  "LIT": null,
+  "USDT": null
  }
 }
