@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-01T20:49:50Z",
+ "updated": "2026-10-01T21:22:27Z",
  "sources": [
   "coindesk.com",
   "cointelegraph-tr.com",
@@ -116,10 +116,10 @@
   ],
   "TRUMP": [
    {
-    "title": "Token'ın en büyük yatırımcıları için bir başka Trump memecoin yemeği duyuruldu",
-    "summary": "Token'ın en büyük yatırımcıları için bir başka Trump memecoin yemeği duyuruldu",
-    "url": "https://www.coindesk.com/policy/2026/10/01/another-trump-memecoin-dinner-advertised-for-token-s-top-investors",
-    "published": "2026-10-01T18:45:29Z",
+    "title": "Yolsuzluk iddiaları gölgesinde Trump, 3. “özel” memecoin etkinliğine ev sahipliği yapacak",
+    "summary": "Başkanın, Mayıs 2025 ve Nisan 2026’daki benzer etkinliklerin ardından, en büyük 185 memecoin sahibine yönelik 22 Kasım’daki akşam yemeğinde Washington DC’deki golf kulübünde görünmesi bekleniyor.",
+    "url": "https://cointelegraph-tr.com/news/donald-trump-memecoin-dinner-corruption-claims",
+    "published": "2026-10-01T21:00:11Z",
     "importance": 2
    }
   ],
@@ -208,7 +208,10 @@
   "https://cointelegraph-tr.com/news/50000-europeans-call-on-eu-to-ease-stablecoin-rewards-restrictions-in-mica-review": 1790880763.731783,
   "https://cointelegraph-tr.com/news/illinois-postpones-crypto-tax-industry-lawsuit": 1790880763.731783,
   "https://www.theblock.co/news/regulation/2026-10-01-hyperliquid-circle-mica-review-417452": 1790882582.364225,
-  "https://www.coindesk.com/policy/2026/10/01/u-s-sec-maps-out-crypto-custody-in-new-proposal-that-furthers-its-digital-assets-agenda": 1790886245.404567
+  "https://www.coindesk.com/policy/2026/10/01/u-s-sec-maps-out-crypto-custody-in-new-proposal-that-furthers-its-digital-assets-agenda": 1790886245.404567,
+  "https://cointelegraph-tr.com/news/evernorth-clears-shareholder-vote-ahead-nasdaq-debut-473m-xrp-treasury": 1790889747.996542,
+  "https://www.theblock.co/news/regulation/2026-10-01-sec-proposes-crypto-custody-rule-investment-advisers-funds-417498": 1790889747.996542,
+  "https://cointelegraph-tr.com/news/donald-trump-memecoin-dinner-corruption-claims": 1790889747.996542
  },
  "tries": {}
 }
