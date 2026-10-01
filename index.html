@@ -406,7 +406,7 @@
       </table>
     </div>
   </section>
-  <p class="source">Veri: CoinGecko (fiyat, piyasa, hacim, arz), Alternative.me (Korku &amp; Açgözlülük). ETF akışları elle güncellenir (SoSoValue / Farside). Altcoin Sezonu, ilk 100 coinin (stablecoin ve sarmalanmış tokenler hariç) son 30 günde BTC'yi geçen oranıdır. Haberler yalnızca The Block, CoinDesk ve Cointelegraph Türkçe'den, borsa haberleri ayıklanıp Türkçeleştirilerek gelir. Öne çıkan listelerde stablecoinler yer almaz; dönemsel getiriler USD bazlıdır ve Binance günlük kapanış verisinden (bulunamayanlar için CoinGecko) hesaplanır.</p>
+  <p class="source">Veri: CoinMarketCap (fiyat, piyasa değeri, sıralama, hacim, arz, toplam piyasa, Korku &amp; Açgözlülük; 15 dakikada bir güncellenir). CoinMarketCap'e ulaşılamadığında CoinGecko ve Alternative.me kullanılır. ETF akışları elle güncellenir (SoSoValue / Farside). Altcoin Sezonu, ilk 100 coinin (stablecoin ve sarmalanmış tokenler hariç) son 30 günde BTC'yi geçen oranıdır. Haberler yalnızca The Block, CoinDesk ve Cointelegraph Türkçe'den, borsa haberleri ayıklanıp Türkçeleştirilerek gelir. Öne çıkan listelerde stablecoinler yer almaz; dönemsel getiriler USD bazlıdır ve Binance günlük kapanış verisinden (bulunamayanlar için CoinGecko) hesaplanır.</p>
 </main>
 
 <script>
@@ -610,7 +610,56 @@ async function getJSON(url){
   return r.json();
 }
 
+/* CoinMarketCap: ana kaynak. GitHub Actions (scripts/fetch_cmc.py) 15 dakikada bir data/markets.json'a yazar.
+   Dosya yoksa, okunamazsa veya 2 saatten eskiyse aşağıdaki CoinGecko yolu kullanılır. */
+const MARKETS_ENDPOINT = "data/markets.json";
+const CMC_MAX_AGE_MS = 2 * 3600e3;
+let cmcCache = null;
+async function loadCmc(){
+  if (cmcCache && Date.now() - cmcCache.ts < 60_000) return cmcCache.data;
+  const j = await getJSON(MARKETS_ENDPOINT + "?t=" + Math.floor(Date.now() / 60_000));
+  if (!j.coins || !j.global || !j.updated) throw new Error("markets.json eksik");
+  if (Date.now() - Date.parse(j.updated) > CMC_MAX_AGE_MS) throw new Error("markets.json eski: " + j.updated);
+  cmcCache = { data: j, ts: Date.now() };
+  return j;
+}
+async function cmcFor(cur){
+  try {
+    const j = await loadCmc();
+    if (cur === "try" && !j.usdtry) return null;   // kur yoksa TL için CoinGecko'ya dön
+    return { j, fx: cur === "try" ? j.usdtry : 1 };
+  } catch (e) { console.warn("CMC verisi kullanılamıyor, CoinGecko'ya dönülüyor:", e.message); return null; }
+}
+
 async function loadMarkets(){
+  const c = await cmcFor(state.cur);
+  if (c) {
+    const { j, fx } = c;
+    state.rows = COINS.map(([sym, id, name, cats]) => {
+      const d = j.coins[sym];
+      if (!d) return { sym, id, name, cats, rank:null, price:null, ch24:null, mcap:null, vol:null, supply:null, max:null };
+      return {
+        sym, id, name: d.name || name, cats, img: `https://s2.coinmarketcap.com/static/img/coins/64x64/${d.id}.png`,
+        rank: d.rank, price: d.price * fx, ch24: d.ch24, mcap: d.mcap * fx, vol: d.vol * fx,
+        supply: d.supply, max: d.max || null, high: null, low: null,
+      };
+    });
+    state.source = "cmc"; state.dataTime = j.updated;
+    /* CMC'de olmayan coinler için CoinGecko'dan tamamla */
+    const gaps = state.rows.filter(r => r.price == null);
+    if (gaps.length) {
+      try {
+        const data = await getJSON(`${CG}/coins/markets?vs_currency=${state.cur}&ids=${gaps.map(r => r.id).join(",")}&per_page=250&page=1&sparkline=false`);
+        for (const d of data) {
+          const r = gaps.find(x => x.id === d.id); if (!r) continue;
+          Object.assign(r, { img: d.image, price: d.current_price, ch24: d.price_change_percentage_24h, mcap: d.market_cap,
+            vol: d.total_volume, supply: d.circulating_supply, max: d.max_supply || null, rank: d.market_cap_rank });
+        }
+      } catch (e) {}
+    }
+    return;
+  }
+  state.source = "cg"; state.dataTime = null;
   const ids = COINS.map(c => c[1]).join(",");
   const data = await getJSON(`${CG}/coins/markets?vs_currency=${state.cur}&ids=${ids}&order=market_cap_desc&per_page=250&page=1&sparkline=false&price_change_percentage=24h`);
   const byId = Object.fromEntries(data.map(d => [d.id, d]));
@@ -629,6 +678,12 @@ async function loadMarkets(){
 }
 
 async function loadGlobal(){
+  const c = await cmcFor(state.cur);
+  if (c) {
+    const g = c.j.global;
+    state.global = { mcap: g.mcap * c.fx, vol: g.vol * c.fx, ch: g.ch, btc: g.btc, eth: g.eth };
+    return;
+  }
   const { data } = await getJSON(`${CG}/global`);
   state.global = {
     mcap: data.total_market_cap[state.cur],
@@ -640,6 +695,8 @@ async function loadGlobal(){
 }
 
 async function loadFng(){
+  const c = await cmcFor("usd");
+  if (c?.j.fng?.v != null) { state.fng = { v: c.j.fng.v, prev: c.j.fng.prev ?? null }; return; }
   const { data } = await getJSON("https://api.alternative.me/fng/?limit=2");
   state.fng = { v: +data[0].value, prev: data[1] ? +data[1].value : null };
 }
@@ -647,6 +704,8 @@ async function loadFng(){
 const STABLES = new Set(["usdt","usdc","dai","usde","usds","fdusd","tusd","pyusd","usd1","usdd","busd","gusd","frax","lusd","susds","susde","rlusd","usdtb","usdf","usdg","bfusd","eurc","usd0","buidl","ustb","usyc","xaut","paxg"]);
 const WRAPPED = new Set(["wbtc","cbbtc","weth","steth","wsteth","weeth","reth","meth","wbeth","lbtc","solvbtc","jitosol","msol","bnsol","jupsol","clbtc","tbtc","fbtc","ebtc","rseth","ezeth","oseth","cmeth","lseth","sweth","btcb","unibtc","wbnb","wsol","bsol","stsol","sfrxeth","frxeth","ethx","pufeth","rsweth","sdai","syrupusdc","bbsol","hbtc"]);
 async function loadAltSeason(){
+  const c = await cmcFor("usd");
+  if (c?.j.alt != null) { state.alt = c.j.alt; return; }
   const data = await getJSON(`${CG}/coins/markets?vs_currency=usd&order=market_cap_desc&per_page=150&page=1&sparkline=false&price_change_percentage=30d`);
   const btc = data.find(d => d.id === "bitcoin");
   const btcCh = btc?.price_change_percentage_30d_in_currency;
@@ -704,7 +763,7 @@ async function refresh(){
   const marketsOk = results[0].status === "fulfilled" && results[1].status === "fulfilled";
   if (!marketsOk) {
     useDemo();
-    showNotice("Canlı veriye bağlanılamadı. Sayfa şu anda örnek (gerçek olmayan) verilerle gösteriliyor; dosyayı tarayıcıda açtığınızda veya sunucuya koyduğunuzda CoinGecko'dan canlı veri çekilir.");
+    showNotice("Canlı veriye bağlanılamadı. Sayfa şu anda örnek (gerçek olmayan) verilerle gösteriliyor; sayfa sunucuda açıldığında CoinMarketCap (yedek: CoinGecko) verisi kullanılır.");
   } else {
     state.demo = false;
     if (results[2].status !== "fulfilled" && !state.fng) state.fng = null;
@@ -724,7 +783,9 @@ function showNotice(t){ const n = document.getElementById("notice"); n.textConte
 function hideNotice(){ document.getElementById("notice").classList.remove("show"); }
 function setStamp(){
   const t = new Date().toLocaleTimeString("tr-TR", { hour:"2-digit", minute:"2-digit", second:"2-digit" });
-  document.getElementById("stamp").textContent = state.demo ? "Örnek veri" : `Son güncelleme ${t}`;
+  const dt = state.dataTime ? new Date(state.dataTime).toLocaleTimeString("tr-TR", { hour:"2-digit", minute:"2-digit" }) : null;
+  document.getElementById("stamp").textContent = state.demo ? "Örnek veri"
+    : dt ? `CoinMarketCap verisi ${dt}` : `Son güncelleme ${t}`;
   document.getElementById("liveDot").classList.toggle("off", state.demo);
 }
 
