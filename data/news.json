@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-01T19:48:16Z",
+ "updated": "2026-10-01T20:24:05Z",
  "sources": [
   "coindesk.com",
   "cointelegraph-tr.com",
@@ -207,7 +207,8 @@
   "https://www.coindesk.com/policy/2026/10/01/another-trump-memecoin-dinner-advertised-for-token-s-top-investors": 1790880763.731783,
   "https://cointelegraph-tr.com/news/50000-europeans-call-on-eu-to-ease-stablecoin-rewards-restrictions-in-mica-review": 1790880763.731783,
   "https://cointelegraph-tr.com/news/illinois-postpones-crypto-tax-industry-lawsuit": 1790880763.731783,
-  "https://www.theblock.co/news/regulation/2026-10-01-hyperliquid-circle-mica-review-417452": 1790882582.364225
+  "https://www.theblock.co/news/regulation/2026-10-01-hyperliquid-circle-mica-review-417452": 1790882582.364225,
+  "https://www.coindesk.com/policy/2026/10/01/u-s-sec-maps-out-crypto-custody-in-new-proposal-that-furthers-its-digital-assets-agenda": 1790886245.404567
  },
  "tries": {}
 }
