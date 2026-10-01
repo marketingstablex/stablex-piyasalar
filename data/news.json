@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-01T10:45:53Z",
+ "updated": "2026-10-01T11:23:19Z",
  "sources": [
   "coindesk.com",
   "cointelegraph-tr.com",
@@ -99,6 +99,15 @@
     "published": "2026-10-01T00:15:55Z",
     "importance": 3
    }
+  ],
+  "USDC": [
+   {
+    "title": "Lloyds ve Visa, canlı sınır ötesi pilot uygulamada USDC ile 750.000 dolar takas etti",
+    "summary": "Lloyds, yedi günlük canlı sınır ötesi pilot uygulama sırasında Visa ile olan 750.000 dolarlık ödeme yükümlülüğünü USDC kullanarak uzlaştırdı.",
+    "url": "https://www.theblock.co/news/business/2026-10-01-lloyds-visa-settle-750000-using-usdc-in-live-cross-border-pilot-417378",
+    "published": "2026-10-01T11:13:46Z",
+    "importance": 3
+   }
   ]
  },
  "seen": {
@@ -144,7 +153,10 @@
   "https://www.coindesk.com/daybook-us/2026/09/30/a-stronger-dollar-is-a-weaker-threat-to-bitcoin-than-traders-think": 1790851234.6607363,
   "https://www.coindesk.com/markets/2026/09/30/bitget-hackers-move-usd4-million-into-zcash-s-private-pool-making-funds-harder-to-trace": 1790851234.6607363,
   "https://www.coindesk.com/opinion/2026/09/30/the-sec-is-finally-modernizing-transfer-agent-rules-wall-street-must-not-repeat-the-paperwork-crisis": 1790851234.6607363,
-  "https://www.coindesk.com/tech/2026/09/30/openai-google-and-meta-pledge-outside-ai-audits-under-voluntary-white-house-deal": 1790851234.6607363
+  "https://www.coindesk.com/tech/2026/09/30/openai-google-and-meta-pledge-outside-ai-audits-under-voluntary-white-house-deal": 1790851234.6607363,
+  "https://www.theblock.co/news/business/2026-10-01-lloyds-visa-settle-750000-using-usdc-in-live-cross-border-pilot-417378": 1790853799.1327636,
+  "https://www.coindesk.com/opinion/2026/10/01/synthetic-tokenized-stocks-are-bad-for-american-investors": 1790853799.1327636,
+  "https://cointelegraph-tr.com/news/tokenized-assets-traditional-markets-dune-rwa-report": 1790853799.1327636
  },
  "tries": {}
 }
