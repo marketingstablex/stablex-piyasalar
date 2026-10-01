@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-01T11:23:19Z",
+ "updated": "2026-10-01T11:50:53Z",
  "sources": [
   "coindesk.com",
   "cointelegraph-tr.com",
@@ -16,6 +16,13 @@
    }
   ],
   "BTC": [
+   {
+    "title": "Kripto para sektörü hack olaylarında 1,26 milyar dolar kaybetti, Bitcoin boğaları devasa bir çeyrek geçirdi",
+    "summary": "Kripto para piyasası hack ve dolandırıcılık olaylarında 1,26 milyar dolar kaybederken, Bitcoin yatırımcıları güçlü bir çeyrek dönem yaşadı.",
+    "url": "https://www.coindesk.com/daybook-us/2026/10/01/crypto-lost-usd1-26-billion-in-hacks-while-bitcoin-bulls-enjoyed-a-monster-quarter",
+    "published": "2026-10-01T11:30:38Z",
+    "importance": 4
+   },
    {
     "title": "Bitcoin ETF’leri 3. çeyrekte 6,3 milyar dolar çekti, BTC fiyatı yaklaşık yüzde 43 yükseldi",
     "summary": "Bitcoin, ABD spot ETF’lerinin 6,34 milyar dolarlık net giriş çekmesiyle 3. çeyrekte yüzde 42,71 değer kazandı. Bu gelişme, 2017’den bu yana en iyi üçüncü çeyrek performansı olarak kaydedildi.",
@@ -63,13 +70,6 @@
     "summary": "Bitcoin yeni çeyreğe eski 82.000 - 85.000 dolar fiyat aralığında başlıyor",
     "url": "https://www.coindesk.com/markets/2026/10/01/bitcoin-kicks-off-new-quarter-in-the-old-usd82-000-usd85-000-price-range",
     "published": "2026-10-01T10:38:04Z",
-    "importance": 2
-   },
-   {
-    "title": "Daha güçlü bir dolar, tüccarların düşündüğünden daha zayıf bir Bitcoin tehdididir",
-    "summary": "Daha güçlü bir dolar, tüccarların düşündüğünden daha zayıf bir Bitcoin tehdididir",
-    "url": "https://www.coindesk.com/daybook-us/2026/09/30/a-stronger-dollar-is-a-weaker-threat-to-bitcoin-than-traders-think",
-    "published": "2026-09-30T11:20:09Z",
     "importance": 2
    }
   ],
@@ -156,7 +156,8 @@
   "https://www.coindesk.com/tech/2026/09/30/openai-google-and-meta-pledge-outside-ai-audits-under-voluntary-white-house-deal": 1790851234.6607363,
   "https://www.theblock.co/news/business/2026-10-01-lloyds-visa-settle-750000-using-usdc-in-live-cross-border-pilot-417378": 1790853799.1327636,
   "https://www.coindesk.com/opinion/2026/10/01/synthetic-tokenized-stocks-are-bad-for-american-investors": 1790853799.1327636,
-  "https://cointelegraph-tr.com/news/tokenized-assets-traditional-markets-dune-rwa-report": 1790853799.1327636
+  "https://cointelegraph-tr.com/news/tokenized-assets-traditional-markets-dune-rwa-report": 1790853799.1327636,
+  "https://www.coindesk.com/daybook-us/2026/10/01/crypto-lost-usd1-26-billion-in-hacks-while-bitcoin-bulls-enjoyed-a-monster-quarter": 1790855453.0445123
  },
  "tries": {}
 }
