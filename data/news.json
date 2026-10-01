@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-01T10:40:34Z",
+ "updated": "2026-10-01T10:45:53Z",
  "sources": [
   "coindesk.com",
   "cointelegraph-tr.com",
@@ -12,13 +12,6 @@
     "summary": "Petrobras, devam eden bir araştırma işbirliği kapsamında sürdürülebilir havacılık yakıtı ve yenilenebilir dizele ilişkin sürdürülebilirlik iddialarını takip etmek üzere Cardano tabanlı iki uygulama geliştirdi.",
     "url": "https://cointelegraph-tr.com/news/brazils-petrobras-uses-cardano-to-track-sustainable-aviation-fuel-renewable-diesel",
     "published": "2026-09-30T17:17:54Z",
-    "importance": 3
-   },
-   {
-    "title": "Cardano tapped by Brazil’s state oil giant to track cleaner jet fuel and diesel",
-    "summary": "Cardano tapped by Brazil’s state oil giant to track cleaner jet fuel and diesel",
-    "url": "https://www.coindesk.com/tech/2026/09/30/embargo-1-pm-utc-cardano-tapped-by-brazil-s-state-oil-giant-to-track-cleaner-jet-fuel-and-diesel",
-    "published": "2026-09-30T13:00:00Z",
     "importance": 3
    }
   ],
@@ -45,14 +38,14 @@
     "importance": 3
    },
    {
-    "title": "Bitcoin's soft-inflation pop to $85,500 fades as bond yields refuse to fall",
-    "summary": "Bitcoin's soft-inflation pop to $85,500 fades as bond yields refuse to fall",
+    "title": "Tahvil getirilerinin düşmeyi reddetmesiyle Bitcoin'in yumuşak enflasyon kaynaklı 85.500 dolarlık yükselişi zayıflıyor",
+    "summary": "Tahvil getirilerinin düşmeyi reddetmesiyle Bitcoin'in yumuşak enflasyon kaynaklı 85.500 dolarlık yükselişi zayıflıyor",
     "url": "https://www.coindesk.com/markets/2026/10/01/bitcoin-s-soft-inflation-pop-to-usd85-500-fades-as-bond-yields-refuse-to-fall",
     "published": "2026-10-01T04:15:20Z",
     "importance": 3
    },
    {
-    "title": "Bitcoin steadies as soft PCE cools October Fed rate hike bets",
+    "title": "Yumuşak PCE verisinin Ekim ayı Fed faiz artışı beklentilerini soğutmasıyla Bitcoin istikrar kazanıyor",
     "summary": "Ağustos ayında çekirdek PCE yüzde 0,2 artış göstererek ekim ayı Fed faiz artışı beklentilerindeki baskıyı hafifletti. Yükselen Hazine tahvili getirilerinin kazançları sınırlamasıyla Bitcoin 83.700 dolar seviyelerinde işlem görüyor.",
     "url": "https://www.theblock.co/news/markets/2026-09-30-bitcoin-pce-inflation-october-rate-hike-417335",
     "published": "2026-09-30T16:10:36Z",
@@ -73,8 +66,8 @@
     "importance": 2
    },
    {
-    "title": "A stronger dollar is a weaker threat to bitcoin than traders think",
-    "summary": "A stronger dollar is a weaker threat to bitcoin than traders think",
+    "title": "Daha güçlü bir dolar, tüccarların düşündüğünden daha zayıf bir Bitcoin tehdididir",
+    "summary": "Daha güçlü bir dolar, tüccarların düşündüğünden daha zayıf bir Bitcoin tehdididir",
     "url": "https://www.coindesk.com/daybook-us/2026/09/30/a-stronger-dollar-is-a-weaker-threat-to-bitcoin-than-traders-think",
     "published": "2026-09-30T11:20:09Z",
     "importance": 2
@@ -82,17 +75,10 @@
   ],
   "DOGE": [
    {
-    "title": "Dogecoin gets DeFi testnet as DogeOS bets miners will eventually secure its apps",
-    "summary": "Dogecoin gets DeFi testnet as DogeOS bets miners will eventually secure its apps",
+    "title": "Dogecoin, DogeOS'un madencilerin nihayetinde uygulamalarını güvence altına alacağına bahse girmesiyle DeFi test ağını alıyor",
+    "summary": "Dogecoin, DogeOS'un madencilerin nihayetinde uygulamalarını güvence altına alacağına bahse girmesiyle DeFi test ağını alıyor",
     "url": "https://www.coindesk.com/tech/2026/10/01/dogecoin-gets-defi-testnet-as-dogeos-bets-miners-will-eventually-secure-its-apps",
     "published": "2026-10-01T04:58:52Z",
-    "importance": 3
-   },
-   {
-    "title": "DogeOS launches testnet to bring EVM smart contracts to Dogecoin",
-    "summary": "DogeOS launched a public testnet for its zero-knowledge rollup bringing EVM smart contracts to Dogecoin, with DOGE used for gas fees.",
-    "url": "https://www.theblock.co/news/ecosystems/2026-09-30-dogeos-launches-public-testnet-dogecoin-zk-rollup-evm-417307",
-    "published": "2026-09-30T18:23:57Z",
     "importance": 3
    }
   ],
@@ -103,23 +89,9 @@
     "url": "https://cointelegraph-tr.com/markets/standard-chartered-ethena-usde-growth-40b",
     "published": "2026-09-30T20:57:32Z",
     "importance": 3
-   },
-   {
-    "title": "Standard Chartered sees over 600% upside for ENA, expects USDe to hit $40 billion by 2028",
-    "summary": "Standard Chartered, USDe arzının büyümesi ve geri alımların token değerini yeniden şekillendirmesiyle ENA'nın 2028 sonunda 2 dolara ulaşacağını öngörüyor.",
-    "url": "https://www.theblock.co/news/markets/2026-09-30-standard-chartered-sees-over-600-upside-for-ena-expects-usde-to-hit-40-billion-by-2028-417274",
-    "published": "2026-09-30T12:00:01Z",
-    "importance": 3
    }
   ],
   "ETH": [
-   {
-    "title": "MetaMask güvenlik olayı Ethereum staking çıkışlarını tetikledi, fonlar risk altında değil",
-    "summary": "MetaMask güvenlik olayı Ethereum staking çıkışlarını tetikledi, fonlar risk altında değil",
-    "url": "https://www.coindesk.com/tech/2026/10/01/metamask-security-incident-forces-ethereum-staking-exits-with-lido-warning-of-lost-rewards",
-    "published": "2026-10-01T07:06:30Z",
-    "importance": 3
-   },
    {
     "title": "MetaMask, açıklanmayan güvenlik olayı nedeniyle Ethereum doğrulayıcılarından ayrılıyor",
     "summary": "MetaMask, tehdidi şirket içinde araştırdığını ve cüzdanlarına yönelik acil bir tehdit tespit etmediğini açıkladı.",
@@ -173,5 +145,6 @@
   "https://www.coindesk.com/markets/2026/09/30/bitget-hackers-move-usd4-million-into-zcash-s-private-pool-making-funds-harder-to-trace": 1790851234.6607363,
   "https://www.coindesk.com/opinion/2026/09/30/the-sec-is-finally-modernizing-transfer-agent-rules-wall-street-must-not-repeat-the-paperwork-crisis": 1790851234.6607363,
   "https://www.coindesk.com/tech/2026/09/30/openai-google-and-meta-pledge-outside-ai-audits-under-voluntary-white-house-deal": 1790851234.6607363
- }
+ },
+ "tries": {}
 }
