@@ -1,0 +1,57 @@
+name: Coin listesini Stablex ile eşitle
+
+on:
+  schedule:
+    - cron: "17 6 * * *"     # her gün 09:17 (TR saati)
+  workflow_dispatch: {}       # Actions sekmesinden elle de çalıştırılabilir
+
+permissions:
+  contents: write
+  issues: write
+
+concurrency:
+  group: sync-coins
+  cancel-in-progress: false
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Stablex listesini kontrol et
+        env:
+          CG_API_KEY: ${{ secrets.CG_API_KEY }}            # isteğe bağlı (CoinGecko Demo anahtarı)
+          REVIEW_PATH: ${{ runner.temp }}/review.md
+        run: python scripts/sync_coins.py
+
+      - name: Değişiklik varsa kaydet
+        run: |
+          if git diff --quiet -- data/coins.json; then
+            echo "coins.json değişmedi."
+          else
+            git config user.name  "github-actions[bot]"
+            git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+            git add data/coins.json
+            git commit -m "Coin listesi Stablex ile eşitlendi"
+            git push
+          fi
+
+      - name: Kontrol edilecekler varsa issue aç
+        env:
+          GH_TOKEN: ${{ github.token }}
+          REVIEW_PATH: ${{ runner.temp }}/review.md
+        run: |
+          [ -f "$REVIEW_PATH" ] || { echo "Kontrol edilecek bir şey yok."; exit 0; }
+          cat "$REVIEW_PATH" >> "$GITHUB_STEP_SUMMARY"
+          TITLE="Coin listesi: kontrol gerekiyor"
+          NUM=$(gh issue list --state open --search "in:title \"$TITLE\"" --json number --jq '.[0].number')
+          if [ -n "$NUM" ]; then
+            gh issue comment "$NUM" --body-file "$REVIEW_PATH"
+          else
+            gh issue create --title "$TITLE" --body-file "$REVIEW_PATH"
+          fi
