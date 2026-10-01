@@ -1,0 +1,52 @@
+name: CoinMarketCap verisini güncelle
+
+on:
+  schedule:
+    - cron: "*/15 * * * *"   # 15 dakikada bir (GitHub yoğunlukta birkaç dakika geciktirebilir)
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+  issues: write
+
+concurrency:
+  group: cmc-data
+  cancel-in-progress: false
+
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: CMC verisini çek
+        env:
+          CMC_API_KEY: ${{ secrets.CMC_API_KEY }}
+          REVIEW_PATH: ${{ runner.temp }}/review.md
+        run: python scripts/fetch_cmc.py
+
+      - name: Kaydet
+        run: |
+          git add data/markets.json data/cmc_ids.json
+          if git diff --cached --quiet; then echo "Değişiklik yok."; exit 0; fi
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git commit -q -m "Piyasa verisi (CMC)"
+          for i in 1 2 3; do git pull -q --rebase && git push -q && exit 0; sleep 5; done
+          exit 1
+
+      - name: Kontrol edilecekler varsa issue aç
+        env:
+          GH_TOKEN: ${{ github.token }}
+          REVIEW_PATH: ${{ runner.temp }}/review.md
+        run: |
+          [ -f "$REVIEW_PATH" ] || exit 0
+          cat "$REVIEW_PATH" >> "$GITHUB_STEP_SUMMARY"
+          TITLE="CMC eşlemesi: kontrol gerekiyor"
+          NUM=$(gh issue list --state open --search "in:title \"$TITLE\"" --json number --jq '.[0].number')
+          if [ -n "$NUM" ]; then gh issue comment "$NUM" --body-file "$REVIEW_PATH"; else gh issue create --title "$TITLE" --body-file "$REVIEW_PATH"; fi
