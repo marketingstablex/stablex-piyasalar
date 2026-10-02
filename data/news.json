@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-02T08:49:33Z",
+ "updated": "2026-10-02T09:24:38Z",
  "sources": [
   "coindesk.com",
   "cointelegraph-tr.com",
@@ -43,6 +43,13 @@
     "importance": 4
    },
    {
+    "title": "Artan sürekli fonlama oranları, Bitcoin 86.500 doları aştıkça yükselen boğa kaldıraç sinyalinin nedenini gösteriyor",
+    "summary": "Artan sürekli fonlama oranları, Bitcoin 86.500 doları aştıkça yükselen boğa kaldıraç sinyalini gösteriyor.",
+    "url": "https://www.coindesk.com/markets/2026/10/02/why-rising-perpetual-funding-rates-signal-growing-bullish-leverage-as-bitcoin-crosses-usd86-500",
+    "published": "2026-10-02T09:14:21Z",
+    "importance": 3
+   },
+   {
     "title": "Tether'in USDT'si Çıkışından On Yılı Aşkın Süre Sonra Bu Ay Bitcoin'e Geri Dönüyor",
     "summary": "Tether'in USDT'si, çıkışından on yılı aşkın bir süre sonra bu ay Bitcoin'e geri dönüyor.",
     "url": "https://www.coindesk.com/tech/2026/09/29/tether-s-usdt-is-coming-home-to-bitcoin-this-month-after-more-than-a-decade",
@@ -55,13 +62,6 @@
     "url": "https://www.coindesk.com/markets/2026/10/02/bitcoin-tops-usd86-000-ahead-of-u-s-jobs-report",
     "published": "2026-10-02T08:11:54Z",
     "importance": 3
-   },
-   {
-    "title": "Canlı Güncellemeler: Bitcoin, 2024'ten bu yana en iyi çeyreğini tamamladıktan sonra 84.000 dolar civarında yatay seyrediyor",
-    "summary": "Bitcoin, 2024'ten bu yana en iyi çeyreğini geride bıraktıktan sonra 84.000 dolar seviyesi yakınlarında yatay bir seyir izliyor.",
-    "url": "https://www.coindesk.com/tech/2026/10/01/live-updates-bitcoin-flat-near-usd84-000-after-best-quarter-since-2024",
-    "published": "2026-10-01T11:59:17Z",
-    "importance": 3
    }
   ],
   "DOGE": [
@@ -70,15 +70,6 @@
     "summary": "Dogecoin, DogeOS'un madencilerin nihayetinde uygulamalarını güvence altına alacağına bahse girmesiyle DeFi test ağını alıyor",
     "url": "https://www.coindesk.com/tech/2026/10/01/dogecoin-gets-defi-testnet-as-dogeos-bets-miners-will-eventually-secure-its-apps",
     "published": "2026-10-01T04:58:52Z",
-    "importance": 3
-   }
-  ],
-  "ENA": [
-   {
-    "title": "Standard Chartered, Ethena’nın USDe’sinin 40 milyar dolara ulaşmasını ve ENA’nın 2 dolara yükselmesini bekliyor",
-    "summary": "Banka, USDe ölçeklenirken ve token geri alımları artarken Ethena’nın ENA tokenının 2028 sonuna kadar yaklaşık yedi kat artışla 2 dolara yükselmesini bekliyor.",
-    "url": "https://cointelegraph-tr.com/markets/standard-chartered-ethena-usde-growth-40b",
-    "published": "2026-09-30T20:57:32Z",
     "importance": 3
    }
   ],
@@ -230,7 +221,8 @@
   "https://cointelegraph-tr.com/news/south-korea-crypto-exchange-profits-fall-78-percent": 1790922486.8245394,
   "https://www.theblock.co/news/markets/2026-10-02-spot-bitcoin-etfs-september-inflows-417547": 1790922486.8245394,
   "https://www.coindesk.com/markets/2026/10/02/bitcoin-tops-usd86-000-ahead-of-u-s-jobs-report": 1790929532.8774536,
-  "https://www.coindesk.com/tech/2026/09/29/tether-s-usdt-is-coming-home-to-bitcoin-this-month-after-more-than-a-decade": 1790930973.6470757
+  "https://www.coindesk.com/tech/2026/09/29/tether-s-usdt-is-coming-home-to-bitcoin-this-month-after-more-than-a-decade": 1790930973.6470757,
+  "https://www.coindesk.com/markets/2026/10/02/why-rising-perpetual-funding-rates-signal-growing-bullish-leverage-as-bitcoin-crosses-usd86-500": 1790933078.7714558
  },
  "tries": {}
 }
