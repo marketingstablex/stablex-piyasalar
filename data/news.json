@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-02T03:23:10Z",
+ "updated": "2026-10-02T03:50:13Z",
  "sources": [
   "coindesk.com",
   "cointelegraph-tr.com",
@@ -100,10 +100,10 @@
     "importance": 4
    },
    {
-    "title": "Ethereum Vakfı, kullanıcıların kimliklerini açıklamadan yapay zeka modelleri için ödeme yapmasını sağlayan zkAPI'yi başlattı",
-    "summary": "Kullanıcılar Ethereum kasasına fon yatırıp sıfır bilgi kanıtlarıyla harcama yetkisi veriyor, böylece API sağlayıcısı istekleri ödeyen kişiyle ilişkilendiremiyor.",
-    "url": "https://www.theblock.co/news/defi/2026-10-01-ethereum-foundation-launches-zkapi-417504",
-    "published": "2026-10-02T00:22:58Z",
+    "title": "Ethereum’un zkAPI’si ana ağa gizliliği koruyan API ödemeleri getiriyor",
+    "summary": "Ethereum’un zkAPI’si ana ağda çalışmaya başladı. Bu sistem, daha önce sunulan sıfır bilgi tabanlı API ödeme önerisini özel ve ön ödemeli erişim sağlayan çalışan bir uygulamaya dönüştürüyor.",
+    "url": "https://cointelegraph-tr.com/news/ethereum-zkapi-private-api-payments-mainnet",
+    "published": "2026-10-02T03:34:25Z",
     "importance": 3
    },
    {
@@ -221,7 +221,8 @@
   "https://cointelegraph-tr.com/news/donald-trump-memecoin-dinner-corruption-claims": 1790889747.996542,
   "https://www.theblock.co/news/defi/2026-10-01-ethereum-foundation-launches-zkapi-417504": 1790901035.2429433,
   "https://cointelegraph-tr.com/news/sec-moves-to-clear-custody-hurdle-for-advisers-offering-crypto": 1790904153.8953125,
-  "https://cointelegraph-tr.com/news/near-intents-says-its-identified-the-hacker-gives-48-hour-ultimatum": 1790907698.3227777
+  "https://cointelegraph-tr.com/news/near-intents-says-its-identified-the-hacker-gives-48-hour-ultimatum": 1790907698.3227777,
+  "https://cointelegraph-tr.com/news/ethereum-zkapi-private-api-payments-mainnet": 1790913013.4241226
  },
  "tries": {}
 }
