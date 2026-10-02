@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-02T09:50:45Z",
+ "updated": "2026-10-02T10:23:02Z",
  "sources": [
   "coindesk.com",
   "cointelegraph-tr.com",
@@ -233,7 +233,8 @@
   "https://www.coindesk.com/tech/2026/09/29/tether-s-usdt-is-coming-home-to-bitcoin-this-month-after-more-than-a-decade": 1790930973.6470757,
   "https://www.coindesk.com/markets/2026/10/02/why-rising-perpetual-funding-rates-signal-growing-bullish-leverage-as-bitcoin-crosses-usd86-500": 1790933078.7714558,
   "https://cointelegraph-tr.com/news/aave-v3-third-party-adapter-exploit-305k": 1790934645.6855893,
-  "https://cointelegraph-tr.com/news/porsche-shuts-down-web3-project-911-nft": 1790934645.6855893
+  "https://cointelegraph-tr.com/news/porsche-shuts-down-web3-project-911-nft": 1790934645.6855893,
+  "https://www.theblock.co/news/regulation/2026-10-02-ecb-outlines-three-models-for-putting-central-bank-money-onchain-417552": 1790936582.4971292
  },
  "tries": {}
 }
