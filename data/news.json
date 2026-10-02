@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-02T01:49:03Z",
+ "updated": "2026-10-02T02:21:38Z",
  "sources": [
   "coindesk.com",
   "cointelegraph-tr.com",
@@ -220,7 +220,8 @@
   "https://www.theblock.co/news/regulation/2026-10-01-sec-proposes-crypto-custody-rule-investment-advisers-funds-417498": 1790889747.996542,
   "https://cointelegraph-tr.com/news/donald-trump-memecoin-dinner-corruption-claims": 1790889747.996542,
   "https://www.theblock.co/news/defi/2026-10-01-ethereum-foundation-launches-zkapi-417504": 1790901035.2429433,
-  "https://cointelegraph-tr.com/news/sec-moves-to-clear-custody-hurdle-for-advisers-offering-crypto": 1790904153.8953125
+  "https://cointelegraph-tr.com/news/sec-moves-to-clear-custody-hurdle-for-advisers-offering-crypto": 1790904153.8953125,
+  "https://cointelegraph-tr.com/news/near-intents-says-its-identified-the-hacker-gives-48-hour-ultimatum": 1790907698.3227777
  },
  "tries": {}
 }
