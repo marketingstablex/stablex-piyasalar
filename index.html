@@ -1315,7 +1315,7 @@ const ago = ts => {
 function newsItemsHTML(items){
   return items.map(n => `<li class="nw">
     <div class="nw-meta"><span class="src">${esc(n.source)}</span> · ${ago(n.ts)}</div>
-    <h4><a href="${esc(n.url)}" target="_blank" rel="noopener">${esc(n.title)}</a></h4>
+    <h4>${esc(n.title)}</h4>
     <p>${esc(n.summary)}</p></li>`).join("");
 }
 function renderNews(r, items, err){
