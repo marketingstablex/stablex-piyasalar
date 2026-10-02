@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-02T13:51:48Z",
+ "updated": "2026-10-02T14:25:33Z",
  "sources": [
   "coindesk.com",
   "cointelegraph-tr.com",
@@ -238,7 +238,8 @@
   "https://cointelegraph-tr.com/news/circle-eu-stablecoin-reserve-rules-mica-review": 1790945667.9513228,
   "https://www.coindesk.com/opinion/2026/10/01/america-at-a-crossroads-commissioner-peirce-s-parting-challenge": 1790947495.6188664,
   "https://www.theblock.co/news/markets/2026-10-02-bitcoin-nears-highest-level-january-85000-sell-wall-clears-us-jobs-data-disappoints-417570": 1790949108.9178214,
-  "https://cointelegraph-tr.com/magazine/furious-debate-about-thorchain-vs-near-shows-idealism-has-limits": 1790949108.9178214
+  "https://cointelegraph-tr.com/magazine/furious-debate-about-thorchain-vs-near-shows-idealism-has-limits": 1790949108.9178214,
+  "https://cointelegraph-tr.com/news/euro-stablecoin-not-enough-eu-case-usd-tokens": 1790951133.0010335
  },
  "tries": {}
 }
