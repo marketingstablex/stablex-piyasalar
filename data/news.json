@@ -1,11 +1,20 @@
 {
- "updated": "2026-10-02T09:24:38Z",
+ "updated": "2026-10-02T09:50:45Z",
  "sources": [
   "coindesk.com",
   "cointelegraph-tr.com",
   "theblock.co"
  ],
  "bySymbol": {
+  "AAVE": [
+   {
+    "title": "Üçüncü taraf adaptör saldırısı 305 bin doları çekse de Aave kurucusu V3’ün etkilenmediğini söyledi",
+    "summary": "Aave kurucusu Stani Kulechov, bir saldırganın üçüncü taraf bir adaptörü istismar ederek iki Safe çoklu imza cüzdanından yaklaşık 305.000 dolar çekmesinin ardından Aave v3’ün etkilenmediğini açıkladı.",
+    "url": "https://cointelegraph-tr.com/news/aave-v3-third-party-adapter-exploit-305k",
+    "published": "2026-10-02T09:30:49Z",
+    "importance": 3
+   }
+  ],
   "BTC": [
    {
     "title": "Spot Bitcoin ETF'leri Eylül Ayında Kurumsal Talebin Sürmesiyle 2,7 Milyar Dolar Giriş Kaydetti",
@@ -222,7 +231,9 @@
   "https://www.theblock.co/news/markets/2026-10-02-spot-bitcoin-etfs-september-inflows-417547": 1790922486.8245394,
   "https://www.coindesk.com/markets/2026/10/02/bitcoin-tops-usd86-000-ahead-of-u-s-jobs-report": 1790929532.8774536,
   "https://www.coindesk.com/tech/2026/09/29/tether-s-usdt-is-coming-home-to-bitcoin-this-month-after-more-than-a-decade": 1790930973.6470757,
-  "https://www.coindesk.com/markets/2026/10/02/why-rising-perpetual-funding-rates-signal-growing-bullish-leverage-as-bitcoin-crosses-usd86-500": 1790933078.7714558
+  "https://www.coindesk.com/markets/2026/10/02/why-rising-perpetual-funding-rates-signal-growing-bullish-leverage-as-bitcoin-crosses-usd86-500": 1790933078.7714558,
+  "https://cointelegraph-tr.com/news/aave-v3-third-party-adapter-exploit-305k": 1790934645.6855893,
+  "https://cointelegraph-tr.com/news/porsche-shuts-down-web3-project-911-nft": 1790934645.6855893
  },
  "tries": {}
 }
