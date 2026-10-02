@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-02T12:28:33Z",
+ "updated": "2026-10-02T12:54:27Z",
  "sources": [
   "coindesk.com",
   "cointelegraph-tr.com",
@@ -232,7 +232,10 @@
   "https://cointelegraph-tr.com/news/connect-recap-arthur-hayes-money-printing-wall-street-onchain": 1790938208.926436,
   "https://cointelegraph-tr.com/markets/bnb-chain-1-billion-tokenized-assets-market-3-7-billion": 1790941791.0741725,
   "https://www.coindesk.com/daybook-us/2026/10/02/wall-street-s-fear-gauge-vix-could-get-a-crypto-style-makeover": 1790941791.0741725,
-  "https://www.coindesk.com/tech/2026/10/02/live-updates-bitcoin-gold-and-tech-futures-edge-higher-as-markets-await-u-s-jobs-report": 1790941791.0741725
+  "https://www.coindesk.com/tech/2026/10/02/live-updates-bitcoin-gold-and-tech-futures-edge-higher-as-markets-await-u-s-jobs-report": 1790941791.0741725,
+  "https://www.coindesk.com/markets/2026/10/02/u-s-added-just-29-000-jobs-in-september-with-unemployment-rate-rising-to-4-2": 1790945667.9513228,
+  "https://www.theblock.co/news/regulation/2026-10-02-mike-belshe-bitgo-interview-clarity-417560": 1790945667.9513228,
+  "https://cointelegraph-tr.com/news/circle-eu-stablecoin-reserve-rules-mica-review": 1790945667.9513228
  },
  "tries": {}
 }
