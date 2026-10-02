@@ -1340,10 +1340,8 @@ function renderNews(r, items, err){
   el.innerHTML = newsItemsHTML(items);
 }
 
-/* Stablex'teki coin sayfası: stablex.com.tr/piyasalar/{sembol}try (75 coinin hepsi 2 Eki 2026'da doğrulandı).
-   UTM'ler GA4'te bu sayfadan gelen tıklamaları ayırmak için. */
-const STABLEX_UTM = "utm_source=kripto-piyasalar&utm_medium=web&utm_campaign=kripto-piyasalar&utm_content=grafik-buton";
-const stablexUrl = sym => `https://stablex.com.tr/piyasalar/${encodeURIComponent(sym.toLowerCase())}try?${STABLEX_UTM}`;
+/* Stablex'teki coin sayfası: stablex.com.tr/piyasalar/{sembol}try (75 coinin hepsi 2 Eki 2026'da doğrulandı). */
+const stablexUrl = sym => `https://stablex.com.tr/piyasalar/${encodeURIComponent(sym.toLowerCase())}try`;
 
 /* ---- açma / kapama ---- */
 function buildDetail(r){
