@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-02T22:48:32Z",
+ "updated": "2026-10-02T23:18:50Z",
  "sources": [
   "coindesk.com",
   "cointelegraph-tr.com",
@@ -103,15 +103,6 @@
     "url": "https://cointelegraph-tr.com/news/donald-trump-memecoin-dinner-corruption-claims",
     "published": "2026-10-01T21:00:11Z",
     "importance": 2
-   }
-  ],
-  "USDC": [
-   {
-    "title": "Lloyds ve Visa, canlı sınır ötesi pilot uygulamada USDC ile 750.000 dolar takas etti",
-    "summary": "Lloyds, yedi günlük canlı sınır ötesi pilot uygulama sırasında Visa ile olan 750.000 dolarlık ödeme yükümlülüğünü USDC kullanarak uzlaştırdı.",
-    "url": "https://www.theblock.co/news/business/2026-10-01-lloyds-visa-settle-750000-using-usdc-in-live-cross-border-pilot-417378",
-    "published": "2026-10-01T11:13:46Z",
-    "importance": 3
    }
   ],
   "USDT": [
