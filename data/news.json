@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-02T03:50:13Z",
+ "updated": "2026-10-02T04:23:38Z",
  "sources": [
   "coindesk.com",
   "cointelegraph-tr.com",
@@ -63,13 +63,6 @@
     "summary": "Tahvil getirilerinin düşmeyi reddetmesiyle Bitcoin'in yumuşak enflasyon kaynaklı 85.500 dolarlık yükselişi zayıflıyor",
     "url": "https://www.coindesk.com/markets/2026/10/01/bitcoin-s-soft-inflation-pop-to-usd85-500-fades-as-bond-yields-refuse-to-fall",
     "published": "2026-10-01T04:15:20Z",
-    "importance": 3
-   },
-   {
-    "title": "Yumuşak PCE verisinin Ekim ayı Fed faiz artışı beklentilerini soğutmasıyla Bitcoin istikrar kazanıyor",
-    "summary": "Ağustos ayında çekirdek PCE yüzde 0,2 artış göstererek ekim ayı Fed faiz artışı beklentilerindeki baskıyı hafifletti. Yükselen Hazine tahvili getirilerinin kazançları sınırlamasıyla Bitcoin 83.700 dolar seviyelerinde işlem görüyor.",
-    "url": "https://www.theblock.co/news/markets/2026-09-30-bitcoin-pce-inflation-october-rate-hike-417335",
-    "published": "2026-09-30T16:10:36Z",
     "importance": 3
    }
   ],
