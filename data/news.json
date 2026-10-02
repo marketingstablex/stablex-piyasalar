@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-02T07:50:30Z",
+ "updated": "2026-10-02T08:25:32Z",
  "sources": [
   "coindesk.com",
   "cointelegraph-tr.com",
@@ -43,6 +43,13 @@
     "importance": 4
    },
    {
+    "title": "Bitcoin, ABD istihdam raporu öncesinde 86.000 doları aştı",
+    "summary": "Bitcoin, ABD istihdam raporunun açıklanmasından önce 86.000 dolar seviyesinin üzerine çıktı.",
+    "url": "https://www.coindesk.com/markets/2026/10/02/bitcoin-tops-usd86-000-ahead-of-u-s-jobs-report",
+    "published": "2026-10-02T08:11:54Z",
+    "importance": 3
+   },
+   {
     "title": "Canlı Güncellemeler: Bitcoin, 2024'ten bu yana en iyi çeyreğini tamamladıktan sonra 84.000 dolar civarında yatay seyrediyor",
     "summary": "Bitcoin, 2024'ten bu yana en iyi çeyreğini geride bıraktıktan sonra 84.000 dolar seviyesi yakınlarında yatay bir seyir izliyor.",
     "url": "https://www.coindesk.com/tech/2026/10/01/live-updates-bitcoin-flat-near-usd84-000-after-best-quarter-since-2024",
@@ -54,13 +61,6 @@
     "summary": "Citigroup, ETF girişlerinin yeniden başlamasıyla 12 aylık Bitcoin hedef fiyatını 113.000 dolara yükseltti",
     "url": "https://www.coindesk.com/markets/2026/10/01/citigroup-raises-12-month-bitcoin-target-to-usd113-000-as-etf-inflows-resume",
     "published": "2026-10-01T09:59:30Z",
-    "importance": 3
-   },
-   {
-    "title": "Bitcoin düşünce kuruluşu, Strategy ve Metaplanet kuralı konusunda MSCI’nin “görünmez komitesini” sorguluyor",
-    "summary": "Bitcoin Policy Institute tarafından yayımlanan bir makale, MSCI’nin önerdiği “faaliyet göstermeyen şirket” kuralının Strategy ve Metaplanet’i endekslerinden çıkarabileceğini belirtiyor. Bu kuralın daha önceki bir kripto hazine incelemesine dayanıyor olabileceği ifade ediliyor.",
-    "url": "https://cointelegraph-tr.com/news/msci-strategy-metaplanet-index-rule-bpi",
-    "published": "2026-10-01T06:05:51Z",
     "importance": 3
    }
   ],
@@ -219,7 +219,8 @@
   "https://www.theblock.co/news/regulation/2026-10-02-secs-innovation-exemption-robinhood-417538": 1790918534.2005928,
   "https://cointelegraph-tr.com/news/zano-exploiter-created-369m-unauthorized-zano-before-blockchain-rollback": 1790918534.2005928,
   "https://cointelegraph-tr.com/news/south-korea-crypto-exchange-profits-fall-78-percent": 1790922486.8245394,
-  "https://www.theblock.co/news/markets/2026-10-02-spot-bitcoin-etfs-september-inflows-417547": 1790922486.8245394
+  "https://www.theblock.co/news/markets/2026-10-02-spot-bitcoin-etfs-september-inflows-417547": 1790922486.8245394,
+  "https://www.coindesk.com/markets/2026/10/02/bitcoin-tops-usd86-000-ahead-of-u-s-jobs-report": 1790929532.8774536
  },
  "tries": {}
 }
