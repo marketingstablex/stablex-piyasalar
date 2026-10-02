@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-01T23:47:40Z",
+ "updated": "2026-10-02T00:30:35Z",
  "sources": [
   "coindesk.com",
   "cointelegraph-tr.com",
@@ -98,6 +98,13 @@
     "url": "https://www.theblock.co/news/markets/2026-10-01-bitcoin-etfs-9-day-3-billion-inflow-streak-comes-to-an-end-as-149-million-exits-the-funds-417384",
     "published": "2026-10-01T12:17:06Z",
     "importance": 4
+   },
+   {
+    "title": "Ethereum Vakfı, kullanıcıların kimliklerini açıklamadan yapay zeka modelleri için ödeme yapmasını sağlayan zkAPI'yi başlattı",
+    "summary": "Kullanıcılar Ethereum kasasına fon yatırıp sıfır bilgi kanıtlarıyla harcama yetkisi veriyor, böylece API sağlayıcısı istekleri ödeyen kişiyle ilişkilendiremiyor.",
+    "url": "https://www.theblock.co/news/defi/2026-10-01-ethereum-foundation-launches-zkapi-417504",
+    "published": "2026-10-02T00:22:58Z",
+    "importance": 3
    },
    {
     "title": "Ethereum staking ödülü yakma teklifi EIP-8363, Hegota güncellemesinden çıkarıldı",
@@ -211,7 +218,8 @@
   "https://www.coindesk.com/policy/2026/10/01/u-s-sec-maps-out-crypto-custody-in-new-proposal-that-furthers-its-digital-assets-agenda": 1790886245.404567,
   "https://cointelegraph-tr.com/news/evernorth-clears-shareholder-vote-ahead-nasdaq-debut-473m-xrp-treasury": 1790889747.996542,
   "https://www.theblock.co/news/regulation/2026-10-01-sec-proposes-crypto-custody-rule-investment-advisers-funds-417498": 1790889747.996542,
-  "https://cointelegraph-tr.com/news/donald-trump-memecoin-dinner-corruption-claims": 1790889747.996542
+  "https://cointelegraph-tr.com/news/donald-trump-memecoin-dinner-corruption-claims": 1790889747.996542,
+  "https://www.theblock.co/news/defi/2026-10-01-ethereum-foundation-launches-zkapi-417504": 1790901035.2429433
  },
  "tries": {}
 }
