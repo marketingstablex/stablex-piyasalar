@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-02T04:23:38Z",
+ "updated": "2026-10-02T04:50:15Z",
  "sources": [
   "coindesk.com",
   "cointelegraph-tr.com",
@@ -16,6 +16,13 @@
    }
   ],
   "BTC": [
+   {
+    "title": "Core Lightning, saldırganların yama uygulanmamış Bitcoin düğümlerini hedef aldığını belirtti",
+    "summary": "Core Lightning, 26.06.7 veya daha eski sürümleri çalıştıran düğüm operatörlerine derhal yükseltme yapmaları konusunda uyarıda bulundu. Açıklamada, saldırganların yama uygulanmamış Bitcoin düğümlerini hedef aldığı belirtildi.",
+    "url": "https://cointelegraph-tr.com/news/core-lightning-urges-upgrade-amid-reports-attackers-targeting-unpatched-nodes",
+    "published": "2026-10-02T04:18:43Z",
+    "importance": 4
+   },
    {
     "title": "Bitcoin ETF'lerinin 9 günlük ve 3 milyar dolarlık giriş serisi, fonlardan 149 milyon dolar çıkışla sona erdi",
     "summary": "ABD spot Bitcoin ETF'lerinin kesintisiz giriş serisi, fonlardan 149 milyon dolarlık çıkış gerçekleşmesiyle bitti. Aynı dönemde, aralarında Fidelity'nin FETH fonundan çıkan 26,6 milyon doların da bulunduğu ABD spot Ethereum ETF'lerinde ise çarşamba günü 59,6 milyon dolarlık net çıkış görüldü.",
@@ -215,7 +222,8 @@
   "https://www.theblock.co/news/defi/2026-10-01-ethereum-foundation-launches-zkapi-417504": 1790901035.2429433,
   "https://cointelegraph-tr.com/news/sec-moves-to-clear-custody-hurdle-for-advisers-offering-crypto": 1790904153.8953125,
   "https://cointelegraph-tr.com/news/near-intents-says-its-identified-the-hacker-gives-48-hour-ultimatum": 1790907698.3227777,
-  "https://cointelegraph-tr.com/news/ethereum-zkapi-private-api-payments-mainnet": 1790913013.4241226
+  "https://cointelegraph-tr.com/news/ethereum-zkapi-private-api-payments-mainnet": 1790913013.4241226,
+  "https://cointelegraph-tr.com/news/core-lightning-urges-upgrade-amid-reports-attackers-targeting-unpatched-nodes": 1790916615.845813
  },
  "tries": {}
 }
