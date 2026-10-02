@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-02T08:25:32Z",
+ "updated": "2026-10-02T08:49:33Z",
  "sources": [
   "coindesk.com",
   "cointelegraph-tr.com",
@@ -43,6 +43,13 @@
     "importance": 4
    },
    {
+    "title": "Tether'in USDT'si Çıkışından On Yılı Aşkın Süre Sonra Bu Ay Bitcoin'e Geri Dönüyor",
+    "summary": "Tether'in USDT'si, çıkışından on yılı aşkın bir süre sonra bu ay Bitcoin'e geri dönüyor.",
+    "url": "https://www.coindesk.com/tech/2026/09/29/tether-s-usdt-is-coming-home-to-bitcoin-this-month-after-more-than-a-decade",
+    "published": "2026-10-02T08:28:19Z",
+    "importance": 3
+   },
+   {
     "title": "Bitcoin, ABD istihdam raporu öncesinde 86.000 doları aştı",
     "summary": "Bitcoin, ABD istihdam raporunun açıklanmasından önce 86.000 dolar seviyesinin üzerine çıktı.",
     "url": "https://www.coindesk.com/markets/2026/10/02/bitcoin-tops-usd86-000-ahead-of-u-s-jobs-report",
@@ -54,13 +61,6 @@
     "summary": "Bitcoin, 2024'ten bu yana en iyi çeyreğini geride bıraktıktan sonra 84.000 dolar seviyesi yakınlarında yatay bir seyir izliyor.",
     "url": "https://www.coindesk.com/tech/2026/10/01/live-updates-bitcoin-flat-near-usd84-000-after-best-quarter-since-2024",
     "published": "2026-10-01T11:59:17Z",
-    "importance": 3
-   },
-   {
-    "title": "Citigroup, ETF girişlerinin yeniden başlamasıyla 12 aylık Bitcoin hedef fiyatını 113.000 dolara yükseltti",
-    "summary": "Citigroup, ETF girişlerinin yeniden başlamasıyla 12 aylık Bitcoin hedef fiyatını 113.000 dolara yükseltti",
-    "url": "https://www.coindesk.com/markets/2026/10/01/citigroup-raises-12-month-bitcoin-target-to-usd113-000-as-etf-inflows-resume",
-    "published": "2026-10-01T09:59:30Z",
     "importance": 3
    }
   ],
@@ -127,6 +127,15 @@
     "summary": "Lloyds, yedi günlük canlı sınır ötesi pilot uygulama sırasında Visa ile olan 750.000 dolarlık ödeme yükümlülüğünü USDC kullanarak uzlaştırdı.",
     "url": "https://www.theblock.co/news/business/2026-10-01-lloyds-visa-settle-750000-using-usdc-in-live-cross-border-pilot-417378",
     "published": "2026-10-01T11:13:46Z",
+    "importance": 3
+   }
+  ],
+  "USDT": [
+   {
+    "title": "Tether'in USDT'si Çıkışından On Yılı Aşkın Süre Sonra Bu Ay Bitcoin'e Geri Dönüyor",
+    "summary": "Tether'in USDT'si, çıkışından on yılı aşkın bir süre sonra bu ay Bitcoin'e geri dönüyor.",
+    "url": "https://www.coindesk.com/tech/2026/09/29/tether-s-usdt-is-coming-home-to-bitcoin-this-month-after-more-than-a-decade",
+    "published": "2026-10-02T08:28:19Z",
     "importance": 3
    }
   ],
@@ -220,7 +229,8 @@
   "https://cointelegraph-tr.com/news/zano-exploiter-created-369m-unauthorized-zano-before-blockchain-rollback": 1790918534.2005928,
   "https://cointelegraph-tr.com/news/south-korea-crypto-exchange-profits-fall-78-percent": 1790922486.8245394,
   "https://www.theblock.co/news/markets/2026-10-02-spot-bitcoin-etfs-september-inflows-417547": 1790922486.8245394,
-  "https://www.coindesk.com/markets/2026/10/02/bitcoin-tops-usd86-000-ahead-of-u-s-jobs-report": 1790929532.8774536
+  "https://www.coindesk.com/markets/2026/10/02/bitcoin-tops-usd86-000-ahead-of-u-s-jobs-report": 1790929532.8774536,
+  "https://www.coindesk.com/tech/2026/09/29/tether-s-usdt-is-coming-home-to-bitcoin-this-month-after-more-than-a-decade": 1790930973.6470757
  },
  "tries": {}
 }
