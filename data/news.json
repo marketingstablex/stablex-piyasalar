@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-02T10:23:02Z",
+ "updated": "2026-10-02T10:50:08Z",
  "sources": [
   "coindesk.com",
   "cointelegraph-tr.com",
@@ -52,6 +52,13 @@
     "importance": 4
    },
    {
+    "title": "Kripto tüccarları, Bitcoin dominansının %60'a dönüşüne yaklaşmasıyla risk alma modunda",
+    "summary": "Kripto tüccarları, Bitcoin dominansının %60'a dönüşüne yaklaşmasıyla risk alma modunda.",
+    "url": "https://www.coindesk.com/markets/2026/10/02/crypto-traders-are-in-risk-on-mode-as-bitcoin-dominance-nears-return-to-60",
+    "published": "2026-10-02T10:31:16Z",
+    "importance": 3
+   },
+   {
     "title": "Artan sürekli fonlama oranları, Bitcoin 86.500 doları aştıkça yükselen boğa kaldıraç sinyalinin nedenini gösteriyor",
     "summary": "Artan sürekli fonlama oranları, Bitcoin 86.500 doları aştıkça yükselen boğa kaldıraç sinyalini gösteriyor.",
     "url": "https://www.coindesk.com/markets/2026/10/02/why-rising-perpetual-funding-rates-signal-growing-bullish-leverage-as-bitcoin-crosses-usd86-500",
@@ -63,13 +70,6 @@
     "summary": "Tether'in USDT'si, çıkışından on yılı aşkın bir süre sonra bu ay Bitcoin'e geri dönüyor.",
     "url": "https://www.coindesk.com/tech/2026/09/29/tether-s-usdt-is-coming-home-to-bitcoin-this-month-after-more-than-a-decade",
     "published": "2026-10-02T08:28:19Z",
-    "importance": 3
-   },
-   {
-    "title": "Bitcoin, ABD istihdam raporu öncesinde 86.000 doları aştı",
-    "summary": "Bitcoin, ABD istihdam raporunun açıklanmasından önce 86.000 dolar seviyesinin üzerine çıktı.",
-    "url": "https://www.coindesk.com/markets/2026/10/02/bitcoin-tops-usd86-000-ahead-of-u-s-jobs-report",
-    "published": "2026-10-02T08:11:54Z",
     "importance": 3
    }
   ],
@@ -234,7 +234,9 @@
   "https://www.coindesk.com/markets/2026/10/02/why-rising-perpetual-funding-rates-signal-growing-bullish-leverage-as-bitcoin-crosses-usd86-500": 1790933078.7714558,
   "https://cointelegraph-tr.com/news/aave-v3-third-party-adapter-exploit-305k": 1790934645.6855893,
   "https://cointelegraph-tr.com/news/porsche-shuts-down-web3-project-911-nft": 1790934645.6855893,
-  "https://www.theblock.co/news/regulation/2026-10-02-ecb-outlines-three-models-for-putting-central-bank-money-onchain-417552": 1790936582.4971292
+  "https://www.theblock.co/news/regulation/2026-10-02-ecb-outlines-three-models-for-putting-central-bank-money-onchain-417552": 1790936582.4971292,
+  "https://www.coindesk.com/markets/2026/10/02/crypto-traders-are-in-risk-on-mode-as-bitcoin-dominance-nears-return-to-60": 1790938208.926436,
+  "https://cointelegraph-tr.com/news/connect-recap-arthur-hayes-money-printing-wall-street-onchain": 1790938208.926436
  },
  "tries": {}
 }
