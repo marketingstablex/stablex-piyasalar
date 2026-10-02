@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-02T16:51:07Z",
+ "updated": "2026-10-02T17:23:11Z",
  "sources": [
   "coindesk.com",
   "cointelegraph-tr.com",
@@ -73,16 +73,14 @@
     "importance": 3
    }
   ],
-  "DOGE": [
-   {
-    "title": "Dogecoin, DogeOS'un madencilerin nihayetinde uygulamalarını güvence altına alacağına bahse girmesiyle DeFi test ağını alıyor",
-    "summary": "Dogecoin, DogeOS'un madencilerin nihayetinde uygulamalarını güvence altına alacağına bahse girmesiyle DeFi test ağını alıyor",
-    "url": "https://www.coindesk.com/tech/2026/10/01/dogecoin-gets-defi-testnet-as-dogeos-bets-miners-will-eventually-secure-its-apps",
-    "published": "2026-10-01T04:58:52Z",
-    "importance": 3
-   }
-  ],
   "ETH": [
+   {
+    "title": "Bir zamanlar 2 milyar dolarlık bir Ethereum katman-2'si olan Blast, varlıkların yüzde 98 düşmesinin ardından kapanıyor",
+    "summary": "Bir zamanlar 2 milyar dolarlık bir Ethereum katman-2'si olan Blast, varlıkların yüzde 98 düşmesinin ardından kapanıyor.",
+    "url": "https://www.coindesk.com/tech/2026/10/02/once-a-usd2-billion-ethereum-layer-2-blast-is-shutting-down-after-assets-plunge-98",
+    "published": "2026-10-02T17:15:35Z",
+    "importance": 4
+   },
    {
     "title": "Bitcoin ETF'lerinin 9 günlük ve 3 milyar dolarlık giriş serisi, fonlardan 149 milyon dolar çıkışla sona erdi",
     "summary": "ABD spot Bitcoin ETF'lerinin kesintisiz giriş serisi, fonlardan 149 milyon dolarlık çıkış gerçekleşmesiyle bitti. Aynı dönemde, aralarında Fidelity'nin FETH fonundan çıkan 26,6 milyon doların da bulunduğu ABD spot Ethereum ETF'lerinde ise çarşamba günü 59,6 milyon dolarlık net çıkış görüldü.",
@@ -240,7 +238,11 @@
   "https://www.theblock.co/news/markets/2026-10-02-bitcoin-nears-highest-level-january-85000-sell-wall-clears-us-jobs-data-disappoints-417570": 1790949108.9178214,
   "https://cointelegraph-tr.com/magazine/furious-debate-about-thorchain-vs-near-shows-idealism-has-limits": 1790949108.9178214,
   "https://cointelegraph-tr.com/news/euro-stablecoin-not-enough-eu-case-usd-tokens": 1790951133.0010335,
-  "https://cointelegraph-tr.com/news/71-percent-uk-finance-leaders-expect-tokenization-reshape-financial-services-lloyds": 1790959867.899886
+  "https://cointelegraph-tr.com/news/71-percent-uk-finance-leaders-expect-tokenization-reshape-financial-services-lloyds": 1790959867.899886,
+  "https://www.coindesk.com/tech/2026/10/02/once-a-usd2-billion-ethereum-layer-2-blast-is-shutting-down-after-assets-plunge-98": 1790961791.5355058,
+  "https://www.coindesk.com/news-analysis/2026/10/02/possible-next-crypto-czar-jay-clayton-began-crypto-s-regulation-by-enforcement-at-sec": 1790961791.5355058,
+  "https://www.theblock.co/news/ecosystems/2026-10-02-drift-opens-exploit-recovery-claims-initial-payouts-just-over-1-user-losses-417581": 1790961791.5355058,
+  "https://www.theblock.co/news/business/2026-10-02-blast-ethereum-layer-2-shutting-down-417583": 1790961791.5355058
  },
  "tries": {}
 }
