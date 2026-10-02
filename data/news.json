@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-02T20:21:54Z",
+ "updated": "2026-10-02T20:50:07Z",
  "sources": [
   "coindesk.com",
   "cointelegraph-tr.com",
@@ -238,7 +238,8 @@
   "https://www.theblock.co/news/business/2026-10-02-blast-ethereum-layer-2-shutting-down-417583": 1790961791.5355058,
   "https://www.coindesk.com/business/2026/09/30/bny-in-talks-with-kraken-parent-payward-over-infrastructure-partnership": 1790963316.0050204,
   "https://cointelegraph-tr.com/news/anchorage-digital-cuts-workforce-report": 1790967128.85152,
-  "https://cointelegraph-tr.com/news/blast-to-wind-down-ethereum-l2-after-costs-outpace-revenue": 1790967128.85152
+  "https://cointelegraph-tr.com/news/blast-to-wind-down-ethereum-l2-after-costs-outpace-revenue": 1790967128.85152,
+  "https://cointelegraph-tr.com/news/mica-strengthened-retail-trust-regulated-crypto-exchanges-bitpanda-ceo-says": 1790974207.8032124
  },
  "tries": {}
 }
