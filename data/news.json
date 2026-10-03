@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-03T02:58:51Z",
+ "updated": "2026-10-03T03:27:07Z",
  "sources": [
   "coindesk.com",
   "cointelegraph-tr.com",
@@ -91,15 +91,6 @@
     "url": "https://www.coindesk.com/tech/2026/09/29/tether-s-usdt-is-coming-home-to-bitcoin-this-month-after-more-than-a-decade",
     "published": "2026-10-02T08:28:19Z",
     "importance": 3
-   }
-  ],
-  "XRP": [
-   {
-    "title": "Evernorth hissedarları 1 milyar dolarlık XRP hazine anlaşmasını onaylayarak Nasdaq'a çıkış yolunu açtı",
-    "summary": "Armada Acquisition Corp. II hissedarları Evernorth birleşmesini onayladı. XRP hazine şirketi yaklaşık 473 milyon XRP tutmayı bekliyor.",
-    "url": "https://www.theblock.co/news/deals/2026-10-01-evernorth-xrpn-nasdaq-armada-shareholders-approve-417413",
-    "published": "2026-10-01T15:17:11Z",
-    "importance": 4
    }
   ]
  },
