@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-03T11:06:08Z",
+ "updated": "2026-10-03T14:33:22Z",
  "sources": [
   "coindesk.com",
   "cointelegraph-tr.com",
@@ -187,7 +187,10 @@
   "https://cointelegraph-tr.com/news/mica-strengthened-retail-trust-regulated-crypto-exchanges-bitpanda-ceo-says": 1790974207.8032124,
   "https://www.coindesk.com/policy/2026/10/02/bank-group-sues-u-s-regulator-over-granting-crypto-trust-charters": 1790977754.357095,
   "https://cointelegraph-tr.com/news/trump-is-expected-to-appoint-jay-clayton-as-new-ai-czar-reports": 1791013810.911606,
-  "https://cointelegraph-tr.com/news/community-banks-sue-occ-over-trust-bank-charters-of-crypto-firms": 1791020912.4439363
+  "https://cointelegraph-tr.com/news/community-banks-sue-occ-over-trust-bank-charters-of-crypto-firms": 1791020912.4439363,
+  "https://www.coindesk.com/opinion/2026/10/03/crypto-s-sisyphean-struggle": 1791038002.256903,
+  "https://www.coindesk.com/business/2026/10/03/blackrock-offers-a-glimpse-of-how-tokenization-may-change-your-investment-portfolio": 1791038002.256903,
+  "https://cointelegraph-tr.com/news/near-intents-recovers-entire-stolen-38m-after-ultimatum-to-exploiter": 1791038002.256903
  },
  "tries": {}
 }
