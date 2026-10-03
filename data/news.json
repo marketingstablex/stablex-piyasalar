@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-03T03:58:13Z",
+ "updated": "2026-10-03T04:23:13Z",
  "sources": [
   "coindesk.com",
   "cointelegraph-tr.com",
@@ -65,13 +65,6 @@
     "summary": "Ethereum’un zkAPI’si ana ağda çalışmaya başladı. Bu sistem, daha önce sunulan sıfır bilgi tabanlı API ödeme önerisini özel ve ön ödemeli erişim sağlayan çalışan bir uygulamaya dönüştürüyor.",
     "url": "https://cointelegraph-tr.com/news/ethereum-zkapi-private-api-payments-mainnet",
     "published": "2026-10-02T03:34:25Z",
-    "importance": 3
-   },
-   {
-    "title": "Ethereum staking ödülü yakma teklifi EIP-8363, Hegota güncellemesinden çıkarıldı",
-    "summary": "Ortak yazar Jérôme de Tychey, sektör katılımcılarının ve çekirdek katkıda bulunanların kendisini, bir kapsam belirleme sürecinin ihraç değişikliği için yanlış bir platform olduğuna ikna ettiğini belirtti.",
-    "url": "https://www.theblock.co/news/ecosystems/2026-10-01-ethereum-staking-reward-burn-proposal-eip-8363-pulled-hegota-upgrade-417419",
-    "published": "2026-10-01T16:17:23Z",
     "importance": 3
    }
   ],
