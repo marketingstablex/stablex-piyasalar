@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-03T14:33:22Z",
+ "updated": "2026-10-03T18:37:50Z",
  "sources": [
   "coindesk.com",
   "cointelegraph-tr.com",
@@ -16,20 +16,6 @@
    }
   ],
   "BTC": [
-   {
-    "title": "Spot Bitcoin ETF'leri Eylül Ayında Kurumsal Talebin Sürmesiyle 2,7 Milyar Dolar Giriş Kaydetti",
-    "summary": "ABD spot Bitcoin ETF'leri Eylül ayında 2,65 milyar dolar net giriş kaydetti. Bu rakam, Ekim 2025'ten bu yana kaydedilen en büyük ikinci aylık giriş oldu.",
-    "url": "https://www.theblock.co/news/markets/2026-10-02-spot-bitcoin-etfs-september-inflows-417547",
-    "published": "2026-10-02T05:50:41Z",
-    "importance": 4
-   },
-   {
-    "title": "Core Lightning, saldırganların yama uygulanmamış Bitcoin düğümlerini hedef aldığını belirtti",
-    "summary": "Core Lightning, 26.06.7 veya daha eski sürümleri çalıştıran düğüm operatörlerine derhal yükseltme yapmaları konusunda uyarıda bulundu. Açıklamada, saldırganların yama uygulanmamış Bitcoin düğümlerini hedef aldığı belirtildi.",
-    "url": "https://cointelegraph-tr.com/news/core-lightning-urges-upgrade-amid-reports-attackers-targeting-unpatched-nodes",
-    "published": "2026-10-02T04:18:43Z",
-    "importance": 4
-   },
    {
     "title": "Bitcoin, 85.000 dolarlık satış duvarının aşılması ve ABD istihdam verilerinin hayal kırıklığı yaratmasıyla ocak ayından bu yana en yüksek seviyesine ulaştı",
     "summary": "Glassnode verilerine göre Bitcoin, satıcıların 85.000 dolar seviyesindeki engelleri aşmasıyla cuma günü 87.000 dolara doğru yükseldi.",
@@ -59,13 +45,6 @@
     "url": "https://www.coindesk.com/tech/2026/10/02/once-a-usd2-billion-ethereum-layer-2-blast-is-shutting-down-after-assets-plunge-98",
     "published": "2026-10-02T17:15:35Z",
     "importance": 4
-   },
-   {
-    "title": "Ethereum’un zkAPI’si ana ağa gizliliği koruyan API ödemeleri getiriyor",
-    "summary": "Ethereum’un zkAPI’si ana ağda çalışmaya başladı. Bu sistem, daha önce sunulan sıfır bilgi tabanlı API ödeme önerisini özel ve ön ödemeli erişim sağlayan çalışan bir uygulamaya dönüştürüyor.",
-    "url": "https://cointelegraph-tr.com/news/ethereum-zkapi-private-api-payments-mainnet",
-    "published": "2026-10-02T03:34:25Z",
-    "importance": 3
    }
   ],
   "USDT": [
@@ -190,7 +169,10 @@
   "https://cointelegraph-tr.com/news/community-banks-sue-occ-over-trust-bank-charters-of-crypto-firms": 1791020912.4439363,
   "https://www.coindesk.com/opinion/2026/10/03/crypto-s-sisyphean-struggle": 1791038002.256903,
   "https://www.coindesk.com/business/2026/10/03/blackrock-offers-a-glimpse-of-how-tokenization-may-change-your-investment-portfolio": 1791038002.256903,
-  "https://cointelegraph-tr.com/news/near-intents-recovers-entire-stolen-38m-after-ultimatum-to-exploiter": 1791038002.256903
+  "https://cointelegraph-tr.com/news/near-intents-recovers-entire-stolen-38m-after-ultimatum-to-exploiter": 1791038002.256903,
+  "https://www.coindesk.com/business/2026/10/03/openpayd-targets-year-end-nasdaq-listing-to-fund-u-s-expansion-and-acquisitions": 1791052670.2265697,
+  "https://www.coindesk.com/business/2026/10/03/crypto-job-postings-triple-to-over-1-200-in-september-but-applications-fall": 1791052670.2265697,
+  "https://www.coindesk.com/markets/2026/10/01/cathie-wood-says-smart-investors-need-to-start-watching-where-ai-agents-spend-money": 1791052670.2265697
  },
  "tries": {}
 }
