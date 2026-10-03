@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-02T23:46:47Z",
+ "updated": "2026-10-03T00:28:42Z",
  "sources": [
   "coindesk.com",
   "cointelegraph-tr.com",
@@ -31,13 +31,6 @@
     "importance": 4
    },
    {
-    "title": "Bitcoin ETF'lerinin 9 günlük ve 3 milyar dolarlık giriş serisi, fonlardan 149 milyon dolar çıkışla sona erdi",
-    "summary": "ABD spot Bitcoin ETF'lerinin kesintisiz giriş serisi, fonlardan 149 milyon dolarlık çıkış gerçekleşmesiyle bitti. Aynı dönemde, aralarında Fidelity'nin FETH fonundan çıkan 26,6 milyon doların da bulunduğu ABD spot Ethereum ETF'lerinde ise çarşamba günü 59,6 milyon dolarlık net çıkış görüldü.",
-    "url": "https://www.theblock.co/news/markets/2026-10-01-bitcoin-etfs-9-day-3-billion-inflow-streak-comes-to-an-end-as-149-million-exits-the-funds-417384",
-    "published": "2026-10-01T12:17:06Z",
-    "importance": 4
-   },
-   {
     "title": "Bitcoin, 85.000 dolarlık satış duvarının aşılması ve ABD istihdam verilerinin hayal kırıklığı yaratmasıyla ocak ayından bu yana en yüksek seviyesine ulaştı",
     "summary": "Glassnode verilerine göre Bitcoin, satıcıların 85.000 dolar seviyesindeki engelleri aşmasıyla cuma günü 87.000 dolara doğru yükseldi.",
     "url": "https://www.theblock.co/news/markets/2026-10-02-bitcoin-nears-highest-level-january-85000-sell-wall-clears-us-jobs-data-disappoints-417570",
@@ -65,13 +58,6 @@
     "summary": "Bir zamanlar 2 milyar dolarlık bir Ethereum katman-2'si olan Blast, varlıkların yüzde 98 düşmesinin ardından kapanıyor.",
     "url": "https://www.coindesk.com/tech/2026/10/02/once-a-usd2-billion-ethereum-layer-2-blast-is-shutting-down-after-assets-plunge-98",
     "published": "2026-10-02T17:15:35Z",
-    "importance": 4
-   },
-   {
-    "title": "Bitcoin ETF'lerinin 9 günlük ve 3 milyar dolarlık giriş serisi, fonlardan 149 milyon dolar çıkışla sona erdi",
-    "summary": "ABD spot Bitcoin ETF'lerinin kesintisiz giriş serisi, fonlardan 149 milyon dolarlık çıkış gerçekleşmesiyle bitti. Aynı dönemde, aralarında Fidelity'nin FETH fonundan çıkan 26,6 milyon doların da bulunduğu ABD spot Ethereum ETF'lerinde ise çarşamba günü 59,6 milyon dolarlık net çıkış görüldü.",
-    "url": "https://www.theblock.co/news/markets/2026-10-01-bitcoin-etfs-9-day-3-billion-inflow-streak-comes-to-an-end-as-149-million-exits-the-funds-417384",
-    "published": "2026-10-01T12:17:06Z",
     "importance": 4
    },
    {
