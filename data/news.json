@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-03T08:52:37Z",
+ "updated": "2026-10-03T09:22:52Z",
  "sources": [
   "coindesk.com",
   "cointelegraph-tr.com",
@@ -66,15 +66,6 @@
     "url": "https://cointelegraph-tr.com/news/ethereum-zkapi-private-api-payments-mainnet",
     "published": "2026-10-02T03:34:25Z",
     "importance": 3
-   }
-  ],
-  "TRUMP": [
-   {
-    "title": "Yolsuzluk iddiaları gölgesinde Trump, 3. “özel” memecoin etkinliğine ev sahipliği yapacak",
-    "summary": "Başkanın, Mayıs 2025 ve Nisan 2026’daki benzer etkinliklerin ardından, en büyük 185 memecoin sahibine yönelik 22 Kasım’daki akşam yemeğinde Washington DC’deki golf kulübünde görünmesi bekleniyor.",
-    "url": "https://cointelegraph-tr.com/news/donald-trump-memecoin-dinner-corruption-claims",
-    "published": "2026-10-01T21:00:11Z",
-    "importance": 2
    }
   ],
   "USDT": [
