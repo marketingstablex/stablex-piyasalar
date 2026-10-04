@@ -1,43 +1,11 @@
 {
- "updated": "2026-10-03T18:37:50Z",
+ "updated": "2026-10-04T02:33:22Z",
  "sources": [
   "coindesk.com",
   "cointelegraph-tr.com",
   "theblock.co"
  ],
  "bySymbol": {
-  "AAVE": [
-   {
-    "title": "Üçüncü taraf adaptör saldırısı 305 bin doları çekse de Aave kurucusu V3’ün etkilenmediğini söyledi",
-    "summary": "Aave kurucusu Stani Kulechov, bir saldırganın üçüncü taraf bir adaptörü istismar ederek iki Safe çoklu imza cüzdanından yaklaşık 305.000 dolar çekmesinin ardından Aave v3’ün etkilenmediğini açıkladı.",
-    "url": "https://cointelegraph-tr.com/news/aave-v3-third-party-adapter-exploit-305k",
-    "published": "2026-10-02T09:30:49Z",
-    "importance": 3
-   }
-  ],
-  "BTC": [
-   {
-    "title": "Bitcoin, 85.000 dolarlık satış duvarının aşılması ve ABD istihdam verilerinin hayal kırıklığı yaratmasıyla ocak ayından bu yana en yüksek seviyesine ulaştı",
-    "summary": "Glassnode verilerine göre Bitcoin, satıcıların 85.000 dolar seviyesindeki engelleri aşmasıyla cuma günü 87.000 dolara doğru yükseldi.",
-    "url": "https://www.theblock.co/news/markets/2026-10-02-bitcoin-nears-highest-level-january-85000-sell-wall-clears-us-jobs-data-disappoints-417570",
-    "published": "2026-10-02T13:34:40Z",
-    "importance": 3
-   },
-   {
-    "title": "Canlı güncellemeler: Piyasalar ABD istihdam raporunu beklerken Bitcoin, altın ve teknoloji vadeli işlemleri yükseliyor",
-    "summary": "Piyasalar ABD istihdam raporunu beklerken Bitcoin, altın ve teknoloji vadeli işlemleri yükseliyor.",
-    "url": "https://www.coindesk.com/tech/2026/10/02/live-updates-bitcoin-gold-and-tech-futures-edge-higher-as-markets-await-u-s-jobs-report",
-    "published": "2026-10-02T11:22:40Z",
-    "importance": 3
-   },
-   {
-    "title": "Kripto tüccarları, Bitcoin dominansının %60'a dönüşüne yaklaşmasıyla risk alma modunda",
-    "summary": "Kripto tüccarları, Bitcoin dominansının %60'a dönüşüne yaklaşmasıyla risk alma modunda.",
-    "url": "https://www.coindesk.com/markets/2026/10/02/crypto-traders-are-in-risk-on-mode-as-bitcoin-dominance-nears-return-to-60",
-    "published": "2026-10-02T10:31:16Z",
-    "importance": 3
-   }
-  ],
   "ETH": [
    {
     "title": "Bir zamanlar 2 milyar dolarlık bir Ethereum katman-2'si olan Blast, varlıkların yüzde 98 düşmesinin ardından kapanıyor",
@@ -45,15 +13,6 @@
     "url": "https://www.coindesk.com/tech/2026/10/02/once-a-usd2-billion-ethereum-layer-2-blast-is-shutting-down-after-assets-plunge-98",
     "published": "2026-10-02T17:15:35Z",
     "importance": 4
-   }
-  ],
-  "USDT": [
-   {
-    "title": "Tether'in USDT'si Çıkışından On Yılı Aşkın Süre Sonra Bu Ay Bitcoin'e Geri Dönüyor",
-    "summary": "Tether'in USDT'si, çıkışından on yılı aşkın bir süre sonra bu ay Bitcoin'e geri dönüyor.",
-    "url": "https://www.coindesk.com/tech/2026/09/29/tether-s-usdt-is-coming-home-to-bitcoin-this-month-after-more-than-a-decade",
-    "published": "2026-10-02T08:28:19Z",
-    "importance": 3
    }
   ]
  },
