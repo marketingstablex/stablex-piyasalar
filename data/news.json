@@ -1,17 +1,17 @@
 {
- "updated": "2026-10-04T04:28:51Z",
+ "updated": "2026-10-04T10:53:10Z",
  "sources": [
   "coindesk.com",
   "cointelegraph-tr.com",
   "theblock.co"
  ],
  "bySymbol": {
-  "ETH": [
+  "BTC": [
    {
-    "title": "Bir zamanlar 2 milyar dolarlık bir Ethereum katman-2'si olan Blast, varlıkların yüzde 98 düşmesinin ardından kapanıyor",
-    "summary": "Bir zamanlar 2 milyar dolarlık bir Ethereum katman-2'si olan Blast, varlıkların yüzde 98 düşmesinin ardından kapanıyor.",
-    "url": "https://www.coindesk.com/tech/2026/10/02/once-a-usd2-billion-ethereum-layer-2-blast-is-shutting-down-after-assets-plunge-98",
-    "published": "2026-10-02T17:15:35Z",
+    "title": "El Salvador, Bitcoin birikimi için feragat verilmesinin ardından IMF’den 138 milyon dolar aldı",
+    "summary": "IMF, devletin Bitcoin’le ilgili faaliyetlere katılımını azaltmaya ve kripto varlık düzenlemesi ile yönetişimini güçlendirmeye yönelik çabaların süreceğini belirtti.",
+    "url": "https://cointelegraph-tr.com/news/el-salvador-receives-138-million-from-imf-after-bitcoin-waivers-granted",
+    "published": "2026-10-04T09:39:51Z",
     "importance": 4
    }
   ]
@@ -131,7 +131,9 @@
   "https://cointelegraph-tr.com/news/near-intents-recovers-entire-stolen-38m-after-ultimatum-to-exploiter": 1791038002.256903,
   "https://www.coindesk.com/business/2026/10/03/openpayd-targets-year-end-nasdaq-listing-to-fund-u-s-expansion-and-acquisitions": 1791052670.2265697,
   "https://www.coindesk.com/business/2026/10/03/crypto-job-postings-triple-to-over-1-200-in-september-but-applications-fall": 1791052670.2265697,
-  "https://www.coindesk.com/markets/2026/10/01/cathie-wood-says-smart-investors-need-to-start-watching-where-ai-agents-spend-money": 1791052670.2265697
+  "https://www.coindesk.com/markets/2026/10/01/cathie-wood-says-smart-investors-need-to-start-watching-where-ai-agents-spend-money": 1791052670.2265697,
+  "https://cointelegraph-tr.com/news/el-salvador-receives-138-million-from-imf-after-bitcoin-waivers-granted": 1791111190.706105,
+  "https://cointelegraph-tr.com/news/russias-finance-ministry-pays-wages-in-digital-rubles-for-first-time": 1791111190.706105
  },
  "tries": {}
 }
