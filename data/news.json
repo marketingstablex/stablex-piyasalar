@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-04T22:21:58Z",
+ "updated": "2026-10-04T22:48:05Z",
  "sources": [
   "coindesk.com",
   "cointelegraph-tr.com",
@@ -13,6 +13,22 @@
     "url": "https://cointelegraph-tr.com/news/el-salvador-receives-138-million-from-imf-after-bitcoin-waivers-granted",
     "published": "2026-10-04T09:39:51Z",
     "importance": 4
+   },
+   {
+    "title": "Eski SEC Başkanı yapay zeka çarı oldu, Bitcoin bu döngüde 600 bin dolara ulaşabilir: Hodler’s Digest",
+    "summary": "Roman Storm ve XRP destekçileri, eski SEC Başkanı Jay Clayton'ın yeni yapay zeka çarı olmasından memnuniyet duymuyor. Öte yandan Peter Brandt, yükseliş yönlü bir tahminle Bitcoin'in 2029 yılına kadar 600 bin dolara ulaşabileceğini belirtiyor.",
+    "url": "https://cointelegraph-tr.com/magazine/former-sec-boss-made-ai-czar-bitcoin-may-hit-600k-this-cycle-hodlers-digest",
+    "published": "2026-10-04T22:31:12Z",
+    "importance": 3
+   }
+  ],
+  "XRP": [
+   {
+    "title": "Eski SEC Başkanı yapay zeka çarı oldu, Bitcoin bu döngüde 600 bin dolara ulaşabilir: Hodler’s Digest",
+    "summary": "Roman Storm ve XRP destekçileri, eski SEC Başkanı Jay Clayton'ın yeni yapay zeka çarı olmasından memnuniyet duymuyor. Öte yandan Peter Brandt, yükseliş yönlü bir tahminle Bitcoin'in 2029 yılına kadar 600 bin dolara ulaşabileceğini belirtiyor.",
+    "url": "https://cointelegraph-tr.com/magazine/former-sec-boss-made-ai-czar-bitcoin-may-hit-600k-this-cycle-hodlers-digest",
+    "published": "2026-10-04T22:31:12Z",
+    "importance": 3
    }
   ]
  },
@@ -138,7 +154,8 @@
   "https://cointelegraph-tr.com/news/trump-taps-jay-clayton-to-lead-new-super-intelligence-force": 1791136558.1202593,
   "https://www.coindesk.com/business/2026/10/04/the-clarity-act-stalled-crypto-dealmakers-aren-t-hitting-the-brakes-yet": 1791136558.1202593,
   "https://cointelegraph-tr.com/news/japan-adds-garantex-to-list-of-russia-sanctions-over-ukraine-war": 1791136558.1202593,
-  "https://www.coindesk.com/policy/2026/10/04/there-s-an-election-next-month-state-of-crypto": 1791148358.438322
+  "https://www.coindesk.com/policy/2026/10/04/there-s-an-election-next-month-state-of-crypto": 1791148358.438322,
+  "https://cointelegraph-tr.com/magazine/former-sec-boss-made-ai-czar-bitcoin-may-hit-600k-this-cycle-hodlers-digest": 1791154085.5391653
  },
  "tries": {}
 }
