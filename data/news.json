@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-05T00:32:30Z",
+ "updated": "2026-10-05T00:57:44Z",
  "sources": [
   "coindesk.com",
   "cointelegraph-tr.com",
@@ -155,7 +155,8 @@
   "https://www.coindesk.com/business/2026/10/04/the-clarity-act-stalled-crypto-dealmakers-aren-t-hitting-the-brakes-yet": 1791136558.1202593,
   "https://cointelegraph-tr.com/news/japan-adds-garantex-to-list-of-russia-sanctions-over-ukraine-war": 1791136558.1202593,
   "https://www.coindesk.com/policy/2026/10/04/there-s-an-election-next-month-state-of-crypto": 1791148358.438322,
-  "https://cointelegraph-tr.com/magazine/former-sec-boss-made-ai-czar-bitcoin-may-hit-600k-this-cycle-hodlers-digest": 1791154085.5391653
+  "https://cointelegraph-tr.com/magazine/former-sec-boss-made-ai-czar-bitcoin-may-hit-600k-this-cycle-hodlers-digest": 1791154085.5391653,
+  "https://cointelegraph-tr.com/news/zcash-gets-a-washington-lobbyist-to-push-crypto-policy": 1791161864.0047054
  },
  "tries": {}
 }
