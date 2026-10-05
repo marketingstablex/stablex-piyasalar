@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-05T10:51:50Z",
+ "updated": "2026-10-05T11:24:02Z",
  "sources": [
   "coindesk.com",
   "cointelegraph-tr.com",
@@ -17,11 +17,25 @@
   ],
   "BTC": [
    {
+    "title": "SEC, çılgın dalgalanmaları kaçıran Bitcoin ve Ether yatırımcıları için 3x kaldıraçlı çözümü onayladı",
+    "summary": "SEC, çılgın dalgalanmaları kaçıran Bitcoin ve Ether yatırımcıları için 3x kaldıraçlı çözümü onayladı.",
+    "url": "https://www.coindesk.com/daybook-us/2026/10/05/sec-approves-a-3x-fix-for-bitcoin-and-ether-traders-who-miss-the-wild-swings",
+    "published": "2026-10-05T11:14:35Z",
+    "importance": 4
+   },
+   {
     "title": "El Salvador, Bitcoin birikimi için feragat verilmesinin ardından IMF’den 138 milyon dolar aldı",
     "summary": "IMF, devletin Bitcoin’le ilgili faaliyetlere katılımını azaltmaya ve kripto varlık düzenlemesi ile yönetişimini güçlendirmeye yönelik çabaların süreceğini belirtti.",
     "url": "https://cointelegraph-tr.com/news/el-salvador-receives-138-million-from-imf-after-bitcoin-waivers-granted",
     "published": "2026-10-04T09:39:51Z",
     "importance": 4
+   },
+   {
+    "title": "Metaplanet, üçüncü çeyrekte 1.000 net Bitcoin ekleyerek varlıklarını 44.000 BTC'ye çıkardı",
+    "summary": "Metaplanet, üçüncü çeyrekte 1.000 net Bitcoin ekleyerek varlıklarını 44.000 BTC'ye çıkardı.",
+    "url": "https://www.coindesk.com/business/2026/10/05/metaplanet-adds-1-000-bitcoin-after-sale-and-repurchase-launches-income-strategy",
+    "published": "2026-10-05T10:58:03Z",
+    "importance": 3
    },
    {
     "title": "ABD doları 18 ayın zirvesine tırmanırken bitcoin 86.000 dolar civarında güçlü duruyor",
@@ -57,16 +71,16 @@
     "url": "https://cointelegraph-tr.com/news/what-happened-in-crypto-today",
     "published": "2026-10-05T05:00:00Z",
     "importance": 2
-   },
-   {
-    "title": "Ether'in Bitcoin'i geride bırakan 3. çeyrek rulosunun bir bedeli vardı: Likidite azaldı",
-    "summary": "Ether'in Bitcoin'i geride bırakan 3. çeyrek rulosunun bir bedeli vardı: Likidite azaldı.",
-    "url": "https://www.coindesk.com/markets/2026/10/05/ether-s-bitcoin-beating-q3-rally-came-with-a-catch-liquidity-thinned",
-    "published": "2026-10-05T03:50:29Z",
-    "importance": 2
    }
   ],
   "ETH": [
+   {
+    "title": "SEC, çılgın dalgalanmaları kaçıran Bitcoin ve Ether yatırımcıları için 3x kaldıraçlı çözümü onayladı",
+    "summary": "SEC, çılgın dalgalanmaları kaçıran Bitcoin ve Ether yatırımcıları için 3x kaldıraçlı çözümü onayladı.",
+    "url": "https://www.coindesk.com/daybook-us/2026/10/05/sec-approves-a-3x-fix-for-bitcoin-and-ether-traders-who-miss-the-wild-swings",
+    "published": "2026-10-05T11:14:35Z",
+    "importance": 4
+   },
    {
     "title": "Teknik göstergeler Bitcoin'de değişime işaret ediyor, Ethereum Glamsterdam'a hazırlanıyor",
     "summary": "Teknik göstergeler Bitcoin'de bir değişime işaret ederken, Ethereum Glamsterdam güncellemesine hazırlanıyor.",
@@ -100,9 +114,6 @@
   ]
  },
  "seen": {
-  "https://www.theblock.co/news/business/2026-10-01-lloyds-visa-settle-750000-using-usdc-in-live-cross-border-pilot-417378": 1790853799.1327636,
-  "https://www.coindesk.com/opinion/2026/10/01/synthetic-tokenized-stocks-are-bad-for-american-investors": 1790853799.1327636,
-  "https://cointelegraph-tr.com/news/tokenized-assets-traditional-markets-dune-rwa-report": 1790853799.1327636,
   "https://www.coindesk.com/daybook-us/2026/10/01/crypto-lost-usd1-26-billion-in-hacks-while-bitcoin-bulls-enjoyed-a-monster-quarter": 1790855453.0445123,
   "https://www.theblock.co/news/markets/2026-10-01-bitcoin-etfs-9-day-3-billion-inflow-streak-comes-to-an-end-as-149-million-exits-the-funds-417384": 1790857793.0361311,
   "https://www.coindesk.com/tech/2026/10/01/live-updates-bitcoin-flat-near-usd84-000-after-best-quarter-since-2024": 1790857793.0361311,
@@ -199,7 +210,10 @@
   "https://www.coindesk.com/markets/2026/10/05/u-s-dollar-climbs-to-18-month-high-as-bitcoin-holds-firm-around-usd86-000": 1791197510.2188466,
   "https://www.coindesk.com/business/2026/10/05/live-updates-bitcoin-above-usd86-000-as-traders-price-out-an-october-fed-hike": 1791197510.2188466,
   "https://www.coindesk.com/markets/2026/10/05/cardano-s-ada-leads-gains-in-narrow-range-bound-market": 1791197510.2188466,
-  "https://cointelegraph-tr.com/news/what-happened-in-crypto-today": 1791197510.2188466
+  "https://cointelegraph-tr.com/news/what-happened-in-crypto-today": 1791197510.2188466,
+  "https://www.coindesk.com/daybook-us/2026/10/05/sec-approves-a-3x-fix-for-bitcoin-and-ether-traders-who-miss-the-wild-swings": 1791199442.9403672,
+  "https://www.coindesk.com/policy/2026/10/05/treasury-crackdown-exposes-crypto-s-role-in-usd2-million-hamas-fundraising-network": 1791199442.9403672,
+  "https://www.coindesk.com/business/2026/10/05/metaplanet-adds-1-000-bitcoin-after-sale-and-repurchase-launches-income-strategy": 1791199442.9403672
  },
  "tries": {}
 }
