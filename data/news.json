@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-05T11:52:10Z",
+ "updated": "2026-10-05T12:30:09Z",
  "sources": [
   "coindesk.com",
   "cointelegraph-tr.com",
@@ -17,6 +17,13 @@
   ],
   "BTC": [
    {
+    "title": "\"Her zamankinden daha turuncu\": Michael Saylor'ın Strategy şirketi, toplam varlıkları 848.000 BTC'yi aşarken 28,7 milyon dolara 334 bitcoin satın aldı",
+    "summary": "Strategy, 28,7 milyon dolar karşılığında 334 bitcoin satın alarak toplam varlıklarını 848.000 BTC'nin üzerine çıkardı. Şirketin toplam varlıkları, 21 milyonluk bitcoin arz sınırının yaklaşık %4'ünü oluşturuyor ve bu miktar yaklaşık 73 milyar dolar değerindedir.",
+    "url": "https://www.theblock.co/news/business/2026-10-05-more-orange-than-ever-michael-saylor-strategy-bitcoin-417631",
+    "published": "2026-10-05T12:13:28Z",
+    "importance": 4
+   },
+   {
     "title": "SEC, çılgın dalgalanmaları kaçıran Bitcoin ve Ether yatırımcıları için 3x kaldıraçlı çözümü onayladı",
     "summary": "SEC, çılgın dalgalanmaları kaçıran Bitcoin ve Ether yatırımcıları için 3x kaldıraçlı çözümü onayladı.",
     "url": "https://www.coindesk.com/daybook-us/2026/10/05/sec-approves-a-3x-fix-for-bitcoin-and-ether-traders-who-miss-the-wild-swings",
@@ -29,6 +36,13 @@
     "url": "https://cointelegraph-tr.com/news/el-salvador-receives-138-million-from-imf-after-bitcoin-waivers-granted",
     "published": "2026-10-04T09:39:51Z",
     "importance": 4
+   },
+   {
+    "title": "Metaplanet, \"likiditeyi göstermek\" için 11.000 BTC geri almadan önce 3. çeyrekte 10.000 BTC sattı",
+    "summary": "Metaplanet, likiditeyi göstermek amacıyla üçüncü çeyrekte 10.000 BTC satıp ardından 11.000 BTC geri aldı. Şirket üçüncü çeyrekte net 1.000 BTC ekleyerek toplam bitcoin varlıklarını 44.000 BTC'ye ulaştırdı.",
+    "url": "https://www.theblock.co/news/business/2026-10-05-metaplanet-sold-10000-btc-in-q3-before-buying-back-11000-btc-to-demonstrate-liquidity-417640",
+    "published": "2026-10-05T12:04:15Z",
+    "importance": 3
    },
    {
     "title": "Metaplanet, üçüncü çeyrekte 1.000 net Bitcoin ekleyerek varlıklarını 44.000 BTC'ye çıkardı",
@@ -57,20 +71,6 @@
     "url": "https://www.coindesk.com/markets/2026/10/05/bitcoin-is-about-to-get-a-major-bullish-signal-it-hasn-t-had-in-over-a-year",
     "published": "2026-10-05T06:57:40Z",
     "importance": 3
-   },
-   {
-    "title": "Eski SEC Başkanı yapay zeka çarı oldu, Bitcoin bu döngüde 600 bin dolara ulaşabilir: Hodler’s Digest",
-    "summary": "Roman Storm ve XRP destekçileri, eski SEC Başkanı Jay Clayton'ın yeni yapay zeka çarı olmasından memnuniyet duymuyor. Öte yandan Peter Brandt, yükseliş yönlü bir tahminle Bitcoin'in 2029 yılına kadar 600 bin dolara ulaşabileceğini belirtiyor.",
-    "url": "https://cointelegraph-tr.com/magazine/former-sec-boss-made-ai-czar-bitcoin-may-hit-600k-this-cycle-hodlers-digest",
-    "published": "2026-10-04T22:31:12Z",
-    "importance": 3
-   },
-   {
-    "title": "Bugün kriptoda neler oldu?",
-    "summary": "Bitcoin fiyatını, blokzinciri, DeFi, Web3 ve kripto düzenlemelerini etkileyen günlük trendler ile olaylara dair son gelişmeler yer almaktadır.",
-    "url": "https://cointelegraph-tr.com/news/what-happened-in-crypto-today",
-    "published": "2026-10-05T05:00:00Z",
-    "importance": 2
    }
   ],
   "ETH": [
@@ -110,13 +110,17 @@
     "url": "https://cointelegraph-tr.com/magazine/former-sec-boss-made-ai-czar-bitcoin-may-hit-600k-this-cycle-hodlers-digest",
     "published": "2026-10-04T22:31:12Z",
     "importance": 3
+   },
+   {
+    "title": "Bir XRP hazine SPAC'ı, Evernorth birleşmesi öncesinde neredeyse %300 arttı",
+    "summary": "Bir XRP hazine SPAC'ı, Evernorth birleşmesi öncesinde neredeyse %300 arttı",
+    "url": "https://www.coindesk.com/markets/2026/10/05/xrp-treasury-spac-surges-nearly-300-ahead-of-evernorth-merger",
+    "published": "2026-10-05T12:28:35Z",
+    "importance": 2
    }
   ]
  },
  "seen": {
-  "https://www.theblock.co/news/markets/2026-10-01-bitcoin-etfs-9-day-3-billion-inflow-streak-comes-to-an-end-as-149-million-exits-the-funds-417384": 1790857793.0361311,
-  "https://www.coindesk.com/tech/2026/10/01/live-updates-bitcoin-flat-near-usd84-000-after-best-quarter-since-2024": 1790857793.0361311,
-  "https://www.coindesk.com/policy/2026/09/30/illinois-agrees-to-six-month-delay-of-crypto-tax-as-industry-continues-court-battle": 1790857793.0361311,
   "https://www.theblock.co/news/business/2026-10-01-robinhood-wallet-integrates-arcus-rfq-system-for-stock-token-swaps-417394": 1790861242.3633208,
   "https://www.coindesk.com/tech/2026/10/01/near-intents-hit-by-usd3-8-million-exploit-as-crypto-s-rough-year-of-hacks-continues": 1790864763.7040339,
   "https://www.theblock.co/news/ecosystems/2026-10-01-near-intents-halts-services-after-3-8-million-exploit-promises-full-compensation-417404": 1790864763.7040339,
@@ -212,7 +216,11 @@
   "https://cointelegraph-tr.com/news/what-happened-in-crypto-today": 1791197510.2188466,
   "https://www.coindesk.com/daybook-us/2026/10/05/sec-approves-a-3x-fix-for-bitcoin-and-ether-traders-who-miss-the-wild-swings": 1791199442.9403672,
   "https://www.coindesk.com/policy/2026/10/05/treasury-crackdown-exposes-crypto-s-role-in-usd2-million-hamas-fundraising-network": 1791199442.9403672,
-  "https://www.coindesk.com/business/2026/10/05/metaplanet-adds-1-000-bitcoin-after-sale-and-repurchase-launches-income-strategy": 1791199442.9403672
+  "https://www.coindesk.com/business/2026/10/05/metaplanet-adds-1-000-bitcoin-after-sale-and-repurchase-launches-income-strategy": 1791199442.9403672,
+  "https://www.coindesk.com/markets/2026/10/05/xrp-treasury-spac-surges-nearly-300-ahead-of-evernorth-merger": 1791203409.5242062,
+  "https://www.theblock.co/news/business/2026-10-05-more-orange-than-ever-michael-saylor-strategy-bitcoin-417631": 1791203409.5242062,
+  "https://www.theblock.co/news/business/2026-10-05-metaplanet-sold-10000-btc-in-q3-before-buying-back-11000-btc-to-demonstrate-liquidity-417640": 1791203409.5242062,
+  "https://www.theblock.co/news/business/2026-10-05-visa-coinshares-find-growing-crypto-appetite-among-consumers-and-affluent-investors-417642": 1791203409.5242062
  },
  "tries": {}
 }
