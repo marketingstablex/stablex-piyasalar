@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-05T04:25:19Z",
+ "updated": "2026-10-05T05:10:50Z",
  "sources": [
   "coindesk.com",
   "cointelegraph-tr.com",
@@ -184,7 +184,9 @@
   "https://cointelegraph-tr.com/news/zcash-nu7-testnet-activation-november-mainnet": 1791172572.5804806,
   "https://cointelegraph-tr.com/news/okx-nyse-parent-file-to-launch-tokenized-us-stock-platform": 1791172572.5804806,
   "https://cointelegraph-tr.com/news/safe-investor-asks-swiss-watchdog-to-intervene-in-governance-dispute": 1791172572.5804806,
-  "https://www.coindesk.com/markets/2026/10/05/bitcoin-zooms-toward-usd87-000-nearly-setting-an-eight-month-high-then-reverses": 1791174319.357616
+  "https://www.coindesk.com/markets/2026/10/05/bitcoin-zooms-toward-usd87-000-nearly-setting-an-eight-month-high-then-reverses": 1791174319.357616,
+  "https://www.coindesk.com/markets/2026/10/05/okx-and-nyse-s-owner-file-for-round-the-clock-tokenized-trading-in-u-s-stocks": 1791177050.0217016,
+  "https://www.coindesk.com/tech/2026/10/05/zcash-s-25-second-blocks-go-live-on-public-testnet-ahead-of-schedule": 1791177050.0217016
  },
  "tries": {}
 }
