@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-05T14:53:45Z",
+ "updated": "2026-10-05T15:26:23Z",
  "sources": [
   "coindesk.com",
   "cointelegraph-tr.com",
@@ -38,6 +38,20 @@
     "importance": 4
    },
    {
+    "title": "Bitcoin fiyatı son sekiz ayın en iyi haftalık kapanışının ardından yukarı yönlü kırılım yapamadı",
+    "summary": "Bitcoin’in sekiz ayın en yüksek haftalık kapanışı, ABD işlem seansının pazartesi günkü başlangıcında kısa vadeli direnç oluşturdu.",
+    "url": "https://cointelegraph-tr.com/markets/bitcoin-price-fails-to-break-higher-after-best-weekly-close-in-eight-months",
+    "published": "2026-10-05T15:09:57Z",
+    "importance": 3
+   },
+   {
+    "title": "Strive, Haziran'dan bu yana en büyük alımını yaparak 2.000 bitcoin ekledi ve MARA'ya yaklaştı",
+    "summary": "Strive, Haziran ayından bu yana en büyük bitcoin alımını gerçekleştirerek 2.000 bitcoin ekledi. Şirketin bitcoin varlıkları 30.000 BTC sınırına yaklaştı.",
+    "url": "https://www.theblock.co/news/business/2026-10-05-strive-adds-2000-bitcoin-biggest-buy-since-june-closes-in-mara-417677",
+    "published": "2026-10-05T15:03:54Z",
+    "importance": 3
+   },
+   {
     "title": "Strategy, BTC alımları yerine STRC geri alımlarına daha fazla harcama yapmayı tercih ediyor",
     "summary": "Strategy geçen hafta 334 Bitcoin için 28,7 milyon dolar harcarken, yaklaşık 1,77 milyon STRC hissesini geri almak için 176,3 milyon dolar harcadı.",
     "url": "https://cointelegraph-tr.com/news/strategy-848k-bitcoin-strc-buybacks-outpace-btc-buys",
@@ -56,20 +70,6 @@
     "summary": "Metaplanet, üçüncü çeyrekte 1.000 net Bitcoin ekleyerek varlıklarını 44.000 BTC'ye çıkardı.",
     "url": "https://www.coindesk.com/business/2026/10/05/metaplanet-adds-1-000-bitcoin-after-sale-and-repurchase-launches-income-strategy",
     "published": "2026-10-05T10:58:03Z",
-    "importance": 3
-   },
-   {
-    "title": "ABD doları 18 ayın zirvesine tırmanırken bitcoin 86.000 dolar civarında güçlü duruyor",
-    "summary": "ABD doları 18 ayın en yüksek seviyesine ulaştı ve bitcoin 86.000 dolar civarında seyretmeye devam etti.",
-    "url": "https://www.coindesk.com/markets/2026/10/05/u-s-dollar-climbs-to-18-month-high-as-bitcoin-holds-firm-around-usd86-000",
-    "published": "2026-10-05T10:44:55Z",
-    "importance": 3
-   },
-   {
-    "title": "Teknik göstergeler Bitcoin'de değişime işaret ediyor, Ethereum Glamsterdam'a hazırlanıyor",
-    "summary": "Teknik göstergeler Bitcoin'de bir değişime işaret ederken, Ethereum Glamsterdam güncellemesine hazırlanıyor.",
-    "url": "https://www.coindesk.com/markets/2026/10/05/technicals-signal-bitcoin-shift-ethereum-gears-up-for-glamsterdam-crypto-week-ahead",
-    "published": "2026-10-05T09:37:13Z",
     "importance": 3
    }
   ],
@@ -137,8 +137,6 @@
   ]
  },
  "seen": {
-  "https://www.theblock.co/news/deals/2026-10-01-evernorth-xrpn-nasdaq-armada-shareholders-approve-417413": 1790868294.1419697,
-  "https://www.coindesk.com/coindesk-indices/2026/10/01/crypto-for-advisors-the-clarity-act-failed-but-the-rules-came-anyway": 1790868294.1419697,
   "https://www.theblock.co/news/ecosystems/2026-10-01-ethereum-staking-reward-burn-proposal-eip-8363-pulled-hegota-upgrade-417419": 1790871812.6655443,
   "https://cointelegraph-tr.com/news/new-york-wyoming-regulators-sign-pact-coordinate-crypto-oversight": 1790871812.6655443,
   "https://cointelegraph-tr.com/news/near-intents-exploit-assistance-bitget-hack": 1790871812.6655443,
@@ -235,7 +233,9 @@
   "https://cointelegraph-tr.com/news/strategy-848k-bitcoin-strc-buybacks-outpace-btc-buys": 1791206928.27731,
   "https://cointelegraph-tr.com/news/china-stablecoin-p2p-wallets-crypto-restrictions": 1791206928.27731,
   "https://www.coindesk.com/business/2026/10/01/stripe-to-expand-stablecoin-cards-to-over-100-countries-by-the-end-of-the-year": 1791208462.5944657,
-  "https://www.theblock.co/news/markets/2026-10-05-defi-development-nav-per-share-doubles-2-56-million-sol-417674": 1791212025.8854532
+  "https://www.theblock.co/news/markets/2026-10-05-defi-development-nav-per-share-doubles-2-56-million-sol-417674": 1791212025.8854532,
+  "https://cointelegraph-tr.com/markets/bitcoin-price-fails-to-break-higher-after-best-weekly-close-in-eight-months": 1791213983.3252635,
+  "https://www.theblock.co/news/business/2026-10-05-strive-adds-2000-bitcoin-biggest-buy-since-june-closes-in-mara-417677": 1791213983.3252635
  },
  "tries": {}
 }
