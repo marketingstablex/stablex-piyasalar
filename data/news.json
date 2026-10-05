@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-05T21:50:43Z",
+ "updated": "2026-10-05T22:22:08Z",
  "sources": [
   "coindesk.com",
   "cointelegraph-tr.com",
@@ -229,7 +229,8 @@
   "https://cointelegraph-tr.com/news/fincen-crypto-mixing-rule-legitimate-activity": 1791235900.811262,
   "https://cointelegraph-tr.com/news/modern-treasury-seeks-us-trust-bank-charter-for-stablecoin-custody": 1791235900.811262,
   "https://www.coindesk.com/policy/2026/10/05/crypto-s-campaign-arm-fairshake-sets-lists-of-u-s-house-favorites-it-ll-spend-on": 1791235900.811262,
-  "https://cointelegraph-tr.com/news/crypto-advocacy-groups-icba-lawsuit-occ-charters": 1791235900.811262
+  "https://cointelegraph-tr.com/news/crypto-advocacy-groups-icba-lawsuit-occ-charters": 1791235900.811262,
+  "https://cointelegraph-tr.com/news/crypto-pac-fairshake-house-endorsements-us-midterms": 1791238928.1270025
  },
  "tries": {}
 }
