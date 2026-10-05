@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-05T06:33:35Z",
+ "updated": "2026-10-05T07:00:54Z",
  "sources": [
   "coindesk.com",
   "cointelegraph-tr.com",
@@ -13,6 +13,13 @@
     "url": "https://cointelegraph-tr.com/news/el-salvador-receives-138-million-from-imf-after-bitcoin-waivers-granted",
     "published": "2026-10-04T09:39:51Z",
     "importance": 4
+   },
+   {
+    "title": "Bitcoin bir yıldan uzun süredir görülmeyen büyük bir yükseliş sinyali almaya hazırlanıyor",
+    "summary": "Bitcoin bir yıldan uzun süredir görülmeyen büyük bir yükseliş sinyali almaya hazırlanıyor.",
+    "url": "https://www.coindesk.com/markets/2026/10/05/bitcoin-is-about-to-get-a-major-bullish-signal-it-hasn-t-had-in-over-a-year",
+    "published": "2026-10-05T06:57:40Z",
+    "importance": 3
    },
    {
     "title": "Bitcoin 87.000 dolara doğru yükseldi, sekiz ayın zirvesine yaklaştıktan sonra geriledi",
@@ -37,6 +44,13 @@
    }
   ],
   "ETH": [
+   {
+    "title": "Ethereum'un staking işlemini başlatmak için 25 günlük bir bekleme süresi var ve sırada yaklaşık 1,5 milyon ETH bulunuyor",
+    "summary": "Ethereum'un staking işlemini başlatmak için 25 günlük bir bekleme süresi var ve sırada yaklaşık 1,5 milyon ETH bulunuyor.",
+    "url": "https://www.coindesk.com/tech/2026/10/05/ethereum-has-a-25-day-wait-to-start-staking-with-nearly-1-5-million-eth-in-line",
+    "published": "2026-10-05T06:40:29Z",
+    "importance": 3
+   },
    {
     "title": "Ether'in Bitcoin'i geride bırakan 3. çeyrek rulosunun bir bedeli vardı: Likidite azaldı",
     "summary": "Ether'in Bitcoin'i geride bırakan 3. çeyrek rulosunun bir bedeli vardı: Likidite azaldı.",
@@ -186,7 +200,10 @@
   "https://cointelegraph-tr.com/news/safe-investor-asks-swiss-watchdog-to-intervene-in-governance-dispute": 1791172572.5804806,
   "https://www.coindesk.com/markets/2026/10/05/bitcoin-zooms-toward-usd87-000-nearly-setting-an-eight-month-high-then-reverses": 1791174319.357616,
   "https://www.coindesk.com/markets/2026/10/05/okx-and-nyse-s-owner-file-for-round-the-clock-tokenized-trading-in-u-s-stocks": 1791177050.0217016,
-  "https://www.coindesk.com/tech/2026/10/05/zcash-s-25-second-blocks-go-live-on-public-testnet-ahead-of-schedule": 1791177050.0217016
+  "https://www.coindesk.com/tech/2026/10/05/zcash-s-25-second-blocks-go-live-on-public-testnet-ahead-of-schedule": 1791177050.0217016,
+  "https://www.coindesk.com/markets/2026/10/05/bitcoin-is-about-to-get-a-major-bullish-signal-it-hasn-t-had-in-over-a-year": 1791183654.117528,
+  "https://www.coindesk.com/tech/2026/10/05/ethereum-has-a-25-day-wait-to-start-staking-with-nearly-1-5-million-eth-in-line": 1791183654.117528,
+  "https://www.theblock.co/news/business/2026-10-05-okx-ice-joint-venture-tokenized-stock-trading-417613": 1791183654.117528
  },
  "tries": {}
 }
