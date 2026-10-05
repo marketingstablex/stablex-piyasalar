@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-05T13:28:48Z",
+ "updated": "2026-10-05T13:54:22Z",
  "sources": [
   "coindesk.com",
   "cointelegraph-tr.com",
@@ -229,7 +229,8 @@
   "https://www.theblock.co/news/business/2026-10-05-visa-coinshares-find-growing-crypto-appetite-among-consumers-and-affluent-investors-417642": 1791203409.5242062,
   "https://www.theblock.co/news/business/2026-10-05-tom-lee-says-ether-dwarfing-other-macro-assets-as-bitmine-adds-15112-eth-417660": 1791206928.27731,
   "https://cointelegraph-tr.com/news/strategy-848k-bitcoin-strc-buybacks-outpace-btc-buys": 1791206928.27731,
-  "https://cointelegraph-tr.com/news/china-stablecoin-p2p-wallets-crypto-restrictions": 1791206928.27731
+  "https://cointelegraph-tr.com/news/china-stablecoin-p2p-wallets-crypto-restrictions": 1791206928.27731,
+  "https://www.coindesk.com/business/2026/10/01/stripe-to-expand-stablecoin-cards-to-over-100-countries-by-the-end-of-the-year": 1791208462.5944657
  },
  "tries": {}
 }
