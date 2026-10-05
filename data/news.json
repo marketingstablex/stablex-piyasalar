@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-05T03:56:12Z",
+ "updated": "2026-10-05T04:25:19Z",
  "sources": [
   "coindesk.com",
   "cointelegraph-tr.com",
@@ -13,6 +13,13 @@
     "url": "https://cointelegraph-tr.com/news/el-salvador-receives-138-million-from-imf-after-bitcoin-waivers-granted",
     "published": "2026-10-04T09:39:51Z",
     "importance": 4
+   },
+   {
+    "title": "Bitcoin 87.000 dolara doğru yükseldi, sekiz ayın zirvesine yaklaştıktan sonra geriledi",
+    "summary": "Bitcoin 87.000 dolara doğru yükselerek sekiz ayın zirvesine yaklaşmasının ardından düşüşe geçti.",
+    "url": "https://www.coindesk.com/markets/2026/10/05/bitcoin-zooms-toward-usd87-000-nearly-setting-an-eight-month-high-then-reverses",
+    "published": "2026-10-05T04:23:25Z",
+    "importance": 3
    },
    {
     "title": "Eski SEC Başkanı yapay zeka çarı oldu, Bitcoin bu döngüde 600 bin dolara ulaşabilir: Hodler’s Digest",
@@ -176,7 +183,8 @@
   "https://www.coindesk.com/markets/2026/10/05/ether-s-bitcoin-beating-q3-rally-came-with-a-catch-liquidity-thinned": 1791172572.5804806,
   "https://cointelegraph-tr.com/news/zcash-nu7-testnet-activation-november-mainnet": 1791172572.5804806,
   "https://cointelegraph-tr.com/news/okx-nyse-parent-file-to-launch-tokenized-us-stock-platform": 1791172572.5804806,
-  "https://cointelegraph-tr.com/news/safe-investor-asks-swiss-watchdog-to-intervene-in-governance-dispute": 1791172572.5804806
+  "https://cointelegraph-tr.com/news/safe-investor-asks-swiss-watchdog-to-intervene-in-governance-dispute": 1791172572.5804806,
+  "https://www.coindesk.com/markets/2026/10/05/bitcoin-zooms-toward-usd87-000-nearly-setting-an-eight-month-high-then-reverses": 1791174319.357616
  },
  "tries": {}
 }
