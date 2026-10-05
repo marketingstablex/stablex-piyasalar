@@ -1,11 +1,20 @@
 {
- "updated": "2026-10-05T10:25:41Z",
+ "updated": "2026-10-05T10:51:50Z",
  "sources": [
   "coindesk.com",
   "cointelegraph-tr.com",
   "theblock.co"
  ],
  "bySymbol": {
+  "ADA": [
+   {
+    "title": "Dar bir aralıkta hareket eden piyasada Cardano'nun ADA'sı kazançlara liderlik ediyor",
+    "summary": "Dar aralıkta hareket eden kripto para piyasasında Cardano'nun ADA varlığı kazançlarda öne çıktı.",
+    "url": "https://www.coindesk.com/markets/2026/10/05/cardano-s-ada-leads-gains-in-narrow-range-bound-market",
+    "published": "2026-10-05T10:37:30Z",
+    "importance": 2
+   }
+  ],
   "BTC": [
    {
     "title": "El Salvador, Bitcoin birikimi için feragat verilmesinin ardından IMF’den 138 milyon dolar aldı",
@@ -13,6 +22,13 @@
     "url": "https://cointelegraph-tr.com/news/el-salvador-receives-138-million-from-imf-after-bitcoin-waivers-granted",
     "published": "2026-10-04T09:39:51Z",
     "importance": 4
+   },
+   {
+    "title": "ABD doları 18 ayın zirvesine tırmanırken bitcoin 86.000 dolar civarında güçlü duruyor",
+    "summary": "ABD doları 18 ayın en yüksek seviyesine ulaştı ve bitcoin 86.000 dolar civarında seyretmeye devam etti.",
+    "url": "https://www.coindesk.com/markets/2026/10/05/u-s-dollar-climbs-to-18-month-high-as-bitcoin-holds-firm-around-usd86-000",
+    "published": "2026-10-05T10:44:55Z",
+    "importance": 3
    },
    {
     "title": "Teknik göstergeler Bitcoin'de değişime işaret ediyor, Ethereum Glamsterdam'a hazırlanıyor",
@@ -29,18 +45,18 @@
     "importance": 3
    },
    {
-    "title": "Bitcoin 87.000 dolara doğru yükseldi, sekiz ayın zirvesine yaklaştıktan sonra geriledi",
-    "summary": "Bitcoin 87.000 dolara doğru yükselerek sekiz ayın zirvesine yaklaşmasının ardından düşüşe geçti.",
-    "url": "https://www.coindesk.com/markets/2026/10/05/bitcoin-zooms-toward-usd87-000-nearly-setting-an-eight-month-high-then-reverses",
-    "published": "2026-10-05T04:23:25Z",
-    "importance": 3
-   },
-   {
     "title": "Eski SEC Başkanı yapay zeka çarı oldu, Bitcoin bu döngüde 600 bin dolara ulaşabilir: Hodler’s Digest",
     "summary": "Roman Storm ve XRP destekçileri, eski SEC Başkanı Jay Clayton'ın yeni yapay zeka çarı olmasından memnuniyet duymuyor. Öte yandan Peter Brandt, yükseliş yönlü bir tahminle Bitcoin'in 2029 yılına kadar 600 bin dolara ulaşabileceğini belirtiyor.",
     "url": "https://cointelegraph-tr.com/magazine/former-sec-boss-made-ai-czar-bitcoin-may-hit-600k-this-cycle-hodlers-digest",
     "published": "2026-10-04T22:31:12Z",
     "importance": 3
+   },
+   {
+    "title": "Bugün kriptoda neler oldu?",
+    "summary": "Bitcoin fiyatını, blokzinciri, DeFi, Web3 ve kripto düzenlemelerini etkileyen günlük trendler ile olaylara dair son gelişmeler yer almaktadır.",
+    "url": "https://cointelegraph-tr.com/news/what-happened-in-crypto-today",
+    "published": "2026-10-05T05:00:00Z",
+    "importance": 2
    },
    {
     "title": "Ether'in Bitcoin'i geride bırakan 3. çeyrek rulosunun bir bedeli vardı: Likidite azaldı",
@@ -84,49 +100,6 @@
   ]
  },
  "seen": {
-  "https://www.coindesk.com/markets/2026/10/01/bitcoin-kicks-off-new-quarter-in-the-old-usd82-000-usd85-000-price-range": 1790851234.6607363,
-  "https://cointelegraph-tr.com/news/europe-binance-questions-esma-tighter-mica-oversight": 1790851234.6607363,
-  "https://www.coindesk.com/markets/2026/10/01/citigroup-raises-12-month-bitcoin-target-to-usd113-000-as-etf-inflows-resume": 1790851234.6607363,
-  "https://cointelegraph-tr.com/news/celsius-chainalysis-lawsuit-audit-claim-survives": 1790851234.6607363,
-  "https://cointelegraph-tr.com/markets/bitcoin-etf-6-3-billion-inflows-q3-btc-rise-43": 1790851234.6607363,
-  "https://www.coindesk.com/tech/2026/10/01/metamask-security-incident-forces-ethereum-staking-exits-with-lido-warning-of-lost-rewards": 1790851234.6607363,
-  "https://cointelegraph-tr.com/news/msci-strategy-metaplanet-index-rule-bpi": 1790851234.6607363,
-  "https://cointelegraph-tr.com/news/what-happened-in-crypto-today": 1790851234.6607363,
-  "https://www.coindesk.com/tech/2026/10/01/dogecoin-gets-defi-testnet-as-dogeos-bets-miners-will-eventually-secure-its-apps": 1790851234.6607363,
-  "https://cointelegraph-tr.com/news/crypto-hacks-total-766m-in-september-peckshield": 1790851234.6607363,
-  "https://www.coindesk.com/markets/2026/10/01/bitcoin-s-soft-inflation-pop-to-usd85-500-fades-as-bond-yields-refuse-to-fall": 1790851234.6607363,
-  "https://cointelegraph-tr.com/news/cftc-seeks-to-define-event-contracts-as-swaps-amid-prediction-market-fight": 1790851234.6607363,
-  "https://cointelegraph-tr.com/news/metamask-exits-lido-validators-as-it-investigates-security-incident": 1790851234.6607363,
-  "https://www.theblock.co/news/markets/2026-09-30-clarity-acts-failure-gave-crypto-faster-regulatory-wins-bitwise-says-417362": 1790851234.6607363,
-  "https://cointelegraph-tr.com/markets/standard-chartered-ethena-usde-growth-40b": 1790851234.6607363,
-  "https://www.theblock.co/news/regulation/2026-09-30-cftc-secures-over-30-million-judgment-against-defendants-in-fundsz-fraud-case-417365": 1790851234.6607363,
-  "https://cointelegraph-tr.com/news/stand-with-crypto-coinbase-senate-picks-us-midterms": 1790851234.6607363,
-  "https://www.theblock.co/news/ecosystems/2026-09-30-base-launches-cobalt-upgrade-with-conditional-transactions-and-new-b20-asset-functions-417308": 1790851234.6607363,
-  "https://cointelegraph-tr.com/news/base-cobalt-upgrade-tokenized-finance-b20-kyc": 1790851234.6607363,
-  "https://cointelegraph-tr.com/news/bloomberg-brings-onchain-stablecoin-data-to-its-terminal-news-brief": 1790851234.6607363,
-  "https://www.theblock.co/news/ecosystems/2026-09-30-dogeos-launches-public-testnet-dogecoin-zk-rollup-evm-417307": 1790851234.6607363,
-  "https://www.theblock.co/news/regulation/2026-09-30-white-house-weighs-new-cftc-event-contract-rules-in-growing-prediction-market-power-struggle-417345": 1790851234.6607363,
-  "https://cointelegraph-tr.com/news/brazils-petrobras-uses-cardano-to-track-sustainable-aviation-fuel-renewable-diesel": 1790851234.6607363,
-  "https://www.coindesk.com/news-analysis/2026/09/30/crypto-industry-gave-usd8-million-to-clarity-act-lobbyists-who-didn-t-close-the-deal": 1790851234.6607363,
-  "https://cointelegraph-tr.com/news/bitget-operations-protection-fund-security-breach": 1790851234.6607363,
-  "https://www.theblock.co/news/markets/2026-09-30-bitcoin-pce-inflation-october-rate-hike-417335": 1790851234.6607363,
-  "https://www.coindesk.com/business/2026/09/24/open-usd-takes-on-tether-circle-with-a-different-stablecoin-model-that-s-building-money": 1790851234.6607363,
-  "https://www.coindesk.com/policy/2026/09/30/u-s-cftc-seeks-event-contract-definitions-that-may-defy-states-gambling-claims": 1790851234.6607363,
-  "https://www.coindesk.com/coindesk-indices/2026/09/30/crypto-long-and-short-what-will-the-ai-agents-run-on": 1790851234.6607363,
-  "https://www.coindesk.com/policy/2026/09/30/the-clock-s-ticking-uk-s-crypto-regulatory-application-window-opens-with-february-deadline": 1790851234.6607363,
-  "https://www.theblock.co/news/defi/2026-09-30-hyperliquid-co-founder-jeff-yan-24-hour-clock-not-onchain-finances-true-differentiator-417286": 1790851234.6607363,
-  "https://cointelegraph-tr.com/magazine/does-thorchain-face-a-criminal-reckoning-near-intents-bitget": 1790851234.6607363,
-  "https://www.theblock.co/news/regulation/2026-09-30-fca-starts-accepting-crypto-authorization-applications-ahead-of-2027-regime-417284": 1790851234.6607363,
-  "https://www.coindesk.com/tech/2026/09/30/embargo-1-pm-utc-cardano-tapped-by-brazil-s-state-oil-giant-to-track-cleaner-jet-fuel-and-diesel": 1790851234.6607363,
-  "https://cointelegraph-tr.com/news/singapore-crypto-economy-284b-institutional-activity-chainalysis": 1790851234.6607363,
-  "https://cointelegraph-tr.com/news/fca-crypto-authorization-2027-uk-regime": 1790851234.6607363,
-  "https://www.theblock.co/news/markets/2026-09-30-standard-chartered-sees-over-600-upside-for-ena-expects-usde-to-hit-40-billion-by-2028-417274": 1790851234.6607363,
-  "https://www.theblock.co/news/regulation/2026-09-30-crypto-advocacy-group-stand-with-crypto-first-senate-endorsements-after-failed-clarity-417223": 1790851234.6607363,
-  "https://cointelegraph-tr.com/markets/altcoin-exchange-deposits-spike-160-in-two-weeks": 1790851234.6607363,
-  "https://www.coindesk.com/daybook-us/2026/09/30/a-stronger-dollar-is-a-weaker-threat-to-bitcoin-than-traders-think": 1790851234.6607363,
-  "https://www.coindesk.com/markets/2026/09/30/bitget-hackers-move-usd4-million-into-zcash-s-private-pool-making-funds-harder-to-trace": 1790851234.6607363,
-  "https://www.coindesk.com/opinion/2026/09/30/the-sec-is-finally-modernizing-transfer-agent-rules-wall-street-must-not-repeat-the-paperwork-crisis": 1790851234.6607363,
-  "https://www.coindesk.com/tech/2026/09/30/openai-google-and-meta-pledge-outside-ai-audits-under-voluntary-white-house-deal": 1790851234.6607363,
   "https://www.theblock.co/news/business/2026-10-01-lloyds-visa-settle-750000-using-usdc-in-live-cross-border-pilot-417378": 1790853799.1327636,
   "https://www.coindesk.com/opinion/2026/10/01/synthetic-tokenized-stocks-are-bad-for-american-investors": 1790853799.1327636,
   "https://cointelegraph-tr.com/news/tokenized-assets-traditional-markets-dune-rwa-report": 1790853799.1327636,
@@ -222,7 +195,11 @@
   "https://cointelegraph-tr.com/news/payward-partners-singapore-gulf-bank-settlement": 1791192433.8575118,
   "https://www.coindesk.com/markets/2026/10/05/technicals-signal-bitcoin-shift-ethereum-gears-up-for-glamsterdam-crypto-week-ahead": 1791193982.261941,
   "https://www.coindesk.com/business/2026/10/05/kraken-operator-payward-and-singapore-gulf-bank-platform-for-24-7-institutional-crypto-settlement": 1791193982.261941,
-  "https://cointelegraph-tr.com/news/vivek-ramaswamy-crypto-gubernatorial-campaign": 1791195941.1832168
+  "https://cointelegraph-tr.com/news/vivek-ramaswamy-crypto-gubernatorial-campaign": 1791195941.1832168,
+  "https://www.coindesk.com/markets/2026/10/05/u-s-dollar-climbs-to-18-month-high-as-bitcoin-holds-firm-around-usd86-000": 1791197510.2188466,
+  "https://www.coindesk.com/business/2026/10/05/live-updates-bitcoin-above-usd86-000-as-traders-price-out-an-october-fed-hike": 1791197510.2188466,
+  "https://www.coindesk.com/markets/2026/10/05/cardano-s-ada-leads-gains-in-narrow-range-bound-market": 1791197510.2188466,
+  "https://cointelegraph-tr.com/news/what-happened-in-crypto-today": 1791197510.2188466
  },
  "tries": {}
 }
