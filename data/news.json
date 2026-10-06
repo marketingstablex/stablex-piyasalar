@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-05T23:46:20Z",
+ "updated": "2026-10-06T00:33:07Z",
  "sources": [
   "coindesk.com",
   "cointelegraph-tr.com",
@@ -130,7 +130,6 @@
   ]
  },
  "seen": {
-  "https://www.theblock.co/news/defi/2026-10-01-ethereum-foundation-launches-zkapi-417504": 1790901035.2429433,
   "https://cointelegraph-tr.com/news/sec-moves-to-clear-custody-hurdle-for-advisers-offering-crypto": 1790904153.8953125,
   "https://cointelegraph-tr.com/news/near-intents-says-its-identified-the-hacker-gives-48-hour-ultimatum": 1790907698.3227777,
   "https://cointelegraph-tr.com/news/ethereum-zkapi-private-api-payments-mainnet": 1790913013.4241226,
