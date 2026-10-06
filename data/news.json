@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-06T00:56:38Z",
+ "updated": "2026-10-06T01:23:08Z",
  "sources": [
   "coindesk.com",
   "cointelegraph-tr.com",
@@ -130,7 +130,6 @@
   ]
  },
  "seen": {
-  "https://cointelegraph-tr.com/news/sec-moves-to-clear-custody-hurdle-for-advisers-offering-crypto": 1790904153.8953125,
   "https://cointelegraph-tr.com/news/near-intents-says-its-identified-the-hacker-gives-48-hour-ultimatum": 1790907698.3227777,
   "https://cointelegraph-tr.com/news/ethereum-zkapi-private-api-payments-mainnet": 1790913013.4241226,
   "https://cointelegraph-tr.com/news/core-lightning-urges-upgrade-amid-reports-attackers-targeting-unpatched-nodes": 1790916615.845813,
