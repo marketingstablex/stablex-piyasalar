@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-06T10:23:49Z",
+ "updated": "2026-10-06T10:51:50Z",
  "sources": [
   "coindesk.com",
   "cointelegraph-tr.com",
@@ -45,6 +45,20 @@
     "importance": 4
    },
    {
+    "title": "Canlı güncellemeler: 84.000 doların altına düşüş, bitcoin için 80.000 doları gündeme getirebilir",
+    "summary": "Canlı güncellemeler: 84.000 doların altına düşüş, bitcoin için 80.000 doları gündeme getirebilir",
+    "url": "https://www.coindesk.com/markets/2026/10/06/live-updates-a-drop-below-usd84-000-could-put-usd80-000-in-play-for-bitcoin",
+    "published": "2026-10-06T10:35:49Z",
+    "importance": 3
+   },
+   {
+    "title": "Bitcoin 85.000 dolar civarında işlem görürken daha küçük altcoinler parlıyor",
+    "summary": "Bitcoin 85.000 dolar civarında işlem görürken daha küçük altcoinler parlıyor",
+    "url": "https://www.coindesk.com/markets/2026/10/06/smaller-altcoins-shine-as-bitcoin-stills-trades-around-usd85-000",
+    "published": "2026-10-06T10:30:00Z",
+    "importance": 3
+   },
+   {
     "title": "Hisseler rekor seviyelere yakın seyrederken Bitcoin 87.000 dolarda reddedilmeye devam ediyor",
     "summary": "Hisseler rekor seviyelere yakın seyrederken Bitcoin 87.000 dolarda reddedilmeye devam ediyor.",
     "url": "https://www.coindesk.com/markets/2026/10/06/bitcoin-keeps-getting-rejected-at-usd87-000-as-stocks-hover-near-records",
@@ -56,20 +70,6 @@
     "summary": "Zayıf ABD istihdam verileri, ekimde yeni bir Fed faiz artışı beklentilerini azalttı ve yatırımcılar değer kaybı işlemine yönelmeyi sürdürürken Bitcoin’a bir miktar rahatlama sağladı.",
     "url": "https://cointelegraph-tr.com/markets/bitcoin-q3-rally-treasury-yields-fed-rate-outlook",
     "published": "2026-10-05T16:53:08Z",
-    "importance": 3
-   },
-   {
-    "title": "Bitcoin fiyatı son sekiz ayın en iyi haftalık kapanışının ardından yukarı yönlü kırılım yapamadı",
-    "summary": "Bitcoin’in sekiz ayın en yüksek haftalık kapanışı, ABD işlem seansının pazartesi günkü başlangıcında kısa vadeli direnç oluşturdu.",
-    "url": "https://cointelegraph-tr.com/markets/bitcoin-price-fails-to-break-higher-after-best-weekly-close-in-eight-months",
-    "published": "2026-10-05T15:09:57Z",
-    "importance": 3
-   },
-   {
-    "title": "Strive, Haziran'dan bu yana en büyük alımını yaparak 2.000 bitcoin ekledi ve MARA'ya yaklaştı",
-    "summary": "Strive, Haziran ayından bu yana en büyük bitcoin alımını gerçekleştirerek 2.000 bitcoin ekledi. Şirketin bitcoin varlıkları 30.000 BTC sınırına yaklaştı.",
-    "url": "https://www.theblock.co/news/business/2026-10-05-strive-adds-2000-bitcoin-biggest-buy-since-june-closes-in-mara-417677",
-    "published": "2026-10-05T15:03:54Z",
     "importance": 3
    }
   ],
@@ -151,13 +151,6 @@
   ],
   "XRP": [
    {
-    "title": "Eski SEC Başkanı yapay zeka çarı oldu, Bitcoin bu döngüde 600 bin dolara ulaşabilir: Hodler’s Digest",
-    "summary": "Roman Storm ve XRP destekçileri, eski SEC Başkanı Jay Clayton'ın yeni yapay zeka çarı olmasından memnuniyet duymuyor. Öte yandan Peter Brandt, yükseliş yönlü bir tahminle Bitcoin'in 2029 yılına kadar 600 bin dolara ulaşabileceğini belirtiyor.",
-    "url": "https://cointelegraph-tr.com/magazine/former-sec-boss-made-ai-czar-bitcoin-may-hit-600k-this-cycle-hodlers-digest",
-    "published": "2026-10-04T22:31:12Z",
-    "importance": 3
-   },
-   {
     "title": "Bir XRP hazine SPAC'ı, Evernorth birleşmesi öncesinde neredeyse %300 arttı",
     "summary": "Bir XRP hazine SPAC'ı, Evernorth birleşmesi öncesinde neredeyse %300 arttı",
     "url": "https://www.coindesk.com/markets/2026/10/05/xrp-treasury-spac-surges-nearly-300-ahead-of-evernorth-merger",
@@ -167,8 +160,6 @@
   ]
  },
  "seen": {
-  "https://www.coindesk.com/markets/2026/10/02/crypto-traders-are-in-risk-on-mode-as-bitcoin-dominance-nears-return-to-60": 1790938208.926436,
-  "https://cointelegraph-tr.com/news/connect-recap-arthur-hayes-money-printing-wall-street-onchain": 1790938208.926436,
   "https://cointelegraph-tr.com/markets/bnb-chain-1-billion-tokenized-assets-market-3-7-billion": 1790941791.0741725,
   "https://www.coindesk.com/daybook-us/2026/10/02/wall-street-s-fear-gauge-vix-could-get-a-crypto-style-makeover": 1790941791.0741725,
   "https://www.coindesk.com/tech/2026/10/02/live-updates-bitcoin-gold-and-tech-futures-edge-higher-as-markets-await-u-s-jobs-report": 1790941791.0741725,
@@ -269,7 +260,10 @@
   "https://www.theblock.co/news/business/2026-10-06-ondo-launches-onchain-private-company-exposure-starting-with-ai-417762": 1791280298.0004644,
   "https://www.coindesk.com/markets/2026/10/06/u-s-china-ai-race-heats-up-as-chinese-rivals-secure-billions-ahead-of-ipos": 1791280298.0004644,
   "https://cointelegraph-tr.com/markets/binance-btc-outflows-hit-highest-since-mid-2023-as-whales-deposit-stablecoins": 1791282229.0341883,
-  "https://www.theblock.co/news/defi/2026-10-06-zachxbt-infiltrated-chinese-launderers-lazarus-hack-417767": 1791282229.0341883
+  "https://www.theblock.co/news/defi/2026-10-06-zachxbt-infiltrated-chinese-launderers-lazarus-hack-417767": 1791282229.0341883,
+  "https://www.coindesk.com/markets/2026/10/06/live-updates-a-drop-below-usd84-000-could-put-usd80-000-in-play-for-bitcoin": 1791283910.013723,
+  "https://www.coindesk.com/markets/2026/10/06/smaller-altcoins-shine-as-bitcoin-stills-trades-around-usd85-000": 1791283910.013723,
+  "https://cointelegraph-tr.com/news/hong-kong-govt-end-2026-deadline-crypto-licensing-bill": 1791283910.013723
  },
  "tries": {}
 }
