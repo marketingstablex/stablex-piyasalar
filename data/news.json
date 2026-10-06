@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-06T11:23:03Z",
+ "updated": "2026-10-06T11:50:39Z",
  "sources": [
   "coindesk.com",
   "cointelegraph-tr.com",
@@ -160,9 +160,6 @@
   ]
  },
  "seen": {
-  "https://cointelegraph-tr.com/markets/bnb-chain-1-billion-tokenized-assets-market-3-7-billion": 1790941791.0741725,
-  "https://www.coindesk.com/daybook-us/2026/10/02/wall-street-s-fear-gauge-vix-could-get-a-crypto-style-makeover": 1790941791.0741725,
-  "https://www.coindesk.com/tech/2026/10/02/live-updates-bitcoin-gold-and-tech-futures-edge-higher-as-markets-await-u-s-jobs-report": 1790941791.0741725,
   "https://www.coindesk.com/markets/2026/10/02/u-s-added-just-29-000-jobs-in-september-with-unemployment-rate-rising-to-4-2": 1790945667.9513228,
   "https://www.theblock.co/news/regulation/2026-10-02-mike-belshe-bitgo-interview-clarity-417560": 1790945667.9513228,
   "https://cointelegraph-tr.com/news/circle-eu-stablecoin-reserve-rules-mica-review": 1790945667.9513228,
@@ -264,7 +261,9 @@
   "https://www.coindesk.com/markets/2026/10/06/live-updates-a-drop-below-usd84-000-could-put-usd80-000-in-play-for-bitcoin": 1791283910.013723,
   "https://www.coindesk.com/markets/2026/10/06/smaller-altcoins-shine-as-bitcoin-stills-trades-around-usd85-000": 1791283910.013723,
   "https://cointelegraph-tr.com/news/hong-kong-govt-end-2026-deadline-crypto-licensing-bill": 1791283910.013723,
-  "https://www.theblock.co/news/business/2026-10-06-spiko-raises-90-million-to-expand-tokenized-cash-funds-across-markets-417774": 1791285783.8863065
+  "https://www.theblock.co/news/business/2026-10-06-spiko-raises-90-million-to-expand-tokenized-cash-funds-across-markets-417774": 1791285783.8863065,
+  "https://www.theblock.co/news/regulation/2026-10-06-rep-don-davis-introduces-bill-to-stop-federal-candidates-trading-prediction-market-contracts-tied-to-their-own-elections-417781": 1791287439.6985905,
+  "https://www.coindesk.com/daybook-us/2026/10/06/the-vix-of-bonds-is-rising-but-bitcoin-and-stocks-aren-t-hearing-it-yet": 1791287439.6985905
  },
  "tries": {}
 }
