@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-06T19:49:18Z",
+ "updated": "2026-10-06T20:23:47Z",
  "sources": [
   "coindesk.com",
   "cointelegraph-tr.com",
@@ -89,6 +89,13 @@
     "url": "https://www.coindesk.com/daybook-us/2026/10/05/sec-approves-a-3x-fix-for-bitcoin-and-ether-traders-who-miss-the-wild-swings",
     "published": "2026-10-05T11:14:35Z",
     "importance": 4
+   },
+   {
+    "title": "Pudgy Penguins Destekli Ethereum Katman 2 Ağı Abstract Kapanıyor",
+    "summary": "Pudgy Penguins destekli Ethereum Katman 2 ağı Abstract, 15 Aralık'ta kapanacak. Kullanıcıların bu tarihten önce varlıklarını başka bir ağa köprülemesi gerekmektedir.",
+    "url": "https://www.theblock.co/news/ecosystems/2026-10-06-abstract-ethereum-layer-2-shutting-down-pudgy-penguins-igloo-417855",
+    "published": "2026-10-06T20:11:30Z",
+    "importance": 3
    },
    {
     "title": "EEZ, Ethereum’ı birleştirme hedefi doğrultusunda atomik L1’den L2’ye işlemi test etti",
@@ -287,7 +294,8 @@
   "https://cointelegraph-tr.com/news/law-congress-betting-elections-prediction-markets": 1791311133.4729578,
   "https://www.theblock.co/news/regulation/2026-10-06-conduit-sues-tether-usdt-freeze-417831": 1791311133.4729578,
   "https://cointelegraph-tr.com/news/russia-digital-ruble-adoption-brics-cbdc-payments": 1791312823.4114363,
-  "https://cointelegraph-tr.com/news/uk-taps-6-banks-to-lead-first-digitally-native-government-bond": 1791316158.803823
+  "https://cointelegraph-tr.com/news/uk-taps-6-banks-to-lead-first-digitally-native-government-bond": 1791316158.803823,
+  "https://www.theblock.co/news/ecosystems/2026-10-06-abstract-ethereum-layer-2-shutting-down-pudgy-penguins-igloo-417855": 1791318227.9138048
  },
  "tries": {}
 }
