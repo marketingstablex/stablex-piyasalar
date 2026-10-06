@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-06T04:24:19Z",
+ "updated": "2026-10-06T04:50:51Z",
  "sources": [
   "coindesk.com",
   "cointelegraph-tr.com",
@@ -36,6 +36,13 @@
     "url": "https://www.coindesk.com/daybook-us/2026/10/05/sec-approves-a-3x-fix-for-bitcoin-and-ether-traders-who-miss-the-wild-swings",
     "published": "2026-10-05T11:14:35Z",
     "importance": 4
+   },
+   {
+    "title": "Hisseler rekor seviyelere yakın seyrederken Bitcoin 87.000 dolarda reddedilmeye devam ediyor",
+    "summary": "Hisseler rekor seviyelere yakın seyrederken Bitcoin 87.000 dolarda reddedilmeye devam ediyor.",
+    "url": "https://www.coindesk.com/markets/2026/10/06/bitcoin-keeps-getting-rejected-at-usd87-000-as-stocks-hover-near-records",
+    "published": "2026-10-06T04:41:10Z",
+    "importance": 3
    },
    {
     "title": "%5’lik Hazine tahvil getirileri, Bitcoin’ın 2017’den bu yana en iyi çeyreğini uzatmasını tehdit ediyor",
@@ -75,6 +82,13 @@
     "importance": 4
    },
    {
+    "title": "Ethereum'un Glamsterdam testi büyük kapasite artışı öncesinde son dakika düzeltmesi aldı",
+    "summary": "Ethereum'un Glamsterdam testi büyük kapasite artışı öncesinde son dakika düzeltmesi aldı.",
+    "url": "https://www.coindesk.com/tech/2026/10/06/ethereum-s-glamsterdam-test-gets-last-minute-fix-before-major-capacity-jump",
+    "published": "2026-10-06T04:49:05Z",
+    "importance": 3
+   },
+   {
     "title": "Tom Lee, Bitmine'ın 15.112 ETH eklemesiyle ether'in 'diğer makro varlıkları gölgede bıraktığını' söylüyor",
     "summary": "Bitmine, 15.112 ETH eklerken Başkan Tom Lee, Ethereum'un 3. çeyrekte S&P 500'ü 6.832 baz puan geride bıraktığını belirtti.",
     "url": "https://www.theblock.co/news/business/2026-10-05-tom-lee-says-ether-dwarfing-other-macro-assets-as-bitmine-adds-15112-eth-417660",
@@ -105,6 +119,13 @@
   ],
   "SOL": [
    {
+    "title": "Solana Vakfı, kurumsal işlemleri saniyeler içinde takas etmek için bir program tanıttı. JPMorgan katkıda bulundu",
+    "summary": "Solana Vakfı, kurumsal işlemleri saniyeler içinde takas etmek için bir program tanıttı ve JPMorgan bu sürece girdi sağladı.",
+    "url": "https://www.coindesk.com/markets/2026/10/06/solana-foundation-unveils-a-program-to-settle-institutional-trades-in-seconds-with-jpmorgan-s-inputs",
+    "published": "2026-10-06T04:23:45Z",
+    "importance": 4
+   },
+   {
     "title": "DeFi Development, hisse başına net varlık değerinin iki katından fazla arttığını açıkladı ve 2.56 milyon SOL tutuyor",
     "summary": "DeFi Development (DFDV), önlop Q3 tahminlerine göre hisse başına net varlık değerinin iki katından fazla arttığını bildirdi. Şirketin Solana hazinesi 2.56 milyon SOL seviyesine ulaştı.",
     "url": "https://www.theblock.co/news/markets/2026-10-05-defi-development-nav-per-share-doubles-2-56-million-sol-417674",
@@ -130,7 +151,6 @@
   ]
  },
  "seen": {
-  "https://cointelegraph-tr.com/news/core-lightning-urges-upgrade-amid-reports-attackers-targeting-unpatched-nodes": 1790916615.845813,
   "https://cointelegraph-tr.com/news/south-korea-tokenized-securities-rules-2027": 1790918534.2005928,
   "https://www.theblock.co/news/regulation/2026-10-02-secs-innovation-exemption-robinhood-417538": 1790918534.2005928,
   "https://cointelegraph-tr.com/news/zano-exploiter-created-369m-unauthorized-zano-before-blockchain-rollback": 1790918534.2005928,
@@ -229,7 +249,10 @@
   "https://cointelegraph-tr.com/news/crypto-pac-fairshake-house-endorsements-us-midterms": 1791238928.1270025,
   "https://cointelegraph-tr.com/news/chinese-crime-network-laundered-over-1b-for-lazarus-zachxbt": 1791253370.8678699,
   "https://cointelegraph-tr.com/news/okx-money-stablecoin-savings-payments-emerging-markets": 1791258691.3197618,
-  "https://cointelegraph-tr.com/news/rain-seeks-us-trust-bank-charter-days-after-occ-sued-over-crypto-charters": 1791260659.8916557
+  "https://cointelegraph-tr.com/news/rain-seeks-us-trust-bank-charter-days-after-occ-sued-over-crypto-charters": 1791260659.8916557,
+  "https://www.coindesk.com/tech/2026/10/06/ethereum-s-glamsterdam-test-gets-last-minute-fix-before-major-capacity-jump": 1791262251.244416,
+  "https://www.coindesk.com/markets/2026/10/06/bitcoin-keeps-getting-rejected-at-usd87-000-as-stocks-hover-near-records": 1791262251.244416,
+  "https://www.coindesk.com/markets/2026/10/06/solana-foundation-unveils-a-program-to-settle-institutional-trades-in-seconds-with-jpmorgan-s-inputs": 1791262251.244416
  },
  "tries": {}
 }
