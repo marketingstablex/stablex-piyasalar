@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-06T20:50:00Z",
+ "updated": "2026-10-06T21:22:23Z",
  "sources": [
   "coindesk.com",
   "cointelegraph-tr.com",
@@ -185,7 +185,6 @@
   ]
  },
  "seen": {
-  "https://cointelegraph-tr.com/news/mica-strengthened-retail-trust-regulated-crypto-exchanges-bitpanda-ceo-says": 1790974207.8032124,
   "https://www.coindesk.com/policy/2026/10/02/bank-group-sues-u-s-regulator-over-granting-crypto-trust-charters": 1790977754.357095,
   "https://cointelegraph-tr.com/news/trump-is-expected-to-appoint-jay-clayton-as-new-ai-czar-reports": 1791013810.911606,
   "https://cointelegraph-tr.com/news/community-banks-sue-occ-over-trust-bank-charters-of-crypto-firms": 1791020912.4439363,
@@ -295,7 +294,9 @@
   "https://www.theblock.co/news/regulation/2026-10-06-conduit-sues-tether-usdt-freeze-417831": 1791311133.4729578,
   "https://cointelegraph-tr.com/news/russia-digital-ruble-adoption-brics-cbdc-payments": 1791312823.4114363,
   "https://cointelegraph-tr.com/news/uk-taps-6-banks-to-lead-first-digitally-native-government-bond": 1791316158.803823,
-  "https://www.theblock.co/news/ecosystems/2026-10-06-abstract-ethereum-layer-2-shutting-down-pudgy-penguins-igloo-417855": 1791318227.9138048
+  "https://www.theblock.co/news/ecosystems/2026-10-06-abstract-ethereum-layer-2-shutting-down-pudgy-penguins-igloo-417855": 1791318227.9138048,
+  "https://cointelegraph-tr.com/news/winklevoss-backed-zcash-etf-files-with-sec-for-nasdaq-listing": 1791321743.9018087,
+  "https://cointelegraph-tr.com/news/european-central-bank-fragmentation-digital-euro": 1791321743.9018087
  },
  "tries": {}
 }
