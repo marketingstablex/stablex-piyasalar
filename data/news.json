@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-06T06:55:38Z",
+ "updated": "2026-10-06T07:24:54Z",
  "sources": [
   "coindesk.com",
   "cointelegraph-tr.com",
@@ -80,6 +80,13 @@
     "url": "https://www.coindesk.com/daybook-us/2026/10/05/sec-approves-a-3x-fix-for-bitcoin-and-ether-traders-who-miss-the-wild-swings",
     "published": "2026-10-05T11:14:35Z",
     "importance": 4
+   },
+   {
+    "title": "EEZ, Ethereum’ı birleştirme hedefi doğrultusunda atomik L1’den L2’ye işlemi test etti",
+    "summary": "Bir EEZ katılımcısı, proje Ethereum ana ağı ile rollup’larını birbirine bağlayacak bir çerçeve geliştirirken 0,001 ETH’lik zincirler arası testi paylaştı.",
+    "url": "https://cointelegraph-tr.com/news/ethereum-eez-atomic-l1-l2-transaction-mainnet",
+    "published": "2026-10-06T07:09:33Z",
+    "importance": 3
    },
    {
     "title": "Ethereum'un Glamsterdam testi büyük kapasite artışı öncesinde son dakika düzeltmesi aldı",
@@ -249,7 +256,8 @@
   "https://www.coindesk.com/markets/2026/10/06/bitcoin-keeps-getting-rejected-at-usd87-000-as-stocks-hover-near-records": 1791262251.244416,
   "https://www.coindesk.com/markets/2026/10/06/solana-foundation-unveils-a-program-to-settle-institutional-trades-in-seconds-with-jpmorgan-s-inputs": 1791262251.244416,
   "https://www.coindesk.com/policy/2026/10/06/u-s-scraps-proposed-usd10-000-reporting-rule-for-for-crypto-sent-to-private-wallets": 1791264186.6460013,
-  "https://cointelegraph-tr.com/news/better-markets-criticize-cftc-regulate-retail-crypto": 1791265795.3848383
+  "https://cointelegraph-tr.com/news/better-markets-criticize-cftc-regulate-retail-crypto": 1791265795.3848383,
+  "https://cointelegraph-tr.com/news/ethereum-eez-atomic-l1-l2-transaction-mainnet": 1791271494.6950002
  },
  "tries": {}
 }
