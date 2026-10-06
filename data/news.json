@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-06T07:51:12Z",
+ "updated": "2026-10-06T08:25:14Z",
  "sources": [
   "coindesk.com",
   "cointelegraph-tr.com",
@@ -16,6 +16,13 @@
    }
   ],
   "BTC": [
+   {
+    "title": "Bitcoin ETF’leri, BTC bir yıl önceki tüm zamanların en yüksek seviyesinin %32 altında seyrederken 90 milyon dolar kaybetti",
+    "summary": "ABD spot Bitcoin ETF’lerinde, Bitcoin 86.000 doların altına gerilerken iki günlük giriş tersine dönerek 90 milyon dolar kayıp yaşandı. BTC, Ekim 2025’teki tüm zamanların en yüksek seviyesinin yaklaşık %32 altında işlem görüyor.",
+    "url": "https://cointelegraph-tr.com/markets/bitcoin-etf-90-million-outflow-btc-32-below-record-oct-6",
+    "published": "2026-10-06T08:14:17Z",
+    "importance": 4
+   },
    {
     "title": "Hazine, kripto karıştırma kuralını 'meşru faaliyetler üzerindeki ürkütücü etki' endişeleriyle geri çekti",
     "summary": "FinCEN, PATRIOT Yasası kapsamında kripto para karıştırma işlemlerini \"birincil düzeyde kara para aklama endişesi\" olarak tanımlayacak bir teklifi geri çekmektedir.",
@@ -63,13 +70,6 @@
     "summary": "Strive, Haziran ayından bu yana en büyük bitcoin alımını gerçekleştirerek 2.000 bitcoin ekledi. Şirketin bitcoin varlıkları 30.000 BTC sınırına yaklaştı.",
     "url": "https://www.theblock.co/news/business/2026-10-05-strive-adds-2000-bitcoin-biggest-buy-since-june-closes-in-mara-417677",
     "published": "2026-10-05T15:03:54Z",
-    "importance": 3
-   },
-   {
-    "title": "Strategy, BTC alımları yerine STRC geri alımlarına daha fazla harcama yapmayı tercih ediyor",
-    "summary": "Strategy geçen hafta 334 Bitcoin için 28,7 milyon dolar harcarken, yaklaşık 1,77 milyon STRC hissesini geri almak için 176,3 milyon dolar harcadı.",
-    "url": "https://cointelegraph-tr.com/news/strategy-848k-bitcoin-strc-buybacks-outpace-btc-buys",
-    "published": "2026-10-05T13:22:16Z",
     "importance": 3
    }
   ],
@@ -257,7 +257,8 @@
   "https://www.coindesk.com/markets/2026/10/06/solana-foundation-unveils-a-program-to-settle-institutional-trades-in-seconds-with-jpmorgan-s-inputs": 1791262251.244416,
   "https://www.coindesk.com/policy/2026/10/06/u-s-scraps-proposed-usd10-000-reporting-rule-for-for-crypto-sent-to-private-wallets": 1791264186.6460013,
   "https://cointelegraph-tr.com/news/better-markets-criticize-cftc-regulate-retail-crypto": 1791265795.3848383,
-  "https://cointelegraph-tr.com/news/ethereum-eez-atomic-l1-l2-transaction-mainnet": 1791271494.6950002
+  "https://cointelegraph-tr.com/news/ethereum-eez-atomic-l1-l2-transaction-mainnet": 1791271494.6950002,
+  "https://cointelegraph-tr.com/markets/bitcoin-etf-90-million-outflow-btc-32-below-record-oct-6": 1791275114.945261
  },
  "tries": {}
 }
