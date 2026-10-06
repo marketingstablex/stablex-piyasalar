@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-06T08:52:14Z",
+ "updated": "2026-10-06T09:24:49Z",
  "sources": [
   "coindesk.com",
   "cointelegraph-tr.com",
@@ -124,6 +124,15 @@
     "importance": 2
    }
   ],
+  "ONDO": [
+   {
+    "title": "Ondo, tokenleştirilmiş halka arz öncesi yapay zeka yatırımıyla özel piyasaları açıyor",
+    "summary": "Ondo’nun tokenleştirilmiş senetleri, uygun yatırımcılara özel şirketlere ekonomik erişim sağlayacak. İlk senet adı açıklanmayan, halka arz öncesi bir yapay zeka şirketine bağlı olacak.",
+    "url": "https://cointelegraph-tr.com/news/ondo-private-markets-tokenized-pre-ipo-ai",
+    "published": "2026-10-06T09:21:38Z",
+    "importance": 3
+   }
+  ],
   "SOL": [
    {
     "title": "Solana Vakfı, kurumsal işlemleri saniyeler içinde takas etmek için bir program tanıttı. JPMorgan katkıda bulundu",
@@ -158,7 +167,6 @@
   ]
  },
  "seen": {
-  "https://www.coindesk.com/markets/2026/10/02/why-rising-perpetual-funding-rates-signal-growing-bullish-leverage-as-bitcoin-crosses-usd86-500": 1790933078.7714558,
   "https://cointelegraph-tr.com/news/aave-v3-third-party-adapter-exploit-305k": 1790934645.6855893,
   "https://cointelegraph-tr.com/news/porsche-shuts-down-web3-project-911-nft": 1790934645.6855893,
   "https://www.theblock.co/news/regulation/2026-10-02-ecb-outlines-three-models-for-putting-central-bank-money-onchain-417552": 1790936582.4971292,
@@ -257,7 +265,10 @@
   "https://cointelegraph-tr.com/news/better-markets-criticize-cftc-regulate-retail-crypto": 1791265795.3848383,
   "https://cointelegraph-tr.com/news/ethereum-eez-atomic-l1-l2-transaction-mainnet": 1791271494.6950002,
   "https://cointelegraph-tr.com/markets/bitcoin-etf-90-million-outflow-btc-32-below-record-oct-6": 1791275114.945261,
-  "https://www.coindesk.com/markets/2026/10/06/from-retail-leverage-to-etf-flows-a-year-after-its-record-high-bitcoin-is-down-just-32": 1791276734.0035934
+  "https://www.coindesk.com/markets/2026/10/06/from-retail-leverage-to-etf-flows-a-year-after-its-record-high-bitcoin-is-down-just-32": 1791276734.0035934,
+  "https://cointelegraph-tr.com/news/ondo-private-markets-tokenized-pre-ipo-ai": 1791278689.6227672,
+  "https://cointelegraph-tr.com/news/solana-foundation-settlement-seconds-dvp": 1791278689.6227672,
+  "https://www.coindesk.com/business/2026/10/06/okx-money-lets-users-save-earn-10-yield-and-spend-dollar-stablecoins-in-one-app": 1791278689.6227672
  },
  "tries": {}
 }
