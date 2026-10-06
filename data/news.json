@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-06T22:47:58Z",
+ "updated": "2026-10-06T23:21:26Z",
  "sources": [
   "coindesk.com",
   "cointelegraph-tr.com",
@@ -45,13 +45,6 @@
     "importance": 4
    },
    {
-    "title": "SEC, çılgın dalgalanmaları kaçıran Bitcoin ve Ether yatırımcıları için 3x kaldıraçlı çözümü onayladı",
-    "summary": "SEC, çılgın dalgalanmaları kaçıran Bitcoin ve Ether yatırımcıları için 3x kaldıraçlı çözümü onayladı.",
-    "url": "https://www.coindesk.com/daybook-us/2026/10/05/sec-approves-a-3x-fix-for-bitcoin-and-ether-traders-who-miss-the-wild-swings",
-    "published": "2026-10-05T11:14:35Z",
-    "importance": 4
-   },
-   {
     "title": "Canlı güncellemeler: 84.000 doların altına düşüş, bitcoin için 80.000 doları gündeme getirebilir",
     "summary": "Canlı güncellemeler: 84.000 doların altına düşüş, bitcoin için 80.000 doları gündeme getirebilir",
     "url": "https://www.coindesk.com/markets/2026/10/06/live-updates-a-drop-below-usd84-000-could-put-usd80-000-in-play-for-bitcoin",
@@ -74,13 +67,6 @@
    }
   ],
   "ETH": [
-   {
-    "title": "SEC, çılgın dalgalanmaları kaçıran Bitcoin ve Ether yatırımcıları için 3x kaldıraçlı çözümü onayladı",
-    "summary": "SEC, çılgın dalgalanmaları kaçıran Bitcoin ve Ether yatırımcıları için 3x kaldıraçlı çözümü onayladı.",
-    "url": "https://www.coindesk.com/daybook-us/2026/10/05/sec-approves-a-3x-fix-for-bitcoin-and-ether-traders-who-miss-the-wild-swings",
-    "published": "2026-10-05T11:14:35Z",
-    "importance": 4
-   },
    {
     "title": "Pudgy Penguins Destekli Ethereum Katman 2 Ağı Abstract Kapanıyor",
     "summary": "Pudgy Penguins destekli Ethereum Katman 2 ağı Abstract, 15 Aralık'ta kapanacak. Kullanıcıların bu tarihten önce varlıklarını başka bir ağa köprülemesi gerekmektedir.",
