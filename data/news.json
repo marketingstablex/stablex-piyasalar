@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-06T01:48:07Z",
+ "updated": "2026-10-06T02:22:50Z",
  "sources": [
   "coindesk.com",
   "cointelegraph-tr.com",
@@ -130,7 +130,6 @@
   ]
  },
  "seen": {
-  "https://cointelegraph-tr.com/news/near-intents-says-its-identified-the-hacker-gives-48-hour-ultimatum": 1790907698.3227777,
   "https://cointelegraph-tr.com/news/ethereum-zkapi-private-api-payments-mainnet": 1790913013.4241226,
   "https://cointelegraph-tr.com/news/core-lightning-urges-upgrade-amid-reports-attackers-targeting-unpatched-nodes": 1790916615.845813,
   "https://cointelegraph-tr.com/news/south-korea-tokenized-securities-rules-2027": 1790918534.2005928,
@@ -228,7 +227,8 @@
   "https://cointelegraph-tr.com/news/modern-treasury-seeks-us-trust-bank-charter-for-stablecoin-custody": 1791235900.811262,
   "https://www.coindesk.com/policy/2026/10/05/crypto-s-campaign-arm-fairshake-sets-lists-of-u-s-house-favorites-it-ll-spend-on": 1791235900.811262,
   "https://cointelegraph-tr.com/news/crypto-advocacy-groups-icba-lawsuit-occ-charters": 1791235900.811262,
-  "https://cointelegraph-tr.com/news/crypto-pac-fairshake-house-endorsements-us-midterms": 1791238928.1270025
+  "https://cointelegraph-tr.com/news/crypto-pac-fairshake-house-endorsements-us-midterms": 1791238928.1270025,
+  "https://cointelegraph-tr.com/news/chinese-crime-network-laundered-over-1b-for-lazarus-zachxbt": 1791253370.8678699
  },
  "tries": {}
 }
