@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-06T17:50:10Z",
+ "updated": "2026-10-06T18:25:33Z",
  "sources": [
   "coindesk.com",
   "cointelegraph-tr.com",
@@ -158,6 +158,15 @@
     "importance": 2
    }
   ],
+  "USDT": [
+   {
+    "title": "Conduit, 2.76 milyon dolarlık dondurma işlemi nedeniyle Tether'e dava açtı ve fonlar üzerinde yasal hakları olmadığını belirtti",
+    "summary": "Conduit, USDT ihraççısının 2.76 milyon dolarlık fonunu hiçbir açıklama yapmadan bir yıldan uzun süredir dondurduğunu iddia ederek New York federal mahkemesinde Tether'e dava açıyor.",
+    "url": "https://www.theblock.co/news/regulation/2026-10-06-conduit-sues-tether-usdt-freeze-417831",
+    "published": "2026-10-06T17:54:00Z",
+    "importance": 3
+   }
+  ],
   "XRP": [
    {
     "title": "Ripple, Brevan Howard anlaşmasını ana brokerlik hizmetleriyle genişletiyor",
@@ -283,7 +292,9 @@
   "https://cointelegraph-tr.com/news/securitize-lg-cns-south-korea-tokenized-assets": 1791307283.950785,
   "https://www.coindesk.com/business/2026/10/06/peter-thiel-backed-founders-fund-leads-a-usd5-million-token-buy-in-crypto-collateral-protocol-anvil": 1791307283.950785,
   "https://cointelegraph-tr.com/news/majority-of-affluent-investors-across-7-countries-own-crypto-survey": 1791309010.0709147,
-  "https://cointelegraph-tr.com/markets/bitcoin-grinds-toward-87k-as-us-equities-hit-new-record-highs": 1791309010.0709147
+  "https://cointelegraph-tr.com/markets/bitcoin-grinds-toward-87k-as-us-equities-hit-new-record-highs": 1791309010.0709147,
+  "https://cointelegraph-tr.com/news/law-congress-betting-elections-prediction-markets": 1791311133.4729578,
+  "https://www.theblock.co/news/regulation/2026-10-06-conduit-sues-tether-usdt-freeze-417831": 1791311133.4729578
  },
  "tries": {}
 }
