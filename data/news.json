@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-06T04:50:51Z",
+ "updated": "2026-10-06T05:23:06Z",
  "sources": [
   "coindesk.com",
   "cointelegraph-tr.com",
@@ -151,9 +151,6 @@
   ]
  },
  "seen": {
-  "https://cointelegraph-tr.com/news/south-korea-tokenized-securities-rules-2027": 1790918534.2005928,
-  "https://www.theblock.co/news/regulation/2026-10-02-secs-innovation-exemption-robinhood-417538": 1790918534.2005928,
-  "https://cointelegraph-tr.com/news/zano-exploiter-created-369m-unauthorized-zano-before-blockchain-rollback": 1790918534.2005928,
   "https://cointelegraph-tr.com/news/south-korea-crypto-exchange-profits-fall-78-percent": 1790922486.8245394,
   "https://www.theblock.co/news/markets/2026-10-02-spot-bitcoin-etfs-september-inflows-417547": 1790922486.8245394,
   "https://www.coindesk.com/markets/2026/10/02/bitcoin-tops-usd86-000-ahead-of-u-s-jobs-report": 1790929532.8774536,
@@ -252,7 +249,8 @@
   "https://cointelegraph-tr.com/news/rain-seeks-us-trust-bank-charter-days-after-occ-sued-over-crypto-charters": 1791260659.8916557,
   "https://www.coindesk.com/tech/2026/10/06/ethereum-s-glamsterdam-test-gets-last-minute-fix-before-major-capacity-jump": 1791262251.244416,
   "https://www.coindesk.com/markets/2026/10/06/bitcoin-keeps-getting-rejected-at-usd87-000-as-stocks-hover-near-records": 1791262251.244416,
-  "https://www.coindesk.com/markets/2026/10/06/solana-foundation-unveils-a-program-to-settle-institutional-trades-in-seconds-with-jpmorgan-s-inputs": 1791262251.244416
+  "https://www.coindesk.com/markets/2026/10/06/solana-foundation-unveils-a-program-to-settle-institutional-trades-in-seconds-with-jpmorgan-s-inputs": 1791262251.244416,
+  "https://www.coindesk.com/policy/2026/10/06/u-s-scraps-proposed-usd10-000-reporting-rule-for-for-crypto-sent-to-private-wallets": 1791264186.6460013
  },
  "tries": {}
 }
