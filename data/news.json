@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-06T16:52:34Z",
+ "updated": "2026-10-06T17:21:23Z",
  "sources": [
   "coindesk.com",
   "cointelegraph-tr.com",
@@ -284,7 +284,9 @@
   "https://www.theblock.co/news/markets/2026-10-06-defi-development-chad-preferred-stock-repurchase-program-417819": 1791300213.715235,
   "https://cointelegraph-tr.com/news/ripple-expands-brevan-howard-deal-with-prime-brokerage-services": 1791301891.308993,
   "https://www.coindesk.com/opinion/2026/10/06/crypto-is-expanding-the-boundaries-of-what-can-be-priced": 1791305554.2870405,
-  "https://www.theblock.co/news/markets/2026-10-06-winklevoss-files-spot-zcash-etf-wink-417826": 1791305554.2870405
+  "https://www.theblock.co/news/markets/2026-10-06-winklevoss-files-spot-zcash-etf-wink-417826": 1791305554.2870405,
+  "https://cointelegraph-tr.com/news/securitize-lg-cns-south-korea-tokenized-assets": 1791307283.950785,
+  "https://www.coindesk.com/business/2026/10/06/peter-thiel-backed-founders-fund-leads-a-usd5-million-token-buy-in-crypto-collateral-protocol-anvil": 1791307283.950785
  },
  "tries": {}
 }
