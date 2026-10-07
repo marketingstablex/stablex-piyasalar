@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-07T09:25:03Z",
+ "updated": "2026-10-07T09:52:30Z",
  "sources": [
   "coindesk.com",
   "cointelegraph-tr.com",
@@ -144,6 +144,13 @@
     "importance": 4
    },
    {
+    "title": "Jito (JTX) Sonbaharda Mobil Uygulama Çıkarmayı Planlıyor ve Kışın Vadeli İşlem Entegrasyonunu Hedefliyor",
+    "summary": "Jito’nun JTX projesi, Solana üzerinde spot ticaretin ötesine geçerek bir mobil uygulama, hisse senedi özelliği ve kalıcı vadeli işlemler sunmayı planlıyor. Mobil uygulamanın bu sonbaharda çıkması beklenirken, vadeli işlem entegrasyonunun ilerleyen kış aylarında yapılması hedefleniyor.",
+    "url": "https://www.theblock.co/news/defi/2026-10-07-jitos-jtx-plans-mobile-app-this-fall-eyes-perps-integration-later-this-winter-417905",
+    "published": "2026-10-07T09:51:29Z",
+    "importance": 3
+   },
+   {
     "title": "Solana hazine şirketi DeFi Development, CHAD imtiyazlı hisse geri alım programını onayladı",
     "summary": "Solana hazine firması DeFi Development, 10 dolar nominal değerinin altında işlem görmesi durumunda CHAD imtiyazlı hisselerini geri almak için açık uçlu bir programı onayladı.",
     "url": "https://www.theblock.co/news/markets/2026-10-06-defi-development-chad-preferred-stock-repurchase-program-417819",
@@ -171,7 +178,6 @@
   ]
  },
  "seen": {
-  "https://cointelegraph-tr.com/news/community-banks-sue-occ-over-trust-bank-charters-of-crypto-firms": 1791020912.4439363,
   "https://www.coindesk.com/opinion/2026/10/03/crypto-s-sisyphean-struggle": 1791038002.256903,
   "https://www.coindesk.com/business/2026/10/03/blackrock-offers-a-glimpse-of-how-tokenization-may-change-your-investment-portfolio": 1791038002.256903,
   "https://cointelegraph-tr.com/news/near-intents-recovers-entire-stolen-38m-after-ultimatum-to-exploiter": 1791038002.256903,
@@ -297,7 +303,8 @@
   "https://www.coindesk.com/business/2026/10/07/rain-becomes-12th-crypto-firm-seeking-occ-trust-bank-charter-amid-community-bank-pushback": 1791365103.3431554,
   "https://cointelegraph-tr.com/markets/bitcoin-etf-rebound-119m-inflow-ether-extend-losses": 1791365103.3431554,
   "https://www.coindesk.com/markets/2026/10/07/robinhood-adds-bitcoin-worth-usd25-million-to-its-balance-sheet-report": 1791365103.3431554,
-  "https://cointelegraph-tr.com/news/bitmine-ether-5-percent-supply-hard-cap": 1791365103.3431554
+  "https://cointelegraph-tr.com/news/bitmine-ether-5-percent-supply-hard-cap": 1791365103.3431554,
+  "https://www.theblock.co/news/defi/2026-10-07-jitos-jtx-plans-mobile-app-this-fall-eyes-perps-integration-later-this-winter-417905": 1791366750.6254628
  },
  "tries": {}
 }
