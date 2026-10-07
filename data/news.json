@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-07T18:56:12Z",
+ "updated": "2026-10-07T19:23:58Z",
  "sources": [
   "coindesk.com",
   "cointelegraph-tr.com",
@@ -123,13 +123,6 @@
     "summary": "Pudgy Penguins’in Abstract'ı, bir hafta içinde kapanan ikinci Ethereum katman 2 ağı oldu.",
     "url": "https://www.coindesk.com/tech/2026/10/07/pudgy-penguins-abstract-becomes-second-ethereum-layer-2-to-shut-in-a-week",
     "published": "2026-10-07T04:31:14Z",
-    "importance": 3
-   },
-   {
-    "title": "EEZ, Ethereum’ı birleştirme hedefi doğrultusunda atomik L1’den L2’ye işlemi test etti",
-    "summary": "Bir EEZ katılımcısı, proje Ethereum ana ağı ile rollup’larını birbirine bağlayacak bir çerçeve geliştirirken 0,001 ETH’lik zincirler arası testi paylaştı.",
-    "url": "https://cointelegraph-tr.com/news/ethereum-eez-atomic-l1-l2-transaction-mainnet",
-    "published": "2026-10-06T07:09:33Z",
     "importance": 3
    }
   ],
@@ -333,7 +326,8 @@
   "https://www.coindesk.com/business/2026/10/07/polygon-and-tron-partner-to-bridge-usd94-billion-usdt-ecosystem-with-u-s-banking-rails": 1791393936.906944,
   "https://cointelegraph-tr.com/news/sui-offchain-network-hits-40m-tps-in-live-ai-focused-stress-test": 1791395492.3777719,
   "https://cointelegraph-tr.com/news/hunter-biden-laptop-memecoin-troll-no-rug-pull": 1791397677.925838,
-  "https://www.theblock.co/news/markets/2026-10-07-grayscale-crypto-etf-market-beyond-bitcoin-ether-417953": 1791399372.2395728
+  "https://www.theblock.co/news/markets/2026-10-07-grayscale-crypto-etf-market-beyond-bitcoin-ether-417953": 1791399372.2395728,
+  "https://www.coindesk.com/business/2026/10/05/wells-fargo-in-talks-with-kraken-parent-payward-for-crypto-trading-liquidity": 1791401038.2781036
  },
  "tries": {}
 }
