@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-07T04:53:30Z",
+ "updated": "2026-10-07T05:24:13Z",
  "sources": [
   "coindesk.com",
   "cointelegraph-tr.com",
@@ -47,11 +47,11 @@
     "importance": 4
    },
    {
-    "title": "Hazine, kripto karıştırma kuralını 'meşru faaliyetler üzerindeki ürkütücü etki' endişeleriyle geri çekti",
-    "summary": "FinCEN, PATRIOT Yasası kapsamında kripto para karıştırma işlemlerini \"birincil düzeyde kara para aklama endişesi\" olarak tanımlayacak bir teklifi geri çekmektedir.",
-    "url": "https://www.theblock.co/news/regulation/2026-10-05-fincen-drops-crypto-mixing-rule-self-hosted-wallet-proposal-417690",
-    "published": "2026-10-05T17:22:37Z",
-    "importance": 4
+    "title": "Kalshi’nin 15 dakikalık altın piyasaları, piyasaya sürülmelerinden yalnızca birkaç hafta sonra Ether’i geride bıraktı",
+    "summary": "Altın, eylülde 542 milyon işlem görmüş kontrat ve tahmini 5 milyon dolar ücret kaydederek Ether’in 318 milyon kontratını ve 2,6 milyon dolarlık ücretini geride bıraktı. Ancak Bitcoin açık ara önde kalmaya devam etti.",
+    "url": "https://cointelegraph-tr.com/news/kalshis-15-min-gold-markets-overtake-ether-just-weeks-after-launch",
+    "published": "2026-10-07T04:57:54Z",
+    "importance": 3
    },
    {
     "title": "Bitcoin 85.000 dolar civarında işlem görürken daha küçük altcoinler parlıyor",
@@ -62,6 +62,13 @@
    }
   ],
   "ETH": [
+   {
+    "title": "Kalshi’nin 15 dakikalık altın piyasaları, piyasaya sürülmelerinden yalnızca birkaç hafta sonra Ether’i geride bıraktı",
+    "summary": "Altın, eylülde 542 milyon işlem görmüş kontrat ve tahmini 5 milyon dolar ücret kaydederek Ether’in 318 milyon kontratını ve 2,6 milyon dolarlık ücretini geride bıraktı. Ancak Bitcoin açık ara önde kalmaya devam etti.",
+    "url": "https://cointelegraph-tr.com/news/kalshis-15-min-gold-markets-overtake-ether-just-weeks-after-launch",
+    "published": "2026-10-07T04:57:54Z",
+    "importance": 3
+   },
    {
     "title": "Pudgy Penguins’in Abstract'ı, bir hafta içinde kapanan ikinci Ethereum katman 2 ağı oldu",
     "summary": "Pudgy Penguins’in Abstract'ı, bir hafta içinde kapanan ikinci Ethereum katman 2 ağı oldu.",
@@ -246,7 +253,8 @@
   "https://www.coindesk.com/tech/2026/10/07/cardano-gives-token-issuers-power-to-freeze-seize-and-restrict-assets": 1791347070.8390985,
   "https://www.coindesk.com/markets/2026/10/07/bitcoin-dips-below-usd84-000-as-oil-jumps-on-iranian-tanker-attacks": 1791347070.8390985,
   "https://www.theblock.co/news/markets/2026-10-06-bitcoin-slides-crypto-long-liquidations-surge-417882": 1791347070.8390985,
-  "https://www.coindesk.com/tech/2026/10/07/pudgy-penguins-abstract-becomes-second-ethereum-layer-2-to-shut-in-a-week": 1791348810.788329
+  "https://www.coindesk.com/tech/2026/10/07/pudgy-penguins-abstract-becomes-second-ethereum-layer-2-to-shut-in-a-week": 1791348810.788329,
+  "https://cointelegraph-tr.com/news/kalshis-15-min-gold-markets-overtake-ether-just-weeks-after-launch": 1791350653.789743
  },
  "tries": {}
 }
