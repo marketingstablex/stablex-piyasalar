@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-07T01:50:05Z",
+ "updated": "2026-10-07T02:23:27Z",
  "sources": [
   "coindesk.com",
   "cointelegraph-tr.com",
@@ -245,7 +245,8 @@
   "https://www.theblock.co/news/ecosystems/2026-10-06-abstract-ethereum-layer-2-shutting-down-pudgy-penguins-igloo-417855": 1791318227.9138048,
   "https://cointelegraph-tr.com/news/winklevoss-backed-zcash-etf-files-with-sec-for-nasdaq-listing": 1791321743.9018087,
   "https://cointelegraph-tr.com/news/european-central-bank-fragmentation-digital-euro": 1791321743.9018087,
-  "https://cointelegraph-tr.com/news/consumer-crypto-chain-abstract-to-wind-down": 1791333259.9409804
+  "https://cointelegraph-tr.com/news/consumer-crypto-chain-abstract-to-wind-down": 1791333259.9409804,
+  "https://cointelegraph-tr.com/news/bitcoinde-trading-remains-halted-as-german-regulator-rejects-mica-application": 1791339807.0466213
  },
  "tries": {}
 }
