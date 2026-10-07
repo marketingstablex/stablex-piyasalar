@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-07T21:52:44Z",
+ "updated": "2026-10-07T22:21:10Z",
  "sources": [
   "coindesk.com",
   "cointelegraph-tr.com",
@@ -129,6 +129,13 @@
    }
   ],
   "SOL": [
+   {
+    "title": "Solana'nın Orca'sı, Yapay Zeka, Robotik ve Savunmayı Finanse Etmek İçin Loopscale ile Birleşti",
+    "summary": "Orca ve Loopscale, yapay zeka, enerji, robotik ve savunma alanlarında finansmanı hedefleyerek Formation adı altında birleşti.",
+    "url": "https://www.theblock.co/news/defi/2026-10-07-solanas-orca-merges-with-loopscale-push-to-finance-ai-robotics-defense-417924",
+    "published": "2026-10-07T22:01:02Z",
+    "importance": 3
+   },
    {
     "title": "Jito (JTX) Sonbaharda Mobil Uygulama Çıkarmayı Planlıyor ve Kışın Vadeli İşlem Entegrasyonunu Hedefliyor",
     "summary": "Jito’nun JTX projesi, Solana üzerinde spot ticaretin ötesine geçerek bir mobil uygulama, hisse senedi özelliği ve kalıcı vadeli işlemler sunmayı planlıyor. Mobil uygulamanın bu sonbaharda çıkması beklenirken, vadeli işlem entegrasyonunun ilerleyen kış aylarında yapılması hedefleniyor.",
@@ -321,7 +328,8 @@
   "https://cointelegraph-tr.com/news/hunter-biden-laptop-memecoin-troll-no-rug-pull": 1791397677.925838,
   "https://www.theblock.co/news/markets/2026-10-07-grayscale-crypto-etf-market-beyond-bitcoin-ether-417953": 1791399372.2395728,
   "https://www.coindesk.com/business/2026/10/05/wells-fargo-in-talks-with-kraken-parent-payward-for-crypto-trading-liquidity": 1791401038.2781036,
-  "https://cointelegraph-tr.com/news/circle-usdc-eurc-payments-sap-enterprise-ecosystem": 1791408243.5008264
+  "https://cointelegraph-tr.com/news/circle-usdc-eurc-payments-sap-enterprise-ecosystem": 1791408243.5008264,
+  "https://www.theblock.co/news/defi/2026-10-07-solanas-orca-merges-with-loopscale-push-to-finance-ai-robotics-defense-417924": 1791411670.5642765
  },
  "tries": {}
 }
