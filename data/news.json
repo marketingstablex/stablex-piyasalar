@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-07T15:57:55Z",
+ "updated": "2026-10-07T16:26:40Z",
  "sources": [
   "coindesk.com",
   "cointelegraph-tr.com",
@@ -145,13 +145,6 @@
    }
   ],
   "SOL": [
-   {
-    "title": "Solana Vakfı, kurumsal işlemleri saniyeler içinde takas etmek için bir program tanıttı. JPMorgan katkıda bulundu",
-    "summary": "Solana Vakfı, kurumsal işlemleri saniyeler içinde takas etmek için bir program tanıttı ve JPMorgan bu sürece girdi sağladı.",
-    "url": "https://www.coindesk.com/markets/2026/10/06/solana-foundation-unveils-a-program-to-settle-institutional-trades-in-seconds-with-jpmorgan-s-inputs",
-    "published": "2026-10-06T04:23:45Z",
-    "importance": 4
-   },
    {
     "title": "Jito (JTX) Sonbaharda Mobil Uygulama Çıkarmayı Planlıyor ve Kışın Vadeli İşlem Entegrasyonunu Hedefliyor",
     "summary": "Jito’nun JTX projesi, Solana üzerinde spot ticaretin ötesine geçerek bir mobil uygulama, hisse senedi özelliği ve kalıcı vadeli işlemler sunmayı planlıyor. Mobil uygulamanın bu sonbaharda çıkması beklenirken, vadeli işlem entegrasyonunun ilerleyen kış aylarında yapılması hedefleniyor.",
@@ -329,7 +322,8 @@
   "https://www.coindesk.com/business/2026/10/07/gate-bets-all-in-one-money-app-is-crypto-s-biggest-consumer-trend-this-year-and-next": 1791387294.5051594,
   "https://cointelegraph-tr.com/markets/bitcoin-price-drops-to-827k-october-low-as-bond-sell-off-resumes-on-iran-nerves": 1791387294.5051594,
   "https://www.coindesk.com/coindesk-indices/2026/10/07/crypto-long-and-short-zcash-and-the-case-for-privacy-in-the-age-of-ai": 1791387294.5051594,
-  "https://cointelegraph-tr.com/news/coinbase-deribit-us-crypto-options-perpetual-futures": 1791388675.0826604
+  "https://cointelegraph-tr.com/news/coinbase-deribit-us-crypto-options-perpetual-futures": 1791388675.0826604,
+  "https://cointelegraph-tr.com/news/sec-cftc-crypto-regulations-fall-short-clarity-bill": 1791390400.5436761
  },
  "tries": {}
 }
