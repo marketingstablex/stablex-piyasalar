@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-07T02:23:27Z",
+ "updated": "2026-10-07T02:50:39Z",
  "sources": [
   "coindesk.com",
   "cointelegraph-tr.com",
@@ -98,13 +98,6 @@
     "url": "https://www.coindesk.com/markets/2026/10/06/solana-foundation-unveils-a-program-to-settle-institutional-trades-in-seconds-with-jpmorgan-s-inputs",
     "published": "2026-10-06T04:23:45Z",
     "importance": 4
-   },
-   {
-    "title": "DeFi Development, hisse başına net varlık değerinin iki katından fazla arttığını açıkladı ve 2.56 milyon SOL tutuyor",
-    "summary": "DeFi Development (DFDV), önlop Q3 tahminlerine göre hisse başına net varlık değerinin iki katından fazla arttığını bildirdi. Şirketin Solana hazinesi 2.56 milyon SOL seviyesine ulaştı.",
-    "url": "https://www.theblock.co/news/markets/2026-10-05-defi-development-nav-per-share-doubles-2-56-million-sol-417674",
-    "published": "2026-10-05T14:33:14Z",
-    "importance": 3
    },
    {
     "title": "Solana hazine şirketi DeFi Development, CHAD imtiyazlı hisse geri alım programını onayladı",
