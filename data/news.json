@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-07T15:34:54Z",
+ "updated": "2026-10-07T15:57:55Z",
  "sources": [
   "coindesk.com",
   "cointelegraph-tr.com",
@@ -328,7 +328,8 @@
   "https://www.coindesk.com/business/2026/10/07/tether-tapped-by-kazakhstan-s-central-bank-to-explore-stablecoin-and-tokenization": 1791384704.3120384,
   "https://www.coindesk.com/business/2026/10/07/gate-bets-all-in-one-money-app-is-crypto-s-biggest-consumer-trend-this-year-and-next": 1791387294.5051594,
   "https://cointelegraph-tr.com/markets/bitcoin-price-drops-to-827k-october-low-as-bond-sell-off-resumes-on-iran-nerves": 1791387294.5051594,
-  "https://www.coindesk.com/coindesk-indices/2026/10/07/crypto-long-and-short-zcash-and-the-case-for-privacy-in-the-age-of-ai": 1791387294.5051594
+  "https://www.coindesk.com/coindesk-indices/2026/10/07/crypto-long-and-short-zcash-and-the-case-for-privacy-in-the-age-of-ai": 1791387294.5051594,
+  "https://cointelegraph-tr.com/news/coinbase-deribit-us-crypto-options-perpetual-futures": 1791388675.0826604
  },
  "tries": {}
 }
