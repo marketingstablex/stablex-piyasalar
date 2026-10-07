@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-07T14:51:44Z",
+ "updated": "2026-10-07T15:34:54Z",
  "sources": [
   "coindesk.com",
   "cointelegraph-tr.com",
@@ -25,6 +25,13 @@
    }
   ],
   "BTC": [
+   {
+    "title": "Bitcoin fiyatı, İran kaynaklı endişelerle tahvil satışlarının yeniden başlaması üzerine 82.700 dolarla ekim ayının en düşük seviyesine geriledi",
+    "summary": "Bitcoin, hisse senetleri tüm zamanların en yüksek seviyelerinden gerilerken ve tahvil getirileri hızla yükselirken 83.000 doların altına düşerek ay başından bu yana en düşük seviyelerini gördü.",
+    "url": "https://cointelegraph-tr.com/markets/bitcoin-price-drops-to-827k-october-low-as-bond-sell-off-resumes-on-iran-nerves",
+    "published": "2026-10-07T15:06:14Z",
+    "importance": 4
+   },
    {
     "title": "Bitcoin, 550 milyon dolarlık pozisyonun tasfiye olmasıyla 84.000 doların altına geriledi",
     "summary": "Bitcoin, 550 milyon dolarlık pozisyonun tasfiye olmasıyla 84.000 doların altına geriledi",
@@ -72,13 +79,6 @@
     "summary": "ABD hükümeti 100 milyon doların üzerinde BTC ve BNB taşıdı. Satış henüz doğrulanmadı.",
     "url": "https://www.coindesk.com/markets/2026/10/07/u-s-government-moves-over-usd100-million-in-btc-and-bnb-a-sale-hasn-t-been-confirmed",
     "published": "2026-10-07T05:58:25Z",
-    "importance": 3
-   },
-   {
-    "title": "Kalshi’nin 15 dakikalık altın piyasaları, piyasaya sürülmelerinden yalnızca birkaç hafta sonra Ether’i geride bıraktı",
-    "summary": "Altın, eylülde 542 milyon işlem görmüş kontrat ve tahmini 5 milyon dolar ücret kaydederek Ether’in 318 milyon kontratını ve 2,6 milyon dolarlık ücretini geride bıraktı. Ancak Bitcoin açık ara önde kalmaya devam etti.",
-    "url": "https://cointelegraph-tr.com/news/kalshis-15-min-gold-markets-overtake-ether-just-weeks-after-launch",
-    "published": "2026-10-07T04:57:54Z",
     "importance": 3
    }
   ],
@@ -325,7 +325,10 @@
   "https://cointelegraph-tr.com/news/chasing-100x-tokens-irrational-exuberance-polymarket-ceo": 1791377928.5332847,
   "https://www.coindesk.com/tech/2026/10/07/quantum-computers-threaten-exposed-private-keys-rather-than-blockchains-europol-warns": 1791381156.9305744,
   "https://www.theblock.co/news/business/2026-10-07-moodys-sky-protocol-b3-rating-first-stablecoin-protocol-417931": 1791383124.8034928,
-  "https://www.coindesk.com/business/2026/10/07/tether-tapped-by-kazakhstan-s-central-bank-to-explore-stablecoin-and-tokenization": 1791384704.3120384
+  "https://www.coindesk.com/business/2026/10/07/tether-tapped-by-kazakhstan-s-central-bank-to-explore-stablecoin-and-tokenization": 1791384704.3120384,
+  "https://www.coindesk.com/business/2026/10/07/gate-bets-all-in-one-money-app-is-crypto-s-biggest-consumer-trend-this-year-and-next": 1791387294.5051594,
+  "https://cointelegraph-tr.com/markets/bitcoin-price-drops-to-827k-october-low-as-bond-sell-off-resumes-on-iran-nerves": 1791387294.5051594,
+  "https://www.coindesk.com/coindesk-indices/2026/10/07/crypto-long-and-short-zcash-and-the-case-for-privacy-in-the-age-of-ai": 1791387294.5051594
  },
  "tries": {}
 }
