@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-07T12:31:03Z",
+ "updated": "2026-10-07T12:58:48Z",
  "sources": [
   "coindesk.com",
   "cointelegraph-tr.com",
@@ -89,6 +89,13 @@
     "url": "https://cointelegraph-tr.com/markets/bitcoin-etf-rebound-119m-inflow-ether-extend-losses",
     "published": "2026-10-07T09:03:38Z",
     "importance": 4
+   },
+   {
+    "title": "Tom Lee, Bitmine'ın token alımlarını durduracağını söylemesiyle Ether istikrarlı bir alıcısını kaybetmek üzere",
+    "summary": "Tom Lee, Bitmine'ın token alımlarını durduracağını söylemesiyle Ether'in istikrarlı bir alıcısını kaybetmek üzere olduğunu belirtti.",
+    "url": "https://www.coindesk.com/markets/2026/10/07/ether-is-about-to-lose-a-steady-buyer-as-tom-lee-says-bitmine-will-stop-token-purchases",
+    "published": "2026-10-07T12:40:31Z",
+    "importance": 3
    },
    {
     "title": "BitMine, birikim hedefi yaklaşırken Ether arzı için yüzde 5’lik “kesin üst sınır” belirledi",
@@ -313,7 +320,10 @@
   "https://www.coindesk.com/business/2026/10/07/live-updates-bitcoin-slides-under-usd84-000-as-usd550-million-in-bets-get-liquidated": 1791372212.0202377,
   "https://cointelegraph-tr.com/news/crypto-card-access-doesnt-match-global-demand-tangem-says": 1791373846.3199677,
   "https://www.coindesk.com/daybook-us/2026/10/07/here-s-what-bitcoin-needs-to-break-above-usd87-000": 1791373846.3199677,
-  "https://www.coindesk.com/business/2026/10/07/swift-blockchain-ledger-requires-key-internal-layers-taurus-co-founder-warns": 1791376263.5356472
+  "https://www.coindesk.com/business/2026/10/07/swift-blockchain-ledger-requires-key-internal-layers-taurus-co-founder-warns": 1791376263.5356472,
+  "https://www.coindesk.com/markets/2026/10/07/ether-is-about-to-lose-a-steady-buyer-as-tom-lee-says-bitmine-will-stop-token-purchases": 1791377928.5332847,
+  "https://www.coindesk.com/business/2026/10/07/crypto-trading-giant-gsr-s-new-vault-business-is-a-usd100m-bet-on-onchain-credit": 1791377928.5332847,
+  "https://cointelegraph-tr.com/news/chasing-100x-tokens-irrational-exuberance-polymarket-ceo": 1791377928.5332847
  },
  "tries": {}
 }
