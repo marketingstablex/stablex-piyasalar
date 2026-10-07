@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-07T08:52:49Z",
+ "updated": "2026-10-07T09:25:03Z",
  "sources": [
   "coindesk.com",
   "cointelegraph-tr.com",
@@ -25,6 +25,13 @@
    }
   ],
   "BTC": [
+   {
+    "title": "Bitcoin ETF’lerinde fiyatlar düşmesine rağmen 119 milyon dolarlık net giriş",
+    "summary": "Bitcoin ETF’lerinde salı günü, fiyatların düşmesine rağmen 119 milyon dolarlık net giriş gerçekleşti. Ether fonlarında ise toplam 408 milyon dolara ulaşan çıkış serisi altıncı seansa uzadı.",
+    "url": "https://cointelegraph-tr.com/markets/bitcoin-etf-rebound-119m-inflow-ether-extend-losses",
+    "published": "2026-10-07T09:03:38Z",
+    "importance": 4
+   },
    {
     "title": "İran tanker saldırıları üzerine petrol fiyatları artarken Bitcoin 84.000 doların altına düştü",
     "summary": "İran tanker saldırıları üzerine petrol fiyatları artarken Bitcoin 84.000 doların altına düştü.",
@@ -76,6 +83,20 @@
    }
   ],
   "ETH": [
+   {
+    "title": "Bitcoin ETF’lerinde fiyatlar düşmesine rağmen 119 milyon dolarlık net giriş",
+    "summary": "Bitcoin ETF’lerinde salı günü, fiyatların düşmesine rağmen 119 milyon dolarlık net giriş gerçekleşti. Ether fonlarında ise toplam 408 milyon dolara ulaşan çıkış serisi altıncı seansa uzadı.",
+    "url": "https://cointelegraph-tr.com/markets/bitcoin-etf-rebound-119m-inflow-ether-extend-losses",
+    "published": "2026-10-07T09:03:38Z",
+    "importance": 4
+   },
+   {
+    "title": "BitMine, birikim hedefi yaklaşırken Ether arzı için yüzde 5’lik “kesin üst sınır” belirledi",
+    "summary": "Tom Lee, BitMine’ın Ether arzının yüzde 5’ini aşan miktarda birikim yapmayacağını söyleyerek şirketin hedefini bir üst sınıra dönüştürdü.",
+    "url": "https://cointelegraph-tr.com/news/bitmine-ether-5-percent-supply-hard-cap",
+    "published": "2026-10-07T08:50:02Z",
+    "importance": 3
+   },
    {
     "title": "Kalshi’nin 15 dakikalık altın piyasaları, piyasaya sürülmelerinden yalnızca birkaç hafta sonra Ether’i geride bıraktı",
     "summary": "Altın, eylülde 542 milyon işlem görmüş kontrat ve tahmini 5 milyon dolar ücret kaydederek Ether’in 318 milyon kontratını ve 2,6 milyon dolarlık ücretini geride bıraktı. Ancak Bitcoin açık ara önde kalmaya devam etti.",
@@ -272,7 +293,11 @@
   "https://www.theblock.co/news/business/2026-10-07-robinhood-adds-25-million-bitcoin-balance-sheet-417890": 1791357957.0652797,
   "https://cointelegraph-tr.com/news/russia-first-crypto-platforms-register-new-law": 1791361590.0911658,
   "https://www.coindesk.com/markets/2026/10/07/down-but-not-out-bitcoin-s-stair-step-bullish-trajectory-is-still-intact": 1791361590.0911658,
-  "https://www.theblock.co/news/regulation/2026-10-07-hyperliquid-policy-center-jake-chervinsky-interview-417896": 1791363169.5695362
+  "https://www.theblock.co/news/regulation/2026-10-07-hyperliquid-policy-center-jake-chervinsky-interview-417896": 1791363169.5695362,
+  "https://www.coindesk.com/business/2026/10/07/rain-becomes-12th-crypto-firm-seeking-occ-trust-bank-charter-amid-community-bank-pushback": 1791365103.3431554,
+  "https://cointelegraph-tr.com/markets/bitcoin-etf-rebound-119m-inflow-ether-extend-losses": 1791365103.3431554,
+  "https://www.coindesk.com/markets/2026/10/07/robinhood-adds-bitcoin-worth-usd25-million-to-its-balance-sheet-report": 1791365103.3431554,
+  "https://cointelegraph-tr.com/news/bitmine-ether-5-percent-supply-hard-cap": 1791365103.3431554
  },
  "tries": {}
 }
