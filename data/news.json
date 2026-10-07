@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-06T23:48:04Z",
+ "updated": "2026-10-07T00:34:19Z",
  "sources": [
   "coindesk.com",
   "cointelegraph-tr.com",
@@ -35,13 +35,6 @@
     "summary": "FinCEN, PATRIOT Yasası kapsamında kripto para karıştırma işlemlerini \"birincil düzeyde kara para aklama endişesi\" olarak tanımlayacak bir teklifi geri çekmektedir.",
     "url": "https://www.theblock.co/news/regulation/2026-10-05-fincen-drops-crypto-mixing-rule-self-hosted-wallet-proposal-417690",
     "published": "2026-10-05T17:22:37Z",
-    "importance": 4
-   },
-   {
-    "title": "\"Her zamankinden daha turuncu\": Michael Saylor'ın Strategy şirketi, toplam varlıkları 848.000 BTC'yi aşarken 28,7 milyon dolara 334 bitcoin satın aldı",
-    "summary": "Strategy, 28,7 milyon dolar karşılığında 334 bitcoin satın alarak toplam varlıklarını 848.000 BTC'nin üzerine çıkardı. Şirketin toplam varlıkları, 21 milyonluk bitcoin arz sınırının yaklaşık %4'ünü oluşturuyor ve bu miktar yaklaşık 73 milyar dolar değerindedir.",
-    "url": "https://www.theblock.co/news/business/2026-10-05-more-orange-than-ever-michael-saylor-strategy-bitcoin-417631",
-    "published": "2026-10-05T12:13:28Z",
     "importance": 4
    },
    {
@@ -144,13 +137,6 @@
     "url": "https://cointelegraph-tr.com/news/ripple-expands-brevan-howard-deal-with-prime-brokerage-services",
     "published": "2026-10-06T15:24:51Z",
     "importance": 3
-   },
-   {
-    "title": "Bir XRP hazine SPAC'ı, Evernorth birleşmesi öncesinde neredeyse %300 arttı",
-    "summary": "Bir XRP hazine SPAC'ı, Evernorth birleşmesi öncesinde neredeyse %300 arttı",
-    "url": "https://www.coindesk.com/markets/2026/10/05/xrp-treasury-spac-surges-nearly-300-ahead-of-evernorth-merger",
-    "published": "2026-10-05T12:28:35Z",
-    "importance": 2
    }
   ]
  },
@@ -265,7 +251,8 @@
   "https://cointelegraph-tr.com/news/uk-taps-6-banks-to-lead-first-digitally-native-government-bond": 1791316158.803823,
   "https://www.theblock.co/news/ecosystems/2026-10-06-abstract-ethereum-layer-2-shutting-down-pudgy-penguins-igloo-417855": 1791318227.9138048,
   "https://cointelegraph-tr.com/news/winklevoss-backed-zcash-etf-files-with-sec-for-nasdaq-listing": 1791321743.9018087,
-  "https://cointelegraph-tr.com/news/european-central-bank-fragmentation-digital-euro": 1791321743.9018087
+  "https://cointelegraph-tr.com/news/european-central-bank-fragmentation-digital-euro": 1791321743.9018087,
+  "https://cointelegraph-tr.com/news/consumer-crypto-chain-abstract-to-wind-down": 1791333259.9409804
  },
  "tries": {}
 }
