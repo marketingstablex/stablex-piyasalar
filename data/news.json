@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-07T07:25:57Z",
+ "updated": "2026-10-07T07:51:32Z",
  "sources": [
   "coindesk.com",
   "cointelegraph-tr.com",
@@ -143,7 +143,6 @@
   ]
  },
  "seen": {
-  "https://cointelegraph-tr.com/news/trump-is-expected-to-appoint-jay-clayton-as-new-ai-czar-reports": 1791013810.911606,
   "https://cointelegraph-tr.com/news/community-banks-sue-occ-over-trust-bank-charters-of-crypto-firms": 1791020912.4439363,
   "https://www.coindesk.com/opinion/2026/10/03/crypto-s-sisyphean-struggle": 1791038002.256903,
   "https://www.coindesk.com/business/2026/10/03/blackrock-offers-a-glimpse-of-how-tokenization-may-change-your-investment-portfolio": 1791038002.256903,
