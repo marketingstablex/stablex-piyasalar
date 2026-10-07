@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-07T05:51:19Z",
+ "updated": "2026-10-07T06:28:18Z",
  "sources": [
   "coindesk.com",
   "cointelegraph-tr.com",
@@ -45,6 +45,13 @@
     "url": "https://cointelegraph-tr.com/markets/bitcoin-etf-90-million-outflow-btc-32-below-record-oct-6",
     "published": "2026-10-06T08:14:17Z",
     "importance": 4
+   },
+   {
+    "title": "ABD hükümeti 100 milyon doların üzerinde BTC ve BNB taşıdı, satış doğrulanmadı",
+    "summary": "ABD hükümeti 100 milyon doların üzerinde BTC ve BNB taşıdı. Satış henüz doğrulanmadı.",
+    "url": "https://www.coindesk.com/markets/2026/10/07/u-s-government-moves-over-usd100-million-in-btc-and-bnb-a-sale-hasn-t-been-confirmed",
+    "published": "2026-10-07T05:58:25Z",
+    "importance": 3
    },
    {
     "title": "Kalshi’nin 15 dakikalık altın piyasaları, piyasaya sürülmelerinden yalnızca birkaç hafta sonra Ether’i geride bıraktı",
@@ -254,7 +261,8 @@
   "https://www.coindesk.com/markets/2026/10/07/bitcoin-dips-below-usd84-000-as-oil-jumps-on-iranian-tanker-attacks": 1791347070.8390985,
   "https://www.theblock.co/news/markets/2026-10-06-bitcoin-slides-crypto-long-liquidations-surge-417882": 1791347070.8390985,
   "https://www.coindesk.com/tech/2026/10/07/pudgy-penguins-abstract-becomes-second-ethereum-layer-2-to-shut-in-a-week": 1791348810.788329,
-  "https://cointelegraph-tr.com/news/kalshis-15-min-gold-markets-overtake-ether-just-weeks-after-launch": 1791350653.789743
+  "https://cointelegraph-tr.com/news/kalshis-15-min-gold-markets-overtake-ether-just-weeks-after-launch": 1791350653.789743,
+  "https://www.coindesk.com/markets/2026/10/07/u-s-government-moves-over-usd100-million-in-btc-and-bnb-a-sale-hasn-t-been-confirmed": 1791354498.3086276
  },
  "tries": {}
 }
