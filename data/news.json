@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-07T10:52:03Z",
+ "updated": "2026-10-07T11:23:32Z",
  "sources": [
   "coindesk.com",
   "cointelegraph-tr.com",
@@ -25,6 +25,13 @@
    }
   ],
   "BTC": [
+   {
+    "title": "Bitcoin, 550 milyon dolarlık pozisyonun tasfiye olmasıyla 84.000 doların altına geriledi",
+    "summary": "Bitcoin, 550 milyon dolarlık pozisyonun tasfiye olmasıyla 84.000 doların altına geriledi",
+    "url": "https://www.coindesk.com/business/2026/10/07/live-updates-bitcoin-slides-under-usd84-000-as-usd550-million-in-bets-get-liquidated",
+    "published": "2026-10-07T11:09:50Z",
+    "importance": 4
+   },
    {
     "title": "Bitcoin ETF’lerinde fiyatlar düşmesine rağmen 119 milyon dolarlık net giriş",
     "summary": "Bitcoin ETF’lerinde salı günü, fiyatların düşmesine rağmen 119 milyon dolarlık net giriş gerçekleşti. Ether fonlarında ise toplam 408 milyon dolara ulaşan çıkış serisi altıncı seansa uzadı.",
@@ -72,13 +79,6 @@
     "summary": "Altın, eylülde 542 milyon işlem görmüş kontrat ve tahmini 5 milyon dolar ücret kaydederek Ether’in 318 milyon kontratını ve 2,6 milyon dolarlık ücretini geride bıraktı. Ancak Bitcoin açık ara önde kalmaya devam etti.",
     "url": "https://cointelegraph-tr.com/news/kalshis-15-min-gold-markets-overtake-ether-just-weeks-after-launch",
     "published": "2026-10-07T04:57:54Z",
-    "importance": 3
-   },
-   {
-    "title": "Bitcoin 85.000 dolar civarında işlem görürken daha küçük altcoinler parlıyor",
-    "summary": "Bitcoin 85.000 dolar civarında işlem görürken daha küçük altcoinler parlıyor",
-    "url": "https://www.coindesk.com/markets/2026/10/06/smaller-altcoins-shine-as-bitcoin-stills-trades-around-usd85-000",
-    "published": "2026-10-06T10:30:00Z",
     "importance": 3
    }
   ],
@@ -308,7 +308,9 @@
   "https://cointelegraph-tr.com/news/bingx-old-money-bitcoin-diamond-hands-token2049": 1791368678.5266519,
   "https://www.coindesk.com/markets/2026/10/07/bitcoin-s-recovery-stalls-just-short-of-rescuing-its-last-underwater-cohort": 1791370323.2723875,
   "https://www.coindesk.com/markets/2026/10/07/liquidations-jump-to-usd547-million-as-oil-rally-drags-bitcoin-below-usd84-000": 1791370323.2723875,
-  "https://cointelegraph-tr.com/news/trump-backed-wlfi-plans-usd1-payments-for-online-businesses": 1791370323.2723875
+  "https://cointelegraph-tr.com/news/trump-backed-wlfi-plans-usd1-payments-for-online-businesses": 1791370323.2723875,
+  "https://www.theblock.co/news/ecosystems/2026-10-07-nears-polosukhin-sees-shrinking-need-for-centralized-exchanges-as-onchain-tools-expand-417912": 1791372212.0202377,
+  "https://www.coindesk.com/business/2026/10/07/live-updates-bitcoin-slides-under-usd84-000-as-usd550-million-in-bets-get-liquidated": 1791372212.0202377
  },
  "tries": {}
 }
