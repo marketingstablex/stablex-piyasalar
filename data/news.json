@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-07T10:24:38Z",
+ "updated": "2026-10-07T10:52:03Z",
  "sources": [
   "coindesk.com",
   "cointelegraph-tr.com",
@@ -54,6 +54,13 @@
     "importance": 4
    },
    {
+    "title": "Bitcoin'in toparlanması, son zarardaki grubu kurtarmanın hemen eşiğinde durdu",
+    "summary": "Bitcoin'in toparlanması, son zarardaki grubu kurtarmanın hemen eşiğinde durdu.",
+    "url": "https://www.coindesk.com/markets/2026/10/07/bitcoin-s-recovery-stalls-just-short-of-rescuing-its-last-underwater-cohort",
+    "published": "2026-10-07T10:38:23Z",
+    "importance": 3
+   },
+   {
     "title": "ABD hükümeti 100 milyon doların üzerinde BTC ve BNB taşıdı, satış doğrulanmadı",
     "summary": "ABD hükümeti 100 milyon doların üzerinde BTC ve BNB taşıdı. Satış henüz doğrulanmadı.",
     "url": "https://www.coindesk.com/markets/2026/10/07/u-s-government-moves-over-usd100-million-in-btc-and-bnb-a-sale-hasn-t-been-confirmed",
@@ -73,13 +80,6 @@
     "url": "https://www.coindesk.com/markets/2026/10/06/smaller-altcoins-shine-as-bitcoin-stills-trades-around-usd85-000",
     "published": "2026-10-06T10:30:00Z",
     "importance": 3
-   },
-   {
-    "title": "Düşüşte ama bitmedi. Bitcoin'in basamaklı yükseliş eğrisi hala yerinde",
-    "summary": "Bitcoin'in basamaklı yükseliş eğrisi hala yerinde.",
-    "url": "https://www.coindesk.com/markets/2026/10/07/down-but-not-out-bitcoin-s-stair-step-bullish-trajectory-is-still-intact",
-    "published": "2026-10-07T07:52:22Z",
-    "importance": 2
    }
   ],
   "ETH": [
@@ -305,7 +305,10 @@
   "https://www.coindesk.com/markets/2026/10/07/robinhood-adds-bitcoin-worth-usd25-million-to-its-balance-sheet-report": 1791365103.3431554,
   "https://cointelegraph-tr.com/news/bitmine-ether-5-percent-supply-hard-cap": 1791365103.3431554,
   "https://www.theblock.co/news/defi/2026-10-07-jitos-jtx-plans-mobile-app-this-fall-eyes-perps-integration-later-this-winter-417905": 1791366750.6254628,
-  "https://cointelegraph-tr.com/news/bingx-old-money-bitcoin-diamond-hands-token2049": 1791368678.5266519
+  "https://cointelegraph-tr.com/news/bingx-old-money-bitcoin-diamond-hands-token2049": 1791368678.5266519,
+  "https://www.coindesk.com/markets/2026/10/07/bitcoin-s-recovery-stalls-just-short-of-rescuing-its-last-underwater-cohort": 1791370323.2723875,
+  "https://www.coindesk.com/markets/2026/10/07/liquidations-jump-to-usd547-million-as-oil-rally-drags-bitcoin-below-usd84-000": 1791370323.2723875,
+  "https://cointelegraph-tr.com/news/trump-backed-wlfi-plans-usd1-payments-for-online-businesses": 1791370323.2723875
  },
  "tries": {}
 }
