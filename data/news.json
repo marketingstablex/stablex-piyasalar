@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-07T20:50:59Z",
+ "updated": "2026-10-07T21:24:03Z",
  "sources": [
   "coindesk.com",
   "cointelegraph-tr.com",
@@ -119,15 +119,6 @@
     "importance": 3
    }
   ],
-  "ONDO": [
-   {
-    "title": "Ondo, tokenleştirilmiş halka arz öncesi yapay zeka yatırımıyla özel piyasaları açıyor",
-    "summary": "Ondo’nun tokenleştirilmiş senetleri, uygun yatırımcılara özel şirketlere ekonomik erişim sağlayacak. İlk senet adı açıklanmayan, halka arz öncesi bir yapay zeka şirketine bağlı olacak.",
-    "url": "https://cointelegraph-tr.com/news/ondo-private-markets-tokenized-pre-ipo-ai",
-    "published": "2026-10-06T09:21:38Z",
-    "importance": 3
-   }
-  ],
   "SKY": [
    {
     "title": "Moody's, ABD Doları cinsinden USDS'ye kurumsal ilginin artmasıyla Sky Protokolü'ne B3 notu verdi",
@@ -151,6 +142,15 @@
     "url": "https://www.theblock.co/news/markets/2026-10-06-defi-development-chad-preferred-stock-repurchase-program-417819",
     "published": "2026-10-06T15:09:41Z",
     "importance": 2
+   }
+  ],
+  "USDC": [
+   {
+    "title": "Circle, Tereina aracılığıyla SAP müşterilerine USDC ve EURC ödemeleri sunuyor",
+    "summary": "SAP destekli Tereina ile yapılan ortaklık, işletmelerin Circle’ın stablecoin’lerini hâlihazırda kullandıkları finans yazılımı üzerinden gönderip almasına olanak tanıyacak.",
+    "url": "https://cointelegraph-tr.com/news/circle-usdc-eurc-payments-sap-enterprise-ecosystem",
+    "published": "2026-10-07T20:48:34Z",
+    "importance": 3
    }
   ],
   "USDT": [
@@ -320,7 +320,8 @@
   "https://cointelegraph-tr.com/news/sui-offchain-network-hits-40m-tps-in-live-ai-focused-stress-test": 1791395492.3777719,
   "https://cointelegraph-tr.com/news/hunter-biden-laptop-memecoin-troll-no-rug-pull": 1791397677.925838,
   "https://www.theblock.co/news/markets/2026-10-07-grayscale-crypto-etf-market-beyond-bitcoin-ether-417953": 1791399372.2395728,
-  "https://www.coindesk.com/business/2026/10/05/wells-fargo-in-talks-with-kraken-parent-payward-for-crypto-trading-liquidity": 1791401038.2781036
+  "https://www.coindesk.com/business/2026/10/05/wells-fargo-in-talks-with-kraken-parent-payward-for-crypto-trading-liquidity": 1791401038.2781036,
+  "https://cointelegraph-tr.com/news/circle-usdc-eurc-payments-sap-enterprise-ecosystem": 1791408243.5008264
  },
  "tries": {}
 }
