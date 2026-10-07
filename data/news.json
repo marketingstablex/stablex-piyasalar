@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-07T11:50:46Z",
+ "updated": "2026-10-07T12:31:03Z",
  "sources": [
   "coindesk.com",
   "cointelegraph-tr.com",
@@ -312,7 +312,8 @@
   "https://www.theblock.co/news/ecosystems/2026-10-07-nears-polosukhin-sees-shrinking-need-for-centralized-exchanges-as-onchain-tools-expand-417912": 1791372212.0202377,
   "https://www.coindesk.com/business/2026/10/07/live-updates-bitcoin-slides-under-usd84-000-as-usd550-million-in-bets-get-liquidated": 1791372212.0202377,
   "https://cointelegraph-tr.com/news/crypto-card-access-doesnt-match-global-demand-tangem-says": 1791373846.3199677,
-  "https://www.coindesk.com/daybook-us/2026/10/07/here-s-what-bitcoin-needs-to-break-above-usd87-000": 1791373846.3199677
+  "https://www.coindesk.com/daybook-us/2026/10/07/here-s-what-bitcoin-needs-to-break-above-usd87-000": 1791373846.3199677,
+  "https://www.coindesk.com/business/2026/10/07/swift-blockchain-ledger-requires-key-internal-layers-taurus-co-founder-warns": 1791376263.5356472
  },
  "tries": {}
 }
