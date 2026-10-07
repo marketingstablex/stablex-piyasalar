@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-07T13:52:36Z",
+ "updated": "2026-10-07T14:25:24Z",
  "sources": [
   "coindesk.com",
   "cointelegraph-tr.com",
@@ -91,13 +91,6 @@
     "importance": 4
    },
    {
-    "title": "Tom Lee, Bitmine'ın token alımlarını durduracağını söylemesiyle Ether istikrarlı bir alıcısını kaybetmek üzere",
-    "summary": "Tom Lee, Bitmine'ın token alımlarını durduracağını söylemesiyle Ether'in istikrarlı bir alıcısını kaybetmek üzere olduğunu belirtti.",
-    "url": "https://www.coindesk.com/markets/2026/10/07/ether-is-about-to-lose-a-steady-buyer-as-tom-lee-says-bitmine-will-stop-token-purchases",
-    "published": "2026-10-07T12:40:31Z",
-    "importance": 3
-   },
-   {
     "title": "BitMine, birikim hedefi yaklaşırken Ether arzı için yüzde 5’lik “kesin üst sınır” belirledi",
     "summary": "Tom Lee, BitMine’ın Ether arzının yüzde 5’ini aşan miktarda birikim yapmayacağını söyleyerek şirketin hedefini bir üst sınıra dönüştürdü.",
     "url": "https://cointelegraph-tr.com/news/bitmine-ether-5-percent-supply-hard-cap",
@@ -139,6 +132,15 @@
     "summary": "Ondo’nun tokenleştirilmiş senetleri, uygun yatırımcılara özel şirketlere ekonomik erişim sağlayacak. İlk senet adı açıklanmayan, halka arz öncesi bir yapay zeka şirketine bağlı olacak.",
     "url": "https://cointelegraph-tr.com/news/ondo-private-markets-tokenized-pre-ipo-ai",
     "published": "2026-10-06T09:21:38Z",
+    "importance": 3
+   }
+  ],
+  "SKY": [
+   {
+    "title": "Moody's, ABD Doları cinsinden USDS'ye kurumsal ilginin artmasıyla Sky Protokolü'ne B3 notu verdi",
+    "summary": "Moody's, bir stablecoin protokolü için ilk kez Sky'a durağan görünümle B3 ihraççı notu verdi. Sky ayrıca S&P tarafından B- olarak derecelendirildi.",
+    "url": "https://www.theblock.co/news/business/2026-10-07-moodys-sky-protocol-b3-rating-first-stablecoin-protocol-417931",
+    "published": "2026-10-07T14:20:01Z",
     "importance": 3
    }
   ],
@@ -324,7 +326,8 @@
   "https://www.coindesk.com/markets/2026/10/07/ether-is-about-to-lose-a-steady-buyer-as-tom-lee-says-bitmine-will-stop-token-purchases": 1791377928.5332847,
   "https://www.coindesk.com/business/2026/10/07/crypto-trading-giant-gsr-s-new-vault-business-is-a-usd100m-bet-on-onchain-credit": 1791377928.5332847,
   "https://cointelegraph-tr.com/news/chasing-100x-tokens-irrational-exuberance-polymarket-ceo": 1791377928.5332847,
-  "https://www.coindesk.com/tech/2026/10/07/quantum-computers-threaten-exposed-private-keys-rather-than-blockchains-europol-warns": 1791381156.9305744
+  "https://www.coindesk.com/tech/2026/10/07/quantum-computers-threaten-exposed-private-keys-rather-than-blockchains-europol-warns": 1791381156.9305744,
+  "https://www.theblock.co/news/business/2026-10-07-moodys-sky-protocol-b3-rating-first-stablecoin-protocol-417931": 1791383124.8034928
  },
  "tries": {}
 }
