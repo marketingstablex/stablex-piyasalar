@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-07T16:26:40Z",
+ "updated": "2026-10-07T17:25:36Z",
  "sources": [
   "coindesk.com",
   "cointelegraph-tr.com",
@@ -91,6 +91,13 @@
     "importance": 4
    },
    {
+    "title": "Ethereum araştırmacısı Justin Drake, özel anahtar kurtarma riski nedeniyle 'sığınak modu' planlaması çağrısında bulundu",
+    "summary": "Justin Drake, kripto varlıkların, halka açık anahtarlarını bir hash'in arkasında gizleyen yeni adreslere taşınmasını tavsiye etti.",
+    "url": "https://www.theblock.co/news/ecosystems/2026-10-07-ethereum-researcher-justin-drake-bunker-mode-planning-private-key-recovery-risk-417954",
+    "published": "2026-10-07T17:23:02Z",
+    "importance": 3
+   },
+   {
     "title": "BitMine, birikim hedefi yaklaşırken Ether arzı için yüzde 5’lik “kesin üst sınır” belirledi",
     "summary": "Tom Lee, BitMine’ın Ether arzının yüzde 5’ini aşan miktarda birikim yapmayacağını söyleyerek şirketin hedefini bir üst sınıra dönüştürdü.",
     "url": "https://cointelegraph-tr.com/news/bitmine-ether-5-percent-supply-hard-cap",
@@ -116,13 +123,6 @@
     "summary": "Bir EEZ katılımcısı, proje Ethereum ana ağı ile rollup’larını birbirine bağlayacak bir çerçeve geliştirirken 0,001 ETH’lik zincirler arası testi paylaştı.",
     "url": "https://cointelegraph-tr.com/news/ethereum-eez-atomic-l1-l2-transaction-mainnet",
     "published": "2026-10-06T07:09:33Z",
-    "importance": 3
-   },
-   {
-    "title": "Ethereum'un Glamsterdam testi büyük kapasite artışı öncesinde son dakika düzeltmesi aldı",
-    "summary": "Ethereum'un Glamsterdam testi büyük kapasite artışı öncesinde son dakika düzeltmesi aldı.",
-    "url": "https://www.coindesk.com/tech/2026/10/06/ethereum-s-glamsterdam-test-gets-last-minute-fix-before-major-capacity-jump",
-    "published": "2026-10-06T04:49:05Z",
     "importance": 3
    }
   ],
@@ -323,7 +323,10 @@
   "https://cointelegraph-tr.com/markets/bitcoin-price-drops-to-827k-october-low-as-bond-sell-off-resumes-on-iran-nerves": 1791387294.5051594,
   "https://www.coindesk.com/coindesk-indices/2026/10/07/crypto-long-and-short-zcash-and-the-case-for-privacy-in-the-age-of-ai": 1791387294.5051594,
   "https://cointelegraph-tr.com/news/coinbase-deribit-us-crypto-options-perpetual-futures": 1791388675.0826604,
-  "https://cointelegraph-tr.com/news/sec-cftc-crypto-regulations-fall-short-clarity-bill": 1791390400.5436761
+  "https://cointelegraph-tr.com/news/sec-cftc-crypto-regulations-fall-short-clarity-bill": 1791390400.5436761,
+  "https://www.theblock.co/news/ecosystems/2026-10-07-ethereum-researcher-justin-drake-bunker-mode-planning-private-key-recovery-risk-417954": 1791393936.906944,
+  "https://www.theblock.co/news/markets/2026-10-07-hunter-biden-laptop-market-maker-should-buy-back-burn-it-417947": 1791393936.906944,
+  "https://www.coindesk.com/business/2026/10/07/polygon-and-tron-partner-to-bridge-usd94-billion-usdt-ecosystem-with-u-s-banking-rails": 1791393936.906944
  },
  "tries": {}
 }
