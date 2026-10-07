@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-07T13:26:20Z",
+ "updated": "2026-10-07T13:52:36Z",
  "sources": [
   "coindesk.com",
   "cointelegraph-tr.com",
@@ -323,7 +323,8 @@
   "https://www.coindesk.com/business/2026/10/07/swift-blockchain-ledger-requires-key-internal-layers-taurus-co-founder-warns": 1791376263.5356472,
   "https://www.coindesk.com/markets/2026/10/07/ether-is-about-to-lose-a-steady-buyer-as-tom-lee-says-bitmine-will-stop-token-purchases": 1791377928.5332847,
   "https://www.coindesk.com/business/2026/10/07/crypto-trading-giant-gsr-s-new-vault-business-is-a-usd100m-bet-on-onchain-credit": 1791377928.5332847,
-  "https://cointelegraph-tr.com/news/chasing-100x-tokens-irrational-exuberance-polymarket-ceo": 1791377928.5332847
+  "https://cointelegraph-tr.com/news/chasing-100x-tokens-irrational-exuberance-polymarket-ceo": 1791377928.5332847,
+  "https://www.coindesk.com/tech/2026/10/07/quantum-computers-threaten-exposed-private-keys-rather-than-blockchains-europol-warns": 1791381156.9305744
  },
  "tries": {}
 }
