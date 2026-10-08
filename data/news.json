@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-08T16:54:19Z",
+ "updated": "2026-10-08T17:23:47Z",
  "sources": [
   "coindesk.com",
   "cointelegraph-tr.com",
@@ -64,6 +64,15 @@
     "importance": 3
    }
   ],
+  "DOGE": [
+   {
+    "title": "Bitwise CEO'su, 'trajik' Dogecoin ETF başarısızlığının ETF alıcıları ile kripto uygulama kullanıcıları arasındaki uçurumu gösterdiğini söyledi",
+    "summary": "Yakın zamanda başlattığı spot NEAR ETF'sinin yanı sıra Bitwise, yapay zekaya öncelik veriyor ve bu alanda daha fazla adım atmayı amaçlıyor.",
+    "url": "https://www.theblock.co/news/business/2026-10-08-bitwise-ceo-dogecoin-etf-failure-hunter-horsley-418070",
+    "published": "2026-10-08T16:43:47Z",
+    "importance": 2
+   }
+  ],
   "ETH": [
    {
     "title": "ABD Bitcoin ETF’leri, Haziran’dan bu yana en büyük günlük net çıkışta 485 milyon dolar kaybetti",
@@ -105,13 +114,6 @@
     "summary": "Tom Lee, BitMine’ın Ether arzının yüzde 5’ini aşan miktarda birikim yapmayacağını söyleyerek şirketin hedefini bir üst sınıra dönüştürdü.",
     "url": "https://cointelegraph-tr.com/news/bitmine-ether-5-percent-supply-hard-cap",
     "published": "2026-10-07T08:50:02Z",
-    "importance": 3
-   },
-   {
-    "title": "Kalshi’nin 15 dakikalık altın piyasaları, piyasaya sürülmelerinden yalnızca birkaç hafta sonra Ether’i geride bıraktı",
-    "summary": "Altın, eylülde 542 milyon işlem görmüş kontrat ve tahmini 5 milyon dolar ücret kaydederek Ether’in 318 milyon kontratını ve 2,6 milyon dolarlık ücretini geride bıraktı. Ancak Bitcoin açık ara önde kalmaya devam etti.",
-    "url": "https://cointelegraph-tr.com/news/kalshis-15-min-gold-markets-overtake-ether-just-weeks-after-launch",
-    "published": "2026-10-07T04:57:54Z",
     "importance": 3
    }
   ],
@@ -376,7 +378,11 @@
   "https://www.coindesk.com/policy/2026/10/08/eu-securities-regulator-gives-crypto-platforms-3-months-to-remove-unauthorized-stablecoins": 1791473152.8816135,
   "https://www.coindesk.com/coindesk-indices/2026/10/08/crypto-for-advisors-digital-assets-outran-stocks-and-gold-in-q3": 1791473152.8816135,
   "https://www.coindesk.com/business/2026/10/08/u-s-government-moves-usd1-billion-in-bitcoin-from-bitfinex-hack-wallet-no-sale-indicated": 1791474832.030927,
-  "https://cointelegraph-tr.com/news/us-government-seized-bitcoin-moved-one-transaction": 1791474832.030927
+  "https://cointelegraph-tr.com/news/us-government-seized-bitcoin-moved-one-transaction": 1791474832.030927,
+  "https://www.theblock.co/news/markets/2026-10-08-strategy-shareholders-face-dilution-drag-despite-brighter-bitcoin-forecasts-td-cowen-418066": 1791480227.0337763,
+  "https://www.theblock.co/research/institutional/block-gcci-2026-country-profile-korea-crypto-market-418081": 1791480227.0337763,
+  "https://www.theblock.co/news/business/2026-10-08-bitwise-ceo-dogecoin-etf-failure-hunter-horsley-418070": 1791480227.0337763,
+  "https://cointelegraph-tr.com/news/imf-flags-volatility-liquidity-risks-tokenized-markets-grow": 1791480227.0337763
  },
  "tries": {}
 }
