@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-08T14:26:49Z",
+ "updated": "2026-10-08T14:53:58Z",
  "sources": [
   "coindesk.com",
   "cointelegraph-tr.com",
@@ -59,17 +59,17 @@
     "importance": 4
    },
    {
+    "title": "Analistler 4. çeyrek için 80.000-90.000 dolar aralığını öngörürken Bitcoin geri çekildi",
+    "summary": "Bitcoin perşembe günü 82.000 dolar civarında işlem gördü. QCP analistleri, dördüncü çeyrek için 80.000 ile 90.000 dolar arasında bir işlem aralığı bekliyor.",
+    "url": "https://www.theblock.co/news/markets/2026-10-08-bitcoin-q4-forecast-418052",
+    "published": "2026-10-08T14:52:27Z",
+    "importance": 3
+   },
+   {
     "title": "Sui’nin Hashi’si 500 milyon dolarlık Bitcoin finansmanı taahhütleriyle kullanıma sunulacak",
     "summary": "Hashi, ana ağ lansmanı öncesinde 500 milyon doların üzerinde taahhüde sahipken Anchorage, kurumlara mutabakat ve kendi kendine saklama imkanı sunuyor.",
     "url": "https://cointelegraph-tr.com/news/sui-hashi-bitcoin-finance-commitments",
     "published": "2026-10-08T12:03:28Z",
-    "importance": 3
-   },
-   {
-    "title": "Grayscale, Zcash ETF'sinin 1 Milyar Doları Aşmasıyla Kripto ETF Piyasasının Yeni Bir Aşamaya Girdiğini Söylüyor",
-    "summary": "Grayscale'den Krista Lynch, SEC listeleme standartlarının yaklaşık 15 tokeni kapsadığını ve kripto ETF ihraççılarının Bitcoin ve Ether'in ötesinde seçici olmasını sağladığını belirtti.",
-    "url": "https://www.theblock.co/news/markets/2026-10-07-grayscale-crypto-etf-market-beyond-bitcoin-ether-417953",
-    "published": "2026-10-07T18:37:17Z",
     "importance": 3
    }
   ],
@@ -386,7 +386,9 @@
   "https://cointelegraph-tr.com/news/eu-lawmakers-crypto-anti-corruption": 1791466050.2617586,
   "https://www.coindesk.com/business/2026/10/08/cardano-foundation-spins-out-veridian-tokenizes-its-shares-on-new-standard": 1791469609.0824006,
   "https://www.theblock.co/news/markets/2026-10-08-securitize-launches-tokenized-us-stocks-solana-418043": 1791469609.0824006,
-  "https://www.coindesk.com/markets/2026/10/08/over-6-million-bitcoin-sit-behind-exposed-public-keys-as-ai-warnings-mount": 1791469609.0824006
+  "https://www.coindesk.com/markets/2026/10/08/over-6-million-bitcoin-sit-behind-exposed-public-keys-as-ai-warnings-mount": 1791469609.0824006,
+  "https://www.theblock.co/news/markets/2026-10-08-bitcoin-q4-forecast-418052": 1791471238.5467398,
+  "https://www.coindesk.com/tech/2026/10/08/bunker-mode-is-a-far-greater-challenge-for-institutions-than-individual-crypto-holders": 1791471238.5467398
  },
  "tries": {}
 }
