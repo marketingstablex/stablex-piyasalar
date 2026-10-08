@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-08T13:52:57Z",
+ "updated": "2026-10-08T14:26:49Z",
  "sources": [
   "coindesk.com",
   "cointelegraph-tr.com",
@@ -16,6 +16,13 @@
    }
   ],
   "BTC": [
+   {
+    "title": "Yapay zeka uyarıları artarken açıkta kalan genel anahtarların arkasında 6 milyondan fazla Bitcoin bulunuyor",
+    "summary": "Yapay zeka uyarıları artarken açıkta kalan genel anahtarların arkasında 6 milyondan fazla Bitcoin bulunuyor.",
+    "url": "https://www.coindesk.com/markets/2026/10/08/over-6-million-bitcoin-sit-behind-exposed-public-keys-as-ai-warnings-mount",
+    "published": "2026-10-08T14:03:20Z",
+    "importance": 4
+   },
    {
     "title": "ABD Bitcoin ETF’leri, Haziran’dan bu yana en büyük günlük net çıkışta 485 milyon dolar kaybetti",
     "summary": "Bitcoin ETF’leri 485 milyon dolarlık çekimle ekim ayındaki net girişleri sildi. Ether fonları ise üst üste yedinci net çıkış seansını kaydetti.",
@@ -63,13 +70,6 @@
     "summary": "Grayscale'den Krista Lynch, SEC listeleme standartlarının yaklaşık 15 tokeni kapsadığını ve kripto ETF ihraççılarının Bitcoin ve Ether'in ötesinde seçici olmasını sağladığını belirtti.",
     "url": "https://www.theblock.co/news/markets/2026-10-07-grayscale-crypto-etf-market-beyond-bitcoin-ether-417953",
     "published": "2026-10-07T18:37:17Z",
-    "importance": 3
-   },
-   {
-    "title": "Bitcoin'in 87.000 doların üzerine çıkması için gerekenler",
-    "summary": "Bitcoin'in 87.000 doların üzerine çıkması için gerekenler.",
-    "url": "https://www.coindesk.com/daybook-us/2026/10/07/here-s-what-bitcoin-needs-to-break-above-usd87-000",
-    "published": "2026-10-07T11:30:00Z",
     "importance": 3
    }
   ],
@@ -149,10 +149,10 @@
     "importance": 4
    },
    {
-    "title": "Securitize, Apple, Nvidia ve Tesla'yı Solana'ya taşıyor, NYSE işlemleri yolda",
-    "summary": "Securitize, Apple, Nvidia ve Tesla hisselerini Solana'ya getiriyor ve NYSE işlemleri planlanıyor.",
-    "url": "https://www.coindesk.com/business/2026/10/08/securitize-brings-apple-nvidia-and-tesla-to-solana-with-nyse-trading-in-the-works",
-    "published": "2026-10-08T13:06:24Z",
+    "title": "Securitize, Apple, Nvidia, Strategy ve diğerleri ile başlayarak 1:1 destekli token'laştırılmış hisse senetlerini başlattı",
+    "summary": "Securitize, temettü ve USDC mutabakatı ile gerçek hisseler tarafından 1:1 desteklenen token'laştırılmış ABD hisse senetlerini Solana üzerinde başlattı.",
+    "url": "https://www.theblock.co/news/markets/2026-10-08-securitize-launches-tokenized-us-stocks-solana-418043",
+    "published": "2026-10-08T14:04:39Z",
     "importance": 3
    },
    {
@@ -177,6 +177,13 @@
     "url": "https://cointelegraph-tr.com/news/samsung-wallet-usdc-transfers-us-galaxy-users-october",
     "published": "2026-10-08T08:24:24Z",
     "importance": 4
+   },
+   {
+    "title": "Securitize, Apple, Nvidia, Strategy ve diğerleri ile başlayarak 1:1 destekli token'laştırılmış hisse senetlerini başlattı",
+    "summary": "Securitize, temettü ve USDC mutabakatı ile gerçek hisseler tarafından 1:1 desteklenen token'laştırılmış ABD hisse senetlerini Solana üzerinde başlattı.",
+    "url": "https://www.theblock.co/news/markets/2026-10-08-securitize-launches-tokenized-us-stocks-solana-418043",
+    "published": "2026-10-08T14:04:39Z",
+    "importance": 3
    },
    {
     "title": "Circle, Tereina aracılığıyla SAP müşterilerine USDC ve EURC ödemeleri sunuyor",
@@ -376,7 +383,10 @@
   "https://cointelegraph-tr.com/news/sui-hashi-bitcoin-finance-commitments": 1791462673.3767333,
   "https://www.coindesk.com/business/2026/10/08/nuva-brings-u-s-residential-mortgage-credit-to-offshore-investors": 1791462673.3767333,
   "https://www.coindesk.com/business/2026/10/08/securitize-brings-apple-nvidia-and-tesla-to-solana-with-nyse-trading-in-the-works": 1791466050.2617586,
-  "https://cointelegraph-tr.com/news/eu-lawmakers-crypto-anti-corruption": 1791466050.2617586
+  "https://cointelegraph-tr.com/news/eu-lawmakers-crypto-anti-corruption": 1791466050.2617586,
+  "https://www.coindesk.com/business/2026/10/08/cardano-foundation-spins-out-veridian-tokenizes-its-shares-on-new-standard": 1791469609.0824006,
+  "https://www.theblock.co/news/markets/2026-10-08-securitize-launches-tokenized-us-stocks-solana-418043": 1791469609.0824006,
+  "https://www.coindesk.com/markets/2026/10/08/over-6-million-bitcoin-sit-behind-exposed-public-keys-as-ai-warnings-mount": 1791469609.0824006
  },
  "tries": {}
 }
