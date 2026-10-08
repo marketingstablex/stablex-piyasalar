@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-08T14:53:58Z",
+ "updated": "2026-10-08T15:25:52Z",
  "sources": [
   "coindesk.com",
   "cointelegraph-tr.com",
@@ -388,7 +388,9 @@
   "https://www.theblock.co/news/markets/2026-10-08-securitize-launches-tokenized-us-stocks-solana-418043": 1791469609.0824006,
   "https://www.coindesk.com/markets/2026/10/08/over-6-million-bitcoin-sit-behind-exposed-public-keys-as-ai-warnings-mount": 1791469609.0824006,
   "https://www.theblock.co/news/markets/2026-10-08-bitcoin-q4-forecast-418052": 1791471238.5467398,
-  "https://www.coindesk.com/tech/2026/10/08/bunker-mode-is-a-far-greater-challenge-for-institutions-than-individual-crypto-holders": 1791471238.5467398
+  "https://www.coindesk.com/tech/2026/10/08/bunker-mode-is-a-far-greater-challenge-for-institutions-than-individual-crypto-holders": 1791471238.5467398,
+  "https://www.coindesk.com/policy/2026/10/08/eu-securities-regulator-gives-crypto-platforms-3-months-to-remove-unauthorized-stablecoins": 1791473152.8816135,
+  "https://www.coindesk.com/coindesk-indices/2026/10/08/crypto-for-advisors-digital-assets-outran-stocks-and-gold-in-q3": 1791473152.8816135
  },
  "tries": {}
 }
