@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-08T11:24:38Z",
+ "updated": "2026-10-08T11:51:38Z",
  "sources": [
   "coindesk.com",
   "cointelegraph-tr.com",
@@ -363,7 +363,9 @@
   "https://www.coindesk.com/markets/2026/10/08/live-news-risk-assets-under-pressure-as-bond-selloff-and-oil-rally-intensify": 1791456737.411505,
   "https://www.coindesk.com/markets/2026/10/08/bitcoin-slips-below-usd83-000-as-ethereum-researcher-s-bunker-mode-call-divides-crypto": 1791456737.411505,
   "https://www.coindesk.com/daybook-us/2026/10/08/bitcoin-etf-investors-head-for-the-exit-and-it-s-the-biggest-rush-in-months": 1791458678.5192573,
-  "https://cointelegraph-tr.com/news/us-government-moves-770m-seized-bitcoin-coinbase": 1791458678.5192573
+  "https://cointelegraph-tr.com/news/us-government-moves-770m-seized-bitcoin-coinbase": 1791458678.5192573,
+  "https://www.coindesk.com/tech/2026/10/08/bitcoin-and-ether-holders-urged-to-prepare-bunker-mode-against-possible-ai-attacks": 1791460298.2247689,
+  "https://www.coindesk.com/tech/2026/10/08/bitcoin-mined-for-pennies-in-2010-moves-after-16-years-now-worth-usd8-5-million": 1791460298.2247689
  },
  "tries": {}
 }
