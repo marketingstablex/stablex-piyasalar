@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-08T03:24:18Z",
+ "updated": "2026-10-08T03:52:42Z",
  "sources": [
   "coindesk.com",
   "cointelegraph-tr.com",
@@ -164,15 +164,6 @@
     "summary": "Conduit, USDT ihraççısının 2.76 milyon dolarlık fonunu hiçbir açıklama yapmadan bir yıldan uzun süredir dondurduğunu iddia ederek New York federal mahkemesinde Tether'e dava açıyor.",
     "url": "https://www.theblock.co/news/regulation/2026-10-06-conduit-sues-tether-usdt-freeze-417831",
     "published": "2026-10-06T17:54:00Z",
-    "importance": 3
-   }
-  ],
-  "XRP": [
-   {
-    "title": "Ripple, Brevan Howard anlaşmasını ana brokerlik hizmetleriyle genişletiyor",
-    "summary": "Ripple Prime, 35 milyar dolarlık alternatif yatırım yöneticisi tarafından yönetilen fonlara ana brokerlik, takas ve finansman hizmetleri sağlayacak.",
-    "url": "https://cointelegraph-tr.com/news/ripple-expands-brevan-howard-deal-with-prime-brokerage-services",
-    "published": "2026-10-06T15:24:51Z",
     "importance": 3
    }
   ]
