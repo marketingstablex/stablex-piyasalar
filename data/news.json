@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-08T20:25:55Z",
+ "updated": "2026-10-08T20:53:16Z",
  "sources": [
   "coindesk.com",
   "cointelegraph-tr.com",
@@ -114,13 +114,6 @@
     "summary": "Grayscale'den Krista Lynch, SEC listeleme standartlarının yaklaşık 15 tokeni kapsadığını ve kripto ETF ihraççılarının Bitcoin ve Ether'in ötesinde seçici olmasını sağladığını belirtti.",
     "url": "https://www.theblock.co/news/markets/2026-10-07-grayscale-crypto-etf-market-beyond-bitcoin-ether-417953",
     "published": "2026-10-07T18:37:17Z",
-    "importance": 3
-   },
-   {
-    "title": "BitMine, birikim hedefi yaklaşırken Ether arzı için yüzde 5’lik “kesin üst sınır” belirledi",
-    "summary": "Tom Lee, BitMine’ın Ether arzının yüzde 5’ini aşan miktarda birikim yapmayacağını söyleyerek şirketin hedefini bir üst sınıra dönüştürdü.",
-    "url": "https://cointelegraph-tr.com/news/bitmine-ether-5-percent-supply-hard-cap",
-    "published": "2026-10-07T08:50:02Z",
     "importance": 3
    }
   ],
