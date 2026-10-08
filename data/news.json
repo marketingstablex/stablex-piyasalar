@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-08T20:53:16Z",
+ "updated": "2026-10-08T21:23:58Z",
  "sources": [
   "coindesk.com",
   "cointelegraph-tr.com",
@@ -50,13 +50,6 @@
     "importance": 4
    },
    {
-    "title": "Bitcoin ETF’lerinde fiyatlar düşmesine rağmen 119 milyon dolarlık net giriş",
-    "summary": "Bitcoin ETF’lerinde salı günü, fiyatların düşmesine rağmen 119 milyon dolarlık net giriş gerçekleşti. Ether fonlarında ise toplam 408 milyon dolara ulaşan çıkış serisi altıncı seansa uzadı.",
-    "url": "https://cointelegraph-tr.com/markets/bitcoin-etf-rebound-119m-inflow-ether-extend-losses",
-    "published": "2026-10-07T09:03:38Z",
-    "importance": 4
-   },
-   {
     "title": "Wall Street'in tokenizasyon patlaması bitcoin ve ether'den daha büyük kazananlar çıkarabilir, diyor Citrini",
     "summary": "Wall Street'in tokenizasyon patlamasının bitcoin ve ether'den daha büyük kazananlar çıkarabileceği belirtiliyor.",
     "url": "https://www.coindesk.com/markets/2026/10/08/wall-street-s-tokenization-boom-could-have-bigger-winners-than-bitcoin-and-ether-citrini-says",
@@ -86,13 +79,6 @@
     "summary": "Ethereum araştırmacısı, yapay zekanın özel anahtarların güvenliğini kuantum bilgisayarlardan önce tehdit edebileceği uyarısında bulundu. Bu kapsamda kripto kullanıcılarının varlıklarını yeni adreslere taşımayı değerlendirmesi gerektiği ifade edildi.",
     "url": "https://cointelegraph-tr.com/news/justin-drake-urges-crypto-bunker-mode-as-ai-could-break-wallet-security-within-months",
     "published": "2026-10-08T00:04:32Z",
-    "importance": 4
-   },
-   {
-    "title": "Bitcoin ETF’lerinde fiyatlar düşmesine rağmen 119 milyon dolarlık net giriş",
-    "summary": "Bitcoin ETF’lerinde salı günü, fiyatların düşmesine rağmen 119 milyon dolarlık net giriş gerçekleşti. Ether fonlarında ise toplam 408 milyon dolara ulaşan çıkış serisi altıncı seansa uzadı.",
-    "url": "https://cointelegraph-tr.com/markets/bitcoin-etf-rebound-119m-inflow-ether-extend-losses",
-    "published": "2026-10-07T09:03:38Z",
     "importance": 4
    },
    {
@@ -197,7 +183,6 @@
   ]
  },
  "seen": {
-  "https://www.coindesk.com/policy/2026/10/04/there-s-an-election-next-month-state-of-crypto": 1791148358.438322,
   "https://cointelegraph-tr.com/magazine/former-sec-boss-made-ai-czar-bitcoin-may-hit-600k-this-cycle-hodlers-digest": 1791154085.5391653,
   "https://cointelegraph-tr.com/news/zcash-gets-a-washington-lobbyist-to-push-crypto-policy": 1791161864.0047054,
   "https://www.coindesk.com/markets/2026/10/05/ether-s-bitcoin-beating-q3-rally-came-with-a-catch-liquidity-thinned": 1791172572.5804806,
@@ -393,7 +378,8 @@
   "https://www.theblock.co/news/markets/2026-10-08-jpmorgan-crypto-inflows-50-billion-etf-futures-q4-418115": 1791485745.3627892,
   "https://cointelegraph-tr.com/news/nfl-new-jersey-supreme-court-kalshi": 1791487456.272437,
   "https://www.coindesk.com/markets/2026/10/08/wall-street-s-tokenization-boom-could-have-bigger-winners-than-bitcoin-and-ether-citrini-says": 1791489094.9482477,
-  "https://cointelegraph-tr.com/news/securitize-stock-jumps-launching-tokenized-us-equities-solana": 1791489094.9482477
+  "https://cointelegraph-tr.com/news/securitize-stock-jumps-launching-tokenized-us-equities-solana": 1791489094.9482477,
+  "https://www.coindesk.com/policy/2026/10/08/top-democrat-among-senate-investigators-probes-ties-between-cantor-fitzgerald-tether": 1791494638.3466835
  },
  "tries": {}
 }
