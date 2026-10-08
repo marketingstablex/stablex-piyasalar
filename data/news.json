@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-07T23:48:37Z",
+ "updated": "2026-10-08T00:32:46Z",
  "sources": [
   "coindesk.com",
   "cointelegraph-tr.com",
@@ -77,6 +77,13 @@
   ],
   "ETH": [
    {
+    "title": "Justin Drake, yapay zeka aylar içinde cüzdan güvenliğini bozabileceği için kriptoda “sığınak modu” çağrısı yapıyor",
+    "summary": "Ethereum araştırmacısı, yapay zekanın özel anahtarların güvenliğini kuantum bilgisayarlardan önce tehdit edebileceği uyarısında bulundu. Bu kapsamda kripto kullanıcılarının varlıklarını yeni adreslere taşımayı değerlendirmesi gerektiği ifade edildi.",
+    "url": "https://cointelegraph-tr.com/news/justin-drake-urges-crypto-bunker-mode-as-ai-could-break-wallet-security-within-months",
+    "published": "2026-10-08T00:04:32Z",
+    "importance": 4
+   },
+   {
     "title": "Bitcoin ETF’lerinde fiyatlar düşmesine rağmen 119 milyon dolarlık net giriş",
     "summary": "Bitcoin ETF’lerinde salı günü, fiyatların düşmesine rağmen 119 milyon dolarlık net giriş gerçekleşti. Ether fonlarında ise toplam 408 milyon dolara ulaşan çıkış serisi altıncı seansa uzadı.",
     "url": "https://cointelegraph-tr.com/markets/bitcoin-etf-rebound-119m-inflow-ether-extend-losses",
@@ -88,13 +95,6 @@
     "summary": "Grayscale'den Krista Lynch, SEC listeleme standartlarının yaklaşık 15 tokeni kapsadığını ve kripto ETF ihraççılarının Bitcoin ve Ether'in ötesinde seçici olmasını sağladığını belirtti.",
     "url": "https://www.theblock.co/news/markets/2026-10-07-grayscale-crypto-etf-market-beyond-bitcoin-ether-417953",
     "published": "2026-10-07T18:37:17Z",
-    "importance": 3
-   },
-   {
-    "title": "Ethereum araştırmacısı Justin Drake, özel anahtar kurtarma riski nedeniyle 'sığınak modu' planlaması çağrısında bulundu",
-    "summary": "Justin Drake, kripto varlıkların, halka açık anahtarlarını bir hash'in arkasında gizleyen yeni adreslere taşınmasını tavsiye etti.",
-    "url": "https://www.theblock.co/news/ecosystems/2026-10-07-ethereum-researcher-justin-drake-bunker-mode-planning-private-key-recovery-risk-417954",
-    "published": "2026-10-07T17:23:02Z",
     "importance": 3
    },
    {
@@ -329,7 +329,8 @@
   "https://www.theblock.co/news/markets/2026-10-07-grayscale-crypto-etf-market-beyond-bitcoin-ether-417953": 1791399372.2395728,
   "https://www.coindesk.com/business/2026/10/05/wells-fargo-in-talks-with-kraken-parent-payward-for-crypto-trading-liquidity": 1791401038.2781036,
   "https://cointelegraph-tr.com/news/circle-usdc-eurc-payments-sap-enterprise-ecosystem": 1791408243.5008264,
-  "https://www.theblock.co/news/defi/2026-10-07-solanas-orca-merges-with-loopscale-push-to-finance-ai-robotics-defense-417924": 1791411670.5642765
+  "https://www.theblock.co/news/defi/2026-10-07-solanas-orca-merges-with-loopscale-push-to-finance-ai-robotics-defense-417924": 1791411670.5642765,
+  "https://cointelegraph-tr.com/news/justin-drake-urges-crypto-bunker-mode-as-ai-could-break-wallet-security-within-months": 1791419566.4936354
  },
  "tries": {}
 }
