@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-08T17:51:31Z",
+ "updated": "2026-10-08T18:27:10Z",
  "sources": [
   "coindesk.com",
   "cointelegraph-tr.com",
@@ -190,10 +190,6 @@
   ]
  },
  "seen": {
-  "https://www.coindesk.com/business/2026/10/04/crypto-poured-years-into-new-products-the-next-challenge-is-keeping-users": 1791136558.1202593,
-  "https://cointelegraph-tr.com/news/trump-taps-jay-clayton-to-lead-new-super-intelligence-force": 1791136558.1202593,
-  "https://www.coindesk.com/business/2026/10/04/the-clarity-act-stalled-crypto-dealmakers-aren-t-hitting-the-brakes-yet": 1791136558.1202593,
-  "https://cointelegraph-tr.com/news/japan-adds-garantex-to-list-of-russia-sanctions-over-ukraine-war": 1791136558.1202593,
   "https://www.coindesk.com/policy/2026/10/04/there-s-an-election-next-month-state-of-crypto": 1791148358.438322,
   "https://cointelegraph-tr.com/magazine/former-sec-boss-made-ai-czar-bitcoin-may-hit-600k-this-cycle-hodlers-digest": 1791154085.5391653,
   "https://cointelegraph-tr.com/news/zcash-gets-a-washington-lobbyist-to-push-crypto-policy": 1791161864.0047054,
@@ -383,7 +379,10 @@
   "https://www.theblock.co/research/institutional/block-gcci-2026-country-profile-korea-crypto-market-418081": 1791480227.0337763,
   "https://www.theblock.co/news/business/2026-10-08-bitwise-ceo-dogecoin-etf-failure-hunter-horsley-418070": 1791480227.0337763,
   "https://cointelegraph-tr.com/news/imf-flags-volatility-liquidity-risks-tokenized-markets-grow": 1791480227.0337763,
-  "https://www.theblock.co/news/regulation/2026-10-08-nfl-amicus-brief-supreme-court-kalshi-new-jersey-prediction-markets-418064": 1791481891.4601378
+  "https://www.theblock.co/news/regulation/2026-10-08-nfl-amicus-brief-supreme-court-kalshi-new-jersey-prediction-markets-418064": 1791481891.4601378,
+  "https://cointelegraph-tr.com/news/netflix-series-ftx-sam-bankman-fried-caroline-ellison": 1791484030.6768382,
+  "https://www.coindesk.com/markets/2026/10/08/crypto-crumbles-as-anniversary-of-flash-crash-nears": 1791484030.6768382,
+  "https://www.coindesk.com/policy/2026/10/08/nfl-joins-pushback-against-prediction-markets-as-u-s-supreme-court-asked-to-act": 1791484030.6768382
  },
  "tries": {}
 }
