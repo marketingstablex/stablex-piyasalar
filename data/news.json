@@ -1,20 +1,11 @@
 {
- "updated": "2026-10-08T15:53:52Z",
+ "updated": "2026-10-08T16:27:25Z",
  "sources": [
   "coindesk.com",
   "cointelegraph-tr.com",
   "theblock.co"
  ],
  "bySymbol": {
-  "ADA": [
-   {
-    "title": "Cardano, token ihraççılarina varlıkları dondurma, ele geçirme ve kısıtlama yetkisi veriyor",
-    "summary": "Cardano, token ihraççilarına varlıkları dondurma, ele geçirme ve kısıtlama yetkisi veriyor.",
-    "url": "https://www.coindesk.com/tech/2026/10/07/cardano-gives-token-issuers-power-to-freeze-seize-and-restrict-assets",
-    "published": "2026-10-07T04:11:33Z",
-    "importance": 3
-   }
-  ],
   "BTC": [
    {
     "title": "ABD hükümeti, 770 milyon dolarlık transferlerin ardından el konulan 1 milyar dolarlık Bitcoin’i taşıdı",
