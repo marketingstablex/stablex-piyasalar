@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-08T11:51:38Z",
+ "updated": "2026-10-08T12:31:13Z",
  "sources": [
   "coindesk.com",
   "cointelegraph-tr.com",
@@ -52,6 +52,13 @@
     "importance": 4
    },
    {
+    "title": "Sui’nin Hashi’si 500 milyon dolarlık Bitcoin finansmanı taahhütleriyle kullanıma sunulacak",
+    "summary": "Hashi, ana ağ lansmanı öncesinde 500 milyon doların üzerinde taahhüde sahipken Anchorage, kurumlara mutabakat ve kendi kendine saklama imkanı sunuyor.",
+    "url": "https://cointelegraph-tr.com/news/sui-hashi-bitcoin-finance-commitments",
+    "published": "2026-10-08T12:03:28Z",
+    "importance": 3
+   },
+   {
     "title": "Grayscale, Zcash ETF'sinin 1 Milyar Doları Aşmasıyla Kripto ETF Piyasasının Yeni Bir Aşamaya Girdiğini Söylüyor",
     "summary": "Grayscale'den Krista Lynch, SEC listeleme standartlarının yaklaşık 15 tokeni kapsadığını ve kripto ETF ihraççılarının Bitcoin ve Ether'in ötesinde seçici olmasını sağladığını belirtti.",
     "url": "https://www.theblock.co/news/markets/2026-10-07-grayscale-crypto-etf-market-beyond-bitcoin-ether-417953",
@@ -63,13 +70,6 @@
     "summary": "Bitcoin'in 87.000 doların üzerine çıkması için gerekenler.",
     "url": "https://www.coindesk.com/daybook-us/2026/10/07/here-s-what-bitcoin-needs-to-break-above-usd87-000",
     "published": "2026-10-07T11:30:00Z",
-    "importance": 3
-   },
-   {
-    "title": "Bitcoin'in toparlanması, son zarardaki grubu kurtarmanın hemen eşiğinde durdu",
-    "summary": "Bitcoin'in toparlanması, son zarardaki grubu kurtarmanın hemen eşiğinde durdu.",
-    "url": "https://www.coindesk.com/markets/2026/10/07/bitcoin-s-recovery-stalls-just-short-of-rescuing-its-last-underwater-cohort",
-    "published": "2026-10-07T10:38:23Z",
     "importance": 3
    }
   ],
@@ -365,7 +365,9 @@
   "https://www.coindesk.com/daybook-us/2026/10/08/bitcoin-etf-investors-head-for-the-exit-and-it-s-the-biggest-rush-in-months": 1791458678.5192573,
   "https://cointelegraph-tr.com/news/us-government-moves-770m-seized-bitcoin-coinbase": 1791458678.5192573,
   "https://www.coindesk.com/tech/2026/10/08/bitcoin-and-ether-holders-urged-to-prepare-bunker-mode-against-possible-ai-attacks": 1791460298.2247689,
-  "https://www.coindesk.com/tech/2026/10/08/bitcoin-mined-for-pennies-in-2010-moves-after-16-years-now-worth-usd8-5-million": 1791460298.2247689
+  "https://www.coindesk.com/tech/2026/10/08/bitcoin-mined-for-pennies-in-2010-moves-after-16-years-now-worth-usd8-5-million": 1791460298.2247689,
+  "https://cointelegraph-tr.com/news/sui-hashi-bitcoin-finance-commitments": 1791462673.3767333,
+  "https://www.coindesk.com/business/2026/10/08/nuva-brings-u-s-residential-mortgage-credit-to-offshore-investors": 1791462673.3767333
  },
  "tries": {}
 }
