@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-08T03:52:42Z",
+ "updated": "2026-10-08T04:24:35Z",
  "sources": [
   "coindesk.com",
   "cointelegraph-tr.com",
@@ -80,6 +80,13 @@
     "url": "https://cointelegraph-tr.com/markets/bitcoin-etf-rebound-119m-inflow-ether-extend-losses",
     "published": "2026-10-07T09:03:38Z",
     "importance": 4
+   },
+   {
+    "title": "Ethereum’un Glamsterdam testleri yükseltme sonrasında blok başına yaklaşık 200 milyon gaza ulaşıyor",
+    "summary": "Ethereum’un Glamsterdam testleri yükseltme sonrasında blok başına yaklaşık 200 milyon gaza ulaşıyor.",
+    "url": "https://www.coindesk.com/tech/2026/10/08/ethereum-s-glamsterdam-test-runs-near-200-million-gas-per-block-after-upgrade",
+    "published": "2026-10-08T04:23:23Z",
+    "importance": 3
    },
    {
     "title": "Grayscale, Zcash ETF'sinin 1 Milyar Doları Aşmasıyla Kripto ETF Piyasasının Yeni Bir Aşamaya Girdiğini Söylüyor",
@@ -321,7 +328,9 @@
   "https://www.theblock.co/news/defi/2026-10-07-solanas-orca-merges-with-loopscale-push-to-finance-ai-robotics-defense-417924": 1791411670.5642765,
   "https://cointelegraph-tr.com/news/justin-drake-urges-crypto-bunker-mode-as-ai-could-break-wallet-security-within-months": 1791419566.4936354,
   "https://www.coindesk.com/business/2026/10/07/crypto-news-site-cointelegraph-seeks-buyer-after-web-traffic-plunges": 1791421146.260003,
-  "https://www.theblock.co/news/business/2026-10-07-samsung-to-launch-usdc-transfers-on-solana-for-us-galaxy-users-418004": 1791429858.6792068
+  "https://www.theblock.co/news/business/2026-10-07-samsung-to-launch-usdc-transfers-on-solana-for-us-galaxy-users-418004": 1791429858.6792068,
+  "https://www.coindesk.com/tech/2026/10/08/ethereum-s-glamsterdam-test-runs-near-200-million-gas-per-block-after-upgrade": 1791433475.560689,
+  "https://www.coindesk.com/markets/2026/10/08/bitcoin-breaks-below-usd83-000-as-oil-jumps-on-iran-strike-plan-report": 1791433475.560689
  },
  "tries": {}
 }
