@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-08T00:32:46Z",
+ "updated": "2026-10-08T00:59:06Z",
  "sources": [
   "coindesk.com",
   "cointelegraph-tr.com",
@@ -330,7 +330,8 @@
   "https://www.coindesk.com/business/2026/10/05/wells-fargo-in-talks-with-kraken-parent-payward-for-crypto-trading-liquidity": 1791401038.2781036,
   "https://cointelegraph-tr.com/news/circle-usdc-eurc-payments-sap-enterprise-ecosystem": 1791408243.5008264,
   "https://www.theblock.co/news/defi/2026-10-07-solanas-orca-merges-with-loopscale-push-to-finance-ai-robotics-defense-417924": 1791411670.5642765,
-  "https://cointelegraph-tr.com/news/justin-drake-urges-crypto-bunker-mode-as-ai-could-break-wallet-security-within-months": 1791419566.4936354
+  "https://cointelegraph-tr.com/news/justin-drake-urges-crypto-bunker-mode-as-ai-could-break-wallet-security-within-months": 1791419566.4936354,
+  "https://www.coindesk.com/business/2026/10/07/crypto-news-site-cointelegraph-seeks-buyer-after-web-traffic-plunges": 1791421146.260003
  },
  "tries": {}
 }
