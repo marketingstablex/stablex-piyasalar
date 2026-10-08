@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-08T10:25:58Z",
+ "updated": "2026-10-08T10:52:17Z",
  "sources": [
   "coindesk.com",
   "cointelegraph-tr.com",
@@ -21,6 +21,13 @@
     "summary": "Bitcoin ETF’leri 485 milyon dolarlık çekimle ekim ayındaki net girişleri sildi. Ether fonları ise üst üste yedinci net çıkış seansını kaydetti.",
     "url": "https://cointelegraph-tr.com/markets/bitcoin-etfs-outflow-largest-june-october",
     "published": "2026-10-08T07:30:42Z",
+    "importance": 4
+   },
+   {
+    "title": "Justin Drake, yapay zeka aylar içinde cüzdan güvenliğini bozabileceği için kriptoda “sığınak modu” çağrısı yapıyor",
+    "summary": "Ethereum araştırmacısı, yapay zekanın özel anahtarların güvenliğini kuantum bilgisayarlardan önce tehdit edebileceği uyarısında bulundu. Bu kapsamda kripto kullanıcılarının varlıklarını yeni adreslere taşımayı değerlendirmesi gerektiği ifade edildi.",
+    "url": "https://cointelegraph-tr.com/news/justin-drake-urges-crypto-bunker-mode-as-ai-could-break-wallet-security-within-months",
+    "published": "2026-10-08T00:04:32Z",
     "importance": 4
    },
    {
@@ -64,13 +71,6 @@
     "url": "https://www.coindesk.com/markets/2026/10/07/bitcoin-s-recovery-stalls-just-short-of-rescuing-its-last-underwater-cohort",
     "published": "2026-10-07T10:38:23Z",
     "importance": 3
-   },
-   {
-    "title": "Bitcoin kredileri sadece alım satımlar için değil, öğrenim ücreti ve işletme sermayesi için de ödeniyor",
-    "summary": "Bitcoin kredileri sadece alım satımlar için değil, öğrenim ücreti ve işletme sermayesi için de ödeniyor.",
-    "url": "https://www.coindesk.com/markets/2026/10/08/bitcoin-loans-are-paying-for-tuition-and-working-capital-not-just-trades-lenders-say",
-    "published": "2026-10-08T05:40:41Z",
-    "importance": 2
    }
   ],
   "ETH": [
@@ -361,7 +361,9 @@
   "https://www.coindesk.com/policy/2026/10/08/greece-prepares-to-levy-10-capital-gains-tax-on-cryptocurrency": 1791451504.293174,
   "https://cointelegraph-tr.com/news/esma-unauthorised-stablecoins-three-month-deadline": 1791453215.4524703,
   "https://www.coindesk.com/business/2026/10/08/standard-chartered-singapore-dives-into-crypto-stablecoins-and-tokenized-assets-custody": 1791453215.4524703,
-  "https://www.theblock.co/news/defi/2026-10-08-crypto-industry-split-over-justin-drakes-ai-warning-418021": 1791455158.4097874
+  "https://www.theblock.co/news/defi/2026-10-08-crypto-industry-split-over-justin-drakes-ai-warning-418021": 1791455158.4097874,
+  "https://www.coindesk.com/markets/2026/10/08/live-news-risk-assets-under-pressure-as-bond-selloff-and-oil-rally-intensify": 1791456737.411505,
+  "https://www.coindesk.com/markets/2026/10/08/bitcoin-slips-below-usd83-000-as-ethereum-researcher-s-bunker-mode-call-divides-crypto": 1791456737.411505
  },
  "tries": {}
 }
