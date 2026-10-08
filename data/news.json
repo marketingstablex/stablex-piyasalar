@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-08T05:24:15Z",
+ "updated": "2026-10-08T05:51:17Z",
  "sources": [
   "coindesk.com",
   "cointelegraph-tr.com",
@@ -57,6 +57,13 @@
     "url": "https://www.coindesk.com/markets/2026/10/07/bitcoin-s-recovery-stalls-just-short-of-rescuing-its-last-underwater-cohort",
     "published": "2026-10-07T10:38:23Z",
     "importance": 3
+   },
+   {
+    "title": "Bitcoin kredileri sadece alım satımlar için değil, öğrenim ücreti ve işletme sermayesi için de ödeniyor",
+    "summary": "Bitcoin kredileri sadece alım satımlar için değil, öğrenim ücreti ve işletme sermayesi için de ödeniyor.",
+    "url": "https://www.coindesk.com/markets/2026/10/08/bitcoin-loans-are-paying-for-tuition-and-working-capital-not-just-trades-lenders-say",
+    "published": "2026-10-08T05:40:41Z",
+    "importance": 2
    }
   ],
   "ETH": [
@@ -326,7 +333,8 @@
   "https://www.coindesk.com/markets/2026/10/08/bitcoin-breaks-below-usd83-000-as-oil-jumps-on-iran-strike-plan-report": 1791433475.560689,
   "https://cointelegraph-tr.com/news/canton-ceo-crypto-adoption-us-policy-reversals": 1791435127.295648,
   "https://cointelegraph-tr.com/news/cryptos-republican-spending-alienated-democrats-says-andrew-cuomo": 1791437055.7964683,
-  "https://www.theblock.co/news/defi/2026-10-08-vitalik-buterin-warns-hasty-wallet-migrations-418007": 1791437055.7964683
+  "https://www.theblock.co/news/defi/2026-10-08-vitalik-buterin-warns-hasty-wallet-migrations-418007": 1791437055.7964683,
+  "https://www.coindesk.com/markets/2026/10/08/bitcoin-loans-are-paying-for-tuition-and-working-capital-not-just-trades-lenders-say": 1791438677.7333314
  },
  "tries": {}
 }
