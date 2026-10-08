@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-08T10:52:17Z",
+ "updated": "2026-10-08T11:24:38Z",
  "sources": [
   "coindesk.com",
   "cointelegraph-tr.com",
@@ -190,8 +190,6 @@
   ]
  },
  "seen": {
-  "https://cointelegraph-tr.com/news/el-salvador-receives-138-million-from-imf-after-bitcoin-waivers-granted": 1791111190.706105,
-  "https://cointelegraph-tr.com/news/russias-finance-ministry-pays-wages-in-digital-rubles-for-first-time": 1791111190.706105,
   "https://www.coindesk.com/business/2026/10/04/crypto-poured-years-into-new-products-the-next-challenge-is-keeping-users": 1791136558.1202593,
   "https://cointelegraph-tr.com/news/trump-taps-jay-clayton-to-lead-new-super-intelligence-force": 1791136558.1202593,
   "https://www.coindesk.com/business/2026/10/04/the-clarity-act-stalled-crypto-dealmakers-aren-t-hitting-the-brakes-yet": 1791136558.1202593,
@@ -363,7 +361,9 @@
   "https://www.coindesk.com/business/2026/10/08/standard-chartered-singapore-dives-into-crypto-stablecoins-and-tokenized-assets-custody": 1791453215.4524703,
   "https://www.theblock.co/news/defi/2026-10-08-crypto-industry-split-over-justin-drakes-ai-warning-418021": 1791455158.4097874,
   "https://www.coindesk.com/markets/2026/10/08/live-news-risk-assets-under-pressure-as-bond-selloff-and-oil-rally-intensify": 1791456737.411505,
-  "https://www.coindesk.com/markets/2026/10/08/bitcoin-slips-below-usd83-000-as-ethereum-researcher-s-bunker-mode-call-divides-crypto": 1791456737.411505
+  "https://www.coindesk.com/markets/2026/10/08/bitcoin-slips-below-usd83-000-as-ethereum-researcher-s-bunker-mode-call-divides-crypto": 1791456737.411505,
+  "https://www.coindesk.com/daybook-us/2026/10/08/bitcoin-etf-investors-head-for-the-exit-and-it-s-the-biggest-rush-in-months": 1791458678.5192573,
+  "https://cointelegraph-tr.com/news/us-government-moves-770m-seized-bitcoin-coinbase": 1791458678.5192573
  },
  "tries": {}
 }
