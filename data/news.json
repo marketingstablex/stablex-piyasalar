@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-08T12:58:47Z",
+ "updated": "2026-10-08T13:27:30Z",
  "sources": [
   "coindesk.com",
   "cointelegraph-tr.com",
@@ -147,6 +147,13 @@
     "url": "https://cointelegraph-tr.com/news/samsung-wallet-usdc-transfers-us-galaxy-users-october",
     "published": "2026-10-08T08:24:24Z",
     "importance": 4
+   },
+   {
+    "title": "Securitize, Apple, Nvidia ve Tesla'yı Solana'ya taşıyor, NYSE işlemleri yolda",
+    "summary": "Securitize, Apple, Nvidia ve Tesla hisselerini Solana'ya getiriyor ve NYSE işlemleri planlanıyor.",
+    "url": "https://www.coindesk.com/business/2026/10/08/securitize-brings-apple-nvidia-and-tesla-to-solana-with-nyse-trading-in-the-works",
+    "published": "2026-10-08T13:06:24Z",
+    "importance": 3
    },
    {
     "title": "Solana'nın Orca'sı, Yapay Zeka, Robotik ve Savunmayı Finanse Etmek İçin Loopscale ile Birleşti",
@@ -367,7 +374,9 @@
   "https://www.coindesk.com/tech/2026/10/08/bitcoin-and-ether-holders-urged-to-prepare-bunker-mode-against-possible-ai-attacks": 1791460298.2247689,
   "https://www.coindesk.com/tech/2026/10/08/bitcoin-mined-for-pennies-in-2010-moves-after-16-years-now-worth-usd8-5-million": 1791460298.2247689,
   "https://cointelegraph-tr.com/news/sui-hashi-bitcoin-finance-commitments": 1791462673.3767333,
-  "https://www.coindesk.com/business/2026/10/08/nuva-brings-u-s-residential-mortgage-credit-to-offshore-investors": 1791462673.3767333
+  "https://www.coindesk.com/business/2026/10/08/nuva-brings-u-s-residential-mortgage-credit-to-offshore-investors": 1791462673.3767333,
+  "https://www.coindesk.com/business/2026/10/08/securitize-brings-apple-nvidia-and-tesla-to-solana-with-nyse-trading-in-the-works": 1791466050.2617586,
+  "https://cointelegraph-tr.com/news/eu-lawmakers-crypto-anti-corruption": 1791466050.2617586
  },
  "tries": {}
 }
