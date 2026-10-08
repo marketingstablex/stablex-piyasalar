@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-08T15:25:52Z",
+ "updated": "2026-10-08T15:53:52Z",
  "sources": [
   "coindesk.com",
   "cointelegraph-tr.com",
@@ -16,6 +16,13 @@
    }
   ],
   "BTC": [
+   {
+    "title": "ABD hükümeti, 770 milyon dolarlık transferlerin ardından el konulan 1 milyar dolarlık Bitcoin’i taşıdı",
+    "summary": "Blockchain analistleri, Bitfinex saldırısında çalınan fonların kurtarılmasıyla bağlantılı ABD hükümeti cüzdanını tespit etti.",
+    "url": "https://cointelegraph-tr.com/news/us-government-seized-bitcoin-moved-one-transaction",
+    "published": "2026-10-08T15:24:16Z",
+    "importance": 4
+   },
    {
     "title": "Yapay zeka uyarıları artarken açıkta kalan genel anahtarların arkasında 6 milyondan fazla Bitcoin bulunuyor",
     "summary": "Yapay zeka uyarıları artarken açıkta kalan genel anahtarların arkasında 6 milyondan fazla Bitcoin bulunuyor.",
@@ -63,13 +70,6 @@
     "summary": "Bitcoin perşembe günü 82.000 dolar civarında işlem gördü. QCP analistleri, dördüncü çeyrek için 80.000 ile 90.000 dolar arasında bir işlem aralığı bekliyor.",
     "url": "https://www.theblock.co/news/markets/2026-10-08-bitcoin-q4-forecast-418052",
     "published": "2026-10-08T14:52:27Z",
-    "importance": 3
-   },
-   {
-    "title": "Sui’nin Hashi’si 500 milyon dolarlık Bitcoin finansmanı taahhütleriyle kullanıma sunulacak",
-    "summary": "Hashi, ana ağ lansmanı öncesinde 500 milyon doların üzerinde taahhüde sahipken Anchorage, kurumlara mutabakat ve kendi kendine saklama imkanı sunuyor.",
-    "url": "https://cointelegraph-tr.com/news/sui-hashi-bitcoin-finance-commitments",
-    "published": "2026-10-08T12:03:28Z",
     "importance": 3
    }
   ],
@@ -390,7 +390,9 @@
   "https://www.theblock.co/news/markets/2026-10-08-bitcoin-q4-forecast-418052": 1791471238.5467398,
   "https://www.coindesk.com/tech/2026/10/08/bunker-mode-is-a-far-greater-challenge-for-institutions-than-individual-crypto-holders": 1791471238.5467398,
   "https://www.coindesk.com/policy/2026/10/08/eu-securities-regulator-gives-crypto-platforms-3-months-to-remove-unauthorized-stablecoins": 1791473152.8816135,
-  "https://www.coindesk.com/coindesk-indices/2026/10/08/crypto-for-advisors-digital-assets-outran-stocks-and-gold-in-q3": 1791473152.8816135
+  "https://www.coindesk.com/coindesk-indices/2026/10/08/crypto-for-advisors-digital-assets-outran-stocks-and-gold-in-q3": 1791473152.8816135,
+  "https://www.coindesk.com/business/2026/10/08/u-s-government-moves-usd1-billion-in-bitcoin-from-bitfinex-hack-wallet-no-sale-indicated": 1791474832.030927,
+  "https://cointelegraph-tr.com/news/us-government-seized-bitcoin-moved-one-transaction": 1791474832.030927
  },
  "tries": {}
 }
