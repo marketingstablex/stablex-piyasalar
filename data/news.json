@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-08T07:25:57Z",
+ "updated": "2026-10-08T07:52:48Z",
  "sources": [
   "coindesk.com",
   "cointelegraph-tr.com",
@@ -16,6 +16,13 @@
    }
   ],
   "BTC": [
+   {
+    "title": "ABD Bitcoin ETF’leri, Haziran’dan bu yana en büyük günlük net çıkışta 485 milyon dolar kaybetti",
+    "summary": "Bitcoin ETF’leri 485 milyon dolarlık çekimle ekim ayındaki net girişleri sildi. Ether fonları ise üst üste yedinci net çıkış seansını kaydetti.",
+    "url": "https://cointelegraph-tr.com/markets/bitcoin-etfs-outflow-largest-june-october",
+    "published": "2026-10-08T07:30:42Z",
+    "importance": 4
+   },
    {
     "title": "Bitcoin fiyatı, İran kaynaklı endişelerle tahvil satışlarının yeniden başlaması üzerine 82.700 dolarla ekim ayının en düşük seviyesine geriledi",
     "summary": "Bitcoin, hisse senetleri tüm zamanların en yüksek seviyelerinden gerilerken ve tahvil getirileri hızla yükselirken 83.000 doların altına düşerek ay başından bu yana en düşük seviyelerini gördü.",
@@ -67,6 +74,13 @@
    }
   ],
   "ETH": [
+   {
+    "title": "ABD Bitcoin ETF’leri, Haziran’dan bu yana en büyük günlük net çıkışta 485 milyon dolar kaybetti",
+    "summary": "Bitcoin ETF’leri 485 milyon dolarlık çekimle ekim ayındaki net girişleri sildi. Ether fonları ise üst üste yedinci net çıkış seansını kaydetti.",
+    "url": "https://cointelegraph-tr.com/markets/bitcoin-etfs-outflow-largest-june-october",
+    "published": "2026-10-08T07:30:42Z",
+    "importance": 4
+   },
    {
     "title": "Justin Drake, yapay zeka aylar içinde cüzdan güvenliğini bozabileceği için kriptoda “sığınak modu” çağrısı yapıyor",
     "summary": "Ethereum araştırmacısı, yapay zekanın özel anahtarların güvenliğini kuantum bilgisayarlardan önce tehdit edebileceği uyarısında bulundu. Bu kapsamda kripto kullanıcılarının varlıklarını yeni adreslere taşımayı değerlendirmesi gerektiği ifade edildi.",
@@ -335,7 +349,8 @@
   "https://cointelegraph-tr.com/news/cryptos-republican-spending-alienated-democrats-says-andrew-cuomo": 1791437055.7964683,
   "https://www.theblock.co/news/defi/2026-10-08-vitalik-buterin-warns-hasty-wallet-migrations-418007": 1791437055.7964683,
   "https://www.coindesk.com/markets/2026/10/08/bitcoin-loans-are-paying-for-tuition-and-working-capital-not-just-trades-lenders-say": 1791438677.7333314,
-  "https://www.coindesk.com/markets/2026/10/08/ripple-is-earning-fees-financing-leveraged-stock-bets-a-business-long-run-by-banks": 1791441054.266515
+  "https://www.coindesk.com/markets/2026/10/08/ripple-is-earning-fees-financing-leveraged-stock-bets-a-business-long-run-by-banks": 1791441054.266515,
+  "https://cointelegraph-tr.com/markets/bitcoin-etfs-outflow-largest-june-october": 1791445968.7694223
  },
  "tries": {}
 }
