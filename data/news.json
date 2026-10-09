@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-09T04:25:17Z",
+ "updated": "2026-10-09T04:52:12Z",
  "sources": [
   "coindesk.com",
   "cointelegraph-tr.com",
@@ -133,6 +133,13 @@
     "importance": 4
    },
    {
+    "title": "Solana, son 200 milisaniyelik yükseltme yaklaşırken blok sürelerini yarı yarıya indirmeye hazırlanıyor",
+    "summary": "Solana, son 200 milisaniyelik yükseltmenin yaklaşmasıyla birlikte blok sürelerini yarı yarıya indirmeye hazırlanıyor.",
+    "url": "https://www.coindesk.com/tech/2026/10/09/solana-is-about-to-halve-its-block-times-as-final-200-millisecond-upgrade-nears",
+    "published": "2026-10-09T04:35:52Z",
+    "importance": 3
+   },
+   {
     "title": "Securitize, Solana’da tokenleştirilmiş ABD hisselerini piyasaya sürmesinin ardından yüzde 10’dan fazla yükseldi",
     "summary": "Securitize, Solana'da tokenleştirilmiş ABD hisselerini piyasaya sürmesinin ardından yüzde 10'dan fazla değer kazandı. Yeni teklif, uygun yatırımcılara 12 ABD şirketinin temettü ve oy hakları sunan tokenleştirilmiş hisselerine erişim sağlıyor. Ayrıca günün her saati işlem yapılmasına yönelik planlar bulunuyor.",
     "url": "https://cointelegraph-tr.com/news/securitize-stock-jumps-launching-tokenized-us-equities-solana",
@@ -197,7 +204,6 @@
   ]
  },
  "seen": {
-  "https://www.coindesk.com/markets/2026/10/05/bitcoin-zooms-toward-usd87-000-nearly-setting-an-eight-month-high-then-reverses": 1791174319.357616,
   "https://www.coindesk.com/markets/2026/10/05/okx-and-nyse-s-owner-file-for-round-the-clock-tokenized-trading-in-u-s-stocks": 1791177050.0217016,
   "https://www.coindesk.com/tech/2026/10/05/zcash-s-25-second-blocks-go-live-on-public-testnet-ahead-of-schedule": 1791177050.0217016,
   "https://www.coindesk.com/markets/2026/10/05/bitcoin-is-about-to-get-a-major-bullish-signal-it-hasn-t-had-in-over-a-year": 1791183654.117528,
@@ -393,7 +399,8 @@
   "https://cointelegraph-tr.com/news/thailand-finalizes-rules-paving-way-for-bitcoin-ether-etfs": 1791516286.7220056,
   "https://www.coindesk.com/markets/2026/10/09/bitcoin-rebounds-to-usd82-000-as-trump-rules-out-iran-strikes": 1791517980.044209,
   "https://www.coindesk.com/tech/2026/10/09/xrp-ledger-adds-new-controls-for-banks-stablecoins-and-tokenized-funds": 1791519917.9475963,
-  "https://www.coindesk.com/markets/2026/10/09/ether-bets-were-wiped-out-at-six-times-bitcoin-s-rate-in-crypto-s-usd1-billion-flush": 1791519917.9475963
+  "https://www.coindesk.com/markets/2026/10/09/ether-bets-were-wiped-out-at-six-times-bitcoin-s-rate-in-crypto-s-usd1-billion-flush": 1791519917.9475963,
+  "https://www.coindesk.com/tech/2026/10/09/solana-is-about-to-halve-its-block-times-as-final-200-millisecond-upgrade-nears": 1791521532.607307
  },
  "tries": {}
 }
