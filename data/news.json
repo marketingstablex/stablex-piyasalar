@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-09T17:22:04Z",
+ "updated": "2026-10-09T17:51:11Z",
  "sources": [
   "coindesk.com",
   "cointelegraph-tr.com",
@@ -183,9 +183,6 @@
   ]
  },
  "seen": {
-  "https://www.theblock.co/news/regulation/2026-10-05-fincen-drops-crypto-mixing-rule-self-hosted-wallet-proposal-417690": 1791220964.1565692,
-  "https://www.coindesk.com/markets/2026/10/05/more-than-60-u-s-stocks-including-nvidia-and-tesla-are-headed-onchain-here-s-how-it-works": 1791220964.1565692,
-  "https://cointelegraph-tr.com/markets/bitcoin-q3-rally-treasury-yields-fed-rate-outlook": 1791220964.1565692,
   "https://cointelegraph-tr.com/news/sp-global-launches-risk-assessments-for-10b-crypto-lending-vault-market": 1791224913.150996,
   "https://cointelegraph-tr.com/news/cftc-proposed-crypto-framework-failed-clarity-vote": 1791224913.150996,
   "https://cointelegraph-tr.com/news/fincen-crypto-mixing-rule-legitimate-activity": 1791235900.811262,
@@ -376,7 +373,8 @@
   "https://www.theblock.co/news/business/2026-10-09-blockchain-com-cftc-license-prediction-markets-derivatives-418192": 1791563059.5585966,
   "https://cointelegraph-tr.com/news/wealthy-investors-crypto-advisers-okx-strategy-buybacks": 1791563059.5585966,
   "https://cointelegraph-tr.com/news/blockchain-cftc-approval-derivatives-prediction-markets": 1791564782.80768,
-  "https://cointelegraph-tr.com/news/ledger-investigates-fund-losses-linked-to-southeast-asian-reseller-warns-users": 1791566524.7515216
+  "https://cointelegraph-tr.com/news/ledger-investigates-fund-losses-linked-to-southeast-asian-reseller-warns-users": 1791566524.7515216,
+  "https://cointelegraph-tr.com/news/hsbc-ant-digital-test-ai-agent-payments-using-tokenized-deposits": 1791568271.1750796
  },
  "tries": {}
 }
