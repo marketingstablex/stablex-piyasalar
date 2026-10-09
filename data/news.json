@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-09T19:22:09Z",
+ "updated": "2026-10-09T19:49:17Z",
  "sources": [
   "coindesk.com",
   "cointelegraph-tr.com",
@@ -48,13 +48,6 @@
     "url": "https://www.coindesk.com/markets/2026/10/08/over-6-million-bitcoin-sit-behind-exposed-public-keys-as-ai-warnings-mount",
     "published": "2026-10-08T14:03:20Z",
     "importance": 4
-   },
-   {
-    "title": "ABD Bitcoin ETF’leri, Haziran’dan bu yana en büyük günlük net çıkışta 485 milyon dolar kaybetti",
-    "summary": "Bitcoin ETF’leri 485 milyon dolarlık çekimle ekim ayındaki net girişleri sildi. Ether fonları ise üst üste yedinci net çıkış seansını kaydetti.",
-    "url": "https://cointelegraph-tr.com/markets/bitcoin-etfs-outflow-largest-june-october",
-    "published": "2026-10-08T07:30:42Z",
-    "importance": 4
    }
   ],
   "DOGE": [
@@ -86,13 +79,6 @@
     "summary": "Kuralların gelecek hafta yürürlüğe girmesiyle birlikte kripto ETF’leri yalnızca Tayland Menkul Kıymetler Borsası’nda işlem görebilecek.",
     "url": "https://cointelegraph-tr.com/news/thailand-finalizes-rules-paving-way-for-bitcoin-ether-etfs",
     "published": "2026-10-09T03:08:51Z",
-    "importance": 4
-   },
-   {
-    "title": "ABD Bitcoin ETF’leri, Haziran’dan bu yana en büyük günlük net çıkışta 485 milyon dolar kaybetti",
-    "summary": "Bitcoin ETF’leri 485 milyon dolarlık çekimle ekim ayındaki net girişleri sildi. Ether fonları ise üst üste yedinci net çıkış seansını kaydetti.",
-    "url": "https://cointelegraph-tr.com/markets/bitcoin-etfs-outflow-largest-june-october",
-    "published": "2026-10-08T07:30:42Z",
     "importance": 4
    },
    {
