@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-09T12:28:37Z",
+ "updated": "2026-10-09T12:57:18Z",
  "sources": [
   "coindesk.com",
   "cointelegraph-tr.com",
@@ -190,10 +190,6 @@
   ]
  },
  "seen": {
-  "https://www.coindesk.com/markets/2026/10/05/xrp-treasury-spac-surges-nearly-300-ahead-of-evernorth-merger": 1791203409.5242062,
-  "https://www.theblock.co/news/business/2026-10-05-more-orange-than-ever-michael-saylor-strategy-bitcoin-417631": 1791203409.5242062,
-  "https://www.theblock.co/news/business/2026-10-05-metaplanet-sold-10000-btc-in-q3-before-buying-back-11000-btc-to-demonstrate-liquidity-417640": 1791203409.5242062,
-  "https://www.theblock.co/news/business/2026-10-05-visa-coinshares-find-growing-crypto-appetite-among-consumers-and-affluent-investors-417642": 1791203409.5242062,
   "https://www.theblock.co/news/business/2026-10-05-tom-lee-says-ether-dwarfing-other-macro-assets-as-bitmine-adds-15112-eth-417660": 1791206928.27731,
   "https://cointelegraph-tr.com/news/strategy-848k-bitcoin-strc-buybacks-outpace-btc-buys": 1791206928.27731,
   "https://cointelegraph-tr.com/news/china-stablecoin-p2p-wallets-crypto-restrictions": 1791206928.27731,
