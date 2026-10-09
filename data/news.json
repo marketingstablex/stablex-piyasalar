@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-09T15:53:19Z",
+ "updated": "2026-10-09T16:24:19Z",
  "sources": [
   "coindesk.com",
   "cointelegraph-tr.com",
@@ -107,13 +107,6 @@
     "summary": "Wall Street'in tokenizasyon patlamasının bitcoin ve ether'den daha büyük kazananlar çıkarabileceği belirtiliyor.",
     "url": "https://www.coindesk.com/markets/2026/10/08/wall-street-s-tokenization-boom-could-have-bigger-winners-than-bitcoin-and-ether-citrini-says",
     "published": "2026-10-08T19:46:15Z",
-    "importance": 3
-   },
-   {
-    "title": "Ethereum’un Glamsterdam testleri yükseltme sonrasında blok başına yaklaşık 200 milyon gaza ulaşıyor",
-    "summary": "Ethereum’un Glamsterdam testleri yükseltme sonrasında blok başına yaklaşık 200 milyon gaza ulaşıyor.",
-    "url": "https://www.coindesk.com/tech/2026/10/08/ethereum-s-glamsterdam-test-runs-near-200-million-gas-per-block-after-upgrade",
-    "published": "2026-10-08T04:23:23Z",
     "importance": 3
    }
   ],
@@ -382,7 +375,9 @@
   "https://www.theblock.co/news/business/2026-10-09-ledger-cryptobilis-fund-losses-418163": 1791557690.007348,
   "https://www.coindesk.com/business/2026/10/09/ledger-investigates-potential-wallet-tampering-after-reports-of-usd86-million-in-crypto-stolen": 1791557690.007348,
   "https://www.theblock.co/news/regulation/2026-10-09-us-targets-1-billion-iran-linked-crypto-seizure-bessent-says-we-know-where-it-is-418151": 1791557690.007348,
-  "https://www.coindesk.com/policy/2026/10/09/new-york-ag-secures-up-to-usd35-million-and-lifetime-crypto-ban-from-celsius-alex-mashinsky": 1791559442.4013457
+  "https://www.coindesk.com/policy/2026/10/09/new-york-ag-secures-up-to-usd35-million-and-lifetime-crypto-ban-from-celsius-alex-mashinsky": 1791559442.4013457,
+  "https://www.theblock.co/news/business/2026-10-09-blockchain-com-cftc-license-prediction-markets-derivatives-418192": 1791563059.5585966,
+  "https://cointelegraph-tr.com/news/wealthy-investors-crypto-advisers-okx-strategy-buybacks": 1791563059.5585966
  },
  "tries": {}
 }
