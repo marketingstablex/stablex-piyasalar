@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-09T01:52:20Z",
+ "updated": "2026-10-09T02:22:40Z",
  "sources": [
   "coindesk.com",
   "cointelegraph-tr.com",
@@ -93,15 +93,6 @@
     "summary": "Grayscale'den Krista Lynch, SEC listeleme standartlarının yaklaşık 15 tokeni kapsadığını ve kripto ETF ihraççılarının Bitcoin ve Ether'in ötesinde seçici olmasını sağladığını belirtti.",
     "url": "https://www.theblock.co/news/markets/2026-10-07-grayscale-crypto-etf-market-beyond-bitcoin-ether-417953",
     "published": "2026-10-07T18:37:17Z",
-    "importance": 3
-   }
-  ],
-  "SKY": [
-   {
-    "title": "Moody's, ABD Doları cinsinden USDS'ye kurumsal ilginin artmasıyla Sky Protokolü'ne B3 notu verdi",
-    "summary": "Moody's, bir stablecoin protokolü için ilk kez Sky'a durağan görünümle B3 ihraççı notu verdi. Sky ayrıca S&P tarafından B- olarak derecelendirildi.",
-    "url": "https://www.theblock.co/news/business/2026-10-07-moodys-sky-protocol-b3-rating-first-stablecoin-protocol-417931",
-    "published": "2026-10-07T14:20:01Z",
     "importance": 3
    }
   ],
