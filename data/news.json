@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-09T10:25:42Z",
+ "updated": "2026-10-09T10:52:33Z",
  "sources": [
   "coindesk.com",
   "cointelegraph-tr.com",
@@ -204,10 +204,6 @@
   ]
  },
  "seen": {
-  "https://www.coindesk.com/markets/2026/10/05/u-s-dollar-climbs-to-18-month-high-as-bitcoin-holds-firm-around-usd86-000": 1791197510.2188466,
-  "https://www.coindesk.com/business/2026/10/05/live-updates-bitcoin-above-usd86-000-as-traders-price-out-an-october-fed-hike": 1791197510.2188466,
-  "https://www.coindesk.com/markets/2026/10/05/cardano-s-ada-leads-gains-in-narrow-range-bound-market": 1791197510.2188466,
-  "https://cointelegraph-tr.com/news/what-happened-in-crypto-today": 1791197510.2188466,
   "https://www.coindesk.com/daybook-us/2026/10/05/sec-approves-a-3x-fix-for-bitcoin-and-ether-traders-who-miss-the-wild-swings": 1791199442.9403672,
   "https://www.coindesk.com/policy/2026/10/05/treasury-crackdown-exposes-crypto-s-role-in-usd2-million-hamas-fundraising-network": 1791199442.9403672,
   "https://www.coindesk.com/business/2026/10/05/metaplanet-adds-1-000-bitcoin-after-sale-and-repurchase-launches-income-strategy": 1791199442.9403672,
@@ -400,7 +396,12 @@
   "https://www.coindesk.com/business/2026/10/09/sam-altman-backed-bitcoin-insurer-meanwhile-secures-usd37-5-million-in-bain-capital-crypto-led-round": 1791537950.0623019,
   "https://www.coindesk.com/policy/2026/10/09/thailand-opens-door-to-locally-listed-bitcoin-and-ether-etfs": 1791541542.3337424,
   "https://cointelegraph-tr.com/news/france-crypto-stablecoin-swap-tax-2027-budget": 1791541542.3337424,
-  "https://www.coindesk.com/policy/2026/10/09/uk-slaps-sanctions-on-three-crypto-exchanges-over-alleged-russia-links": 1791541542.3337424
+  "https://www.coindesk.com/policy/2026/10/09/uk-slaps-sanctions-on-three-crypto-exchanges-over-alleged-russia-links": 1791541542.3337424,
+  "https://www.coindesk.com/markets/2026/10/09/bitcoin-steadies-near-usd82-500-after-trump-rules-out-iran-strike-before-midterms": 1791543153.346953,
+  "https://www.theblock.co/news/regulation/2026-10-09-thailand-sec-issues-bitcoin-and-ether-etf-rules-set-to-take-effect-oct-16-418132": 1791543153.346953,
+  "https://cointelegraph-tr.com/news/uk-sanctions-crypto-exchanges-russian-illicit-funds": 1791543153.346953,
+  "https://www.theblock.co/news/deals/2026-10-09-sam-altman-backed-bitcoin-life-insurer-meanwhile-raises-37-5-million-round-led-by-bain-capital-crypto-418131": 1791543153.346953,
+  "https://cointelegraph-tr.com/news/what-happened-in-crypto-today": 1791543153.346953
  },
  "tries": {}
 }
