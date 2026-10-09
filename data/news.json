@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-09T12:57:18Z",
+ "updated": "2026-10-09T13:26:56Z",
  "sources": [
   "coindesk.com",
   "cointelegraph-tr.com",
@@ -383,7 +383,8 @@
   "https://cointelegraph-tr.com/news/what-happened-in-crypto-today": 1791543153.346953,
   "https://www.coindesk.com/daybook-us/2026/10/09/trump-s-iran-pledge-underpins-crypto-gains-as-bitcoin-bears-face-liquidation-pressure": 1791544985.3409293,
   "https://www.coindesk.com/tech/2026/10/09/zcash-developers-set-january-target-for-quantum-resistant-payments-after-bunker-mode-scare": 1791546673.4590054,
-  "https://www.coindesk.com/policy/2026/10/09/dwf-labs-subsidiaries-sue-bitgo-for-usd141-million-over-alleged-token-lock-up-breach": 1791548917.4167073
+  "https://www.coindesk.com/policy/2026/10/09/dwf-labs-subsidiaries-sue-bitgo-for-usd141-million-over-alleged-token-lock-up-breach": 1791548917.4167073,
+  "https://www.theblock.co/news/defi/2026-10-09-tokenization-supercycle-base-jesse-pollak-418144": 1791552416.723768
  },
  "tries": {}
 }
