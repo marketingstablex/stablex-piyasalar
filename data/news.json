@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-09T09:52:46Z",
+ "updated": "2026-10-09T10:25:42Z",
  "sources": [
   "coindesk.com",
   "cointelegraph-tr.com",
@@ -152,13 +152,6 @@
     "url": "https://cointelegraph-tr.com/news/securitize-stock-jumps-launching-tokenized-us-equities-solana",
     "published": "2026-10-08T19:31:38Z",
     "importance": 3
-   },
-   {
-    "title": "Solana'nın Orca'sı, Yapay Zeka, Robotik ve Savunmayı Finanse Etmek İçin Loopscale ile Birleşti",
-    "summary": "Orca ve Loopscale, yapay zeka, enerji, robotik ve savunma alanlarında finansmanı hedefleyerek Formation adı altında birleşti.",
-    "url": "https://www.theblock.co/news/defi/2026-10-07-solanas-orca-merges-with-loopscale-push-to-finance-ai-robotics-defense-417924",
-    "published": "2026-10-07T22:01:02Z",
-    "importance": 3
    }
   ],
   "USDC": [
@@ -211,9 +204,6 @@
   ]
  },
  "seen": {
-  "https://www.coindesk.com/markets/2026/10/05/technicals-signal-bitcoin-shift-ethereum-gears-up-for-glamsterdam-crypto-week-ahead": 1791193982.261941,
-  "https://www.coindesk.com/business/2026/10/05/kraken-operator-payward-and-singapore-gulf-bank-platform-for-24-7-institutional-crypto-settlement": 1791193982.261941,
-  "https://cointelegraph-tr.com/news/vivek-ramaswamy-crypto-gubernatorial-campaign": 1791195941.1832168,
   "https://www.coindesk.com/markets/2026/10/05/u-s-dollar-climbs-to-18-month-high-as-bitcoin-holds-firm-around-usd86-000": 1791197510.2188466,
   "https://www.coindesk.com/business/2026/10/05/live-updates-bitcoin-above-usd86-000-as-traders-price-out-an-october-fed-hike": 1791197510.2188466,
   "https://www.coindesk.com/markets/2026/10/05/cardano-s-ada-leads-gains-in-narrow-range-bound-market": 1791197510.2188466,
@@ -407,7 +397,10 @@
   "https://cointelegraph-tr.com/markets/bitcoin-ether-etfs-october-outflows-billion": 1791532384.683974,
   "https://www.coindesk.com/policy/2026/10/09/dark-web-drug-market-operator-forfeits-1-230-bitcoin-and-faces-40-years-in-prison": 1791537950.0623019,
   "https://www.coindesk.com/markets/2026/10/09/mara-transfers-usd81-1-million-in-bitcoin-to-galaxy-digital-as-strategy-pivots-to-ai": 1791537950.0623019,
-  "https://www.coindesk.com/business/2026/10/09/sam-altman-backed-bitcoin-insurer-meanwhile-secures-usd37-5-million-in-bain-capital-crypto-led-round": 1791537950.0623019
+  "https://www.coindesk.com/business/2026/10/09/sam-altman-backed-bitcoin-insurer-meanwhile-secures-usd37-5-million-in-bain-capital-crypto-led-round": 1791537950.0623019,
+  "https://www.coindesk.com/policy/2026/10/09/thailand-opens-door-to-locally-listed-bitcoin-and-ether-etfs": 1791541542.3337424,
+  "https://cointelegraph-tr.com/news/france-crypto-stablecoin-swap-tax-2027-budget": 1791541542.3337424,
+  "https://www.coindesk.com/policy/2026/10/09/uk-slaps-sanctions-on-three-crypto-exchanges-over-alleged-russia-links": 1791541542.3337424
  },
  "tries": {}
 }
