@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-09T06:30:06Z",
+ "updated": "2026-10-09T06:58:30Z",
  "sources": [
   "coindesk.com",
   "cointelegraph-tr.com",
@@ -57,10 +57,10 @@
     "importance": 4
    },
    {
-    "title": "Wall Street'in tokenizasyon patlaması bitcoin ve ether'den daha büyük kazananlar çıkarabilir, diyor Citrini",
-    "summary": "Wall Street'in tokenizasyon patlamasının bitcoin ve ether'den daha büyük kazananlar çıkarabileceği belirtiliyor.",
-    "url": "https://www.coindesk.com/markets/2026/10/08/wall-street-s-tokenization-boom-could-have-bigger-winners-than-bitcoin-and-ether-citrini-says",
-    "published": "2026-10-08T19:46:15Z",
+    "title": "Canlı güncellemeler: BTC, ETH ve ZEC fonlarından çıkışlar yaşanırken yeşil bölgedeki tek fonlar XRP ETF'leri oldu",
+    "summary": "Canlı güncellemeler: BTC, ETH ve ZEC fonlarından çıkışlar yaşanırken yeşil bölgedeki tek fonlar XRP ETF'leri oldu",
+    "url": "https://www.coindesk.com/business/2026/10/09/live-updates-xrp-etfs-the-only-ones-in-green-as-btc-eth-zec-funds-post-outflows",
+    "published": "2026-10-09T06:51:32Z",
     "importance": 3
    }
   ],
@@ -103,6 +103,13 @@
     "importance": 4
    },
    {
+    "title": "Canlı güncellemeler: BTC, ETH ve ZEC fonlarından çıkışlar yaşanırken yeşil bölgedeki tek fonlar XRP ETF'leri oldu",
+    "summary": "Canlı güncellemeler: BTC, ETH ve ZEC fonlarından çıkışlar yaşanırken yeşil bölgedeki tek fonlar XRP ETF'leri oldu",
+    "url": "https://www.coindesk.com/business/2026/10/09/live-updates-xrp-etfs-the-only-ones-in-green-as-btc-eth-zec-funds-post-outflows",
+    "published": "2026-10-09T06:51:32Z",
+    "importance": 3
+   },
+   {
     "title": "Wall Street'in tokenizasyon patlaması bitcoin ve ether'den daha büyük kazananlar çıkarabilir, diyor Citrini",
     "summary": "Wall Street'in tokenizasyon patlamasının bitcoin ve ether'den daha büyük kazananlar çıkarabileceği belirtiliyor.",
     "url": "https://www.coindesk.com/markets/2026/10/08/wall-street-s-tokenization-boom-could-have-bigger-winners-than-bitcoin-and-ether-citrini-says",
@@ -114,13 +121,6 @@
     "summary": "Ethereum’un Glamsterdam testleri yükseltme sonrasında blok başına yaklaşık 200 milyon gaza ulaşıyor.",
     "url": "https://www.coindesk.com/tech/2026/10/08/ethereum-s-glamsterdam-test-runs-near-200-million-gas-per-block-after-upgrade",
     "published": "2026-10-08T04:23:23Z",
-    "importance": 3
-   },
-   {
-    "title": "Grayscale, Zcash ETF'sinin 1 Milyar Doları Aşmasıyla Kripto ETF Piyasasının Yeni Bir Aşamaya Girdiğini Söylüyor",
-    "summary": "Grayscale'den Krista Lynch, SEC listeleme standartlarının yaklaşık 15 tokeni kapsadığını ve kripto ETF ihraççılarının Bitcoin ve Ether'in ötesinde seçici olmasını sağladığını belirtti.",
-    "url": "https://www.theblock.co/news/markets/2026-10-07-grayscale-crypto-etf-market-beyond-bitcoin-ether-417953",
-    "published": "2026-10-07T18:37:17Z",
     "importance": 3
    }
   ],
@@ -187,6 +187,13 @@
    }
   ],
   "XRP": [
+   {
+    "title": "Canlı güncellemeler: BTC, ETH ve ZEC fonlarından çıkışlar yaşanırken yeşil bölgedeki tek fonlar XRP ETF'leri oldu",
+    "summary": "Canlı güncellemeler: BTC, ETH ve ZEC fonlarından çıkışlar yaşanırken yeşil bölgedeki tek fonlar XRP ETF'leri oldu",
+    "url": "https://www.coindesk.com/business/2026/10/09/live-updates-xrp-etfs-the-only-ones-in-green-as-btc-eth-zec-funds-post-outflows",
+    "published": "2026-10-09T06:51:32Z",
+    "importance": 3
+   },
    {
     "title": "XRP Ledger, bankalar, stablecoinler ve tokenize fonlar için yeni kontroller ekliyor",
     "summary": "XRP Ledger, bankalar, stablecoinler ve tokenize fonlar için yeni kontroller ekliyor.",
@@ -399,7 +406,9 @@
   "https://www.coindesk.com/tech/2026/10/09/xrp-ledger-adds-new-controls-for-banks-stablecoins-and-tokenized-funds": 1791519917.9475963,
   "https://www.coindesk.com/markets/2026/10/09/ether-bets-were-wiped-out-at-six-times-bitcoin-s-rate-in-crypto-s-usd1-billion-flush": 1791519917.9475963,
   "https://www.coindesk.com/tech/2026/10/09/solana-is-about-to-halve-its-block-times-as-final-200-millisecond-upgrade-nears": 1791521532.607307,
-  "https://cointelegraph-tr.com/news/trump-administration-quantum-computing-ai-6-billion-science-push": 1791525114.4243195
+  "https://cointelegraph-tr.com/news/trump-administration-quantum-computing-ai-6-billion-science-push": 1791525114.4243195,
+  "https://www.coindesk.com/business/2026/10/09/live-updates-xrp-etfs-the-only-ones-in-green-as-btc-eth-zec-funds-post-outflows": 1791529110.8008254,
+  "https://www.coindesk.com/markets/2026/10/09/new-tech-to-power-bitcoin-lending-is-set-to-debut-with-usd500-million-in-commitments": 1791529110.8008254
  },
  "tries": {}
 }
