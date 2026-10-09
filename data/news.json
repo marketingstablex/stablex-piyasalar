@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-09T02:50:36Z",
+ "updated": "2026-10-09T03:24:46Z",
  "sources": [
   "coindesk.com",
   "cointelegraph-tr.com",
@@ -7,6 +7,13 @@
  ],
  "bySymbol": {
   "BTC": [
+   {
+    "title": "Tayland, Bitcoin ve Ether ETF’lerinin önünü açan kuralları kesinleştirdi",
+    "summary": "Kuralların gelecek hafta yürürlüğe girmesiyle birlikte kripto ETF’leri yalnızca Tayland Menkul Kıymetler Borsası’nda işlem görebilecek.",
+    "url": "https://cointelegraph-tr.com/news/thailand-finalizes-rules-paving-way-for-bitcoin-ether-etfs",
+    "published": "2026-10-09T03:08:51Z",
+    "importance": 4
+   },
    {
     "title": "ABD hükümeti, 770 milyon dolarlık transferlerin ardından el konulan 1 milyar dolarlık Bitcoin’i taşıdı",
     "summary": "Blockchain analistleri, Bitfinex saldırısında çalınan fonların kurtarılmasıyla bağlantılı ABD hükümeti cüzdanını tespit etti.",
@@ -36,13 +43,6 @@
     "importance": 4
    },
    {
-    "title": "Bitcoin fiyatı, İran kaynaklı endişelerle tahvil satışlarının yeniden başlaması üzerine 82.700 dolarla ekim ayının en düşük seviyesine geriledi",
-    "summary": "Bitcoin, hisse senetleri tüm zamanların en yüksek seviyelerinden gerilerken ve tahvil getirileri hızla yükselirken 83.000 doların altına düşerek ay başından bu yana en düşük seviyelerini gördü.",
-    "url": "https://cointelegraph-tr.com/markets/bitcoin-price-drops-to-827k-october-low-as-bond-sell-off-resumes-on-iran-nerves",
-    "published": "2026-10-07T15:06:14Z",
-    "importance": 4
-   },
-   {
     "title": "Wall Street'in tokenizasyon patlaması bitcoin ve ether'den daha büyük kazananlar çıkarabilir, diyor Citrini",
     "summary": "Wall Street'in tokenizasyon patlamasının bitcoin ve ether'den daha büyük kazananlar çıkarabileceği belirtiliyor.",
     "url": "https://www.coindesk.com/markets/2026/10/08/wall-street-s-tokenization-boom-could-have-bigger-winners-than-bitcoin-and-ether-citrini-says",
@@ -60,6 +60,13 @@
    }
   ],
   "ETH": [
+   {
+    "title": "Tayland, Bitcoin ve Ether ETF’lerinin önünü açan kuralları kesinleştirdi",
+    "summary": "Kuralların gelecek hafta yürürlüğe girmesiyle birlikte kripto ETF’leri yalnızca Tayland Menkul Kıymetler Borsası’nda işlem görebilecek.",
+    "url": "https://cointelegraph-tr.com/news/thailand-finalizes-rules-paving-way-for-bitcoin-ether-etfs",
+    "published": "2026-10-09T03:08:51Z",
+    "importance": 4
+   },
    {
     "title": "ABD Bitcoin ETF’leri, Haziran’dan bu yana en büyük günlük net çıkışta 485 milyon dolar kaybetti",
     "summary": "Bitcoin ETF’leri 485 milyon dolarlık çekimle ekim ayındaki net girişleri sildi. Ether fonları ise üst üste yedinci net çıkış seansını kaydetti.",
@@ -358,7 +365,8 @@
   "https://cointelegraph-tr.com/news/securitize-stock-jumps-launching-tokenized-us-equities-solana": 1791489094.9482477,
   "https://www.coindesk.com/policy/2026/10/08/top-democrat-among-senate-investigators-probes-ties-between-cantor-fitzgerald-tether": 1791494638.3466835,
   "https://cointelegraph-tr.com/magazine/chinas-p2p-stablecoin-wallets-surge-43x-koreas-450b-crypto-economy-asia-express": 1791501762.5253413,
-  "https://cointelegraph-tr.com/news/cantor-fitzgerald-faces-senate-democrats-probe-over-tether-ties": 1791507787.617451
+  "https://cointelegraph-tr.com/news/cantor-fitzgerald-faces-senate-democrats-probe-over-tether-ties": 1791507787.617451,
+  "https://cointelegraph-tr.com/news/thailand-finalizes-rules-paving-way-for-bitcoin-ether-etfs": 1791516286.7220056
  },
  "tries": {}
 }
