@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-09T13:53:29Z",
+ "updated": "2026-10-09T14:26:57Z",
  "sources": [
   "coindesk.com",
   "cointelegraph-tr.com",
@@ -190,7 +190,6 @@
   ]
  },
  "seen": {
-  "https://www.coindesk.com/business/2026/10/01/stripe-to-expand-stablecoin-cards-to-over-100-countries-by-the-end-of-the-year": 1791208462.5944657,
   "https://www.theblock.co/news/markets/2026-10-05-defi-development-nav-per-share-doubles-2-56-million-sol-417674": 1791212025.8854532,
   "https://cointelegraph-tr.com/markets/bitcoin-price-fails-to-break-higher-after-best-weekly-close-in-eight-months": 1791213983.3252635,
   "https://www.theblock.co/news/business/2026-10-05-strive-adds-2000-bitcoin-biggest-buy-since-june-closes-in-mara-417677": 1791213983.3252635,
@@ -381,7 +380,8 @@
   "https://www.coindesk.com/daybook-us/2026/10/09/trump-s-iran-pledge-underpins-crypto-gains-as-bitcoin-bears-face-liquidation-pressure": 1791544985.3409293,
   "https://www.coindesk.com/tech/2026/10/09/zcash-developers-set-january-target-for-quantum-resistant-payments-after-bunker-mode-scare": 1791546673.4590054,
   "https://www.coindesk.com/policy/2026/10/09/dwf-labs-subsidiaries-sue-bitgo-for-usd141-million-over-alleged-token-lock-up-breach": 1791548917.4167073,
-  "https://www.theblock.co/news/defi/2026-10-09-tokenization-supercycle-base-jesse-pollak-418144": 1791552416.723768
+  "https://www.theblock.co/news/defi/2026-10-09-tokenization-supercycle-base-jesse-pollak-418144": 1791552416.723768,
+  "https://www.theblock.co/news/regulation/2026-10-09-ny-attorney-general-alex-mashinsky-celsius-35-million-ban-418154": 1791556017.1489096
  },
  "tries": {}
 }
