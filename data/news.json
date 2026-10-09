@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-09T20:22:29Z",
+ "updated": "2026-10-09T20:51:21Z",
  "sources": [
   "coindesk.com",
   "cointelegraph-tr.com",
@@ -98,13 +98,6 @@
   ],
   "SOL": [
    {
-    "title": "Samsung Wallet, ekim ayında ABD’li Galaxy kullanıcıları için USDC transferlerini başlatacak",
-    "summary": "Uygun ABD’li Galaxy kullanıcıları, USDC’yi kripto cüzdanlarına gönderebilecek ve 60’tan fazla ülkedeki banka hesaplarına para transfer edebilecek.",
-    "url": "https://cointelegraph-tr.com/news/samsung-wallet-usdc-transfers-us-galaxy-users-october",
-    "published": "2026-10-08T08:24:24Z",
-    "importance": 4
-   },
-   {
     "title": "Solana, son 200 milisaniyelik yükseltme yaklaşırken blok sürelerini yarı yarıya indirmeye hazırlanıyor",
     "summary": "Solana, son 200 milisaniyelik yükseltmenin yaklaşmasıyla birlikte blok sürelerini yarı yarıya indirmeye hazırlanıyor.",
     "url": "https://www.coindesk.com/tech/2026/10/09/solana-is-about-to-halve-its-block-times-as-final-200-millisecond-upgrade-nears",
@@ -120,13 +113,6 @@
    }
   ],
   "USDC": [
-   {
-    "title": "Samsung Wallet, ekim ayında ABD’li Galaxy kullanıcıları için USDC transferlerini başlatacak",
-    "summary": "Uygun ABD’li Galaxy kullanıcıları, USDC’yi kripto cüzdanlarına gönderebilecek ve 60’tan fazla ülkedeki banka hesaplarına para transfer edebilecek.",
-    "url": "https://cointelegraph-tr.com/news/samsung-wallet-usdc-transfers-us-galaxy-users-october",
-    "published": "2026-10-08T08:24:24Z",
-    "importance": 4
-   },
    {
     "title": "Securitize, Solana’da tokenleştirilmiş ABD hisselerini piyasaya sürmesinin ardından yüzde 10’dan fazla yükseldi",
     "summary": "Securitize, Solana'da tokenleştirilmiş ABD hisselerini piyasaya sürmesinin ardından yüzde 10'dan fazla değer kazandı. Yeni teklif, uygun yatırımcılara 12 ABD şirketinin temettü ve oy hakları sunan tokenleştirilmiş hisselerine erişim sağlıyor. Ayrıca günün her saati işlem yapılmasına yönelik planlar bulunuyor.",
