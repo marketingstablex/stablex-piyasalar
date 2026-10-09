@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-09T05:24:14Z",
+ "updated": "2026-10-09T05:51:54Z",
  "sources": [
   "coindesk.com",
   "cointelegraph-tr.com",
@@ -398,7 +398,8 @@
   "https://www.coindesk.com/markets/2026/10/09/bitcoin-rebounds-to-usd82-000-as-trump-rules-out-iran-strikes": 1791517980.044209,
   "https://www.coindesk.com/tech/2026/10/09/xrp-ledger-adds-new-controls-for-banks-stablecoins-and-tokenized-funds": 1791519917.9475963,
   "https://www.coindesk.com/markets/2026/10/09/ether-bets-were-wiped-out-at-six-times-bitcoin-s-rate-in-crypto-s-usd1-billion-flush": 1791519917.9475963,
-  "https://www.coindesk.com/tech/2026/10/09/solana-is-about-to-halve-its-block-times-as-final-200-millisecond-upgrade-nears": 1791521532.607307
+  "https://www.coindesk.com/tech/2026/10/09/solana-is-about-to-halve-its-block-times-as-final-200-millisecond-upgrade-nears": 1791521532.607307,
+  "https://cointelegraph-tr.com/news/trump-administration-quantum-computing-ai-6-billion-science-push": 1791525114.4243195
  },
  "tries": {}
 }
