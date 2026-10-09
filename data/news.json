@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-09T07:25:19Z",
+ "updated": "2026-10-09T07:53:04Z",
  "sources": [
   "coindesk.com",
   "cointelegraph-tr.com",
@@ -7,6 +7,13 @@
  ],
  "bySymbol": {
   "BTC": [
+   {
+    "title": "Bitcoin ve Ether ETF’lerinin ekim ayındaki net çıkışları 1 milyar dolara yaklaşıyor",
+    "summary": "Bitcoin ETF’leri perşembe günü 244 milyon dolar net çıkış kaydetti. Ether fonlarının net çıkış serisi ise sekiz seansa uzayarak toplam 641 milyon dolara ulaştı.",
+    "url": "https://cointelegraph-tr.com/markets/bitcoin-ether-etfs-october-outflows-billion",
+    "published": "2026-10-09T07:34:44Z",
+    "importance": 4
+   },
    {
     "title": "Kripto para piyasasındaki 1 milyar dolarlık tasfiyede, Ether pozisyonlarındaki kayıplar Bitcoin'in altı katı oldu",
     "summary": "Kripto para piyasasındaki 1 milyar dolarlık tasfiyede, Ether pozisyonlarındaki kayıplar Bitcoin'in altı katı oldu.",
@@ -55,13 +62,6 @@
     "url": "https://cointelegraph-tr.com/news/justin-drake-urges-crypto-bunker-mode-as-ai-could-break-wallet-security-within-months",
     "published": "2026-10-08T00:04:32Z",
     "importance": 4
-   },
-   {
-    "title": "Canlı güncellemeler: BTC, ETH ve ZEC fonlarından çıkışlar yaşanırken yeşil bölgedeki tek fonlar XRP ETF'leri oldu",
-    "summary": "Canlı güncellemeler: BTC, ETH ve ZEC fonlarından çıkışlar yaşanırken yeşil bölgedeki tek fonlar XRP ETF'leri oldu",
-    "url": "https://www.coindesk.com/business/2026/10/09/live-updates-xrp-etfs-the-only-ones-in-green-as-btc-eth-zec-funds-post-outflows",
-    "published": "2026-10-09T06:51:32Z",
-    "importance": 3
    }
   ],
   "DOGE": [
@@ -74,6 +74,13 @@
    }
   ],
   "ETH": [
+   {
+    "title": "Bitcoin ve Ether ETF’lerinin ekim ayındaki net çıkışları 1 milyar dolara yaklaşıyor",
+    "summary": "Bitcoin ETF’leri perşembe günü 244 milyon dolar net çıkış kaydetti. Ether fonlarının net çıkış serisi ise sekiz seansa uzayarak toplam 641 milyon dolara ulaştı.",
+    "url": "https://cointelegraph-tr.com/markets/bitcoin-ether-etfs-october-outflows-billion",
+    "published": "2026-10-09T07:34:44Z",
+    "importance": 4
+   },
    {
     "title": "Kripto para piyasasındaki 1 milyar dolarlık tasfiyede, Ether pozisyonlarındaki kayıplar Bitcoin'in altı katı oldu",
     "summary": "Kripto para piyasasındaki 1 milyar dolarlık tasfiyede, Ether pozisyonlarındaki kayıplar Bitcoin'in altı katı oldu.",
@@ -405,7 +412,8 @@
   "https://www.coindesk.com/tech/2026/10/09/solana-is-about-to-halve-its-block-times-as-final-200-millisecond-upgrade-nears": 1791521532.607307,
   "https://cointelegraph-tr.com/news/trump-administration-quantum-computing-ai-6-billion-science-push": 1791525114.4243195,
   "https://www.coindesk.com/business/2026/10/09/live-updates-xrp-etfs-the-only-ones-in-green-as-btc-eth-zec-funds-post-outflows": 1791529110.8008254,
-  "https://www.coindesk.com/markets/2026/10/09/new-tech-to-power-bitcoin-lending-is-set-to-debut-with-usd500-million-in-commitments": 1791529110.8008254
+  "https://www.coindesk.com/markets/2026/10/09/new-tech-to-power-bitcoin-lending-is-set-to-debut-with-usd500-million-in-commitments": 1791529110.8008254,
+  "https://cointelegraph-tr.com/markets/bitcoin-ether-etfs-october-outflows-billion": 1791532384.683974
  },
  "tries": {}
 }
