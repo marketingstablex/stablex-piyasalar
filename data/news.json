@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-09T08:53:29Z",
+ "updated": "2026-10-09T09:25:50Z",
  "sources": [
   "coindesk.com",
   "cointelegraph-tr.com",
@@ -405,7 +405,10 @@
   "https://cointelegraph-tr.com/news/trump-administration-quantum-computing-ai-6-billion-science-push": 1791525114.4243195,
   "https://www.coindesk.com/business/2026/10/09/live-updates-xrp-etfs-the-only-ones-in-green-as-btc-eth-zec-funds-post-outflows": 1791529110.8008254,
   "https://www.coindesk.com/markets/2026/10/09/new-tech-to-power-bitcoin-lending-is-set-to-debut-with-usd500-million-in-commitments": 1791529110.8008254,
-  "https://cointelegraph-tr.com/markets/bitcoin-ether-etfs-october-outflows-billion": 1791532384.683974
+  "https://cointelegraph-tr.com/markets/bitcoin-ether-etfs-october-outflows-billion": 1791532384.683974,
+  "https://www.coindesk.com/policy/2026/10/09/dark-web-drug-market-operator-forfeits-1-230-bitcoin-and-faces-40-years-in-prison": 1791537950.0623019,
+  "https://www.coindesk.com/markets/2026/10/09/mara-transfers-usd81-1-million-in-bitcoin-to-galaxy-digital-as-strategy-pivots-to-ai": 1791537950.0623019,
+  "https://www.coindesk.com/business/2026/10/09/sam-altman-backed-bitcoin-insurer-meanwhile-secures-usd37-5-million-in-bain-capital-crypto-led-round": 1791537950.0623019
  },
  "tries": {}
 }
