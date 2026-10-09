@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-09T00:36:07Z",
+ "updated": "2026-10-09T01:03:07Z",
  "sources": [
   "coindesk.com",
   "cointelegraph-tr.com",
@@ -121,13 +121,6 @@
     "importance": 3
    },
    {
-    "title": "Securitize, Apple, Nvidia, Strategy ve diğerleri ile başlayarak 1:1 destekli token'laştırılmış hisse senetlerini başlattı",
-    "summary": "Securitize, temettü ve USDC mutabakatı ile gerçek hisseler tarafından 1:1 desteklenen token'laştırılmış ABD hisse senetlerini Solana üzerinde başlattı.",
-    "url": "https://www.theblock.co/news/markets/2026-10-08-securitize-launches-tokenized-us-stocks-solana-418043",
-    "published": "2026-10-08T14:04:39Z",
-    "importance": 3
-   },
-   {
     "title": "Solana'nın Orca'sı, Yapay Zeka, Robotik ve Savunmayı Finanse Etmek İçin Loopscale ile Birleşti",
     "summary": "Orca ve Loopscale, yapay zeka, enerji, robotik ve savunma alanlarında finansmanı hedefleyerek Formation adı altında birleşti.",
     "url": "https://www.theblock.co/news/defi/2026-10-07-solanas-orca-merges-with-loopscale-push-to-finance-ai-robotics-defense-417924",
@@ -144,10 +137,10 @@
     "importance": 4
    },
    {
-    "title": "Securitize, Apple, Nvidia, Strategy ve diğerleri ile başlayarak 1:1 destekli token'laştırılmış hisse senetlerini başlattı",
-    "summary": "Securitize, temettü ve USDC mutabakatı ile gerçek hisseler tarafından 1:1 desteklenen token'laştırılmış ABD hisse senetlerini Solana üzerinde başlattı.",
-    "url": "https://www.theblock.co/news/markets/2026-10-08-securitize-launches-tokenized-us-stocks-solana-418043",
-    "published": "2026-10-08T14:04:39Z",
+    "title": "Securitize, Solana’da tokenleştirilmiş ABD hisselerini piyasaya sürmesinin ardından yüzde 10’dan fazla yükseldi",
+    "summary": "Securitize, Solana'da tokenleştirilmiş ABD hisselerini piyasaya sürmesinin ardından yüzde 10'dan fazla değer kazandı. Yeni teklif, uygun yatırımcılara 12 ABD şirketinin temettü ve oy hakları sunan tokenleştirilmiş hisselerine erişim sağlıyor. Ayrıca günün her saati işlem yapılmasına yönelik planlar bulunuyor.",
+    "url": "https://cointelegraph-tr.com/news/securitize-stock-jumps-launching-tokenized-us-equities-solana",
+    "published": "2026-10-08T19:31:38Z",
     "importance": 3
    },
    {
@@ -156,6 +149,15 @@
     "url": "https://cointelegraph-tr.com/news/circle-usdc-eurc-payments-sap-enterprise-ecosystem",
     "published": "2026-10-07T20:48:34Z",
     "importance": 3
+   }
+  ],
+  "USDT": [
+   {
+    "title": "Cantor Fitzgerald, Tether bağları nedeniyle Senato Demokratının soruşturmasıyla karşı karşıya",
+    "summary": "Cantor Fitzgerald, Tether'ın USDT'sinin İran'ın gölge bankacılık ağı için önemli bir araç haline geldiğini öne süren geçen ayki raporun ardından Demokrat soruşturmacıların incelemesiyle karşı karşıya kaldı.",
+    "url": "https://cointelegraph-tr.com/news/cantor-fitzgerald-faces-senate-democrats-probe-over-tether-ties",
+    "published": "2026-10-09T00:46:27Z",
+    "importance": 4
    }
   ],
   "XRP": [
@@ -169,7 +171,6 @@
   ]
  },
  "seen": {
-  "https://cointelegraph-tr.com/news/zcash-gets-a-washington-lobbyist-to-push-crypto-policy": 1791161864.0047054,
   "https://www.coindesk.com/markets/2026/10/05/ether-s-bitcoin-beating-q3-rally-came-with-a-catch-liquidity-thinned": 1791172572.5804806,
   "https://cointelegraph-tr.com/news/zcash-nu7-testnet-activation-november-mainnet": 1791172572.5804806,
   "https://cointelegraph-tr.com/news/okx-nyse-parent-file-to-launch-tokenized-us-stock-platform": 1791172572.5804806,
@@ -365,7 +366,8 @@
   "https://www.coindesk.com/markets/2026/10/08/wall-street-s-tokenization-boom-could-have-bigger-winners-than-bitcoin-and-ether-citrini-says": 1791489094.9482477,
   "https://cointelegraph-tr.com/news/securitize-stock-jumps-launching-tokenized-us-equities-solana": 1791489094.9482477,
   "https://www.coindesk.com/policy/2026/10/08/top-democrat-among-senate-investigators-probes-ties-between-cantor-fitzgerald-tether": 1791494638.3466835,
-  "https://cointelegraph-tr.com/magazine/chinas-p2p-stablecoin-wallets-surge-43x-koreas-450b-crypto-economy-asia-express": 1791501762.5253413
+  "https://cointelegraph-tr.com/magazine/chinas-p2p-stablecoin-wallets-surge-43x-koreas-450b-crypto-economy-asia-express": 1791501762.5253413,
+  "https://cointelegraph-tr.com/news/cantor-fitzgerald-faces-senate-democrats-probe-over-tether-ties": 1791507787.617451
  },
  "tries": {}
 }
