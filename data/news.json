@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-09T17:51:11Z",
+ "updated": "2026-10-09T18:26:14Z",
  "sources": [
   "coindesk.com",
   "cointelegraph-tr.com",
@@ -172,13 +172,6 @@
     "url": "https://www.coindesk.com/tech/2026/10/09/xrp-ledger-adds-new-controls-for-banks-stablecoins-and-tokenized-funds",
     "published": "2026-10-09T04:21:36Z",
     "importance": 3
-   },
-   {
-    "title": "Ripple, bankalar tarafından uzun süredir yürütülen kaldıraçlı hisse senedi finansmanından komisyon kazanıyor",
-    "summary": "Ripple, bankalar tarafından uzun süredir yürütülen bir iş olan kaldıraçlı hisse senedi finansmanından komisyon kazanmaktadır.",
-    "url": "https://www.coindesk.com/markets/2026/10/08/ripple-is-earning-fees-financing-leveraged-stock-bets-a-business-long-run-by-banks",
-    "published": "2026-10-08T06:17:13Z",
-    "importance": 2
    }
   ]
  },
@@ -374,7 +367,8 @@
   "https://cointelegraph-tr.com/news/wealthy-investors-crypto-advisers-okx-strategy-buybacks": 1791563059.5585966,
   "https://cointelegraph-tr.com/news/blockchain-cftc-approval-derivatives-prediction-markets": 1791564782.80768,
   "https://cointelegraph-tr.com/news/ledger-investigates-fund-losses-linked-to-southeast-asian-reseller-warns-users": 1791566524.7515216,
-  "https://cointelegraph-tr.com/news/hsbc-ant-digital-test-ai-agent-payments-using-tokenized-deposits": 1791568271.1750796
+  "https://cointelegraph-tr.com/news/hsbc-ant-digital-test-ai-agent-payments-using-tokenized-deposits": 1791568271.1750796,
+  "https://www.coindesk.com/business/2026/10/09/robinhood-chain-considers-technology-that-gives-paying-traders-priority": 1791570374.3368921
  },
  "tries": {}
 }
