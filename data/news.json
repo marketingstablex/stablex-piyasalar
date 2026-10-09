@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-09T11:23:05Z",
+ "updated": "2026-10-09T11:51:13Z",
  "sources": [
   "coindesk.com",
   "cointelegraph-tr.com",
@@ -204,9 +204,6 @@
   ]
  },
  "seen": {
-  "https://www.coindesk.com/daybook-us/2026/10/05/sec-approves-a-3x-fix-for-bitcoin-and-ether-traders-who-miss-the-wild-swings": 1791199442.9403672,
-  "https://www.coindesk.com/policy/2026/10/05/treasury-crackdown-exposes-crypto-s-role-in-usd2-million-hamas-fundraising-network": 1791199442.9403672,
-  "https://www.coindesk.com/business/2026/10/05/metaplanet-adds-1-000-bitcoin-after-sale-and-repurchase-launches-income-strategy": 1791199442.9403672,
   "https://www.coindesk.com/markets/2026/10/05/xrp-treasury-spac-surges-nearly-300-ahead-of-evernorth-merger": 1791203409.5242062,
   "https://www.theblock.co/news/business/2026-10-05-more-orange-than-ever-michael-saylor-strategy-bitcoin-417631": 1791203409.5242062,
   "https://www.theblock.co/news/business/2026-10-05-metaplanet-sold-10000-btc-in-q3-before-buying-back-11000-btc-to-demonstrate-liquidity-417640": 1791203409.5242062,
@@ -402,7 +399,8 @@
   "https://cointelegraph-tr.com/news/uk-sanctions-crypto-exchanges-russian-illicit-funds": 1791543153.346953,
   "https://www.theblock.co/news/deals/2026-10-09-sam-altman-backed-bitcoin-life-insurer-meanwhile-raises-37-5-million-round-led-by-bain-capital-crypto-418131": 1791543153.346953,
   "https://cointelegraph-tr.com/news/what-happened-in-crypto-today": 1791543153.346953,
-  "https://www.coindesk.com/daybook-us/2026/10/09/trump-s-iran-pledge-underpins-crypto-gains-as-bitcoin-bears-face-liquidation-pressure": 1791544985.3409293
+  "https://www.coindesk.com/daybook-us/2026/10/09/trump-s-iran-pledge-underpins-crypto-gains-as-bitcoin-bears-face-liquidation-pressure": 1791544985.3409293,
+  "https://www.coindesk.com/tech/2026/10/09/zcash-developers-set-january-target-for-quantum-resistant-payments-after-bunker-mode-scare": 1791546673.4590054
  },
  "tries": {}
 }
