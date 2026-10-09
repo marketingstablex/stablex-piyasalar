@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-09T04:52:12Z",
+ "updated": "2026-10-09T05:24:14Z",
  "sources": [
   "coindesk.com",
   "cointelegraph-tr.com",
@@ -204,8 +204,6 @@
   ]
  },
  "seen": {
-  "https://www.coindesk.com/markets/2026/10/05/okx-and-nyse-s-owner-file-for-round-the-clock-tokenized-trading-in-u-s-stocks": 1791177050.0217016,
-  "https://www.coindesk.com/tech/2026/10/05/zcash-s-25-second-blocks-go-live-on-public-testnet-ahead-of-schedule": 1791177050.0217016,
   "https://www.coindesk.com/markets/2026/10/05/bitcoin-is-about-to-get-a-major-bullish-signal-it-hasn-t-had-in-over-a-year": 1791183654.117528,
   "https://www.coindesk.com/tech/2026/10/05/ethereum-has-a-25-day-wait-to-start-staking-with-nearly-1-5-million-eth-in-line": 1791183654.117528,
   "https://www.theblock.co/news/business/2026-10-05-okx-ice-joint-venture-tokenized-stock-trading-417613": 1791183654.117528,
