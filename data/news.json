@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-09T03:53:00Z",
+ "updated": "2026-10-09T04:25:17Z",
  "sources": [
   "coindesk.com",
   "cointelegraph-tr.com",
@@ -7,6 +7,13 @@
  ],
  "bySymbol": {
   "BTC": [
+   {
+    "title": "Kripto para piyasasındaki 1 milyar dolarlık tasfiyede, Ether pozisyonlarındaki kayıplar Bitcoin'in altı katı oldu",
+    "summary": "Kripto para piyasasındaki 1 milyar dolarlık tasfiyede, Ether pozisyonlarındaki kayıplar Bitcoin'in altı katı oldu.",
+    "url": "https://www.coindesk.com/markets/2026/10/09/ether-bets-were-wiped-out-at-six-times-bitcoin-s-rate-in-crypto-s-usd1-billion-flush",
+    "published": "2026-10-09T04:04:36Z",
+    "importance": 4
+   },
    {
     "title": "Trump'ın İran'a saldırı ihtimalini elemesinin ardından Bitcoin 82.000 dolara yükseldi, petrol düştü",
     "summary": "Trump'ın İran'a saldırı ihtimalini elemesinin ardından petrol fiyatları düştü ve Bitcoin 82.000 dolara yükseldi.",
@@ -67,6 +74,13 @@
    }
   ],
   "ETH": [
+   {
+    "title": "Kripto para piyasasındaki 1 milyar dolarlık tasfiyede, Ether pozisyonlarındaki kayıplar Bitcoin'in altı katı oldu",
+    "summary": "Kripto para piyasasındaki 1 milyar dolarlık tasfiyede, Ether pozisyonlarındaki kayıplar Bitcoin'in altı katı oldu.",
+    "url": "https://www.coindesk.com/markets/2026/10/09/ether-bets-were-wiped-out-at-six-times-bitcoin-s-rate-in-crypto-s-usd1-billion-flush",
+    "published": "2026-10-09T04:04:36Z",
+    "importance": 4
+   },
    {
     "title": "Tayland, Bitcoin ve Ether ETF’lerinin önünü açan kuralları kesinleştirdi",
     "summary": "Kuralların gelecek hafta yürürlüğe girmesiyle birlikte kripto ETF’leri yalnızca Tayland Menkul Kıymetler Borsası’nda işlem görebilecek.",
@@ -167,6 +181,13 @@
   ],
   "XRP": [
    {
+    "title": "XRP Ledger, bankalar, stablecoinler ve tokenize fonlar için yeni kontroller ekliyor",
+    "summary": "XRP Ledger, bankalar, stablecoinler ve tokenize fonlar için yeni kontroller ekliyor.",
+    "url": "https://www.coindesk.com/tech/2026/10/09/xrp-ledger-adds-new-controls-for-banks-stablecoins-and-tokenized-funds",
+    "published": "2026-10-09T04:21:36Z",
+    "importance": 3
+   },
+   {
     "title": "Ripple, bankalar tarafından uzun süredir yürütülen kaldıraçlı hisse senedi finansmanından komisyon kazanıyor",
     "summary": "Ripple, bankalar tarafından uzun süredir yürütülen bir iş olan kaldıraçlı hisse senedi finansmanından komisyon kazanmaktadır.",
     "url": "https://www.coindesk.com/markets/2026/10/08/ripple-is-earning-fees-financing-leveraged-stock-bets-a-business-long-run-by-banks",
@@ -176,10 +197,6 @@
   ]
  },
  "seen": {
-  "https://www.coindesk.com/markets/2026/10/05/ether-s-bitcoin-beating-q3-rally-came-with-a-catch-liquidity-thinned": 1791172572.5804806,
-  "https://cointelegraph-tr.com/news/zcash-nu7-testnet-activation-november-mainnet": 1791172572.5804806,
-  "https://cointelegraph-tr.com/news/okx-nyse-parent-file-to-launch-tokenized-us-stock-platform": 1791172572.5804806,
-  "https://cointelegraph-tr.com/news/safe-investor-asks-swiss-watchdog-to-intervene-in-governance-dispute": 1791172572.5804806,
   "https://www.coindesk.com/markets/2026/10/05/bitcoin-zooms-toward-usd87-000-nearly-setting-an-eight-month-high-then-reverses": 1791174319.357616,
   "https://www.coindesk.com/markets/2026/10/05/okx-and-nyse-s-owner-file-for-round-the-clock-tokenized-trading-in-u-s-stocks": 1791177050.0217016,
   "https://www.coindesk.com/tech/2026/10/05/zcash-s-25-second-blocks-go-live-on-public-testnet-ahead-of-schedule": 1791177050.0217016,
@@ -374,7 +391,9 @@
   "https://cointelegraph-tr.com/magazine/chinas-p2p-stablecoin-wallets-surge-43x-koreas-450b-crypto-economy-asia-express": 1791501762.5253413,
   "https://cointelegraph-tr.com/news/cantor-fitzgerald-faces-senate-democrats-probe-over-tether-ties": 1791507787.617451,
   "https://cointelegraph-tr.com/news/thailand-finalizes-rules-paving-way-for-bitcoin-ether-etfs": 1791516286.7220056,
-  "https://www.coindesk.com/markets/2026/10/09/bitcoin-rebounds-to-usd82-000-as-trump-rules-out-iran-strikes": 1791517980.044209
+  "https://www.coindesk.com/markets/2026/10/09/bitcoin-rebounds-to-usd82-000-as-trump-rules-out-iran-strikes": 1791517980.044209,
+  "https://www.coindesk.com/tech/2026/10/09/xrp-ledger-adds-new-controls-for-banks-stablecoins-and-tokenized-funds": 1791519917.9475963,
+  "https://www.coindesk.com/markets/2026/10/09/ether-bets-were-wiped-out-at-six-times-bitcoin-s-rate-in-crypto-s-usd1-billion-flush": 1791519917.9475963
  },
  "tries": {}
 }
