@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-10T13:22:14Z",
+ "updated": "2026-10-10T13:49:10Z",
  "sources": [
   "coindesk.com",
   "cointelegraph-tr.com",
@@ -153,10 +153,6 @@
   ]
  },
  "seen": {
-  "https://www.coindesk.com/business/2026/10/05/arbitrum-joins-paxos-led-stablecoin-group-global-dollar-to-capture-digital-dollar-growth": 1791293111.9288385,
-  "https://www.theblock.co/news/business/2026-10-06-fortitude-expands-zcash-mining-push-with-up-to-100-million-equipment-commitment-417790": 1791293111.9288385,
-  "https://cointelegraph-tr.com/news/paxos-3b-usdg-stablecoin-launches-arbitrum": 1791293111.9288385,
-  "https://cointelegraph-tr.com/news/polymarket-smart-contract-overhaul-protocol-v2": 1791293111.9288385,
   "https://cointelegraph-tr.com/news/okx-exchange-raises-capital-25b-valuation": 1791294728.9664817,
   "https://www.theblock.co/news/business/2026-10-06-ripple-prime-brevan-howard-prime-brokerage-clearing-financing-417801": 1791298326.2422464,
   "https://www.theblock.co/news/business/2026-10-06-polymarket-rolls-out-v2-upgrade-with-single-erc-1155-positions-contract-pusd-collateral-417804": 1791298326.2422464,
