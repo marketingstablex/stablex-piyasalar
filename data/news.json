@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-10T01:51:07Z",
+ "updated": "2026-10-10T02:22:35Z",
  "sources": [
   "coindesk.com",
   "cointelegraph-tr.com",
@@ -40,13 +40,6 @@
     "summary": "Blockchain analistleri, Bitfinex saldırısında çalınan fonların kurtarılmasıyla bağlantılı ABD hükümeti cüzdanını tespit etti.",
     "url": "https://cointelegraph-tr.com/news/us-government-seized-bitcoin-moved-one-transaction",
     "published": "2026-10-08T15:24:16Z",
-    "importance": 4
-   },
-   {
-    "title": "Yapay zeka uyarıları artarken açıkta kalan genel anahtarların arkasında 6 milyondan fazla Bitcoin bulunuyor",
-    "summary": "Yapay zeka uyarıları artarken açıkta kalan genel anahtarların arkasında 6 milyondan fazla Bitcoin bulunuyor.",
-    "url": "https://www.coindesk.com/markets/2026/10/08/over-6-million-bitcoin-sit-behind-exposed-public-keys-as-ai-warnings-mount",
-    "published": "2026-10-08T14:03:20Z",
     "importance": 4
    }
   ],
