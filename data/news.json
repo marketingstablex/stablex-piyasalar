@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-10T18:24:26Z",
+ "updated": "2026-10-10T18:52:27Z",
  "sources": [
   "coindesk.com",
   "cointelegraph-tr.com",
@@ -71,13 +71,6 @@
     "url": "https://www.coindesk.com/markets/2026/10/10/one-year-after-10-10-bitcoin-and-ether-liquidity-have-rebuilt-but-other-altcoins-still-face-risks",
     "published": "2026-10-10T12:00:00Z",
     "importance": 3
-   },
-   {
-    "title": "Canlı güncellemeler: BTC, ETH ve ZEC fonlarından çıkışlar yaşanırken yeşil bölgedeki tek fonlar XRP ETF'leri oldu",
-    "summary": "Canlı güncellemeler: BTC, ETH ve ZEC fonlarından çıkışlar yaşanırken yeşil bölgedeki tek fonlar XRP ETF'leri oldu",
-    "url": "https://www.coindesk.com/business/2026/10/09/live-updates-xrp-etfs-the-only-ones-in-green-as-btc-eth-zec-funds-post-outflows",
-    "published": "2026-10-09T06:51:32Z",
-    "importance": 3
    }
   ],
   "SOL": [
@@ -114,19 +107,10 @@
     "url": "https://www.coindesk.com/tech/2026/10/10/xrp-ledger-patched-decade-old-bug-that-could-create-billions-of-dollars-in-xrp-from-nothing",
     "published": "2026-10-10T04:20:07Z",
     "importance": 4
-   },
-   {
-    "title": "Canlı güncellemeler: BTC, ETH ve ZEC fonlarından çıkışlar yaşanırken yeşil bölgedeki tek fonlar XRP ETF'leri oldu",
-    "summary": "Canlı güncellemeler: BTC, ETH ve ZEC fonlarından çıkışlar yaşanırken yeşil bölgedeki tek fonlar XRP ETF'leri oldu",
-    "url": "https://www.coindesk.com/business/2026/10/09/live-updates-xrp-etfs-the-only-ones-in-green-as-btc-eth-zec-funds-post-outflows",
-    "published": "2026-10-09T06:51:32Z",
-    "importance": 3
    }
   ]
  },
  "seen": {
-  "https://cointelegraph-tr.com/news/law-congress-betting-elections-prediction-markets": 1791311133.4729578,
-  "https://www.theblock.co/news/regulation/2026-10-06-conduit-sues-tether-usdt-freeze-417831": 1791311133.4729578,
   "https://cointelegraph-tr.com/news/russia-digital-ruble-adoption-brics-cbdc-payments": 1791312823.4114363,
   "https://cointelegraph-tr.com/news/uk-taps-6-banks-to-lead-first-digitally-native-government-bond": 1791316158.803823,
   "https://www.theblock.co/news/ecosystems/2026-10-06-abstract-ethereum-layer-2-shutting-down-pudgy-penguins-igloo-417855": 1791318227.9138048,
@@ -283,7 +267,8 @@
   "https://www.coindesk.com/markets/2026/10/10/one-year-after-10-10-bitcoin-and-ether-liquidity-have-rebuilt-but-other-altcoins-still-face-risks": 1791635192.2073154,
   "https://www.coindesk.com/business/2026/10/05/tokenized-commodities-look-beyond-gold-as-lending-and-oil-open-new-markets": 1791635192.2073154,
   "https://cointelegraph-tr.com/news/justin-sun-says-trons-post-quantum-cryptography-has-gone-live-on-testnet": 1791635192.2073154,
-  "https://www.theblock.co/news/markets/2026-10-10-ether-etfs-extend-outflow-streak-to-nine-days-as-solana-funds-snap-record-14-week-inflow-run-418215": 1791645678.4290166
+  "https://www.theblock.co/news/markets/2026-10-10-ether-etfs-extend-outflow-streak-to-nine-days-as-solana-funds-snap-record-14-week-inflow-run-418215": 1791645678.4290166,
+  "https://www.theblock.co/news/regulation/2026-10-10-kalshi-is-investigating-bets-on-trumps-press-secretary-pick-placed-before-announcement-wsj-418222": 1791658347.8135564
  },
  "tries": {}
 }
