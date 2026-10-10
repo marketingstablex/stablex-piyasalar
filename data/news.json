@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-10T04:22:45Z",
+ "updated": "2026-10-10T04:52:37Z",
  "sources": [
   "coindesk.com",
   "cointelegraph-tr.com",
@@ -34,15 +34,6 @@
     "url": "https://cointelegraph-tr.com/news/thailand-finalizes-rules-paving-way-for-bitcoin-ether-etfs",
     "published": "2026-10-09T03:08:51Z",
     "importance": 4
-   }
-  ],
-  "DOGE": [
-   {
-    "title": "Bitwise CEO'su, 'trajik' Dogecoin ETF başarısızlığının ETF alıcıları ile kripto uygulama kullanıcıları arasındaki uçurumu gösterdiğini söyledi",
-    "summary": "Yakın zamanda başlattığı spot NEAR ETF'sinin yanı sıra Bitwise, yapay zekaya öncelik veriyor ve bu alanda daha fazla adım atmayı amaçlıyor.",
-    "url": "https://www.theblock.co/news/business/2026-10-08-bitwise-ceo-dogecoin-etf-failure-hunter-horsley-418070",
-    "published": "2026-10-08T16:43:47Z",
-    "importance": 2
    }
   ],
   "ETH": [
@@ -148,10 +139,6 @@
   ]
  },
  "seen": {
-  "https://cointelegraph-tr.com/news/rain-seeks-us-trust-bank-charter-days-after-occ-sued-over-crypto-charters": 1791260659.8916557,
-  "https://www.coindesk.com/tech/2026/10/06/ethereum-s-glamsterdam-test-gets-last-minute-fix-before-major-capacity-jump": 1791262251.244416,
-  "https://www.coindesk.com/markets/2026/10/06/bitcoin-keeps-getting-rejected-at-usd87-000-as-stocks-hover-near-records": 1791262251.244416,
-  "https://www.coindesk.com/markets/2026/10/06/solana-foundation-unveils-a-program-to-settle-institutional-trades-in-seconds-with-jpmorgan-s-inputs": 1791262251.244416,
   "https://www.coindesk.com/policy/2026/10/06/u-s-scraps-proposed-usd10-000-reporting-rule-for-for-crypto-sent-to-private-wallets": 1791264186.6460013,
   "https://cointelegraph-tr.com/news/better-markets-criticize-cftc-regulate-retail-crypto": 1791265795.3848383,
   "https://cointelegraph-tr.com/news/ethereum-eez-atomic-l1-l2-transaction-mainnet": 1791271494.6950002,
@@ -336,7 +323,8 @@
   "https://cointelegraph-tr.com/news/thorchain-tether-freezing-usdt-addresses": 1791577349.0166008,
   "https://www.coindesk.com/policy/2026/10/09/u-s-cftc-moves-to-fold-event-contracts-into-swaps-regulations-as-legal-fight-rages": 1791582667.1605923,
   "https://www.coindesk.com/business/2026/10/05/1-2-billion-apac-consumers-could-adopt-stablecoins-by-2031-according-to-visa": 1791602581.2478814,
-  "https://www.coindesk.com/tech/2026/10/10/xrp-ledger-patched-decade-old-bug-that-could-create-billions-of-dollars-in-xrp-from-nothing": 1791606165.137473
+  "https://www.coindesk.com/tech/2026/10/10/xrp-ledger-patched-decade-old-bug-that-could-create-billions-of-dollars-in-xrp-from-nothing": 1791606165.137473,
+  "https://www.coindesk.com/markets/2026/10/10/robinhood-chain-slowdown-spreads-from-fees-to-trading-as-transactions-fall-more-than-40": 1791607957.104705
  },
  "tries": {}
 }
