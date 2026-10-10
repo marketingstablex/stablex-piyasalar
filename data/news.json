@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-10T08:22:56Z",
+ "updated": "2026-10-10T08:49:39Z",
  "sources": [
   "coindesk.com",
   "cointelegraph-tr.com",
@@ -130,7 +130,6 @@
   ]
  },
  "seen": {
-  "https://cointelegraph-tr.com/markets/bitcoin-etf-90-million-outflow-btc-32-below-record-oct-6": 1791275114.945261,
   "https://www.coindesk.com/markets/2026/10/06/from-retail-leverage-to-etf-flows-a-year-after-its-record-high-bitcoin-is-down-just-32": 1791276734.0035934,
   "https://cointelegraph-tr.com/news/ondo-private-markets-tokenized-pre-ipo-ai": 1791278689.6227672,
   "https://cointelegraph-tr.com/news/solana-foundation-settlement-seconds-dvp": 1791278689.6227672,
@@ -314,7 +313,8 @@
   "https://www.coindesk.com/tech/2026/10/10/xrp-ledger-patched-decade-old-bug-that-could-create-billions-of-dollars-in-xrp-from-nothing": 1791606165.137473,
   "https://www.coindesk.com/markets/2026/10/10/robinhood-chain-slowdown-spreads-from-fees-to-trading-as-transactions-fall-more-than-40": 1791607957.104705,
   "https://www.coindesk.com/markets/2026/10/09/bitcoin-s-volatility-has-plunged-but-extreme-price-swings-are-more-frequent-than-in-2018": 1791611381.2541056,
-  "https://cointelegraph-tr.com/news/sam-altman-backed-bitcoin-life-insurer-meanwhile-raises-more-funds": 1791616990.294413
+  "https://cointelegraph-tr.com/news/sam-altman-backed-bitcoin-life-insurer-meanwhile-raises-more-funds": 1791616990.294413,
+  "https://cointelegraph-tr.com/news/tech-chief-says-eu-can-fend-off-rogue-ai-risk-report": 1791622179.212436
  },
  "tries": {}
 }
