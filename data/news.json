@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-10T11:49:14Z",
+ "updated": "2026-10-10T12:26:32Z",
  "sources": [
   "coindesk.com",
   "cointelegraph-tr.com",
@@ -34,6 +34,13 @@
     "url": "https://cointelegraph-tr.com/news/thailand-finalizes-rules-paving-way-for-bitcoin-ether-etfs",
     "published": "2026-10-09T03:08:51Z",
     "importance": 4
+   },
+   {
+    "title": "10/10 ani çöküşünün üzerinden bir yıl geçtikten sonra bitcoin ve ether likiditesi yeniden oluştu ancak altcoinler hâlâ risklerle karşı karşıya",
+    "summary": "10/10 ani çöküşünün üzerinden bir yıl geçtikten sonra bitcoin ve ether likiditesi yeniden oluştu ancak altcoinler hâlâ risklerle karşı karşıya.",
+    "url": "https://www.coindesk.com/markets/2026/10/10/one-year-after-10-10-bitcoin-and-ether-liquidity-have-rebuilt-but-other-altcoins-still-face-risks",
+    "published": "2026-10-10T12:00:00Z",
+    "importance": 3
    },
    {
     "title": "Bitcoin'in 19 milyar dolarlık uyandırma servisi: Bir yıl sonra kripto bir şey öğrendi mi?",
@@ -80,6 +87,13 @@
     "importance": 4
    },
    {
+    "title": "10/10 ani çöküşünün üzerinden bir yıl geçtikten sonra bitcoin ve ether likiditesi yeniden oluştu ancak altcoinler hâlâ risklerle karşı karşıya",
+    "summary": "10/10 ani çöküşünün üzerinden bir yıl geçtikten sonra bitcoin ve ether likiditesi yeniden oluştu ancak altcoinler hâlâ risklerle karşı karşıya.",
+    "url": "https://www.coindesk.com/markets/2026/10/10/one-year-after-10-10-bitcoin-and-ether-liquidity-have-rebuilt-but-other-altcoins-still-face-risks",
+    "published": "2026-10-10T12:00:00Z",
+    "importance": 3
+   },
+   {
     "title": "Canlı güncellemeler: BTC, ETH ve ZEC fonlarından çıkışlar yaşanırken yeşil bölgedeki tek fonlar XRP ETF'leri oldu",
     "summary": "Canlı güncellemeler: BTC, ETH ve ZEC fonlarından çıkışlar yaşanırken yeşil bölgedeki tek fonlar XRP ETF'leri oldu",
     "url": "https://www.coindesk.com/business/2026/10/09/live-updates-xrp-etfs-the-only-ones-in-green-as-btc-eth-zec-funds-post-outflows",
@@ -93,6 +107,15 @@
     "summary": "Solana, son 200 milisaniyelik yükseltmenin yaklaşmasıyla birlikte blok sürelerini yarı yarıya indirmeye hazırlanıyor.",
     "url": "https://www.coindesk.com/tech/2026/10/09/solana-is-about-to-halve-its-block-times-as-final-200-millisecond-upgrade-nears",
     "published": "2026-10-09T04:35:52Z",
+    "importance": 3
+   }
+  ],
+  "TRX": [
+   {
+    "title": "Justin Sun, Tron’un kuantum sonrası kriptografisinin test ağında kullanıma sunulduğunu söyledi",
+    "summary": "Justin Sun, X üzerinden yaptığı paylaşımda Tron'un kuantum sonrası kriptografisinin test ağında kullanıma sunulduğunu belirtti ve kuantum direncini ana ağa her an getirmeye hazır olduklarını ifade etti.",
+    "url": "https://cointelegraph-tr.com/news/justin-sun-says-trons-post-quantum-cryptography-has-gone-live-on-testnet",
+    "published": "2026-10-10T11:52:14Z",
     "importance": 3
    }
   ],
@@ -137,8 +160,6 @@
   ]
  },
  "seen": {
-  "https://www.theblock.co/news/regulation/2026-10-06-rep-don-davis-introduces-bill-to-stop-federal-candidates-trading-prediction-market-contracts-tied-to-their-own-elections-417781": 1791287439.6985905,
-  "https://www.coindesk.com/daybook-us/2026/10/06/the-vix-of-bonds-is-rising-but-bitcoin-and-stocks-aren-t-hearing-it-yet": 1791287439.6985905,
   "https://www.coindesk.com/policy/2026/10/06/self-styled-crypto-godfather-gets-more-than-6-years-in-usd37-million-meta-fraud-case": 1791291272.8634458,
   "https://www.coindesk.com/business/2026/10/05/arbitrum-joins-paxos-led-stablecoin-group-global-dollar-to-capture-digital-dollar-growth": 1791293111.9288385,
   "https://www.theblock.co/news/business/2026-10-06-fortitude-expands-zcash-mining-push-with-up-to-100-million-equipment-commitment-417790": 1791293111.9288385,
@@ -310,7 +331,10 @@
   "https://www.coindesk.com/markets/2026/10/09/bitcoin-s-volatility-has-plunged-but-extreme-price-swings-are-more-frequent-than-in-2018": 1791611381.2541056,
   "https://cointelegraph-tr.com/news/sam-altman-backed-bitcoin-life-insurer-meanwhile-raises-more-funds": 1791616990.294413,
   "https://cointelegraph-tr.com/news/tech-chief-says-eu-can-fend-off-rogue-ai-risk-report": 1791622179.212436,
-  "https://www.coindesk.com/markets/2026/10/10/bitcoin-s-usd19-billion-wake-up-call-one-year-later-has-crypto-learned-anything": 1791631278.6630378
+  "https://www.coindesk.com/markets/2026/10/10/bitcoin-s-usd19-billion-wake-up-call-one-year-later-has-crypto-learned-anything": 1791631278.6630378,
+  "https://www.coindesk.com/markets/2026/10/10/one-year-after-10-10-bitcoin-and-ether-liquidity-have-rebuilt-but-other-altcoins-still-face-risks": 1791635192.2073154,
+  "https://www.coindesk.com/business/2026/10/05/tokenized-commodities-look-beyond-gold-as-lending-and-oil-open-new-markets": 1791635192.2073154,
+  "https://cointelegraph-tr.com/news/justin-sun-says-trons-post-quantum-cryptography-has-gone-live-on-testnet": 1791635192.2073154
  },
  "tries": {}
 }
