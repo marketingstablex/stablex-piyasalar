@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-10T03:51:22Z",
+ "updated": "2026-10-10T04:22:45Z",
  "sources": [
   "coindesk.com",
   "cointelegraph-tr.com",
@@ -125,6 +125,13 @@
   ],
   "XRP": [
    {
+    "title": "XRP Ledger, milyarlarca dolar değerinde XRP oluşturabilecek on yıllık bir hatayı düzeltti",
+    "summary": "XRP Ledger, hiçbir şeyden milyarlarca dolar değerinde XRP yaratabilecek on yıllık bir hatayı düzeltti.",
+    "url": "https://www.coindesk.com/tech/2026/10/10/xrp-ledger-patched-decade-old-bug-that-could-create-billions-of-dollars-in-xrp-from-nothing",
+    "published": "2026-10-10T04:20:07Z",
+    "importance": 4
+   },
+   {
     "title": "Canlı güncellemeler: BTC, ETH ve ZEC fonlarından çıkışlar yaşanırken yeşil bölgedeki tek fonlar XRP ETF'leri oldu",
     "summary": "Canlı güncellemeler: BTC, ETH ve ZEC fonlarından çıkışlar yaşanırken yeşil bölgedeki tek fonlar XRP ETF'leri oldu",
     "url": "https://www.coindesk.com/business/2026/10/09/live-updates-xrp-etfs-the-only-ones-in-green-as-btc-eth-zec-funds-post-outflows",
@@ -141,7 +148,6 @@
   ]
  },
  "seen": {
-  "https://cointelegraph-tr.com/news/okx-money-stablecoin-savings-payments-emerging-markets": 1791258691.3197618,
   "https://cointelegraph-tr.com/news/rain-seeks-us-trust-bank-charter-days-after-occ-sued-over-crypto-charters": 1791260659.8916557,
   "https://www.coindesk.com/tech/2026/10/06/ethereum-s-glamsterdam-test-gets-last-minute-fix-before-major-capacity-jump": 1791262251.244416,
   "https://www.coindesk.com/markets/2026/10/06/bitcoin-keeps-getting-rejected-at-usd87-000-as-stocks-hover-near-records": 1791262251.244416,
@@ -329,7 +335,8 @@
   "https://www.theblock.co/news/business/2026-10-09-former-ftx-coo-netflix-the-altruists-trailer-418208": 1791572083.136106,
   "https://cointelegraph-tr.com/news/thorchain-tether-freezing-usdt-addresses": 1791577349.0166008,
   "https://www.coindesk.com/policy/2026/10/09/u-s-cftc-moves-to-fold-event-contracts-into-swaps-regulations-as-legal-fight-rages": 1791582667.1605923,
-  "https://www.coindesk.com/business/2026/10/05/1-2-billion-apac-consumers-could-adopt-stablecoins-by-2031-according-to-visa": 1791602581.2478814
+  "https://www.coindesk.com/business/2026/10/05/1-2-billion-apac-consumers-could-adopt-stablecoins-by-2031-according-to-visa": 1791602581.2478814,
+  "https://www.coindesk.com/tech/2026/10/10/xrp-ledger-patched-decade-old-bug-that-could-create-billions-of-dollars-in-xrp-from-nothing": 1791606165.137473
  },
  "tries": {}
 }
