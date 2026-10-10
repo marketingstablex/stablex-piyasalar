@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-10T15:21:18Z",
+ "updated": "2026-10-10T15:49:14Z",
  "sources": [
   "coindesk.com",
   "cointelegraph-tr.com",
@@ -26,13 +26,6 @@
     "summary": "Kripto para piyasasındaki 1 milyar dolarlık tasfiyede, Ether pozisyonlarındaki kayıplar Bitcoin'in altı katı oldu.",
     "url": "https://www.coindesk.com/markets/2026/10/09/ether-bets-were-wiped-out-at-six-times-bitcoin-s-rate-in-crypto-s-usd1-billion-flush",
     "published": "2026-10-09T04:04:36Z",
-    "importance": 4
-   },
-   {
-    "title": "Trump'ın İran'a saldırı ihtimalini elemesinin ardından Bitcoin 82.000 dolara yükseldi, petrol düştü",
-    "summary": "Trump'ın İran'a saldırı ihtimalini elemesinin ardından petrol fiyatları düştü ve Bitcoin 82.000 dolara yükseldi.",
-    "url": "https://www.coindesk.com/markets/2026/10/09/bitcoin-rebounds-to-usd82-000-as-trump-rules-out-iran-strikes",
-    "published": "2026-10-09T03:27:38Z",
     "importance": 4
    },
    {
@@ -160,8 +153,6 @@
   ]
  },
  "seen": {
-  "https://www.coindesk.com/business/2026/10/06/okx-draws-investment-from-stanchart-circle-ripple-as-it-pushes-beyond-crypto-exchange-roots": 1791300213.715235,
-  "https://www.theblock.co/news/markets/2026-10-06-defi-development-chad-preferred-stock-repurchase-program-417819": 1791300213.715235,
   "https://cointelegraph-tr.com/news/ripple-expands-brevan-howard-deal-with-prime-brokerage-services": 1791301891.308993,
   "https://www.coindesk.com/opinion/2026/10/06/crypto-is-expanding-the-boundaries-of-what-can-be-priced": 1791305554.2870405,
   "https://www.theblock.co/news/markets/2026-10-06-winklevoss-files-spot-zcash-etf-wink-417826": 1791305554.2870405,
