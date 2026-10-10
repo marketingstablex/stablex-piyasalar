@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-10T06:55:06Z",
+ "updated": "2026-10-10T07:23:10Z",
  "sources": [
   "coindesk.com",
   "cointelegraph-tr.com",
@@ -34,6 +34,13 @@
     "url": "https://cointelegraph-tr.com/news/thailand-finalizes-rules-paving-way-for-bitcoin-ether-etfs",
     "published": "2026-10-09T03:08:51Z",
     "importance": 4
+   },
+   {
+    "title": "Sam Altman destekli Bitcoin hayat sigortacısı Meanwhile daha fazla fon topladı",
+    "summary": "Sam Altman destekli Bitcoin hayat sigortacısı Meanwhile, daha geniş makroekonomik istikrarsızlık ortamında Bitcoin hayat sigortası poliçelerine yönelik uluslararası talebin artmasının ardından yeni fonlar topladı.",
+    "url": "https://cointelegraph-tr.com/news/sam-altman-backed-bitcoin-life-insurer-meanwhile-raises-more-funds",
+    "published": "2026-10-10T07:10:43Z",
+    "importance": 3
    },
    {
     "title": "Bitcoin'in volatilitesi düştü ancak aşırı fiyat dalgalanmaları 2018'e göre daha sık",
@@ -330,7 +337,8 @@
   "https://www.coindesk.com/business/2026/10/05/1-2-billion-apac-consumers-could-adopt-stablecoins-by-2031-according-to-visa": 1791602581.2478814,
   "https://www.coindesk.com/tech/2026/10/10/xrp-ledger-patched-decade-old-bug-that-could-create-billions-of-dollars-in-xrp-from-nothing": 1791606165.137473,
   "https://www.coindesk.com/markets/2026/10/10/robinhood-chain-slowdown-spreads-from-fees-to-trading-as-transactions-fall-more-than-40": 1791607957.104705,
-  "https://www.coindesk.com/markets/2026/10/09/bitcoin-s-volatility-has-plunged-but-extreme-price-swings-are-more-frequent-than-in-2018": 1791611381.2541056
+  "https://www.coindesk.com/markets/2026/10/09/bitcoin-s-volatility-has-plunged-but-extreme-price-swings-are-more-frequent-than-in-2018": 1791611381.2541056,
+  "https://cointelegraph-tr.com/news/sam-altman-backed-bitcoin-life-insurer-meanwhile-raises-more-funds": 1791616990.294413
  },
  "tries": {}
 }
