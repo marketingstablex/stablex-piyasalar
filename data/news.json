@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-10T07:23:10Z",
+ "updated": "2026-10-10T07:49:11Z",
  "sources": [
   "coindesk.com",
   "cointelegraph-tr.com",
@@ -78,13 +78,6 @@
     "url": "https://www.coindesk.com/business/2026/10/09/live-updates-xrp-etfs-the-only-ones-in-green-as-btc-eth-zec-funds-post-outflows",
     "published": "2026-10-09T06:51:32Z",
     "importance": 3
-   },
-   {
-    "title": "Wall Street'in tokenizasyon patlaması bitcoin ve ether'den daha büyük kazananlar çıkarabilir, diyor Citrini",
-    "summary": "Wall Street'in tokenizasyon patlamasının bitcoin ve ether'den daha büyük kazananlar çıkarabileceği belirtiliyor.",
-    "url": "https://www.coindesk.com/markets/2026/10/08/wall-street-s-tokenization-boom-could-have-bigger-winners-than-bitcoin-and-ether-citrini-says",
-    "published": "2026-10-08T19:46:15Z",
-    "importance": 3
    }
   ],
   "SOL": [
@@ -93,22 +86,6 @@
     "summary": "Solana, son 200 milisaniyelik yükseltmenin yaklaşmasıyla birlikte blok sürelerini yarı yarıya indirmeye hazırlanıyor.",
     "url": "https://www.coindesk.com/tech/2026/10/09/solana-is-about-to-halve-its-block-times-as-final-200-millisecond-upgrade-nears",
     "published": "2026-10-09T04:35:52Z",
-    "importance": 3
-   },
-   {
-    "title": "Securitize, Solana’da tokenleştirilmiş ABD hisselerini piyasaya sürmesinin ardından yüzde 10’dan fazla yükseldi",
-    "summary": "Securitize, Solana'da tokenleştirilmiş ABD hisselerini piyasaya sürmesinin ardından yüzde 10'dan fazla değer kazandı. Yeni teklif, uygun yatırımcılara 12 ABD şirketinin temettü ve oy hakları sunan tokenleştirilmiş hisselerine erişim sağlıyor. Ayrıca günün her saati işlem yapılmasına yönelik planlar bulunuyor.",
-    "url": "https://cointelegraph-tr.com/news/securitize-stock-jumps-launching-tokenized-us-equities-solana",
-    "published": "2026-10-08T19:31:38Z",
-    "importance": 3
-   }
-  ],
-  "USDC": [
-   {
-    "title": "Securitize, Solana’da tokenleştirilmiş ABD hisselerini piyasaya sürmesinin ardından yüzde 10’dan fazla yükseldi",
-    "summary": "Securitize, Solana'da tokenleştirilmiş ABD hisselerini piyasaya sürmesinin ardından yüzde 10'dan fazla değer kazandı. Yeni teklif, uygun yatırımcılara 12 ABD şirketinin temettü ve oy hakları sunan tokenleştirilmiş hisselerine erişim sağlıyor. Ayrıca günün her saati işlem yapılmasına yönelik planlar bulunuyor.",
-    "url": "https://cointelegraph-tr.com/news/securitize-stock-jumps-launching-tokenized-us-equities-solana",
-    "published": "2026-10-08T19:31:38Z",
     "importance": 3
    }
   ],
@@ -153,7 +130,6 @@
   ]
  },
  "seen": {
-  "https://cointelegraph-tr.com/news/ethereum-eez-atomic-l1-l2-transaction-mainnet": 1791271494.6950002,
   "https://cointelegraph-tr.com/markets/bitcoin-etf-90-million-outflow-btc-32-below-record-oct-6": 1791275114.945261,
   "https://www.coindesk.com/markets/2026/10/06/from-retail-leverage-to-etf-flows-a-year-after-its-record-high-bitcoin-is-down-just-32": 1791276734.0035934,
   "https://cointelegraph-tr.com/news/ondo-private-markets-tokenized-pre-ipo-ai": 1791278689.6227672,
