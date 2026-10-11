@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-11T21:22:25Z",
+ "updated": "2026-10-11T21:50:23Z",
  "sources": [
   "coindesk.com",
   "cointelegraph-tr.com",
@@ -81,7 +81,6 @@
   ]
  },
  "seen": {
-  "https://cointelegraph-tr.com/news/circle-usdc-eurc-payments-sap-enterprise-ecosystem": 1791408243.5008264,
   "https://www.theblock.co/news/defi/2026-10-07-solanas-orca-merges-with-loopscale-push-to-finance-ai-robotics-defense-417924": 1791411670.5642765,
   "https://cointelegraph-tr.com/news/justin-drake-urges-crypto-bunker-mode-as-ai-could-break-wallet-security-within-months": 1791419566.4936354,
   "https://www.coindesk.com/business/2026/10/07/crypto-news-site-cointelegraph-seeks-buyer-after-web-traffic-plunges": 1791421146.260003,
