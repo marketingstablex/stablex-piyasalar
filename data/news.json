@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-11T16:50:33Z",
+ "updated": "2026-10-11T17:21:40Z",
  "sources": [
   "coindesk.com",
   "cointelegraph-tr.com",
@@ -13,6 +13,13 @@
     "url": "https://www.theblock.co/news/markets/2026-10-10-ether-etfs-extend-outflow-streak-to-nine-days-as-solana-funds-snap-record-14-week-inflow-run-418215",
     "published": "2026-10-10T15:10:37Z",
     "importance": 4
+   },
+   {
+    "title": "Saylor, eylül ayını STRC geri alımlarıyla tamamladıktan sonra Strategy’nin Bitcoin alımını ima etti",
+    "summary": "Yatırımcılar, Strategy şirketinin ekim ayının ilk haftasında Bitcoin hazinesine varlık ekleyip eklemediğini ve miktarını öğrenmek için bir gün daha beklemek zorunda kalacak.",
+    "url": "https://cointelegraph-tr.com/news/saylors-teases-strategy-bitcoin-buying-after-ending-september-with-strc-buybacks",
+    "published": "2026-10-11T17:03:00Z",
+    "importance": 3
    },
    {
     "title": "10/10 ani çöküşünün üzerinden bir yıl geçtikten sonra bitcoin ve ether likiditesi yeniden oluştu ancak altcoinler hâlâ risklerle karşı karşıya",
@@ -199,7 +206,8 @@
   "https://cointelegraph-tr.com/news/coldcard-says-its-investigating-how-phishing-link-appeared-on-its-x-account": 1791715796.1772492,
   "https://www.coindesk.com/business/2026/10/11/imf-finds-demand-for-tokenized-stocks-says-the-market-is-still-volatile-illiquid": 1791724994.7165349,
   "https://www.coindesk.com/markets/2026/10/11/president-trump-declares-energy-ceasefire-between-russia-and-ukraine": 1791733807.064225,
-  "https://www.coindesk.com/policy/2026/10/11/clarity-s-failure-could-speed-crypto-innovation-while-shielding-incumbents": 1791735767.153094
+  "https://www.coindesk.com/policy/2026/10/11/clarity-s-failure-could-speed-crypto-innovation-while-shielding-incumbents": 1791735767.153094,
+  "https://cointelegraph-tr.com/news/saylors-teases-strategy-bitcoin-buying-after-ending-september-with-strc-buybacks": 1791739300.1785047
  },
  "tries": {}
 }
