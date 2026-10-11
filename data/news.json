@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-11T10:22:19Z",
+ "updated": "2026-10-11T10:49:56Z",
  "sources": [
   "coindesk.com",
   "cointelegraph-tr.com",
@@ -88,7 +88,6 @@
   ]
  },
  "seen": {
-  "https://cointelegraph-tr.com/news/bingx-old-money-bitcoin-diamond-hands-token2049": 1791368678.5266519,
   "https://www.coindesk.com/markets/2026/10/07/bitcoin-s-recovery-stalls-just-short-of-rescuing-its-last-underwater-cohort": 1791370323.2723875,
   "https://www.coindesk.com/markets/2026/10/07/liquidations-jump-to-usd547-million-as-oil-rally-drags-bitcoin-below-usd84-000": 1791370323.2723875,
   "https://cointelegraph-tr.com/news/trump-backed-wlfi-plans-usd1-payments-for-online-businesses": 1791370323.2723875,
@@ -224,7 +223,8 @@
   "https://www.theblock.co/news/markets/2026-10-10-ether-etfs-extend-outflow-streak-to-nine-days-as-solana-funds-snap-record-14-week-inflow-run-418215": 1791645678.4290166,
   "https://www.theblock.co/news/regulation/2026-10-10-kalshi-is-investigating-bets-on-trumps-press-secretary-pick-placed-before-announcement-wsj-418222": 1791658347.8135564,
   "https://cointelegraph-tr.com/news/cftc-proposals-aimed-at-separating-prediction-markets-from-casino-gambling": 1791705005.8088388,
-  "https://cointelegraph-tr.com/news/ledger-confirms-unauthorized-hardware-implant-losses-may-exceed-86m": 1791710569.2234833
+  "https://cointelegraph-tr.com/news/ledger-confirms-unauthorized-hardware-implant-losses-may-exceed-86m": 1791710569.2234833,
+  "https://cointelegraph-tr.com/news/coldcard-says-its-investigating-how-phishing-link-appeared-on-its-x-account": 1791715796.1772492
  },
  "tries": {}
 }
