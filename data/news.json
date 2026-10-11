@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-11T17:48:58Z",
+ "updated": "2026-10-11T18:25:18Z",
  "sources": [
   "coindesk.com",
   "cointelegraph-tr.com",
@@ -76,10 +76,18 @@
     "published": "2026-10-10T11:52:14Z",
     "importance": 3
    }
+  ],
+  "XRP": [
+   {
+    "title": "XRP Ledger, trilyonlarca XRP basabilecek on yıllık bir hatayı düzeltti",
+    "summary": "XRP Ledger ödeme motorundaki bir taşma hatası, bir saldırganın tek bir işlemde yaklaşık 18 trilyon harcanabilir XRP basmasına olanak tanıyabilirdi. Bu açık için bir yama uygulandı.",
+    "url": "https://www.theblock.co/news/ecosystems/2026-10-11-xrp-ledger-patches-decade-old-bug-that-could-have-minted-trillions-of-xrp-418230",
+    "published": "2026-10-11T18:07:41Z",
+    "importance": 4
+   }
   ]
  },
  "seen": {
-  "https://cointelegraph-tr.com/news/sui-offchain-network-hits-40m-tps-in-live-ai-focused-stress-test": 1791395492.3777719,
   "https://cointelegraph-tr.com/news/hunter-biden-laptop-memecoin-troll-no-rug-pull": 1791397677.925838,
   "https://www.theblock.co/news/markets/2026-10-07-grayscale-crypto-etf-market-beyond-bitcoin-ether-417953": 1791399372.2395728,
   "https://www.coindesk.com/business/2026/10/05/wells-fargo-in-talks-with-kraken-parent-payward-for-crypto-trading-liquidity": 1791401038.2781036,
@@ -197,7 +205,8 @@
   "https://www.coindesk.com/business/2026/10/11/imf-finds-demand-for-tokenized-stocks-says-the-market-is-still-volatile-illiquid": 1791724994.7165349,
   "https://www.coindesk.com/markets/2026/10/11/president-trump-declares-energy-ceasefire-between-russia-and-ukraine": 1791733807.064225,
   "https://www.coindesk.com/policy/2026/10/11/clarity-s-failure-could-speed-crypto-innovation-while-shielding-incumbents": 1791735767.153094,
-  "https://cointelegraph-tr.com/news/saylors-teases-strategy-bitcoin-buying-after-ending-september-with-strc-buybacks": 1791739300.1785047
+  "https://cointelegraph-tr.com/news/saylors-teases-strategy-bitcoin-buying-after-ending-september-with-strc-buybacks": 1791739300.1785047,
+  "https://www.theblock.co/news/ecosystems/2026-10-11-xrp-ledger-patches-decade-old-bug-that-could-have-minted-trillions-of-xrp-418230": 1791743118.3982887
  },
  "tries": {}
 }
