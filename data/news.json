@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-11T06:56:10Z",
+ "updated": "2026-10-11T07:23:52Z",
  "sources": [
   "coindesk.com",
   "cointelegraph-tr.com",
@@ -74,15 +74,6 @@
     "summary": "Justin Sun, X üzerinden yaptığı paylaşımda Tron'un kuantum sonrası kriptografisinin test ağında kullanıma sunulduğunu belirtti ve kuantum direncini ana ağa her an getirmeye hazır olduklarını ifade etti.",
     "url": "https://cointelegraph-tr.com/news/justin-sun-says-trons-post-quantum-cryptography-has-gone-live-on-testnet",
     "published": "2026-10-10T11:52:14Z",
-    "importance": 3
-   }
-  ],
-  "USDT": [
-   {
-    "title": "THORChain yöneticisi, Tether’ı USDT kasalarını geçici olarak dondurmakla suçladı",
-    "summary": "Ağın teknik kurucu ortağı Chad Barraford, fonların dondurulduğunu ve ardından açıklama yapılmadan çözüldüğünü söyledi.",
-    "url": "https://cointelegraph-tr.com/news/thorchain-tether-freezing-usdt-addresses",
-    "published": "2026-10-09T19:04:03Z",
     "importance": 3
    }
   ],
