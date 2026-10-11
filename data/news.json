@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-11T00:32:44Z",
+ "updated": "2026-10-11T00:58:36Z",
  "sources": [
   "coindesk.com",
   "cointelegraph-tr.com",
@@ -97,7 +97,6 @@
   ]
  },
  "seen": {
-  "https://cointelegraph-tr.com/news/consumer-crypto-chain-abstract-to-wind-down": 1791333259.9409804,
   "https://cointelegraph-tr.com/news/bitcoinde-trading-remains-halted-as-german-regulator-rejects-mica-application": 1791339807.0466213,
   "https://www.theblock.co/news/business/2026-10-06-coinbase-pro-deribit-integration-coinbase-global-exchange-417867": 1791343456.6229618,
   "https://www.coindesk.com/tech/2026/10/07/cardano-gives-token-issuers-power-to-freeze-seize-and-restrict-assets": 1791347070.8390985,
