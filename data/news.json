@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-11T04:23:18Z",
+ "updated": "2026-10-11T04:51:31Z",
  "sources": [
   "coindesk.com",
   "cointelegraph-tr.com",
@@ -97,9 +97,6 @@
   ]
  },
  "seen": {
-  "https://www.coindesk.com/tech/2026/10/07/cardano-gives-token-issuers-power-to-freeze-seize-and-restrict-assets": 1791347070.8390985,
-  "https://www.coindesk.com/markets/2026/10/07/bitcoin-dips-below-usd84-000-as-oil-jumps-on-iranian-tanker-attacks": 1791347070.8390985,
-  "https://www.theblock.co/news/markets/2026-10-06-bitcoin-slides-crypto-long-liquidations-surge-417882": 1791347070.8390985,
   "https://www.coindesk.com/tech/2026/10/07/pudgy-penguins-abstract-becomes-second-ethereum-layer-2-to-shut-in-a-week": 1791348810.788329,
   "https://cointelegraph-tr.com/news/kalshis-15-min-gold-markets-overtake-ether-just-weeks-after-launch": 1791350653.789743,
   "https://www.coindesk.com/markets/2026/10/07/u-s-government-moves-over-usd100-million-in-btc-and-bnb-a-sale-hasn-t-been-confirmed": 1791354498.3086276,
