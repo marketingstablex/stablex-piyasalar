@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-11T18:53:34Z",
+ "updated": "2026-10-11T19:21:30Z",
  "sources": [
   "coindesk.com",
   "cointelegraph-tr.com",
@@ -33,13 +33,6 @@
     "summary": "Bitcoin'in 19 milyar dolarlık uyandırma servisinin üzerinden bir yıl geçtikten sonra kripto sektörünün bir şey öğrenip öğrenmediği ele alınıyor.",
     "url": "https://www.coindesk.com/markets/2026/10/10/bitcoin-s-usd19-billion-wake-up-call-one-year-later-has-crypto-learned-anything",
     "published": "2026-10-10T11:00:00Z",
-    "importance": 3
-   },
-   {
-    "title": "Sam Altman destekli Bitcoin hayat sigortacısı Meanwhile daha fazla fon topladı",
-    "summary": "Sam Altman destekli Bitcoin hayat sigortacısı Meanwhile, daha geniş makroekonomik istikrarsızlık ortamında Bitcoin hayat sigortası poliçelerine yönelik uluslararası talebin artmasının ardından yeni fonlar topladı.",
-    "url": "https://cointelegraph-tr.com/news/sam-altman-backed-bitcoin-life-insurer-meanwhile-raises-more-funds",
-    "published": "2026-10-10T07:10:43Z",
     "importance": 3
    }
   ],
@@ -88,7 +81,6 @@
   ]
  },
  "seen": {
-  "https://www.theblock.co/news/markets/2026-10-07-grayscale-crypto-etf-market-beyond-bitcoin-ether-417953": 1791399372.2395728,
   "https://www.coindesk.com/business/2026/10/05/wells-fargo-in-talks-with-kraken-parent-payward-for-crypto-trading-liquidity": 1791401038.2781036,
   "https://cointelegraph-tr.com/news/circle-usdc-eurc-payments-sap-enterprise-ecosystem": 1791408243.5008264,
   "https://www.theblock.co/news/defi/2026-10-07-solanas-orca-merges-with-loopscale-push-to-finance-ai-robotics-defense-417924": 1791411670.5642765,
