@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-12T15:55:02Z",
+ "updated": "2026-10-12T16:25:21Z",
  "sources": [
   "coindesk.com",
   "cointelegraph-tr.com",
@@ -212,7 +212,8 @@
   "https://www.theblock.co/news/business/2026-10-12-bitmine-eth-holdings-6-million-ether-treasury-418296": 1791815376.893325,
   "https://www.theblock.co/news/business/2026-10-12-defi-development-sol-holdings-2-59-million-chad-418307": 1791817131.7940001,
   "https://www.coindesk.com/business/2026/10/12/tokenized-catastrophe-bonds-target-the-disaster-insurance-gap": 1791818740.071161,
-  "https://www.coindesk.com/business/2026/10/12/tom-lee-sees-usd2-trillion-wealth-transfer-fueling-crypto-demand-as-bitmine-buys-more-ether": 1791820502.825745
+  "https://www.coindesk.com/business/2026/10/12/tom-lee-sees-usd2-trillion-wealth-transfer-fueling-crypto-demand-as-bitmine-buys-more-ether": 1791820502.825745,
+  "https://www.coindesk.com/policy/2026/10/12/palantir-executive-warns-europe-is-missing-the-boat-on-ai-just-like-it-did-with-the-internet": 1791822321.1986668
  },
  "tries": {}
 }
