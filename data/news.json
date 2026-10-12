@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-12T02:53:28Z",
+ "updated": "2026-10-12T03:26:17Z",
  "sources": [
   "coindesk.com",
   "cointelegraph-tr.com",
@@ -8,36 +8,11 @@
  "bySymbol": {
   "BTC": [
    {
-    "title": "Ether ETF'leri çıkış serisini dokuz güne çıkarırken Solana fonları rekor 14 haftalık giriş serisini sonlandırdı",
-    "summary": "Spot bitcoin, solana ve ether ETF'leri geçen haftanın ardından haftalık çıkış kaydetti; bu durum bazı fonlar için dikkat çekici bir değişim oldu.",
-    "url": "https://www.theblock.co/news/markets/2026-10-10-ether-etfs-extend-outflow-streak-to-nine-days-as-solana-funds-snap-record-14-week-inflow-run-418215",
-    "published": "2026-10-10T15:10:37Z",
-    "importance": 4
-   },
-   {
     "title": "Saylor, eylül ayını STRC geri alımlarıyla tamamladıktan sonra Strategy’nin Bitcoin alımını ima etti",
     "summary": "Yatırımcılar, Strategy şirketinin ekim ayının ilk haftasında Bitcoin hazinesine varlık ekleyip eklemediğini ve miktarını öğrenmek için bir gün daha beklemek zorunda kalacak.",
     "url": "https://cointelegraph-tr.com/news/saylors-teases-strategy-bitcoin-buying-after-ending-september-with-strc-buybacks",
     "published": "2026-10-11T17:03:00Z",
     "importance": 3
-   }
-  ],
-  "ETH": [
-   {
-    "title": "Ether ETF'leri çıkış serisini dokuz güne çıkarırken Solana fonları rekor 14 haftalık giriş serisini sonlandırdı",
-    "summary": "Spot bitcoin, solana ve ether ETF'leri geçen haftanın ardından haftalık çıkış kaydetti; bu durum bazı fonlar için dikkat çekici bir değişim oldu.",
-    "url": "https://www.theblock.co/news/markets/2026-10-10-ether-etfs-extend-outflow-streak-to-nine-days-as-solana-funds-snap-record-14-week-inflow-run-418215",
-    "published": "2026-10-10T15:10:37Z",
-    "importance": 4
-   }
-  ],
-  "SOL": [
-   {
-    "title": "Ether ETF'leri çıkış serisini dokuz güne çıkarırken Solana fonları rekor 14 haftalık giriş serisini sonlandırdı",
-    "summary": "Spot bitcoin, solana ve ether ETF'leri geçen haftanın ardından haftalık çıkış kaydetti; bu durum bazı fonlar için dikkat çekici bir değişim oldu.",
-    "url": "https://www.theblock.co/news/markets/2026-10-10-ether-etfs-extend-outflow-streak-to-nine-days-as-solana-funds-snap-record-14-week-inflow-run-418215",
-    "published": "2026-10-10T15:10:37Z",
-    "importance": 4
    }
   ],
   "XRP": [
@@ -51,7 +26,6 @@
   ]
  },
  "seen": {
-  "https://www.theblock.co/news/business/2026-10-07-samsung-to-launch-usdc-transfers-on-solana-for-us-galaxy-users-418004": 1791429858.6792068,
   "https://www.coindesk.com/tech/2026/10/08/ethereum-s-glamsterdam-test-runs-near-200-million-gas-per-block-after-upgrade": 1791433475.560689,
   "https://www.coindesk.com/markets/2026/10/08/bitcoin-breaks-below-usd83-000-as-oil-jumps-on-iran-strike-plan-report": 1791433475.560689,
   "https://cointelegraph-tr.com/news/canton-ceo-crypto-adoption-us-policy-reversals": 1791435127.295648,
