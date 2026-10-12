@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-12T08:29:05Z",
+ "updated": "2026-10-12T08:56:05Z",
  "sources": [
   "coindesk.com",
   "cointelegraph-tr.com",
@@ -7,6 +7,13 @@
  ],
  "bySymbol": {
   "BTC": [
+   {
+    "title": "Güney Kore bankası Bitcoin teminatlı ticari krediler başlattı: Rapor",
+    "summary": "Jeonbuk Bank, kurumsal müşterilerine Bitcoin teminatlı krediler sunmaya başladı. Kredilerde teminat olarak kullanılan kripto para, üçüncü taraf bir saklayıcı tarafından muhafaza ediliyor.",
+    "url": "https://cointelegraph-tr.com/news/south-korea-jeonbuk-bank-bitcoin-backed-business-loans",
+    "published": "2026-10-12T08:45:58Z",
+    "importance": 3
+   },
    {
     "title": "Bitcoin, petrolün düşmesiyle ETF çıkışlarını umursamayarak 84.000 doların üzerinde işlem görüyor",
     "summary": "Bitcoin, petrol fiyatlarındaki düşüşün etkisiyle ETF çıkışlarına rağmen 84.000 doların üzerinde işlem görüyor.",
@@ -33,8 +40,6 @@
   ]
  },
  "seen": {
-  "https://www.coindesk.com/tech/2026/10/08/solana-partners-with-samsung-to-integrate-usdc-in-82-million-phones": 1791449620.6465032,
-  "https://cointelegraph-tr.com/news/samsung-wallet-usdc-transfers-us-galaxy-users-october": 1791449620.6465032,
   "https://www.coindesk.com/policy/2026/10/08/greece-prepares-to-levy-10-capital-gains-tax-on-cryptocurrency": 1791451504.293174,
   "https://cointelegraph-tr.com/news/esma-unauthorised-stablecoins-three-month-deadline": 1791453215.4524703,
   "https://www.coindesk.com/business/2026/10/08/standard-chartered-singapore-dives-into-crypto-stablecoins-and-tokenized-assets-custody": 1791453215.4524703,
@@ -140,7 +145,9 @@
   "https://www.theblock.co/news/regulation/2026-10-12-former-cftc-acting-chair-caroline-pham-onions-418246": 1791780944.0749052,
   "https://cointelegraph-tr.com/news/data-network-to-migrate-to-sui-retire-its-own-chain": 1791782719.4766498,
   "https://cointelegraph-tr.com/news/fsb-stablecoin-ai-risks-g20-finance-meeting": 1791788717.1970956,
-  "https://www.coindesk.com/tech/2026/10/12/ledger-says-unauthorized-implant-found-in-at-least-one-device-sold-by-cryptobilis": 1791791783.4076877
+  "https://www.coindesk.com/tech/2026/10/12/ledger-says-unauthorized-implant-found-in-at-least-one-device-sold-by-cryptobilis": 1791791783.4076877,
+  "https://cointelegraph-tr.com/news/south-korea-jeonbuk-bank-bitcoin-backed-business-loans": 1791795365.283051,
+  "https://www.coindesk.com/tech/2026/10/12/why-a-bug-that-could-have-threatened-xrp-s-100-billion-supply-cap-stayed-hidden-for-years": 1791795365.283051
  },
  "tries": {}
 }
