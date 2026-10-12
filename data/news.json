@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-12T18:27:40Z",
+ "updated": "2026-10-12T18:57:20Z",
  "sources": [
   "coindesk.com",
   "cointelegraph-tr.com",
@@ -121,7 +121,6 @@
   ]
  },
  "seen": {
-  "https://www.theblock.co/news/markets/2026-10-08-jpmorgan-crypto-inflows-50-billion-etf-futures-q4-418115": 1791485745.3627892,
   "https://cointelegraph-tr.com/news/nfl-new-jersey-supreme-court-kalshi": 1791487456.272437,
   "https://www.coindesk.com/markets/2026/10/08/wall-street-s-tokenization-boom-could-have-bigger-winners-than-bitcoin-and-ether-citrini-says": 1791489094.9482477,
   "https://cointelegraph-tr.com/news/securitize-stock-jumps-launching-tokenized-us-equities-solana": 1791489094.9482477,
@@ -221,7 +220,9 @@
   "https://www.coindesk.com/business/2026/10/12/tom-lee-sees-usd2-trillion-wealth-transfer-fueling-crypto-demand-as-bitmine-buys-more-ether": 1791820502.825745,
   "https://www.coindesk.com/policy/2026/10/12/palantir-executive-warns-europe-is-missing-the-boat-on-ai-just-like-it-did-with-the-internet": 1791822321.1986668,
   "https://www.theblock.co/news/markets/2026-10-12-stonex-raises-securitize-price-target-tokenized-stocks-418313": 1791825893.1804662,
-  "https://cointelegraph-tr.com/news/bitcoin-miners-ai-financing-costs-debt-funding-gap": 1791825893.1804662
+  "https://cointelegraph-tr.com/news/bitcoin-miners-ai-financing-costs-debt-funding-gap": 1791825893.1804662,
+  "https://www.theblock.co/news/business/2026-10-12-binance-ai-trading-interface-global-rollout-418349": 1791831440.0625763,
+  "https://cointelegraph-tr.com/news/fasb-stablecoin-accounting-rules-corporate-adoption": 1791831440.0625763
  },
  "tries": {}
 }
