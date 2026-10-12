@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-12T04:26:11Z",
+ "updated": "2026-10-12T04:55:44Z",
  "sources": [
   "coindesk.com",
   "cointelegraph-tr.com",
@@ -7,6 +7,13 @@
  ],
  "bySymbol": {
   "BTC": [
+   {
+    "title": "Bitcoin, petrolün düşmesiyle ETF çıkışlarını umursamayarak 84.000 doların üzerinde işlem görüyor",
+    "summary": "Bitcoin, petrol fiyatlarındaki düşüşün etkisiyle ETF çıkışlarına rağmen 84.000 doların üzerinde işlem görüyor.",
+    "url": "https://www.coindesk.com/markets/2026/10/12/bitcoin-shrugs-off-etf-outflows-to-trade-above-usd84-000-as-oil-falls",
+    "published": "2026-10-12T04:49:30Z",
+    "importance": 3
+   },
    {
     "title": "Saylor, eylül ayını STRC geri alımlarıyla tamamladıktan sonra Strategy’nin Bitcoin alımını ima etti",
     "summary": "Yatırımcılar, Strategy şirketinin ekim ayının ilk haftasında Bitcoin hazinesine varlık ekleyip eklemediğini ve miktarını öğrenmek için bir gün daha beklemek zorunda kalacak.",
@@ -26,7 +33,6 @@
   ]
  },
  "seen": {
-  "https://cointelegraph-tr.com/news/canton-ceo-crypto-adoption-us-policy-reversals": 1791435127.295648,
   "https://cointelegraph-tr.com/news/cryptos-republican-spending-alienated-democrats-says-andrew-cuomo": 1791437055.7964683,
   "https://www.theblock.co/news/defi/2026-10-08-vitalik-buterin-warns-hasty-wallet-migrations-418007": 1791437055.7964683,
   "https://www.coindesk.com/markets/2026/10/08/bitcoin-loans-are-paying-for-tuition-and-working-capital-not-just-trades-lenders-say": 1791438677.7333314,
@@ -139,7 +145,9 @@
   "https://www.theblock.co/news/defi/2026-10-11-trader-nets-1-28-million-on-new-1000x-exchange-papertrade-by-moving-hyperliquids-eth-prices-418239": 1791759001.9190292,
   "https://cointelegraph-tr.com/magazine/ledger-attack-spreads-to-eu-ai-finds-18-trillion-xrp-bug-hodlers-digest": 1791762567.467333,
   "https://cointelegraph-tr.com/news/xrp-ledger-defends-emergency-patch-for-unlimited-xrp-bug": 1791770025.929104,
-  "https://www.theblock.co/news/ecosystems/2026-10-11-sui-foundation-invests-30-million-data-network-418243": 1791771886.244989
+  "https://www.theblock.co/news/ecosystems/2026-10-11-sui-foundation-invests-30-million-data-network-418243": 1791771886.244989,
+  "https://www.coindesk.com/markets/2026/10/12/bitcoin-shrugs-off-etf-outflows-to-trade-above-usd84-000-as-oil-falls": 1791780944.0749052,
+  "https://www.theblock.co/news/regulation/2026-10-12-former-cftc-acting-chair-caroline-pham-onions-418246": 1791780944.0749052
  },
  "tries": {}
 }
