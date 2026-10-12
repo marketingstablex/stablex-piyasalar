@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-12T06:33:47Z",
+ "updated": "2026-10-12T07:05:17Z",
  "sources": [
   "coindesk.com",
   "cointelegraph-tr.com",
@@ -144,7 +144,8 @@
   "https://www.theblock.co/news/ecosystems/2026-10-11-sui-foundation-invests-30-million-data-network-418243": 1791771886.244989,
   "https://www.coindesk.com/markets/2026/10/12/bitcoin-shrugs-off-etf-outflows-to-trade-above-usd84-000-as-oil-falls": 1791780944.0749052,
   "https://www.theblock.co/news/regulation/2026-10-12-former-cftc-acting-chair-caroline-pham-onions-418246": 1791780944.0749052,
-  "https://cointelegraph-tr.com/news/data-network-to-migrate-to-sui-retire-its-own-chain": 1791782719.4766498
+  "https://cointelegraph-tr.com/news/data-network-to-migrate-to-sui-retire-its-own-chain": 1791782719.4766498,
+  "https://cointelegraph-tr.com/news/fsb-stablecoin-ai-risks-g20-finance-meeting": 1791788717.1970956
  },
  "tries": {}
 }
