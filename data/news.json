@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-12T12:41:58Z",
+ "updated": "2026-10-12T13:38:03Z",
  "sources": [
   "coindesk.com",
   "cointelegraph-tr.com",
@@ -77,8 +77,6 @@
   ]
  },
  "seen": {
-  "https://www.coindesk.com/business/2026/10/08/securitize-brings-apple-nvidia-and-tesla-to-solana-with-nyse-trading-in-the-works": 1791466050.2617586,
-  "https://cointelegraph-tr.com/news/eu-lawmakers-crypto-anti-corruption": 1791466050.2617586,
   "https://www.coindesk.com/business/2026/10/08/cardano-foundation-spins-out-veridian-tokenizes-its-shares-on-new-standard": 1791469609.0824006,
   "https://www.theblock.co/news/markets/2026-10-08-securitize-launches-tokenized-us-stocks-solana-418043": 1791469609.0824006,
   "https://www.coindesk.com/markets/2026/10/08/over-6-million-bitcoin-sit-behind-exposed-public-keys-as-ai-warnings-mount": 1791469609.0824006,
