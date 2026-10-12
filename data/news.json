@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-12T10:26:36Z",
+ "updated": "2026-10-12T10:54:23Z",
  "sources": [
   "coindesk.com",
   "cointelegraph-tr.com",
@@ -7,6 +7,13 @@
  ],
  "bySymbol": {
   "BTC": [
+   {
+    "title": "Bitcoin 83.500 doların altında kalırken altcoinler düşük hacimli işlemlerde yükseldi",
+    "summary": "Bitcoin 83.500 doların altında seyrederken, altcoinler ince işlem hacimlerinde ralli yaptı.",
+    "url": "https://www.coindesk.com/markets/2026/10/12/altcoins-rally-on-thin-trading-as-bitcoin-holds-near-usd84-000",
+    "published": "2026-10-12T10:20:54Z",
+    "importance": 3
+   },
    {
     "title": "Güney Kore bankası Bitcoin teminatlı ticari krediler başlattı: Rapor",
     "summary": "Jeonbuk Bank, kurumsal müşterilerine Bitcoin teminatlı krediler sunmaya başladı. Kredilerde teminat olarak kullanılan kripto para, üçüncü taraf bir saklayıcı tarafından muhafaza ediliyor.",
@@ -56,8 +63,6 @@
   ]
  },
  "seen": {
-  "https://www.coindesk.com/markets/2026/10/08/live-news-risk-assets-under-pressure-as-bond-selloff-and-oil-rally-intensify": 1791456737.411505,
-  "https://www.coindesk.com/markets/2026/10/08/bitcoin-slips-below-usd83-000-as-ethereum-researcher-s-bunker-mode-call-divides-crypto": 1791456737.411505,
   "https://www.coindesk.com/daybook-us/2026/10/08/bitcoin-etf-investors-head-for-the-exit-and-it-s-the-biggest-rush-in-months": 1791458678.5192573,
   "https://cointelegraph-tr.com/news/us-government-moves-770m-seized-bitcoin-coinbase": 1791458678.5192573,
   "https://www.coindesk.com/tech/2026/10/08/bitcoin-and-ether-holders-urged-to-prepare-bunker-mode-against-possible-ai-attacks": 1791460298.2247689,
@@ -164,7 +169,9 @@
   "https://cointelegraph-tr.com/news/kraken-receives-vara-approval-uae-expansion": 1791798963.4420183,
   "https://www.theblock.co/news/business/2026-10-12-standard-chartered-custody-ripple-rlusd-418258": 1791798963.4420183,
   "https://cointelegraph-tr.com/news/standard-chartered-rlusd-custody-lmax-deal": 1791798963.4420183,
-  "https://www.theblock.co/news/markets/2026-10-12-morgan-stanley-tokenized-equities-q1-2027-418256": 1791800796.8613105
+  "https://www.theblock.co/news/markets/2026-10-12-morgan-stanley-tokenized-equities-q1-2027-418256": 1791800796.8613105,
+  "https://www.coindesk.com/business/2026/10/12/swi-raises-usd894-million-to-repurpose-former-ftx-bitcoin-miner-genesis-digital-to-ai": 1791802463.1486435,
+  "https://www.coindesk.com/markets/2026/10/12/altcoins-rally-on-thin-trading-as-bitcoin-holds-near-usd84-000": 1791802463.1486435
  },
  "tries": {}
 }
