@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-12T04:55:44Z",
+ "updated": "2026-10-12T05:25:19Z",
  "sources": [
   "coindesk.com",
   "cointelegraph-tr.com",
@@ -33,8 +33,6 @@
   ]
  },
  "seen": {
-  "https://cointelegraph-tr.com/news/cryptos-republican-spending-alienated-democrats-says-andrew-cuomo": 1791437055.7964683,
-  "https://www.theblock.co/news/defi/2026-10-08-vitalik-buterin-warns-hasty-wallet-migrations-418007": 1791437055.7964683,
   "https://www.coindesk.com/markets/2026/10/08/bitcoin-loans-are-paying-for-tuition-and-working-capital-not-just-trades-lenders-say": 1791438677.7333314,
   "https://www.coindesk.com/markets/2026/10/08/ripple-is-earning-fees-financing-leveraged-stock-bets-a-business-long-run-by-banks": 1791441054.266515,
   "https://cointelegraph-tr.com/markets/bitcoin-etfs-outflow-largest-june-october": 1791445968.7694223,
@@ -147,7 +145,8 @@
   "https://cointelegraph-tr.com/news/xrp-ledger-defends-emergency-patch-for-unlimited-xrp-bug": 1791770025.929104,
   "https://www.theblock.co/news/ecosystems/2026-10-11-sui-foundation-invests-30-million-data-network-418243": 1791771886.244989,
   "https://www.coindesk.com/markets/2026/10/12/bitcoin-shrugs-off-etf-outflows-to-trade-above-usd84-000-as-oil-falls": 1791780944.0749052,
-  "https://www.theblock.co/news/regulation/2026-10-12-former-cftc-acting-chair-caroline-pham-onions-418246": 1791780944.0749052
+  "https://www.theblock.co/news/regulation/2026-10-12-former-cftc-acting-chair-caroline-pham-onions-418246": 1791780944.0749052,
+  "https://cointelegraph-tr.com/news/data-network-to-migrate-to-sui-retire-its-own-chain": 1791782719.4766498
  },
  "tries": {}
 }
