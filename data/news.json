@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-12T07:31:47Z",
+ "updated": "2026-10-12T07:56:23Z",
  "sources": [
   "coindesk.com",
   "cointelegraph-tr.com",
@@ -33,7 +33,6 @@
   ]
  },
  "seen": {
-  "https://cointelegraph-tr.com/markets/bitcoin-etfs-outflow-largest-june-october": 1791445968.7694223,
   "https://cointelegraph-tr.com/markets/near-enters-crypto-top-20-token-surge": 1791447965.8349812,
   "https://cointelegraph-tr.com/news/standard-chartered-digital-asset-custody-services-singapore": 1791447965.8349812,
   "https://cointelegraph-tr.com/news/greece-capital-gains-tax-cryptocurrencies": 1791447965.8349812,
@@ -145,7 +144,8 @@
   "https://www.coindesk.com/markets/2026/10/12/bitcoin-shrugs-off-etf-outflows-to-trade-above-usd84-000-as-oil-falls": 1791780944.0749052,
   "https://www.theblock.co/news/regulation/2026-10-12-former-cftc-acting-chair-caroline-pham-onions-418246": 1791780944.0749052,
   "https://cointelegraph-tr.com/news/data-network-to-migrate-to-sui-retire-its-own-chain": 1791782719.4766498,
-  "https://cointelegraph-tr.com/news/fsb-stablecoin-ai-risks-g20-finance-meeting": 1791788717.1970956
+  "https://cointelegraph-tr.com/news/fsb-stablecoin-ai-risks-g20-finance-meeting": 1791788717.1970956,
+  "https://www.coindesk.com/tech/2026/10/12/ledger-says-unauthorized-implant-found-in-at-least-one-device-sold-by-cryptobilis": 1791791783.4076877
  },
  "tries": {}
 }
