@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-12T16:52:42Z",
+ "updated": "2026-10-12T17:24:53Z",
  "sources": [
   "coindesk.com",
   "cointelegraph-tr.com",
@@ -13,6 +13,13 @@
     "url": "https://cointelegraph-tr.com/news/michael-saylor-strategy-250-btc-buy",
     "published": "2026-10-12T12:31:51Z",
     "importance": 4
+   },
+   {
+    "title": "Bitcoin madencileri, borç verenler anlaşmaları incelerken artan yapay zeka finansman maliyetleriyle karşı karşıya",
+    "summary": "Bitcoin madenciliği sektörünün planlanan yapay zeka altyapısı projelerini tamamlamak için yaklaşık 50 milyar dolara ihtiyacı bulunmaktadır. IREN, Riot Platforms ve HIVE Digital gibi şirketler önemli finansman açıklarıyla karşı karşıya kalmıştır.",
+    "url": "https://cointelegraph-tr.com/news/bitcoin-miners-ai-financing-costs-debt-funding-gap",
+    "published": "2026-10-12T16:51:05Z",
+    "importance": 3
    },
    {
     "title": "Ledger implantı, Bitcoin ETF’lerini donanım cüzdanlarından daha güvenli saklama seçenekleri olarak sınadı",
@@ -75,6 +82,13 @@
   ],
   "SOL": [
    {
+    "title": "StoneX, Securitize Hedef Fiyatını %50 Artırdı",
+    "summary": "StoneX, Solana ağındaki Securitize Stocks token'laştırılmış işlem platformundan elde edilen yeni gelir akışını gerekçe göstererek Securitize hisse senedi hedef fiyatını 12 dolardan 18 dolara yükseltti.",
+    "url": "https://www.theblock.co/news/markets/2026-10-12-stonex-raises-securitize-price-target-tokenized-stocks-418313",
+    "published": "2026-10-12T17:06:25Z",
+    "importance": 3
+   },
+   {
     "title": "DeFi Development SOL Varlıklarını %12 Artırdı ve CHAD Rekor Seviyelere Ulaştı",
     "summary": "DeFi Development geçtiğimiz hafta 22.070 adet SOL ekleyerek toplam varlıklarını 2,59 milyon SOL seviyesine çıkardı. Bu artış, şirketin imtiyazlı hissesi CHAD'in satış baskısına rağmen rekor seviyelere ulaşmasıyla gerçekleşti.",
     "url": "https://www.theblock.co/news/business/2026-10-12-defi-development-sol-holdings-2-59-million-chad-418307",
@@ -107,10 +121,6 @@
   ]
  },
  "seen": {
-  "https://www.theblock.co/news/markets/2026-10-08-strategy-shareholders-face-dilution-drag-despite-brighter-bitcoin-forecasts-td-cowen-418066": 1791480227.0337763,
-  "https://www.theblock.co/research/institutional/block-gcci-2026-country-profile-korea-crypto-market-418081": 1791480227.0337763,
-  "https://www.theblock.co/news/business/2026-10-08-bitwise-ceo-dogecoin-etf-failure-hunter-horsley-418070": 1791480227.0337763,
-  "https://cointelegraph-tr.com/news/imf-flags-volatility-liquidity-risks-tokenized-markets-grow": 1791480227.0337763,
   "https://www.theblock.co/news/regulation/2026-10-08-nfl-amicus-brief-supreme-court-kalshi-new-jersey-prediction-markets-418064": 1791481891.4601378,
   "https://cointelegraph-tr.com/news/netflix-series-ftx-sam-bankman-fried-caroline-ellison": 1791484030.6768382,
   "https://www.coindesk.com/markets/2026/10/08/crypto-crumbles-as-anniversary-of-flash-crash-nears": 1791484030.6768382,
@@ -213,7 +223,9 @@
   "https://www.theblock.co/news/business/2026-10-12-defi-development-sol-holdings-2-59-million-chad-418307": 1791817131.7940001,
   "https://www.coindesk.com/business/2026/10/12/tokenized-catastrophe-bonds-target-the-disaster-insurance-gap": 1791818740.071161,
   "https://www.coindesk.com/business/2026/10/12/tom-lee-sees-usd2-trillion-wealth-transfer-fueling-crypto-demand-as-bitmine-buys-more-ether": 1791820502.825745,
-  "https://www.coindesk.com/policy/2026/10/12/palantir-executive-warns-europe-is-missing-the-boat-on-ai-just-like-it-did-with-the-internet": 1791822321.1986668
+  "https://www.coindesk.com/policy/2026/10/12/palantir-executive-warns-europe-is-missing-the-boat-on-ai-just-like-it-did-with-the-internet": 1791822321.1986668,
+  "https://www.theblock.co/news/markets/2026-10-12-stonex-raises-securitize-price-target-tokenized-stocks-418313": 1791825893.1804662,
+  "https://cointelegraph-tr.com/news/bitcoin-miners-ai-financing-costs-debt-funding-gap": 1791825893.1804662
  },
  "tries": {}
 }
