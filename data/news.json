@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-13T21:07:54Z",
+ "updated": "2026-10-13T22:02:31Z",
  "sources": [
   "coindesk.com",
   "cointelegraph-tr.com",
@@ -149,18 +149,10 @@
     "url": "https://cointelegraph-tr.com/news/xrp-treasury-evernorth-rise-nasdaq-opening",
     "published": "2026-10-12T14:18:49Z",
     "importance": 3
-   },
-   {
-    "title": "Standard Chartered, Ripple USD saklama hizmeti ekledi; LMAX teminat anlaşmasını değerlendiriyor",
-    "summary": "Standard Chartered, Ripple’ın RLUSD stablecoin’i için XRP Ledger üzerinde kurumsal saklama hizmeti başlattı. Banka, kurumların bu token’ları alım satım teminatı olarak kullanmasına olanak tanımayı planlıyor.",
-    "url": "https://cointelegraph-tr.com/news/standard-chartered-rlusd-custody-lmax-deal",
-    "published": "2026-10-12T09:30:57Z",
-    "importance": 3
    }
   ]
  },
  "seen": {
-  "https://www.coindesk.com/policy/2026/10/09/u-s-cftc-moves-to-fold-event-contracts-into-swaps-regulations-as-legal-fight-rages": 1791582667.1605923,
   "https://www.coindesk.com/business/2026/10/05/1-2-billion-apac-consumers-could-adopt-stablecoins-by-2031-according-to-visa": 1791602581.2478814,
   "https://www.coindesk.com/tech/2026/10/10/xrp-ledger-patched-decade-old-bug-that-could-create-billions-of-dollars-in-xrp-from-nothing": 1791606165.137473,
   "https://www.coindesk.com/markets/2026/10/10/robinhood-chain-slowdown-spreads-from-fees-to-trading-as-transactions-fall-more-than-40": 1791607957.104705,
@@ -262,7 +254,8 @@
   "https://cointelegraph-tr.com/news/strive-bitcoin-holdings-32773-btc-warrant-exercises": 1791908825.113261,
   "https://cointelegraph-tr.com/news/sec-leadership-facilitate-crypto-rulemaking": 1791912287.0011837,
   "https://cointelegraph-tr.com/news/trezor-preventative-steps-wallet-tampering-reports": 1791920297.7403476,
-  "https://cointelegraph-tr.com/news/tokenized-stocks-after-hours-trading-solana-bnb-chain": 1791923768.4019048
+  "https://cointelegraph-tr.com/news/tokenized-stocks-after-hours-trading-solana-bnb-chain": 1791923768.4019048,
+  "https://www.coindesk.com/business/2026/10/13/bny-citadel-securities-test-tokenized-u-s-treasuries-to-speed-up-wall-street-financing": 1791928951.814077
  },
  "tries": {}
 }
