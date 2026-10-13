@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-13T05:26:02Z",
+ "updated": "2026-10-13T05:53:44Z",
  "sources": [
   "coindesk.com",
   "cointelegraph-tr.com",
@@ -105,6 +105,13 @@
     "importance": 4
    },
    {
+    "title": "Tokenize SanDisk bahisleri, Asya'nın çip çöküşü 800 milyon doları silerken XRP'den daha fazla tasfiye gördü",
+    "summary": "Asya'daki çip piyasası düşüşü 800 milyon doları silerken, tokenize SanDisk bahislerinde XRP'den daha fazla tasfiye görüldü.",
+    "url": "https://www.coindesk.com/markets/2026/10/13/tokenized-sandisk-bets-saw-more-liquidations-than-xrp-as-asia-s-chip-rout-wipes-out-usd800-million",
+    "published": "2026-10-13T05:27:17Z",
+    "importance": 3
+   },
+   {
     "title": "XRP hazinesi Evernorth’un hisseleri Nasdaq açılışında yüzde 5 yükseldi",
     "summary": "Yatırımcıların yalnızca XRP’ye odaklanan ilk dijital varlık hazinesinin Nasdaq’taki ilk işlem gününü memnuniyetle karşılamasıyla Evernorth’un hisse fiyatı yüzde 5 yükseldi.",
     "url": "https://cointelegraph-tr.com/news/xrp-treasury-evernorth-rise-nasdaq-opening",
@@ -121,7 +128,6 @@
   ]
  },
  "seen": {
-  "https://cointelegraph-tr.com/news/trump-administration-quantum-computing-ai-6-billion-science-push": 1791525114.4243195,
   "https://www.coindesk.com/business/2026/10/09/live-updates-xrp-etfs-the-only-ones-in-green-as-btc-eth-zec-funds-post-outflows": 1791529110.8008254,
   "https://www.coindesk.com/markets/2026/10/09/new-tech-to-power-bitcoin-lending-is-set-to-debut-with-usd500-million-in-commitments": 1791529110.8008254,
   "https://cointelegraph-tr.com/markets/bitcoin-ether-etfs-october-outflows-billion": 1791532384.683974,
@@ -220,7 +226,12 @@
   "https://cointelegraph-tr.com/news/south-korea-moves-to-block-27-crypto-websites-including-kucoin-mexc": 1791860053.3693905,
   "https://www.theblock.co/news/markets/2026-10-13-bitcoin-whale-moves-378-million-418383": 1791865562.0476425,
   "https://www.coindesk.com/markets/2026/10/13/bitcoin-rebounds-above-usd83-000-as-it-decouples-from-tumbling-korean-stocks-and-nasdaq-futures": 1791865562.0476425,
-  "https://www.coindesk.com/tech/2026/10/13/once-largest-ethereum-nft-marketplace-blur-is-shutting-down-after-volumes-collapse-99": 1791867351.4325736
+  "https://www.coindesk.com/tech/2026/10/13/once-largest-ethereum-nft-marketplace-blur-is-shutting-down-after-volumes-collapse-99": 1791867351.4325736,
+  "https://www.coindesk.com/markets/2026/10/13/bitcoin-whale-that-sat-through-the-march-2020-crash-moves-usd378-million": 1791870824.479726,
+  "https://www.theblock.co/news/business/2026-10-13-binance-vip-head-hedge-funds-exploring-arbitrage-418389": 1791870824.479726,
+  "https://cointelegraph-tr.com/news/blur-is-shutting-down-its-website-so-why-are-nft-collectors-cheering": 1791870824.479726,
+  "https://www.coindesk.com/markets/2026/10/13/tokenized-sandisk-bets-saw-more-liquidations-than-xrp-as-asia-s-chip-rout-wipes-out-usd800-million": 1791870824.479726,
+  "https://cointelegraph-tr.com/news/binance-shut-down-crypto-mining-pool-november": 1791870824.479726
  },
  "tries": {}
 }
