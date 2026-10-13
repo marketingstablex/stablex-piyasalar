@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-13T09:54:31Z",
+ "updated": "2026-10-13T10:26:58Z",
  "sources": [
   "coindesk.com",
   "cointelegraph-tr.com",
@@ -7,13 +7,6 @@
  ],
  "bySymbol": {
   "BTC": [
-   {
-    "title": "İngiltere mahkemesi kararı, hükümetin ele geçirilen 5 milyar dolarlık Bitcoin'i elinde tutma şansını artırıyor",
-    "summary": "İngiltere mahkemesi kararı, hükümetin ele geçirilen 5 milyar dolarlık Bitcoin'i elinde tutma şansını artırıyor.",
-    "url": "https://www.coindesk.com/policy/2026/10/13/u-k-court-ruling-boosts-government-s-chances-of-keeping-gbp3-8-billion-seized-bitcoin",
-    "published": "2026-10-13T09:25:03Z",
-    "importance": 4
-   },
    {
     "title": "Çinli dolandırıcılık mağdurları 61.000 Bitcoin üzerindeki kilit mahkeme mücadelesini kaybetti",
     "summary": "61.000 el konulmuş Bitcoin'i geri almaya çalışan Çinli dolandırıcılık mağdurları, Birleşik Krallık'taki bir mahkemenin taleplerini Çin hukukunun yönettiğine hükmetmesinin ardından hukuki bir gerilemeyle karşı karşıya kaldı.",
@@ -128,9 +121,6 @@
   ]
  },
  "seen": {
-  "https://www.coindesk.com/policy/2026/10/09/thailand-opens-door-to-locally-listed-bitcoin-and-ether-etfs": 1791541542.3337424,
-  "https://cointelegraph-tr.com/news/france-crypto-stablecoin-swap-tax-2027-budget": 1791541542.3337424,
-  "https://www.coindesk.com/policy/2026/10/09/uk-slaps-sanctions-on-three-crypto-exchanges-over-alleged-russia-links": 1791541542.3337424,
   "https://www.coindesk.com/markets/2026/10/09/bitcoin-steadies-near-usd82-500-after-trump-rules-out-iran-strike-before-midterms": 1791543153.346953,
   "https://www.theblock.co/news/regulation/2026-10-09-thailand-sec-issues-bitcoin-and-ether-etf-rules-set-to-take-effect-oct-16-418132": 1791543153.346953,
   "https://cointelegraph-tr.com/news/uk-sanctions-crypto-exchanges-russian-illicit-funds": 1791543153.346953,
@@ -228,7 +218,9 @@
   "https://cointelegraph-tr.com/news/binance-shut-down-crypto-mining-pool-november": 1791870824.479726,
   "https://www.coindesk.com/policy/2026/10/13/u-k-court-ruling-boosts-government-s-chances-of-keeping-gbp3-8-billion-seized-bitcoin": 1791883644.0358868,
   "https://cointelegraph-tr.com/news/uk-court-chinese-law-61k-bitcoin-fraud-victims": 1791883644.0358868,
-  "https://www.coindesk.com/tech/2026/10/13/ledger-says-spy-chip-inside-cryptobilis-ledger-devices-transmitted-wallet-keys-over-mobile-network": 1791885271.226903
+  "https://www.coindesk.com/tech/2026/10/13/ledger-says-spy-chip-inside-cryptobilis-ledger-devices-transmitted-wallet-keys-over-mobile-network": 1791885271.226903,
+  "https://cointelegraph-tr.com/news/mediamarkt-pulls-ledger-wallet-security-incident": 1791887218.1971552,
+  "https://cointelegraph-tr.com/markets/bitcoin-hits-84k-resistance-as-korea-tech-sell-off-sends-kospi-down-74": 1791887218.1971552
  },
  "tries": {}
 }
