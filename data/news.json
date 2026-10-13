@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-13T13:03:32Z",
+ "updated": "2026-10-13T13:33:15Z",
  "sources": [
   "coindesk.com",
   "cointelegraph-tr.com",
@@ -36,6 +36,13 @@
     "importance": 4
    },
    {
+    "title": "Bitcoin Lightning Network kendi kendini mi kandırıyor?",
+    "summary": "Bitcoin geliştiricisi Paul Sztorc, Bitcoin topluluğunun Lightning konusunda kendini kandırdığını belirtti. Geliştiriciler kullanılabilirliğin arttığını savunurken, günlük kullanım konusundaki belirsizlikler ve sorular devam ediyor.",
+    "url": "https://cointelegraph-tr.com/magazine/is-bitcoin-kidding-itself-about-the-lightning-network",
+    "published": "2026-10-13T13:30:00Z",
+    "importance": 3
+   },
+   {
     "title": "Rusya, Aralık lansmanı öncesinde Sberbank’a kripto alım satımı yetkisi verdi",
     "summary": "Rusya’nın en büyük bankası Sberbank, Bitcoin, Ether ve Tether USDt alım satımı sunmaya hazırlanırken kripto borsası yetkisi aldı.",
     "url": "https://cointelegraph-tr.com/news/sberbank-russia-crypto-trading-approval",
@@ -54,13 +61,6 @@
     "summary": "Canlı gelişmeler: Bitcoin, altcoinler düşerken 81.000 ile 84.000 dolar arasında dalgalanıyor",
     "url": "https://www.coindesk.com/markets/2026/10/13/live-updates-bitcoin-whipsaws-between-usd81-000-and-usd84-000-as-altcoins-slide",
     "published": "2026-10-13T10:46:57Z",
-    "importance": 3
-   },
-   {
-    "title": "Altı yıllık uykunun ardından bir balina 378 milyon dolar değerinde BTC taşıdı",
-    "summary": "Zincir üstü verilerine göre, altı yıldır hareketsiz duran bir cüzdan 378 milyon dolar değerinde Bitcoin taşıdı. Bu cüzdan ilk olarak Mart 2020'de, varlıkların yaklaşık 40,8 milyon dolar değerinde olduğu dönemde 4.582 BTC almıştı.",
-    "url": "https://www.theblock.co/news/markets/2026-10-13-bitcoin-whale-moves-378-million-418383",
-    "published": "2026-10-13T04:18:30Z",
     "importance": 3
    }
   ],
@@ -130,13 +130,6 @@
   ],
   "XRP": [
    {
-    "title": "XRP Ledger, sınırsız XRP basılmasına yol açabilecek hataya yönelik acil yamayı savunuyor",
-    "summary": "XRP Ledger Foundation, acil güvenlik yamasının ağ operatörlerine zorla dayatıldığı yönündeki iddialara karşı çıktı.",
-    "url": "https://cointelegraph-tr.com/news/xrp-ledger-defends-emergency-patch-for-unlimited-xrp-bug",
-    "published": "2026-10-12T01:21:29Z",
-    "importance": 4
-   },
-   {
     "title": "Tokenize SanDisk bahisleri, Asya'nın çip çöküşü 800 milyon doları silerken XRP'den daha fazla tasfiye gördü",
     "summary": "Asya'daki çip piyasası düşüşü 800 milyon doları silerken, tokenize SanDisk bahislerinde XRP'den daha fazla tasfiye görüldü.",
     "url": "https://www.coindesk.com/markets/2026/10/13/tokenized-sandisk-bets-saw-more-liquidations-than-xrp-as-asia-s-chip-rout-wipes-out-usd800-million",
@@ -160,7 +153,6 @@
   ]
  },
  "seen": {
-  "https://www.theblock.co/news/defi/2026-10-09-tokenization-supercycle-base-jesse-pollak-418144": 1791552416.723768,
   "https://www.theblock.co/news/regulation/2026-10-09-ny-attorney-general-alex-mashinsky-celsius-35-million-ban-418154": 1791556017.1489096,
   "https://www.theblock.co/news/business/2026-10-09-ledger-cryptobilis-fund-losses-418163": 1791557690.007348,
   "https://www.coindesk.com/business/2026/10/09/ledger-investigates-potential-wallet-tampering-after-reports-of-usd86-million-in-crypto-stolen": 1791557690.007348,
@@ -262,7 +254,9 @@
   "https://www.coindesk.com/daybook-us/2026/10/13/stacks-stx-a-bitcoin-layer-2-token-has-surged-by-50-in-four-weeks": 1791892443.4864373,
   "https://cointelegraph-tr.com/news/sberbank-russia-crypto-trading-approval": 1791894750.388038,
   "https://www.coindesk.com/policy/2026/10/13/south-korea-blocks-27-crypto-exchanges-including-bitmart-and-kucoin": 1791894750.388038,
-  "https://www.coindesk.com/business/2026/10/13/federated-hermes-joins-wall-street-s-tokenization-push-with-plans-for-first-onchain-fund-shares": 1791894750.388038
+  "https://www.coindesk.com/business/2026/10/13/federated-hermes-joins-wall-street-s-tokenization-push-with-plans-for-first-onchain-fund-shares": 1791894750.388038,
+  "https://cointelegraph-tr.com/magazine/is-bitcoin-kidding-itself-about-the-lightning-network": 1791898395.673403,
+  "https://cointelegraph-tr.com/news/bis-digital-cash-privacy-bank-data-breaches": 1791898395.673403
  },
  "tries": {}
 }
