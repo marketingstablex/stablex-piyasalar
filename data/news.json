@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-13T01:53:29Z",
+ "updated": "2026-10-13T02:24:27Z",
  "sources": [
   "coindesk.com",
   "cointelegraph-tr.com",
@@ -7,6 +7,13 @@
  ],
  "bySymbol": {
   "BTC": [
+   {
+    "title": "Bitcoin 82.000 doların altına gerilerken kripto tasfiyeleri 770 milyon doları aştı",
+    "summary": "Son 24 saat içinde 685,6 milyon dolarlık uzun pozisyonlar dahil olmak üzere toplam 771 milyon dolar tutarında kripto tasfiyesi gerçekleşti. Bu süreçte Bitcoin fiyatı 82.000 doların altına geriledi.",
+    "url": "https://www.theblock.co/news/markets/2026-10-12-bitcoin-slides-crypto-liquidations-surge-418374",
+    "published": "2026-10-13T01:57:49Z",
+    "importance": 4
+   },
    {
     "title": "Strategy’nin varlıkları 848.250 BTC’ye ulaşırken 250 Bitcoin daha ekledi",
     "summary": "Michael Saylor’ın Strategy’si, son alımının ardından Bitcoin varlıklarının 848.250 BTC’ye ulaştığını ve 4,88 milyar dolarlık nakit rezervini koruduğunu açıkladı.",
@@ -54,13 +61,6 @@
     "summary": "Bitcoin, petrol fiyatlarındaki düşüşün etkisiyle ETF çıkışlarına rağmen 84.000 doların üzerinde işlem görüyor.",
     "url": "https://www.coindesk.com/markets/2026/10/12/bitcoin-shrugs-off-etf-outflows-to-trade-above-usd84-000-as-oil-falls",
     "published": "2026-10-12T04:49:30Z",
-    "importance": 3
-   },
-   {
-    "title": "Saylor, eylül ayını STRC geri alımlarıyla tamamladıktan sonra Strategy’nin Bitcoin alımını ima etti",
-    "summary": "Yatırımcılar, Strategy şirketinin ekim ayının ilk haftasında Bitcoin hazinesine varlık ekleyip eklemediğini ve miktarını öğrenmek için bir gün daha beklemek zorunda kalacak.",
-    "url": "https://cointelegraph-tr.com/news/saylors-teases-strategy-bitcoin-buying-after-ending-september-with-strc-buybacks",
-    "published": "2026-10-11T17:03:00Z",
     "importance": 3
    }
   ],
@@ -220,7 +220,8 @@
   "https://cointelegraph-tr.com/news/crypto-pac-spending-house-races-2026-midterms": 1791832978.7247815,
   "https://www.theblock.co/news/regulation/2026-10-12-cftcs-new-crypto-framework-could-face-2028-election-deadline-td-cowen-418358": 1791838501.7681835,
   "https://www.theblock.co/news/ecosystems/2026-10-12-blur-nft-marketplace-shutting-down-frontend-blend-418363": 1791841873.8836253,
-  "https://cointelegraph-tr.com/news/aptos-rolls-out-encrypted-mempool-to-curb-frontrunning-sandwich-attacks": 1791854746.358353
+  "https://cointelegraph-tr.com/news/aptos-rolls-out-encrypted-mempool-to-curb-frontrunning-sandwich-attacks": 1791854746.358353,
+  "https://www.theblock.co/news/markets/2026-10-12-bitcoin-slides-crypto-liquidations-surge-418374": 1791858267.8911705
  },
  "tries": {}
 }
