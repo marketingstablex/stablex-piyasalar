@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-13T11:54:03Z",
+ "updated": "2026-10-13T12:32:30Z",
  "sources": [
   "coindesk.com",
   "cointelegraph-tr.com",
@@ -36,17 +36,17 @@
     "importance": 4
    },
    {
+    "title": "Rusya, Aralık lansmanı öncesinde Sberbank’a kripto alım satımı yetkisi verdi",
+    "summary": "Rusya’nın en büyük bankası Sberbank, Bitcoin, Ether ve Tether USDt alım satımı sunmaya hazırlanırken kripto borsası yetkisi aldı.",
+    "url": "https://cointelegraph-tr.com/news/sberbank-russia-crypto-trading-approval",
+    "published": "2026-10-13T12:22:24Z",
+    "importance": 3
+   },
+   {
     "title": "Stacks'in STX token'ı dört haftada yüzde 50 arttı",
     "summary": "Stacks'in STX token'ı dört haftada yüzde 50 arttı.",
     "url": "https://www.coindesk.com/daybook-us/2026/10/13/stacks-stx-a-bitcoin-layer-2-token-has-surged-by-50-in-four-weeks",
     "published": "2026-10-13T11:26:45Z",
-    "importance": 3
-   },
-   {
-    "title": "Güney Kore hisseleri yapay zeka endişeleriyle gerilerken Bitcoin ve ether düştü ve ardından toparlandı",
-    "summary": "Güney Kore hisseleri yapay zeka endişeleriyle gerilerken Bitcoin ve ether düşüş yaşadı ve ardından toparlandı.",
-    "url": "https://www.coindesk.com/markets/2026/10/13/bitcoin-ether-slip-and-rebound-as-south-korean-stocks-slide-on-ai-related-concerns",
-    "published": "2026-10-13T11:06:39Z",
     "importance": 3
    },
    {
@@ -66,10 +66,17 @@
   ],
   "ETH": [
    {
-    "title": "Güney Kore hisseleri yapay zeka endişeleriyle gerilerken Bitcoin ve ether düştü ve ardından toparlandı",
-    "summary": "Güney Kore hisseleri yapay zeka endişeleriyle gerilerken Bitcoin ve ether düşüş yaşadı ve ardından toparlandı.",
-    "url": "https://www.coindesk.com/markets/2026/10/13/bitcoin-ether-slip-and-rebound-as-south-korean-stocks-slide-on-ai-related-concerns",
-    "published": "2026-10-13T11:06:39Z",
+    "title": "Bitcoin, düşüşteki Kore hisseleri ve Nasdaq vadelilerinden ayrışarak 83.000 doların üzerine çıktı",
+    "summary": "Bitcoin, düşüş trendindeki Kore hisse senetleri ve Nasdaq vadelilerinden ayrışarak 83.000 doların üzerine yükseldi.",
+    "url": "https://www.coindesk.com/markets/2026/10/13/bitcoin-rebounds-above-usd83-000-as-it-decouples-from-tumbling-korean-stocks-and-nasdaq-futures",
+    "published": "2026-10-13T04:18:20Z",
+    "importance": 4
+   },
+   {
+    "title": "Rusya, Aralık lansmanı öncesinde Sberbank’a kripto alım satımı yetkisi verdi",
+    "summary": "Rusya’nın en büyük bankası Sberbank, Bitcoin, Ether ve Tether USDt alım satımı sunmaya hazırlanırken kripto borsası yetkisi aldı.",
+    "url": "https://cointelegraph-tr.com/news/sberbank-russia-crypto-trading-approval",
+    "published": "2026-10-13T12:22:24Z",
     "importance": 3
    },
    {
@@ -112,6 +119,15 @@
     "importance": 3
    }
   ],
+  "USDT": [
+   {
+    "title": "Rusya, Aralık lansmanı öncesinde Sberbank’a kripto alım satımı yetkisi verdi",
+    "summary": "Rusya’nın en büyük bankası Sberbank, Bitcoin, Ether ve Tether USDt alım satımı sunmaya hazırlanırken kripto borsası yetkisi aldı.",
+    "url": "https://cointelegraph-tr.com/news/sberbank-russia-crypto-trading-approval",
+    "published": "2026-10-13T12:22:24Z",
+    "importance": 3
+   }
+  ],
   "XRP": [
    {
     "title": "XRP Ledger, sınırsız XRP basılmasına yol açabilecek hataya yönelik acil yamayı savunuyor",
@@ -144,7 +160,6 @@
   ]
  },
  "seen": {
-  "https://www.coindesk.com/policy/2026/10/09/dwf-labs-subsidiaries-sue-bitgo-for-usd141-million-over-alleged-token-lock-up-breach": 1791548917.4167073,
   "https://www.theblock.co/news/defi/2026-10-09-tokenization-supercycle-base-jesse-pollak-418144": 1791552416.723768,
   "https://www.theblock.co/news/regulation/2026-10-09-ny-attorney-general-alex-mashinsky-celsius-35-million-ban-418154": 1791556017.1489096,
   "https://www.theblock.co/news/business/2026-10-09-ledger-cryptobilis-fund-losses-418163": 1791557690.007348,
@@ -244,7 +259,10 @@
   "https://www.coindesk.com/business/2026/10/13/russia-s-largest-bank-sberbank-secures-approval-to-trade-crypto": 1791890761.250627,
   "https://www.theblock.co/news/business/2026-10-13-binance-to-shut-down-mining-pool-cloud-mining-and-related-services-418410": 1791892443.4864373,
   "https://www.theblock.co/news/regulation/2026-10-13-uk-high-court-rules-chinese-law-governs-claims-over-5-billion-in-seized-bitcoin-418409": 1791892443.4864373,
-  "https://www.coindesk.com/daybook-us/2026/10/13/stacks-stx-a-bitcoin-layer-2-token-has-surged-by-50-in-four-weeks": 1791892443.4864373
+  "https://www.coindesk.com/daybook-us/2026/10/13/stacks-stx-a-bitcoin-layer-2-token-has-surged-by-50-in-four-weeks": 1791892443.4864373,
+  "https://cointelegraph-tr.com/news/sberbank-russia-crypto-trading-approval": 1791894750.388038,
+  "https://www.coindesk.com/policy/2026/10/13/south-korea-blocks-27-crypto-exchanges-including-bitmart-and-kucoin": 1791894750.388038,
+  "https://www.coindesk.com/business/2026/10/13/federated-hermes-joins-wall-street-s-tokenization-push-with-plans-for-first-onchain-fund-shares": 1791894750.388038
  },
  "tries": {}
 }
