@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-13T13:33:15Z",
+ "updated": "2026-10-13T14:00:16Z",
  "sources": [
   "coindesk.com",
   "cointelegraph-tr.com",
@@ -7,6 +7,13 @@
  ],
  "bySymbol": {
   "BTC": [
+   {
+    "title": "Strive, Ocak ayından bu yana en büyük alımını gerçekleştirerek 280 milyon dolara 3.311 bitcoin satın aldı",
+    "summary": "Strive, 5 Ekim ile 9 Ekim tarihleri arasında 3.311 BTC ekleyerek toplam varlıklarını 32.773 BTC'ye çıkardı ve MARA ile arasındaki farkı kapattı.",
+    "url": "https://www.theblock.co/news/business/2026-10-13-strive-buys-3311-bitcoin-280-million-largest-acquisition-since-january-418430",
+    "published": "2026-10-13T13:42:25Z",
+    "importance": 4
+   },
    {
     "title": "Çinli dolandırıcılık mağdurları 61.000 Bitcoin üzerindeki kilit mahkeme mücadelesini kaybetti",
     "summary": "61.000 el konulmuş Bitcoin'i geri almaya çalışan Çinli dolandırıcılık mağdurları, Birleşik Krallık'taki bir mahkemenin taleplerini Çin hukukunun yönettiğine hükmetmesinin ardından hukuki bir gerilemeyle karşı karşıya kaldı.",
@@ -54,13 +61,6 @@
     "summary": "Stacks'in STX token'ı dört haftada yüzde 50 arttı.",
     "url": "https://www.coindesk.com/daybook-us/2026/10/13/stacks-stx-a-bitcoin-layer-2-token-has-surged-by-50-in-four-weeks",
     "published": "2026-10-13T11:26:45Z",
-    "importance": 3
-   },
-   {
-    "title": "Canlı gelişmeler: Bitcoin, altcoinler düşerken 81.000 ile 84.000 dolar arasında dalgalanıyor",
-    "summary": "Canlı gelişmeler: Bitcoin, altcoinler düşerken 81.000 ile 84.000 dolar arasında dalgalanıyor",
-    "url": "https://www.coindesk.com/markets/2026/10/13/live-updates-bitcoin-whipsaws-between-usd81-000-and-usd84-000-as-altcoins-slide",
-    "published": "2026-10-13T10:46:57Z",
     "importance": 3
    }
   ],
@@ -256,7 +256,8 @@
   "https://www.coindesk.com/policy/2026/10/13/south-korea-blocks-27-crypto-exchanges-including-bitmart-and-kucoin": 1791894750.388038,
   "https://www.coindesk.com/business/2026/10/13/federated-hermes-joins-wall-street-s-tokenization-push-with-plans-for-first-onchain-fund-shares": 1791894750.388038,
   "https://cointelegraph-tr.com/magazine/is-bitcoin-kidding-itself-about-the-lightning-network": 1791898395.673403,
-  "https://cointelegraph-tr.com/news/bis-digital-cash-privacy-bank-data-breaches": 1791898395.673403
+  "https://cointelegraph-tr.com/news/bis-digital-cash-privacy-bank-data-breaches": 1791898395.673403,
+  "https://www.theblock.co/news/business/2026-10-13-strive-buys-3311-bitcoin-280-million-largest-acquisition-since-january-418430": 1791900016.459134
  },
  "tries": {}
 }
