@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-13T10:26:58Z",
+ "updated": "2026-10-13T10:55:24Z",
  "sources": [
   "coindesk.com",
   "cointelegraph-tr.com",
@@ -34,6 +34,13 @@
     "url": "https://cointelegraph-tr.com/news/michael-saylor-strategy-250-btc-buy",
     "published": "2026-10-12T12:31:51Z",
     "importance": 4
+   },
+   {
+    "title": "Canlı gelişmeler: Bitcoin, altcoinler düşerken 81.000 ile 84.000 dolar arasında dalgalanıyor",
+    "summary": "Canlı gelişmeler: Bitcoin, altcoinler düşerken 81.000 ile 84.000 dolar arasında dalgalanıyor",
+    "url": "https://www.coindesk.com/markets/2026/10/13/live-updates-bitcoin-whipsaws-between-usd81-000-and-usd84-000-as-altcoins-slide",
+    "published": "2026-10-13T10:46:57Z",
+    "importance": 3
    },
    {
     "title": "Altı yıllık uykunun ardından bir balina 378 milyon dolar değerinde BTC taşıdı",
@@ -121,11 +128,6 @@
   ]
  },
  "seen": {
-  "https://www.coindesk.com/markets/2026/10/09/bitcoin-steadies-near-usd82-500-after-trump-rules-out-iran-strike-before-midterms": 1791543153.346953,
-  "https://www.theblock.co/news/regulation/2026-10-09-thailand-sec-issues-bitcoin-and-ether-etf-rules-set-to-take-effect-oct-16-418132": 1791543153.346953,
-  "https://cointelegraph-tr.com/news/uk-sanctions-crypto-exchanges-russian-illicit-funds": 1791543153.346953,
-  "https://www.theblock.co/news/deals/2026-10-09-sam-altman-backed-bitcoin-life-insurer-meanwhile-raises-37-5-million-round-led-by-bain-capital-crypto-418131": 1791543153.346953,
-  "https://cointelegraph-tr.com/news/what-happened-in-crypto-today": 1791543153.346953,
   "https://www.coindesk.com/daybook-us/2026/10/09/trump-s-iran-pledge-underpins-crypto-gains-as-bitcoin-bears-face-liquidation-pressure": 1791544985.3409293,
   "https://www.coindesk.com/tech/2026/10/09/zcash-developers-set-january-target-for-quantum-resistant-payments-after-bunker-mode-scare": 1791546673.4590054,
   "https://www.coindesk.com/policy/2026/10/09/dwf-labs-subsidiaries-sue-bitgo-for-usd141-million-over-alleged-token-lock-up-breach": 1791548917.4167073,
@@ -220,7 +222,10 @@
   "https://cointelegraph-tr.com/news/uk-court-chinese-law-61k-bitcoin-fraud-victims": 1791883644.0358868,
   "https://www.coindesk.com/tech/2026/10/13/ledger-says-spy-chip-inside-cryptobilis-ledger-devices-transmitted-wallet-keys-over-mobile-network": 1791885271.226903,
   "https://cointelegraph-tr.com/news/mediamarkt-pulls-ledger-wallet-security-incident": 1791887218.1971552,
-  "https://cointelegraph-tr.com/markets/bitcoin-hits-84k-resistance-as-korea-tech-sell-off-sends-kospi-down-74": 1791887218.1971552
+  "https://cointelegraph-tr.com/markets/bitcoin-hits-84k-resistance-as-korea-tech-sell-off-sends-kospi-down-74": 1791887218.1971552,
+  "https://www.coindesk.com/markets/2026/10/13/live-updates-bitcoin-whipsaws-between-usd81-000-and-usd84-000-as-altcoins-slide": 1791888924.3849795,
+  "https://www.coindesk.com/markets/2026/10/13/bitcoin-diverges-from-south-korean-stocks-as-ai-concerns-deepen-the-kospi-selloff": 1791888924.3849795,
+  "https://cointelegraph-tr.com/news/what-happened-in-crypto-today": 1791888924.3849795
  },
  "tries": {}
 }
