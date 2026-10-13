@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-13T04:26:02Z",
+ "updated": "2026-10-13T04:55:51Z",
  "sources": [
   "coindesk.com",
   "cointelegraph-tr.com",
@@ -121,7 +121,6 @@
   ]
  },
  "seen": {
-  "https://www.coindesk.com/tech/2026/10/09/solana-is-about-to-halve-its-block-times-as-final-200-millisecond-upgrade-nears": 1791521532.607307,
   "https://cointelegraph-tr.com/news/trump-administration-quantum-computing-ai-6-billion-science-push": 1791525114.4243195,
   "https://www.coindesk.com/business/2026/10/09/live-updates-xrp-etfs-the-only-ones-in-green-as-btc-eth-zec-funds-post-outflows": 1791529110.8008254,
   "https://www.coindesk.com/markets/2026/10/09/new-tech-to-power-bitcoin-lending-is-set-to-debut-with-usd500-million-in-commitments": 1791529110.8008254,
@@ -220,7 +219,8 @@
   "https://www.theblock.co/news/markets/2026-10-12-bitcoin-slides-crypto-liquidations-surge-418374": 1791858267.8911705,
   "https://cointelegraph-tr.com/news/south-korea-moves-to-block-27-crypto-websites-including-kucoin-mexc": 1791860053.3693905,
   "https://www.theblock.co/news/markets/2026-10-13-bitcoin-whale-moves-378-million-418383": 1791865562.0476425,
-  "https://www.coindesk.com/markets/2026/10/13/bitcoin-rebounds-above-usd83-000-as-it-decouples-from-tumbling-korean-stocks-and-nasdaq-futures": 1791865562.0476425
+  "https://www.coindesk.com/markets/2026/10/13/bitcoin-rebounds-above-usd83-000-as-it-decouples-from-tumbling-korean-stocks-and-nasdaq-futures": 1791865562.0476425,
+  "https://www.coindesk.com/tech/2026/10/13/once-largest-ethereum-nft-marketplace-blur-is-shutting-down-after-volumes-collapse-99": 1791867351.4325736
  },
  "tries": {}
 }
