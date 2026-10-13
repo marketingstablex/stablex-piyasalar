@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-13T08:55:19Z",
+ "updated": "2026-10-13T09:27:24Z",
  "sources": [
   "coindesk.com",
   "cointelegraph-tr.com",
@@ -7,6 +7,20 @@
  ],
  "bySymbol": {
   "BTC": [
+   {
+    "title": "İngiltere mahkemesi kararı, hükümetin ele geçirilen 5 milyar dolarlık Bitcoin'i elinde tutma şansını artırıyor",
+    "summary": "İngiltere mahkemesi kararı, hükümetin ele geçirilen 5 milyar dolarlık Bitcoin'i elinde tutma şansını artırıyor.",
+    "url": "https://www.coindesk.com/policy/2026/10/13/u-k-court-ruling-boosts-government-s-chances-of-keeping-gbp3-8-billion-seized-bitcoin",
+    "published": "2026-10-13T09:25:03Z",
+    "importance": 4
+   },
+   {
+    "title": "Çinli dolandırıcılık mağdurları 61.000 Bitcoin üzerindeki kilit mahkeme mücadelesini kaybetti",
+    "summary": "61.000 el konulmuş Bitcoin'i geri almaya çalışan Çinli dolandırıcılık mağdurları, Birleşik Krallık'taki bir mahkemenin taleplerini Çin hukukunun yönettiğine hükmetmesinin ardından hukuki bir gerilemeyle karşı karşıya kaldı.",
+    "url": "https://cointelegraph-tr.com/news/uk-court-chinese-law-61k-bitcoin-fraud-victims",
+    "published": "2026-10-13T09:03:06Z",
+    "importance": 4
+   },
    {
     "title": "Bitcoin, düşüşteki Kore hisseleri ve Nasdaq vadelilerinden ayrışarak 83.000 doların üzerine çıktı",
     "summary": "Bitcoin, düşüş trendindeki Kore hisse senetleri ve Nasdaq vadelilerinden ayrışarak 83.000 doların üzerine yükseldi.",
@@ -47,20 +61,6 @@
     "summary": "Yetkisiz bir Ledger donanım implantının keşfi, Bitcoin ETF’lerinin Bitcoin’i donanım cüzdanı cihazları üzerinden kendi kendine saklamaktan daha güvenli olup olmadığına ilişkin tartışmayı yeniden alevlendirdi.",
     "url": "https://cointelegraph-tr.com/news/ledger-implant-bitcoin-etfs-hardware-wallets",
     "published": "2026-10-12T14:07:00Z",
-    "importance": 3
-   },
-   {
-    "title": "Doların gücü piyasaları tedirgin ederken Bitcoin 83.000 dolar seviyesini koruyor",
-    "summary": "Doların gücü piyasaları tedirgin ederken Bitcoin 83.000 dolar seviyesini koruyor",
-    "url": "https://www.coindesk.com/markets/2026/10/12/bitcoin-holds-usd83-000-as-dollar-strength-keeps-markets-on-edge",
-    "published": "2026-10-12T11:21:11Z",
-    "importance": 3
-   },
-   {
-    "title": "Bitcoin 83.500 doların altında kalırken altcoinler düşük hacimli işlemlerde yükseldi",
-    "summary": "Bitcoin 83.500 doların altında seyrederken, altcoinler ince işlem hacimlerinde ralli yaptı.",
-    "url": "https://www.coindesk.com/markets/2026/10/12/altcoins-rally-on-thin-trading-as-bitcoin-holds-near-usd84-000",
-    "published": "2026-10-12T10:20:54Z",
     "importance": 3
    }
   ],
@@ -128,9 +128,6 @@
   ]
  },
  "seen": {
-  "https://www.coindesk.com/policy/2026/10/09/dark-web-drug-market-operator-forfeits-1-230-bitcoin-and-faces-40-years-in-prison": 1791537950.0623019,
-  "https://www.coindesk.com/markets/2026/10/09/mara-transfers-usd81-1-million-in-bitcoin-to-galaxy-digital-as-strategy-pivots-to-ai": 1791537950.0623019,
-  "https://www.coindesk.com/business/2026/10/09/sam-altman-backed-bitcoin-insurer-meanwhile-secures-usd37-5-million-in-bain-capital-crypto-led-round": 1791537950.0623019,
   "https://www.coindesk.com/policy/2026/10/09/thailand-opens-door-to-locally-listed-bitcoin-and-ether-etfs": 1791541542.3337424,
   "https://cointelegraph-tr.com/news/france-crypto-stablecoin-swap-tax-2027-budget": 1791541542.3337424,
   "https://www.coindesk.com/policy/2026/10/09/uk-slaps-sanctions-on-three-crypto-exchanges-over-alleged-russia-links": 1791541542.3337424,
@@ -228,7 +225,9 @@
   "https://www.theblock.co/news/business/2026-10-13-binance-vip-head-hedge-funds-exploring-arbitrage-418389": 1791870824.479726,
   "https://cointelegraph-tr.com/news/blur-is-shutting-down-its-website-so-why-are-nft-collectors-cheering": 1791870824.479726,
   "https://www.coindesk.com/markets/2026/10/13/tokenized-sandisk-bets-saw-more-liquidations-than-xrp-as-asia-s-chip-rout-wipes-out-usd800-million": 1791870824.479726,
-  "https://cointelegraph-tr.com/news/binance-shut-down-crypto-mining-pool-november": 1791870824.479726
+  "https://cointelegraph-tr.com/news/binance-shut-down-crypto-mining-pool-november": 1791870824.479726,
+  "https://www.coindesk.com/policy/2026/10/13/u-k-court-ruling-boosts-government-s-chances-of-keeping-gbp3-8-billion-seized-bitcoin": 1791883644.0358868,
+  "https://cointelegraph-tr.com/news/uk-court-chinese-law-61k-bitcoin-fraud-victims": 1791883644.0358868
  },
  "tries": {}
 }
