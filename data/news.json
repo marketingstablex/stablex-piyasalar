@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-13T14:00:16Z",
+ "updated": "2026-10-13T14:28:08Z",
  "sources": [
   "coindesk.com",
   "cointelegraph-tr.com",
@@ -153,7 +153,6 @@
   ]
  },
  "seen": {
-  "https://www.theblock.co/news/regulation/2026-10-09-ny-attorney-general-alex-mashinsky-celsius-35-million-ban-418154": 1791556017.1489096,
   "https://www.theblock.co/news/business/2026-10-09-ledger-cryptobilis-fund-losses-418163": 1791557690.007348,
   "https://www.coindesk.com/business/2026/10/09/ledger-investigates-potential-wallet-tampering-after-reports-of-usd86-million-in-crypto-stolen": 1791557690.007348,
   "https://www.theblock.co/news/regulation/2026-10-09-us-targets-1-billion-iran-linked-crypto-seizure-bessent-says-we-know-where-it-is-418151": 1791557690.007348,
@@ -257,7 +256,8 @@
   "https://www.coindesk.com/business/2026/10/13/federated-hermes-joins-wall-street-s-tokenization-push-with-plans-for-first-onchain-fund-shares": 1791894750.388038,
   "https://cointelegraph-tr.com/magazine/is-bitcoin-kidding-itself-about-the-lightning-network": 1791898395.673403,
   "https://cointelegraph-tr.com/news/bis-digital-cash-privacy-bank-data-breaches": 1791898395.673403,
-  "https://www.theblock.co/news/business/2026-10-13-strive-buys-3311-bitcoin-280-million-largest-acquisition-since-january-418430": 1791900016.459134
+  "https://www.theblock.co/news/business/2026-10-13-strive-buys-3311-bitcoin-280-million-largest-acquisition-since-january-418430": 1791900016.459134,
+  "https://cointelegraph-tr.com/news/anthropic-ai-worms-autonomously-spread-devices-virus": 1791901688.8049383
  },
  "tries": {}
 }
