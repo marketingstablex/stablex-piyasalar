@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-13T09:27:24Z",
+ "updated": "2026-10-13T09:54:31Z",
  "sources": [
   "coindesk.com",
   "cointelegraph-tr.com",
@@ -227,7 +227,8 @@
   "https://www.coindesk.com/markets/2026/10/13/tokenized-sandisk-bets-saw-more-liquidations-than-xrp-as-asia-s-chip-rout-wipes-out-usd800-million": 1791870824.479726,
   "https://cointelegraph-tr.com/news/binance-shut-down-crypto-mining-pool-november": 1791870824.479726,
   "https://www.coindesk.com/policy/2026/10/13/u-k-court-ruling-boosts-government-s-chances-of-keeping-gbp3-8-billion-seized-bitcoin": 1791883644.0358868,
-  "https://cointelegraph-tr.com/news/uk-court-chinese-law-61k-bitcoin-fraud-victims": 1791883644.0358868
+  "https://cointelegraph-tr.com/news/uk-court-chinese-law-61k-bitcoin-fraud-victims": 1791883644.0358868,
+  "https://www.coindesk.com/tech/2026/10/13/ledger-says-spy-chip-inside-cryptobilis-ledger-devices-transmitted-wallet-keys-over-mobile-network": 1791885271.226903
  },
  "tries": {}
 }
