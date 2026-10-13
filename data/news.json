@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-13T03:55:31Z",
+ "updated": "2026-10-13T04:26:02Z",
  "sources": [
   "coindesk.com",
   "cointelegraph-tr.com",
@@ -7,6 +7,13 @@
  ],
  "bySymbol": {
   "BTC": [
+   {
+    "title": "Bitcoin, düşüşteki Kore hisseleri ve Nasdaq vadelilerinden ayrışarak 83.000 doların üzerine çıktı",
+    "summary": "Bitcoin, düşüş trendindeki Kore hisse senetleri ve Nasdaq vadelilerinden ayrışarak 83.000 doların üzerine yükseldi.",
+    "url": "https://www.coindesk.com/markets/2026/10/13/bitcoin-rebounds-above-usd83-000-as-it-decouples-from-tumbling-korean-stocks-and-nasdaq-futures",
+    "published": "2026-10-13T04:18:20Z",
+    "importance": 4
+   },
    {
     "title": "Bitcoin 82.000 doların altına gerilerken kripto tasfiyeleri 770 milyon doları aştı",
     "summary": "Son 24 saat içinde 685,6 milyon dolarlık uzun pozisyonlar dahil olmak üzere toplam 771 milyon dolar tutarında kripto tasfiyesi gerçekleşti. Bu süreçte Bitcoin fiyatı 82.000 doların altına geriledi.",
@@ -20,6 +27,13 @@
     "url": "https://cointelegraph-tr.com/news/michael-saylor-strategy-250-btc-buy",
     "published": "2026-10-12T12:31:51Z",
     "importance": 4
+   },
+   {
+    "title": "Altı yıllık uykunun ardından bir balina 378 milyon dolar değerinde BTC taşıdı",
+    "summary": "Zincir üstü verilerine göre, altı yıldır hareketsiz duran bir cüzdan 378 milyon dolar değerinde Bitcoin taşıdı. Bu cüzdan ilk olarak Mart 2020'de, varlıkların yaklaşık 40,8 milyon dolar değerinde olduğu dönemde 4.582 BTC almıştı.",
+    "url": "https://www.theblock.co/news/markets/2026-10-13-bitcoin-whale-moves-378-million-418383",
+    "published": "2026-10-13T04:18:30Z",
+    "importance": 3
    },
    {
     "title": "Bitcoin madencileri, borç verenler anlaşmaları incelerken artan yapay zeka finansman maliyetleriyle karşı karşıya",
@@ -47,20 +61,6 @@
     "summary": "Bitcoin 83.500 doların altında seyrederken, altcoinler ince işlem hacimlerinde ralli yaptı.",
     "url": "https://www.coindesk.com/markets/2026/10/12/altcoins-rally-on-thin-trading-as-bitcoin-holds-near-usd84-000",
     "published": "2026-10-12T10:20:54Z",
-    "importance": 3
-   },
-   {
-    "title": "Güney Kore bankası Bitcoin teminatlı ticari krediler başlattı: Rapor",
-    "summary": "Jeonbuk Bank, kurumsal müşterilerine Bitcoin teminatlı krediler sunmaya başladı. Kredilerde teminat olarak kullanılan kripto para, üçüncü taraf bir saklayıcı tarafından muhafaza ediliyor.",
-    "url": "https://cointelegraph-tr.com/news/south-korea-jeonbuk-bank-bitcoin-backed-business-loans",
-    "published": "2026-10-12T08:45:58Z",
-    "importance": 3
-   },
-   {
-    "title": "Bitcoin, petrolün düşmesiyle ETF çıkışlarını umursamayarak 84.000 doların üzerinde işlem görüyor",
-    "summary": "Bitcoin, petrol fiyatlarındaki düşüşün etkisiyle ETF çıkışlarına rağmen 84.000 doların üzerinde işlem görüyor.",
-    "url": "https://www.coindesk.com/markets/2026/10/12/bitcoin-shrugs-off-etf-outflows-to-trade-above-usd84-000-as-oil-falls",
-    "published": "2026-10-12T04:49:30Z",
     "importance": 3
    }
   ],
@@ -121,8 +121,6 @@
   ]
  },
  "seen": {
-  "https://www.coindesk.com/tech/2026/10/09/xrp-ledger-adds-new-controls-for-banks-stablecoins-and-tokenized-funds": 1791519917.9475963,
-  "https://www.coindesk.com/markets/2026/10/09/ether-bets-were-wiped-out-at-six-times-bitcoin-s-rate-in-crypto-s-usd1-billion-flush": 1791519917.9475963,
   "https://www.coindesk.com/tech/2026/10/09/solana-is-about-to-halve-its-block-times-as-final-200-millisecond-upgrade-nears": 1791521532.607307,
   "https://cointelegraph-tr.com/news/trump-administration-quantum-computing-ai-6-billion-science-push": 1791525114.4243195,
   "https://www.coindesk.com/business/2026/10/09/live-updates-xrp-etfs-the-only-ones-in-green-as-btc-eth-zec-funds-post-outflows": 1791529110.8008254,
@@ -220,7 +218,9 @@
   "https://www.theblock.co/news/ecosystems/2026-10-12-blur-nft-marketplace-shutting-down-frontend-blend-418363": 1791841873.8836253,
   "https://cointelegraph-tr.com/news/aptos-rolls-out-encrypted-mempool-to-curb-frontrunning-sandwich-attacks": 1791854746.358353,
   "https://www.theblock.co/news/markets/2026-10-12-bitcoin-slides-crypto-liquidations-surge-418374": 1791858267.8911705,
-  "https://cointelegraph-tr.com/news/south-korea-moves-to-block-27-crypto-websites-including-kucoin-mexc": 1791860053.3693905
+  "https://cointelegraph-tr.com/news/south-korea-moves-to-block-27-crypto-websites-including-kucoin-mexc": 1791860053.3693905,
+  "https://www.theblock.co/news/markets/2026-10-13-bitcoin-whale-moves-378-million-418383": 1791865562.0476425,
+  "https://www.coindesk.com/markets/2026/10/13/bitcoin-rebounds-above-usd83-000-as-it-decouples-from-tumbling-korean-stocks-and-nasdaq-futures": 1791865562.0476425
  },
  "tries": {}
 }
