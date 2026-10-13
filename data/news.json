@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-13T19:38:17Z",
+ "updated": "2026-10-13T20:36:08Z",
  "sources": [
   "coindesk.com",
   "cointelegraph-tr.com",
@@ -96,6 +96,13 @@
   ],
   "SOL": [
    {
+    "title": "Solana ve BNB Chain’de tokenleştirilmiş hisse senedi işlemlerinin çoğu ABD piyasa saatleri dışında gerçekleşiyor",
+    "summary": "Tokenleştirilmiş hisse senetlerinin değeri, yatırımcıların Wall Street saatleri dışında günün her saati erişimi benimsemesiyle yaklaşık 3,3 milyar dolara ulaştı.",
+    "url": "https://cointelegraph-tr.com/news/tokenized-stocks-after-hours-trading-solana-bnb-chain",
+    "published": "2026-10-13T19:48:06Z",
+    "importance": 3
+   },
+   {
     "title": "StoneX, Securitize Hedef Fiyatını %50 Artırdı",
     "summary": "StoneX, Solana ağındaki Securitize Stocks token'laştırılmış işlem platformundan elde edilen yeni gelir akışını gerekçe göstererek Securitize hisse senedi hedef fiyatını 12 dolardan 18 dolara yükseltti.",
     "url": "https://www.theblock.co/news/markets/2026-10-12-stonex-raises-securitize-price-target-tokenized-stocks-418313",
@@ -160,7 +167,6 @@
   ]
  },
  "seen": {
-  "https://cointelegraph-tr.com/news/thorchain-tether-freezing-usdt-addresses": 1791577349.0166008,
   "https://www.coindesk.com/policy/2026/10/09/u-s-cftc-moves-to-fold-event-contracts-into-swaps-regulations-as-legal-fight-rages": 1791582667.1605923,
   "https://www.coindesk.com/business/2026/10/05/1-2-billion-apac-consumers-could-adopt-stablecoins-by-2031-according-to-visa": 1791602581.2478814,
   "https://www.coindesk.com/tech/2026/10/10/xrp-ledger-patched-decade-old-bug-that-could-create-billions-of-dollars-in-xrp-from-nothing": 1791606165.137473,
@@ -262,7 +268,8 @@
   "https://www.theblock.co/news/business/2026-10-13-stripe-privy-ripple-xrp-ledger-wallets-418463": 1791908825.113261,
   "https://cointelegraph-tr.com/news/strive-bitcoin-holdings-32773-btc-warrant-exercises": 1791908825.113261,
   "https://cointelegraph-tr.com/news/sec-leadership-facilitate-crypto-rulemaking": 1791912287.0011837,
-  "https://cointelegraph-tr.com/news/trezor-preventative-steps-wallet-tampering-reports": 1791920297.7403476
+  "https://cointelegraph-tr.com/news/trezor-preventative-steps-wallet-tampering-reports": 1791920297.7403476,
+  "https://cointelegraph-tr.com/news/tokenized-stocks-after-hours-trading-solana-bnb-chain": 1791923768.4019048
  },
  "tries": {}
 }
