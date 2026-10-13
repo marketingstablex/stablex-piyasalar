@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-13T10:55:24Z",
+ "updated": "2026-10-13T11:26:01Z",
  "sources": [
   "coindesk.com",
   "cointelegraph-tr.com",
@@ -36,6 +36,13 @@
     "importance": 4
    },
    {
+    "title": "Güney Kore hisseleri yapay zeka endişeleriyle gerilerken Bitcoin ve ether düştü ve ardından toparlandı",
+    "summary": "Güney Kore hisseleri yapay zeka endişeleriyle gerilerken Bitcoin ve ether düşüş yaşadı ve ardından toparlandı.",
+    "url": "https://www.coindesk.com/markets/2026/10/13/bitcoin-ether-slip-and-rebound-as-south-korean-stocks-slide-on-ai-related-concerns",
+    "published": "2026-10-13T11:06:39Z",
+    "importance": 3
+   },
+   {
     "title": "Canlı gelişmeler: Bitcoin, altcoinler düşerken 81.000 ile 84.000 dolar arasında dalgalanıyor",
     "summary": "Canlı gelişmeler: Bitcoin, altcoinler düşerken 81.000 ile 84.000 dolar arasında dalgalanıyor",
     "url": "https://www.coindesk.com/markets/2026/10/13/live-updates-bitcoin-whipsaws-between-usd81-000-and-usd84-000-as-altcoins-slide",
@@ -55,16 +62,16 @@
     "url": "https://cointelegraph-tr.com/news/bitcoin-miners-ai-financing-costs-debt-funding-gap",
     "published": "2026-10-12T16:51:05Z",
     "importance": 3
-   },
-   {
-    "title": "Ledger implantı, Bitcoin ETF’lerini donanım cüzdanlarından daha güvenli saklama seçenekleri olarak sınadı",
-    "summary": "Yetkisiz bir Ledger donanım implantının keşfi, Bitcoin ETF’lerinin Bitcoin’i donanım cüzdanı cihazları üzerinden kendi kendine saklamaktan daha güvenli olup olmadığına ilişkin tartışmayı yeniden alevlendirdi.",
-    "url": "https://cointelegraph-tr.com/news/ledger-implant-bitcoin-etfs-hardware-wallets",
-    "published": "2026-10-12T14:07:00Z",
-    "importance": 3
    }
   ],
   "ETH": [
+   {
+    "title": "Güney Kore hisseleri yapay zeka endişeleriyle gerilerken Bitcoin ve ether düştü ve ardından toparlandı",
+    "summary": "Güney Kore hisseleri yapay zeka endişeleriyle gerilerken Bitcoin ve ether düşüş yaşadı ve ardından toparlandı.",
+    "url": "https://www.coindesk.com/markets/2026/10/13/bitcoin-ether-slip-and-rebound-as-south-korean-stocks-slide-on-ai-related-concerns",
+    "published": "2026-10-13T11:06:39Z",
+    "importance": 3
+   },
    {
     "title": "Tom Lee, Bitmine daha fazla ether satın alırken kripto talebini körükleyen 2 trilyon dolarlık servet transferi görüyor",
     "summary": "Tom Lee, Bitmine daha fazla ether satın alırken kripto talebini körükleyen 2 trilyon dolarlık servet transferi görüyor.",
@@ -128,7 +135,6 @@
   ]
  },
  "seen": {
-  "https://www.coindesk.com/daybook-us/2026/10/09/trump-s-iran-pledge-underpins-crypto-gains-as-bitcoin-bears-face-liquidation-pressure": 1791544985.3409293,
   "https://www.coindesk.com/tech/2026/10/09/zcash-developers-set-january-target-for-quantum-resistant-payments-after-bunker-mode-scare": 1791546673.4590054,
   "https://www.coindesk.com/policy/2026/10/09/dwf-labs-subsidiaries-sue-bitgo-for-usd141-million-over-alleged-token-lock-up-breach": 1791548917.4167073,
   "https://www.theblock.co/news/defi/2026-10-09-tokenization-supercycle-base-jesse-pollak-418144": 1791552416.723768,
@@ -225,7 +231,9 @@
   "https://cointelegraph-tr.com/markets/bitcoin-hits-84k-resistance-as-korea-tech-sell-off-sends-kospi-down-74": 1791887218.1971552,
   "https://www.coindesk.com/markets/2026/10/13/live-updates-bitcoin-whipsaws-between-usd81-000-and-usd84-000-as-altcoins-slide": 1791888924.3849795,
   "https://www.coindesk.com/markets/2026/10/13/bitcoin-diverges-from-south-korean-stocks-as-ai-concerns-deepen-the-kospi-selloff": 1791888924.3849795,
-  "https://cointelegraph-tr.com/news/what-happened-in-crypto-today": 1791888924.3849795
+  "https://cointelegraph-tr.com/news/what-happened-in-crypto-today": 1791888924.3849795,
+  "https://www.coindesk.com/markets/2026/10/13/bitcoin-ether-slip-and-rebound-as-south-korean-stocks-slide-on-ai-related-concerns": 1791890761.250627,
+  "https://www.coindesk.com/business/2026/10/13/russia-s-largest-bank-sberbank-secures-approval-to-trade-crypto": 1791890761.250627
  },
  "tries": {}
 }
