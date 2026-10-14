@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-14T04:36:35Z",
+ "updated": "2026-10-14T05:08:51Z",
  "sources": [
   "coindesk.com",
   "cointelegraph-tr.com",
@@ -94,13 +94,6 @@
     "url": "https://cointelegraph-tr.com/news/tokenized-stocks-after-hours-trading-solana-bnb-chain",
     "published": "2026-10-13T19:48:06Z",
     "importance": 3
-   },
-   {
-    "title": "StoneX, Securitize Hedef Fiyatını %50 Artırdı",
-    "summary": "StoneX, Solana ağındaki Securitize Stocks token'laştırılmış işlem platformundan elde edilen yeni gelir akışını gerekçe göstererek Securitize hisse senedi hedef fiyatını 12 dolardan 18 dolara yükseltti.",
-    "url": "https://www.theblock.co/news/markets/2026-10-12-stonex-raises-securitize-price-target-tokenized-stocks-418313",
-    "published": "2026-10-12T17:06:25Z",
-    "importance": 3
    }
   ],
   "STX": [
@@ -139,7 +132,6 @@
   ]
  },
  "seen": {
-  "https://www.coindesk.com/markets/2026/10/10/robinhood-chain-slowdown-spreads-from-fees-to-trading-as-transactions-fall-more-than-40": 1791607957.104705,
   "https://www.coindesk.com/markets/2026/10/09/bitcoin-s-volatility-has-plunged-but-extreme-price-swings-are-more-frequent-than-in-2018": 1791611381.2541056,
   "https://cointelegraph-tr.com/news/sam-altman-backed-bitcoin-life-insurer-meanwhile-raises-more-funds": 1791616990.294413,
   "https://cointelegraph-tr.com/news/tech-chief-says-eu-can-fend-off-rogue-ai-risk-report": 1791622179.212436,
