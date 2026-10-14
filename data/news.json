@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-14T07:42:24Z",
+ "updated": "2026-10-14T08:37:12Z",
  "sources": [
   "coindesk.com",
   "cointelegraph-tr.com",
@@ -43,6 +43,13 @@
     "importance": 4
    },
    {
+    "title": "Standard Chartered, BAE'deki Varlıklı Müşterileri İçin Doğrudan Bitcoin ve Ether Ticaretini Başlattı",
+    "summary": "Standard Chartered, Birleşik Arap Emirlikleri'ndeki varlıklı müşterileri için doğrudan Bitcoin ve Ether ticareti hizmetini kullanıma açtı.",
+    "url": "https://www.coindesk.com/business/2026/10/14/standard-chartered-unlocks-direct-bitcoin-and-ether-trading-for-affluent-uae-clients",
+    "published": "2026-10-14T08:10:07Z",
+    "importance": 3
+   },
+   {
     "title": "Strive, yeni imtiyazlı hisse sınıfıyla ek Bitcoin almak için 500 milyon dolar topluyor",
     "summary": "Strive, ek Bitcoin almak amacıyla yeni bir imtiyazlı hisse sınıfı yoluyla 500 milyon dolar toplamaya hazırlanıyor.",
     "url": "https://www.coindesk.com/markets/2026/10/13/strive-to-ipo-second-preferred-share-class-as-it-looks-to-further-build-bitcoin-treasury",
@@ -55,13 +62,6 @@
     "url": "https://cointelegraph-tr.com/news/strive-bitcoin-holdings-32773-btc-warrant-exercises",
     "published": "2026-10-13T15:57:55Z",
     "importance": 3
-   },
-   {
-    "title": "Bitcoin Lightning Network kendi kendini mi kandırıyor?",
-    "summary": "Bitcoin geliştiricisi Paul Sztorc, Bitcoin topluluğunun Lightning konusunda kendini kandırdığını belirtti. Geliştiriciler kullanılabilirliğin arttığını savunurken, günlük kullanım konusundaki belirsizlikler ve sorular devam ediyor.",
-    "url": "https://cointelegraph-tr.com/magazine/is-bitcoin-kidding-itself-about-the-lightning-network",
-    "published": "2026-10-13T13:30:00Z",
-    "importance": 3
    }
   ],
   "ETH": [
@@ -71,6 +71,13 @@
     "url": "https://www.coindesk.com/markets/2026/10/13/bitcoin-rebounds-above-usd83-000-as-it-decouples-from-tumbling-korean-stocks-and-nasdaq-futures",
     "published": "2026-10-13T04:18:20Z",
     "importance": 4
+   },
+   {
+    "title": "Standard Chartered, BAE'deki Varlıklı Müşterileri İçin Doğrudan Bitcoin ve Ether Ticaretini Başlattı",
+    "summary": "Standard Chartered, Birleşik Arap Emirlikleri'ndeki varlıklı müşterileri için doğrudan Bitcoin ve Ether ticareti hizmetini kullanıma açtı.",
+    "url": "https://www.coindesk.com/business/2026/10/14/standard-chartered-unlocks-direct-bitcoin-and-ether-trading-for-affluent-uae-clients",
+    "published": "2026-10-14T08:10:07Z",
+    "importance": 3
    },
    {
     "title": "Rusya, Aralık lansmanı öncesinde Sberbank’a kripto alım satımı yetkisi verdi",
@@ -249,7 +256,8 @@
   "https://www.coindesk.com/tech/2026/10/14/coinbase-which-holds-5-of-all-bitcoin-wants-the-quantum-fix-started-now": 1791957823.5486298,
   "https://cointelegraph-tr.com/news/starknet-introduces-wallet-privacy-feature-for-defi-activity": 1791957823.5486298,
   "https://cointelegraph-tr.com/markets/feds-williams-sees-ai-supply-squeeze-lasting-beyond-2-years": 1791957823.5486298,
-  "https://www.coindesk.com/tech/2026/10/14/ripple-adds-stripe-owned-wallets-to-xrp-ledger-as-ai-payments-pass-14-million": 1791957823.5486298
+  "https://www.coindesk.com/tech/2026/10/14/ripple-adds-stripe-owned-wallets-to-xrp-ledger-as-ai-payments-pass-14-million": 1791957823.5486298,
+  "https://www.coindesk.com/business/2026/10/14/standard-chartered-unlocks-direct-bitcoin-and-ether-trading-for-affluent-uae-clients": 1791967032.5247598
  },
  "tries": {}
 }
