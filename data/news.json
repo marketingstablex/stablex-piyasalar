@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-14T18:06:21Z",
+ "updated": "2026-10-14T18:46:23Z",
  "sources": [
   "coindesk.com",
   "cointelegraph-tr.com",
@@ -97,6 +97,13 @@
    }
   ],
   "SOL": [
+   {
+    "title": "Büyük ortak, hazinesi bir ayda yüzde 70 küçülen SkyAI'a Solana satışları konusunda baskı yapıyor",
+    "summary": "SkyAI şirketinin SOL hazinesi bir aydan kısa sürede yüzde 70 oranında düşerken, 400.000 SOL'ün durumu açıklanamadı. Bastion Trading, hisse başına 3 dolarlık teklifi kabul etmeyerek 3,50 dolar talep ediyor.",
+    "url": "https://www.theblock.co/news/business/2026-10-14-solana-treasury-skyai-bastion-sol-sales-tender-offer-418598",
+    "published": "2026-10-14T18:25:54Z",
+    "importance": 3
+   },
    {
     "title": "Solana, 150 milisaniyelik kesinliği hedefleyen Alpenglow güncellemesi için 21 Ekim'i belirledi",
     "summary": "Solana, 150 milisaniyelik kesinliği hedefleyen Alpenglow güncellemesi için 21 Ekim tarihini belirledi.",
@@ -313,7 +320,8 @@
   "https://www.coindesk.com/policy/2026/10/14/kalshi-ceo-says-state-led-oversight-of-u-s-prediction-markets-would-push-them-out": 1791997711.2108467,
   "https://cointelegraph-tr.com/news/standard-chartered-stablecoin-forecast-2030-market-growth": 1791997711.2108467,
   "https://cointelegraph-tr.com/news/fbi-brooklyn-crypto-scam-112-servers-241-websites": 1792001181.4219496,
-  "https://www.theblock.co/news/regulation/2026-10-14-youre-committing-crime-broad-daylight-kalshi-ceo-defends-prediction-markets-insider-trading-concerns-418601": 1792001181.4219496
+  "https://www.theblock.co/news/regulation/2026-10-14-youre-committing-crime-broad-daylight-kalshi-ceo-defends-prediction-markets-insider-trading-concerns-418601": 1792001181.4219496,
+  "https://www.theblock.co/news/business/2026-10-14-solana-treasury-skyai-bastion-sol-sales-tender-offer-418598": 1792003583.2694566
  },
  "tries": {}
 }
