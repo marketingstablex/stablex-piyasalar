@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-14T02:04:18Z",
+ "updated": "2026-10-14T02:35:12Z",
  "sources": [
   "coindesk.com",
   "cointelegraph-tr.com",
@@ -135,13 +135,6 @@
     "url": "https://www.coindesk.com/markets/2026/10/13/tokenized-sandisk-bets-saw-more-liquidations-than-xrp-as-asia-s-chip-rout-wipes-out-usd800-million",
     "published": "2026-10-13T05:27:17Z",
     "importance": 3
-   },
-   {
-    "title": "XRP hazinesi Evernorth’un hisseleri Nasdaq açılışında yüzde 5 yükseldi",
-    "summary": "Yatırımcıların yalnızca XRP’ye odaklanan ilk dijital varlık hazinesinin Nasdaq’taki ilk işlem gününü memnuniyetle karşılamasıyla Evernorth’un hisse fiyatı yüzde 5 yükseldi.",
-    "url": "https://cointelegraph-tr.com/news/xrp-treasury-evernorth-rise-nasdaq-opening",
-    "published": "2026-10-12T14:18:49Z",
-    "importance": 3
    }
   ]
  },
@@ -251,7 +244,8 @@
   "https://www.coindesk.com/business/2026/10/13/bny-citadel-securities-test-tokenized-u-s-treasuries-to-speed-up-wall-street-financing": 1791928951.814077,
   "https://www.coindesk.com/markets/2026/10/13/strive-to-ipo-second-preferred-share-class-as-it-looks-to-further-build-bitcoin-treasury": 1791934190.1251338,
   "https://cointelegraph-tr.com/news/ledger-asks-resellers-to-halt-sales-in-southeast-asia-and-hong-kong": 1791935876.0977347,
-  "https://www.coindesk.com/policy/2026/10/13/largest-philippines-crypto-exchange-coins-ph-said-to-face-central-bank-regulatory-action": 1791941656.2552805
+  "https://www.coindesk.com/policy/2026/10/13/largest-philippines-crypto-exchange-coins-ph-said-to-face-central-bank-regulatory-action": 1791941656.2552805,
+  "https://cointelegraph-tr.com/markets/bitwises-hougan-says-q3-charts-point-to-crypto-spring": 1791945312.0731924
  },
  "tries": {}
 }
