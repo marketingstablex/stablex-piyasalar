@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-14T08:37:12Z",
+ "updated": "2026-10-14T09:36:12Z",
  "sources": [
   "coindesk.com",
   "cointelegraph-tr.com",
@@ -148,7 +148,6 @@
   ]
  },
  "seen": {
-  "https://cointelegraph-tr.com/news/tech-chief-says-eu-can-fend-off-rogue-ai-risk-report": 1791622179.212436,
   "https://www.coindesk.com/markets/2026/10/10/bitcoin-s-usd19-billion-wake-up-call-one-year-later-has-crypto-learned-anything": 1791631278.6630378,
   "https://www.coindesk.com/markets/2026/10/10/one-year-after-10-10-bitcoin-and-ether-liquidity-have-rebuilt-but-other-altcoins-still-face-risks": 1791635192.2073154,
   "https://www.coindesk.com/business/2026/10/05/tokenized-commodities-look-beyond-gold-as-lending-and-oil-open-new-markets": 1791635192.2073154,
@@ -257,7 +256,8 @@
   "https://cointelegraph-tr.com/news/starknet-introduces-wallet-privacy-feature-for-defi-activity": 1791957823.5486298,
   "https://cointelegraph-tr.com/markets/feds-williams-sees-ai-supply-squeeze-lasting-beyond-2-years": 1791957823.5486298,
   "https://www.coindesk.com/tech/2026/10/14/ripple-adds-stripe-owned-wallets-to-xrp-ledger-as-ai-payments-pass-14-million": 1791957823.5486298,
-  "https://www.coindesk.com/business/2026/10/14/standard-chartered-unlocks-direct-bitcoin-and-ether-trading-for-affluent-uae-clients": 1791967032.5247598
+  "https://www.coindesk.com/business/2026/10/14/standard-chartered-unlocks-direct-bitcoin-and-ether-trading-for-affluent-uae-clients": 1791967032.5247598,
+  "https://www.coindesk.com/policy/2026/10/14/proposed-french-tax-on-regulated-stablecoins-could-drive-crypto-traders-offshore": 1791970572.687017
  },
  "tries": {}
 }
