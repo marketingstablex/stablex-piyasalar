@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-14T03:05:53Z",
+ "updated": "2026-10-14T03:37:58Z",
  "sources": [
   "coindesk.com",
   "cointelegraph-tr.com",
@@ -71,13 +71,6 @@
     "url": "https://cointelegraph-tr.com/news/sberbank-russia-crypto-trading-approval",
     "published": "2026-10-13T12:22:24Z",
     "importance": 3
-   },
-   {
-    "title": "Tom Lee, Bitmine daha fazla ether satın alırken kripto talebini körükleyen 2 trilyon dolarlık servet transferi görüyor",
-    "summary": "Tom Lee, Bitmine daha fazla ether satın alırken kripto talebini körükleyen 2 trilyon dolarlık servet transferi görüyor.",
-    "url": "https://www.coindesk.com/business/2026/10/12/tom-lee-sees-usd2-trillion-wealth-transfer-fueling-crypto-demand-as-bitmine-buys-more-ether",
-    "published": "2026-10-12T15:27:09Z",
-    "importance": 3
    }
   ],
   "SOL": [
@@ -132,7 +125,6 @@
   ]
  },
  "seen": {
-  "https://www.coindesk.com/business/2026/10/05/1-2-billion-apac-consumers-could-adopt-stablecoins-by-2031-according-to-visa": 1791602581.2478814,
   "https://www.coindesk.com/tech/2026/10/10/xrp-ledger-patched-decade-old-bug-that-could-create-billions-of-dollars-in-xrp-from-nothing": 1791606165.137473,
   "https://www.coindesk.com/markets/2026/10/10/robinhood-chain-slowdown-spreads-from-fees-to-trading-as-transactions-fall-more-than-40": 1791607957.104705,
   "https://www.coindesk.com/markets/2026/10/09/bitcoin-s-volatility-has-plunged-but-extreme-price-swings-are-more-frequent-than-in-2018": 1791611381.2541056,
