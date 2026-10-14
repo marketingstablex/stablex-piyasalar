@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-14T10:10:15Z",
+ "updated": "2026-10-14T11:05:15Z",
  "sources": [
   "coindesk.com",
   "cointelegraph-tr.com",
@@ -36,18 +36,18 @@
     "importance": 4
    },
    {
-    "title": "Bitcoin, düşüşteki Kore hisseleri ve Nasdaq vadelilerinden ayrışarak 83.000 doların üzerine çıktı",
-    "summary": "Bitcoin, düşüş trendindeki Kore hisse senetleri ve Nasdaq vadelilerinden ayrışarak 83.000 doların üzerine yükseldi.",
-    "url": "https://www.coindesk.com/markets/2026/10/13/bitcoin-rebounds-above-usd83-000-as-it-decouples-from-tumbling-korean-stocks-and-nasdaq-futures",
-    "published": "2026-10-13T04:18:20Z",
-    "importance": 4
-   },
-   {
     "title": "Bitcoin 82.000 doların altına gerilerken kripto tasfiyeleri 770 milyon doları aştı",
     "summary": "Son 24 saat içinde 685,6 milyon dolarlık uzun pozisyonlar dahil olmak üzere toplam 771 milyon dolar tutarında kripto tasfiyesi gerçekleşti. Bu süreçte Bitcoin fiyatı 82.000 doların altına geriledi.",
     "url": "https://www.theblock.co/news/markets/2026-10-12-bitcoin-slides-crypto-liquidations-surge-418374",
     "published": "2026-10-13T01:57:49Z",
     "importance": 4
+   },
+   {
+    "title": "Bitcoin, altından daha büyük ve “daha az volatil” olacak: “The Bitcoin Standard” yazarı",
+    "summary": "Saifedean Ammous, Bitcoin’in değer saklama aracı olarak tutulduğunda zaten para işlevi gördüğünü savunuyor; olgunlaştıkça altından daha büyük ve daha az volatil olmasını bekliyor.",
+    "url": "https://cointelegraph-tr.com/news/bitcoin-less-volatile-larger-gold-bitcoin-standard-author",
+    "published": "2026-10-14T10:25:53Z",
+    "importance": 3
    },
    {
     "title": "Standard Chartered, BAE'deki Varlıklı Müşterileri İçin Doğrudan Bitcoin ve Ether Ticaretini Başlattı",
@@ -66,10 +66,10 @@
   ],
   "ETH": [
    {
-    "title": "Bitcoin, düşüşteki Kore hisseleri ve Nasdaq vadelilerinden ayrışarak 83.000 doların üzerine çıktı",
-    "summary": "Bitcoin, düşüş trendindeki Kore hisse senetleri ve Nasdaq vadelilerinden ayrışarak 83.000 doların üzerine yükseldi.",
-    "url": "https://www.coindesk.com/markets/2026/10/13/bitcoin-rebounds-above-usd83-000-as-it-decouples-from-tumbling-korean-stocks-and-nasdaq-futures",
-    "published": "2026-10-13T04:18:20Z",
+    "title": "Fed'li Williams 2027'de faiz artışı öngörmezken Bitcoin 84.000 dolara doğru yükseldi",
+    "summary": "Fed'li Williams'ın 2027'de faiz artışı öngörmemesinin ardından Bitcoin 84.000 dolara doğru yükseldi.",
+    "url": "https://www.coindesk.com/markets/2026/10/14/bitcoin-climbs-toward-usd84-000-after-fed-s-williams-sees-no-rate-hikes-in-2027",
+    "published": "2026-10-14T03:50:54Z",
     "importance": 4
    },
    {
@@ -258,7 +258,13 @@
   "https://www.coindesk.com/tech/2026/10/14/ripple-adds-stripe-owned-wallets-to-xrp-ledger-as-ai-payments-pass-14-million": 1791957823.5486298,
   "https://www.coindesk.com/business/2026/10/14/standard-chartered-unlocks-direct-bitcoin-and-ether-trading-for-affluent-uae-clients": 1791967032.5247598,
   "https://www.coindesk.com/policy/2026/10/14/proposed-french-tax-on-regulated-stablecoins-could-drive-crypto-traders-offshore": 1791970572.687017,
-  "https://www.coindesk.com/business/2026/10/14/live-updates-bitcoin-tumbles-from-near-usd84-000-ahead-of-u-s-inflation-data": 1791972615.8629756
+  "https://www.coindesk.com/business/2026/10/14/live-updates-bitcoin-tumbles-from-near-usd84-000-ahead-of-u-s-inflation-data": 1791972615.8629756,
+  "https://cointelegraph-tr.com/news/coinsph-says-bsp-license-intact-amid-claims-of-potential-revocation": 1791975915.6050766,
+  "https://www.coindesk.com/markets/2026/10/14/bitcoin-holds-above-usd83-000-ahead-of-u-s-inflation-data-as-altcoins-lag": 1791975915.6050766,
+  "https://www.coindesk.com/markets/2026/10/14/s-and-p-500-options-are-the-hottest-bet-on-this-hyperliquid-exchange": 1791975915.6050766,
+  "https://cointelegraph-tr.com/news/ftx-sam-bankman-fried-lawyer-supreme-court-appeal": 1791975915.6050766,
+  "https://cointelegraph-tr.com/news/bitcoin-less-volatile-larger-gold-bitcoin-standard-author": 1791975915.6050766,
+  "https://cointelegraph-tr.com/news/standard-chartered-bitcoin-ether-trading-professional-investors-uae": 1791975915.6050766
  },
  "tries": {}
 }
