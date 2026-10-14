@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-14T09:36:12Z",
+ "updated": "2026-10-14T10:10:15Z",
  "sources": [
   "coindesk.com",
   "cointelegraph-tr.com",
@@ -7,6 +7,13 @@
  ],
  "bySymbol": {
   "BTC": [
+   {
+    "title": "Canlı güncellemeler: Bitcoin, ABD enflasyon verileri öncesinde 84.000 dolar yakınından düştü",
+    "summary": "Canlı güncellemeler: Bitcoin, ABD enflasyon verileri öncesinde 84.000 dolar yakınından düştü",
+    "url": "https://www.coindesk.com/business/2026/10/14/live-updates-bitcoin-tumbles-from-near-usd84-000-ahead-of-u-s-inflation-data",
+    "published": "2026-10-14T09:45:53Z",
+    "importance": 4
+   },
    {
     "title": "Fed'li Williams 2027'de faiz artışı öngörmezken Bitcoin 84.000 dolara doğru yükseldi",
     "summary": "Fed'li Williams'ın 2027'de faiz artışı öngörmemesinin ardından Bitcoin 84.000 dolara doğru yükseldi.",
@@ -54,13 +61,6 @@
     "summary": "Strive, ek Bitcoin almak amacıyla yeni bir imtiyazlı hisse sınıfı yoluyla 500 milyon dolar toplamaya hazırlanıyor.",
     "url": "https://www.coindesk.com/markets/2026/10/13/strive-to-ipo-second-preferred-share-class-as-it-looks-to-further-build-bitcoin-treasury",
     "published": "2026-10-13T23:23:05Z",
-    "importance": 3
-   },
-   {
-    "title": "Strive, Bitcoin varantlarının kullanılmasından 208 milyon dolar bildirdi; Bitcoin varlıkları %11 arttı",
-    "summary": "Strive, özsermaye finansmanı ile hazinesini genişletmeyi sürdürürken 32.773 BTC ile halka açık şirketler arasında en büyük beşinci Bitcoin sahibi konumunda yer alıyor.",
-    "url": "https://cointelegraph-tr.com/news/strive-bitcoin-holdings-32773-btc-warrant-exercises",
-    "published": "2026-10-13T15:57:55Z",
     "importance": 3
    }
   ],
@@ -257,7 +257,8 @@
   "https://cointelegraph-tr.com/markets/feds-williams-sees-ai-supply-squeeze-lasting-beyond-2-years": 1791957823.5486298,
   "https://www.coindesk.com/tech/2026/10/14/ripple-adds-stripe-owned-wallets-to-xrp-ledger-as-ai-payments-pass-14-million": 1791957823.5486298,
   "https://www.coindesk.com/business/2026/10/14/standard-chartered-unlocks-direct-bitcoin-and-ether-trading-for-affluent-uae-clients": 1791967032.5247598,
-  "https://www.coindesk.com/policy/2026/10/14/proposed-french-tax-on-regulated-stablecoins-could-drive-crypto-traders-offshore": 1791970572.687017
+  "https://www.coindesk.com/policy/2026/10/14/proposed-french-tax-on-regulated-stablecoins-could-drive-crypto-traders-offshore": 1791970572.687017,
+  "https://www.coindesk.com/business/2026/10/14/live-updates-bitcoin-tumbles-from-near-usd84-000-ahead-of-u-s-inflation-data": 1791972615.8629756
  },
  "tries": {}
 }
