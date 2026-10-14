@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-14T02:35:12Z",
+ "updated": "2026-10-14T03:05:53Z",
  "sources": [
   "coindesk.com",
   "cointelegraph-tr.com",
@@ -93,13 +93,6 @@
     "summary": "StoneX, Solana ağındaki Securitize Stocks token'laştırılmış işlem platformundan elde edilen yeni gelir akışını gerekçe göstererek Securitize hisse senedi hedef fiyatını 12 dolardan 18 dolara yükseltti.",
     "url": "https://www.theblock.co/news/markets/2026-10-12-stonex-raises-securitize-price-target-tokenized-stocks-418313",
     "published": "2026-10-12T17:06:25Z",
-    "importance": 3
-   },
-   {
-    "title": "DeFi Development SOL Varlıklarını %12 Artırdı ve CHAD Rekor Seviyelere Ulaştı",
-    "summary": "DeFi Development geçtiğimiz hafta 22.070 adet SOL ekleyerek toplam varlıklarını 2,59 milyon SOL seviyesine çıkardı. Bu artış, şirketin imtiyazlı hissesi CHAD'in satış baskısına rağmen rekor seviyelere ulaşmasıyla gerçekleşti.",
-    "url": "https://www.theblock.co/news/business/2026-10-12-defi-development-sol-holdings-2-59-million-chad-418307",
-    "published": "2026-10-12T14:53:25Z",
     "importance": 3
    }
   ],
@@ -245,7 +238,8 @@
   "https://www.coindesk.com/markets/2026/10/13/strive-to-ipo-second-preferred-share-class-as-it-looks-to-further-build-bitcoin-treasury": 1791934190.1251338,
   "https://cointelegraph-tr.com/news/ledger-asks-resellers-to-halt-sales-in-southeast-asia-and-hong-kong": 1791935876.0977347,
   "https://www.coindesk.com/policy/2026/10/13/largest-philippines-crypto-exchange-coins-ph-said-to-face-central-bank-regulatory-action": 1791941656.2552805,
-  "https://cointelegraph-tr.com/markets/bitwises-hougan-says-q3-charts-point-to-crypto-spring": 1791945312.0731924
+  "https://cointelegraph-tr.com/markets/bitwises-hougan-says-q3-charts-point-to-crypto-spring": 1791945312.0731924,
+  "https://www.theblock.co/news/ecosystems/2026-10-13-coinbase-bitcoin-post-quantum-migration-418509": 1791947153.6131203
  },
  "tries": {}
 }
