@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-14T22:59:56Z",
+ "updated": "2026-10-14T23:30:15Z",
  "sources": [
   "coindesk.com",
   "cointelegraph-tr.com",
@@ -125,15 +125,6 @@
     "summary": "Starknet’in Shadow Accounts özelliği, işlemler zincir üstünde görünür kalmaya devam etse de kullanıcıların ana cüzdanları ile DeFi etkinlikleri arasındaki bağlantıları gizlemesine olanak tanıyor.",
     "url": "https://cointelegraph-tr.com/news/starknet-introduces-wallet-privacy-feature-for-defi-activity",
     "published": "2026-10-14T05:32:14Z",
-    "importance": 3
-   }
-  ],
-  "STX": [
-   {
-    "title": "Stacks'in STX token'ı dört haftada yüzde 50 arttı",
-    "summary": "Stacks'in STX token'ı dört haftada yüzde 50 arttı.",
-    "url": "https://www.coindesk.com/daybook-us/2026/10/13/stacks-stx-a-bitcoin-layer-2-token-has-surged-by-50-in-four-weeks",
-    "published": "2026-10-13T11:26:45Z",
     "importance": 3
    }
   ],
