@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-14T05:08:51Z",
+ "updated": "2026-10-14T06:03:43Z",
  "sources": [
   "coindesk.com",
   "cointelegraph-tr.com",
@@ -96,6 +96,15 @@
     "importance": 3
    }
   ],
+  "STRK": [
+   {
+    "title": "Starknet, DeFi etkinlikleri için cüzdan gizliliği özelliğini tanıttı",
+    "summary": "Starknet’in Shadow Accounts özelliği, işlemler zincir üstünde görünür kalmaya devam etse de kullanıcıların ana cüzdanları ile DeFi etkinlikleri arasındaki bağlantıları gizlemesine olanak tanıyor.",
+    "url": "https://cointelegraph-tr.com/news/starknet-introduces-wallet-privacy-feature-for-defi-activity",
+    "published": "2026-10-14T05:32:14Z",
+    "importance": 3
+   }
+  ],
   "STX": [
    {
     "title": "Stacks'in STX token'ı dört haftada yüzde 50 arttı",
@@ -116,10 +125,10 @@
   ],
   "XRP": [
    {
-    "title": "Ripple, XRP Ledger'a gömülü cüzdanlar getirmek için Stripe'a ait Privy ile ortaklık kurdu",
-    "summary": "Geliştiriciler artık Privy aracılığıyla XRP, RLUSD, yapay zeka ajan ödemeleri ve x402 desteğiyle uygulamalara XRPL cüzdanları entegre edebilir.",
-    "url": "https://www.theblock.co/news/business/2026-10-13-stripe-privy-ripple-xrp-ledger-wallets-418463",
-    "published": "2026-10-13T16:00:00Z",
+    "title": "Ripple, yapay zeka ödemeleri 14 milyonu geçerken Stripe'a ait cüzdanları XRP Ledger'a ekliyor",
+    "summary": "Ripple, yapay zeka ödemeleri 14 milyonu geçerken Stripe'a ait cüzdanları XRP Ledger'a ekliyor.",
+    "url": "https://www.coindesk.com/tech/2026/10/14/ripple-adds-stripe-owned-wallets-to-xrp-ledger-as-ai-payments-pass-14-million",
+    "published": "2026-10-14T05:24:12Z",
     "importance": 3
    },
    {
@@ -132,7 +141,6 @@
   ]
  },
  "seen": {
-  "https://www.coindesk.com/markets/2026/10/09/bitcoin-s-volatility-has-plunged-but-extreme-price-swings-are-more-frequent-than-in-2018": 1791611381.2541056,
   "https://cointelegraph-tr.com/news/sam-altman-backed-bitcoin-life-insurer-meanwhile-raises-more-funds": 1791616990.294413,
   "https://cointelegraph-tr.com/news/tech-chief-says-eu-can-fend-off-rogue-ai-risk-report": 1791622179.212436,
   "https://www.coindesk.com/markets/2026/10/10/bitcoin-s-usd19-billion-wake-up-call-one-year-later-has-crypto-learned-anything": 1791631278.6630378,
@@ -238,7 +246,11 @@
   "https://cointelegraph-tr.com/markets/bitwises-hougan-says-q3-charts-point-to-crypto-spring": 1791945312.0731924,
   "https://www.theblock.co/news/ecosystems/2026-10-13-coinbase-bitcoin-post-quantum-migration-418509": 1791947153.6131203,
   "https://www.coindesk.com/tech/2026/10/14/solana-sets-oct-21-for-alpenglow-upgrade-targeting-150-millisecond-finality": 1791952595.2502334,
-  "https://www.coindesk.com/markets/2026/10/14/bitcoin-climbs-toward-usd84-000-after-fed-s-williams-sees-no-rate-hikes-in-2027": 1791952595.2502334
+  "https://www.coindesk.com/markets/2026/10/14/bitcoin-climbs-toward-usd84-000-after-fed-s-williams-sees-no-rate-hikes-in-2027": 1791952595.2502334,
+  "https://www.coindesk.com/tech/2026/10/14/coinbase-which-holds-5-of-all-bitcoin-wants-the-quantum-fix-started-now": 1791957823.5486298,
+  "https://cointelegraph-tr.com/news/starknet-introduces-wallet-privacy-feature-for-defi-activity": 1791957823.5486298,
+  "https://cointelegraph-tr.com/markets/feds-williams-sees-ai-supply-squeeze-lasting-beyond-2-years": 1791957823.5486298,
+  "https://www.coindesk.com/tech/2026/10/14/ripple-adds-stripe-owned-wallets-to-xrp-ledger-as-ai-payments-pass-14-million": 1791957823.5486298
  },
  "tries": {}
 }
