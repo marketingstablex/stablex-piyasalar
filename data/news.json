@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-14T11:05:15Z",
+ "updated": "2026-10-14T11:39:10Z",
  "sources": [
   "coindesk.com",
   "cointelegraph-tr.com",
@@ -148,7 +148,6 @@
   ]
  },
  "seen": {
-  "https://www.coindesk.com/markets/2026/10/10/bitcoin-s-usd19-billion-wake-up-call-one-year-later-has-crypto-learned-anything": 1791631278.6630378,
   "https://www.coindesk.com/markets/2026/10/10/one-year-after-10-10-bitcoin-and-ether-liquidity-have-rebuilt-but-other-altcoins-still-face-risks": 1791635192.2073154,
   "https://www.coindesk.com/business/2026/10/05/tokenized-commodities-look-beyond-gold-as-lending-and-oil-open-new-markets": 1791635192.2073154,
   "https://cointelegraph-tr.com/news/justin-sun-says-trons-post-quantum-cryptography-has-gone-live-on-testnet": 1791635192.2073154,
@@ -264,7 +263,9 @@
   "https://www.coindesk.com/markets/2026/10/14/s-and-p-500-options-are-the-hottest-bet-on-this-hyperliquid-exchange": 1791975915.6050766,
   "https://cointelegraph-tr.com/news/ftx-sam-bankman-fried-lawyer-supreme-court-appeal": 1791975915.6050766,
   "https://cointelegraph-tr.com/news/bitcoin-less-volatile-larger-gold-bitcoin-standard-author": 1791975915.6050766,
-  "https://cointelegraph-tr.com/news/standard-chartered-bitcoin-ether-trading-professional-investors-uae": 1791975915.6050766
+  "https://cointelegraph-tr.com/news/standard-chartered-bitcoin-ether-trading-professional-investors-uae": 1791975915.6050766,
+  "https://www.coindesk.com/daybook-us/2026/10/14/here-s-how-analysts-see-u-s-inflation-influencing-bitcoin": 1791977950.421913,
+  "https://www.coindesk.com/policy/2026/10/14/dutch-regulator-approves-qivalis-as-electronic-money-institution-under-mica-rules": 1791977950.421913
  },
  "tries": {}
 }
