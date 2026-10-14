@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-14T17:08:31Z",
+ "updated": "2026-10-14T18:06:21Z",
  "sources": [
   "coindesk.com",
   "cointelegraph-tr.com",
@@ -169,13 +169,6 @@
     "url": "https://www.coindesk.com/tech/2026/10/14/ripple-adds-stripe-owned-wallets-to-xrp-ledger-as-ai-payments-pass-14-million",
     "published": "2026-10-14T05:24:12Z",
     "importance": 3
-   },
-   {
-    "title": "Tokenize SanDisk bahisleri, Asya'nın çip çöküşü 800 milyon doları silerken XRP'den daha fazla tasfiye gördü",
-    "summary": "Asya'daki çip piyasası düşüşü 800 milyon doları silerken, tokenize SanDisk bahislerinde XRP'den daha fazla tasfiye görüldü.",
-    "url": "https://www.coindesk.com/markets/2026/10/13/tokenized-sandisk-bets-saw-more-liquidations-than-xrp-as-asia-s-chip-rout-wipes-out-usd800-million",
-    "published": "2026-10-13T05:27:17Z",
-    "importance": 3
    }
   ]
  },
@@ -318,7 +311,9 @@
   "https://www.coindesk.com/business/2026/10/14/ai-agents-make-138-million-crypto-payments-as-u-s-dominates-spending-on-ai-models": 1791994273.9366155,
   "https://www.theblock.co/news/markets/2026-10-14-bitcoin-falls-below-82000-core-inflation-fed-rate-hike-418582": 1791997711.2108467,
   "https://www.coindesk.com/policy/2026/10/14/kalshi-ceo-says-state-led-oversight-of-u-s-prediction-markets-would-push-them-out": 1791997711.2108467,
-  "https://cointelegraph-tr.com/news/standard-chartered-stablecoin-forecast-2030-market-growth": 1791997711.2108467
+  "https://cointelegraph-tr.com/news/standard-chartered-stablecoin-forecast-2030-market-growth": 1791997711.2108467,
+  "https://cointelegraph-tr.com/news/fbi-brooklyn-crypto-scam-112-servers-241-websites": 1792001181.4219496,
+  "https://www.theblock.co/news/regulation/2026-10-14-youre-committing-crime-broad-daylight-kalshi-ceo-defends-prediction-markets-insider-trading-concerns-418601": 1792001181.4219496
  },
  "tries": {}
 }
