@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-14T16:11:13Z",
+ "updated": "2026-10-14T17:08:31Z",
  "sources": [
   "coindesk.com",
   "cointelegraph-tr.com",
@@ -8,10 +8,10 @@
  "bySymbol": {
   "BTC": [
    {
-    "title": "ABD'de Eylül Ayı TÜFE Beklentileri Aştı, Bitcoin Sert Düştü",
-    "summary": "ABD'de Eylül ayı TÜFE verilerinin yüksek gelmesi, Bitcoin'in sert bir düşüş yaşamasına neden oldu.",
-    "url": "https://www.coindesk.com/markets/2026/10/14/u-s-september-cpi-comes-in-hot-sending-bitcoin-sharply-lower",
-    "published": "2026-10-14T12:33:56Z",
+    "title": "Bitcoin 82.000 doların altına geriledi, yüksek çekirdek TÜFE Fed faiz artışı endişelerini canlandırdı",
+    "summary": "Eylül ayı çekirdek TÜFE'nin beklentileri aşmasının ardından Bitcoin 82.000 doların altına düştü. Analistler fiyat hedeflerini ve olası bir faiz artışını değerlendiriyor.",
+    "url": "https://www.theblock.co/news/markets/2026-10-14-bitcoin-falls-below-82000-core-inflation-fed-rate-hike-418582",
+    "published": "2026-10-14T16:51:54Z",
     "importance": 4
    },
    {
@@ -134,6 +134,15 @@
     "summary": "Stacks'in STX token'ı dört haftada yüzde 50 arttı.",
     "url": "https://www.coindesk.com/daybook-us/2026/10/13/stacks-stx-a-bitcoin-layer-2-token-has-surged-by-50-in-four-weeks",
     "published": "2026-10-13T11:26:45Z",
+    "importance": 3
+   }
+  ],
+  "USDC": [
+   {
+    "title": "Standard Chartered, işlem hacimleri arttıkça 2 trilyon dolarlık stablecoin tahminini 2030’a erteledi",
+    "summary": "Banka, rezerv getirileri üzerindeki rekabet yoğunlaşırken dört ayrı stablecoin pazarı belirledi. USDC ödemelere ve yapay zeka işlemlerine öncülük ediyor.",
+    "url": "https://cointelegraph-tr.com/news/standard-chartered-stablecoin-forecast-2030-market-growth",
+    "published": "2026-10-14T16:26:31Z",
     "importance": 3
    }
   ],
@@ -306,7 +315,10 @@
   "https://www.coindesk.com/business/2026/10/14/easya-hits-usd1-1-billion-valuation-targets-2027-public-listing-and-tokenized-shares": 1791990580.6648293,
   "https://www.theblock.co/news/regulation/2026-10-14-hex-pulsechain-founder-richard-heart-detained-istanbul-turkish-media-reports-418574": 1791994273.9366155,
   "https://www.theblock.co/news/web3/2026-10-14-standard-chartered-stablecoin-market-report-418578": 1791994273.9366155,
-  "https://www.coindesk.com/business/2026/10/14/ai-agents-make-138-million-crypto-payments-as-u-s-dominates-spending-on-ai-models": 1791994273.9366155
+  "https://www.coindesk.com/business/2026/10/14/ai-agents-make-138-million-crypto-payments-as-u-s-dominates-spending-on-ai-models": 1791994273.9366155,
+  "https://www.theblock.co/news/markets/2026-10-14-bitcoin-falls-below-82000-core-inflation-fed-rate-hike-418582": 1791997711.2108467,
+  "https://www.coindesk.com/policy/2026/10/14/kalshi-ceo-says-state-led-oversight-of-u-s-prediction-markets-would-push-them-out": 1791997711.2108467,
+  "https://cointelegraph-tr.com/news/standard-chartered-stablecoin-forecast-2030-market-growth": 1791997711.2108467
  },
  "tries": {}
 }
