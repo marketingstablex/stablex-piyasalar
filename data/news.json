@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-15T11:05:44Z",
+ "updated": "2026-10-15T11:38:32Z",
  "sources": [
   "coindesk.com",
   "cointelegraph-tr.com",
@@ -29,6 +29,13 @@
     "importance": 4
    },
    {
+    "title": "Bitcoin, bakır, hisse senetleri ve tahvil getirileri düştü; altın yükseldi",
+    "summary": "Bitcoin, bakır, hisse senetleri ve tahvil getirileri düşerken altın yükseliş kaydetti.",
+    "url": "https://www.coindesk.com/daybook-us/2026/10/15/bitcoin-copper-stocks-yields-all-fall-gold-rises",
+    "published": "2026-10-15T11:15:00Z",
+    "importance": 3
+   },
+   {
     "title": "Asya hisse senedi düşüşü altcoin'leri aşağı çekerken Bitcoin 80.000 doların üzerinde tutunuyor",
     "summary": "Asya hisse senedi düşüşü altcoin'leri aşağı çekerken Bitcoin 80.000 doların üzerinde tutunuyor",
     "url": "https://www.coindesk.com/markets/2026/10/15/bitcoin-holds-above-usd80-000-as-an-asian-stock-rout-drags-altcoins-lower",
@@ -54,13 +61,6 @@
     "summary": "Bir zamanlar ağın yüzde 2,3'ünü yöneten Bitcoin madencilik havuzu, hash oranının yüzde 65 düşmesinin ardından kapandı.",
     "url": "https://www.coindesk.com/markets/2026/10/15/bitcoin-mining-pool-once-handling-2-3-of-network-shuts-after-hashrate-falls-65",
     "published": "2026-10-15T04:13:56Z",
-    "importance": 3
-   },
-   {
-    "title": "Bitcoin madencileri, Wall Street’in temmuzdan bu yana en sert satış dalgasında yüzde 13’e varan düşüş yaşadı",
-    "summary": "TeraWulf, Core Scientific, Cipher Mining ve IREN, daha yüksek enflasyonun yapay zeka altyapısı şirketlerini vurmasıyla yüzde 12’den fazla değer kaybetti.",
-    "url": "https://cointelegraph-tr.com/markets/bitcoin-miners-plunge-up-to-13-in-wall-streets-worst-selloff-since-july",
-    "published": "2026-10-15T03:29:22Z",
     "importance": 3
    }
   ],
@@ -157,6 +157,13 @@
    }
   ],
   "USDC": [
+   {
+    "title": "EBA, Circle'ın USDC'sini AB'nin ilk 'önemli' elektronik para token'ı olarak belirledi",
+    "summary": "Avrupa Bankacılık Otoritesi (EBA), Circle'ın USDC'sini Avrupa Birliği'nin ilk 'önemli' elektronik para token'ı olarak sınıflandırdı ve yeni denetim sorumlulukları 12 Kasım itibarıyla başladı.",
+    "url": "https://www.theblock.co/news/regulation/2026-10-15-eba-designates-circles-usdc-as-the-eus-first-significant-e-money-token-418637",
+    "published": "2026-10-15T11:10:07Z",
+    "importance": 4
+   },
    {
     "title": "Standard Chartered, işlem hacimleri arttıkça 2 trilyon dolarlık stablecoin tahminini 2030’a erteledi",
     "summary": "Banka, rezerv getirileri üzerindeki rekabet yoğunlaşırken dört ayrı stablecoin pazarı belirledi. USDC ödemelere ve yapay zeka işlemlerine öncülük ediyor.",
@@ -355,7 +362,9 @@
   "https://www.coindesk.com/markets/2026/10/15/bitcoin-holds-above-usd80-000-as-an-asian-stock-rout-drags-altcoins-lower": 1792062344.9107497,
   "https://cointelegraph-tr.com/news/white-house-crypto-council-director-steps-down": 1792062344.9107497,
   "https://cointelegraph-tr.com/news/starknet-vote-ethereum-l2-exit-post-quantum-l1": 1792062344.9107497,
-  "https://www.coindesk.com/business/2026/10/15/live-updates-bitcoin-back-under-usd81-000-as-ai-selloff-worsens": 1792062344.9107497
+  "https://www.coindesk.com/business/2026/10/15/live-updates-bitcoin-back-under-usd81-000-as-ai-selloff-worsens": 1792062344.9107497,
+  "https://www.coindesk.com/daybook-us/2026/10/15/bitcoin-copper-stocks-yields-all-fall-gold-rises": 1792064312.3262188,
+  "https://www.theblock.co/news/regulation/2026-10-15-eba-designates-circles-usdc-as-the-eus-first-significant-e-money-token-418637": 1792064312.3262188
  },
  "tries": {}
 }
