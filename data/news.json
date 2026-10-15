@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-15T04:07:55Z",
+ "updated": "2026-10-15T05:03:19Z",
  "sources": [
   "coindesk.com",
   "cointelegraph-tr.com",
@@ -8,10 +8,17 @@
  "bySymbol": {
   "BTC": [
    {
-    "title": "Bitcoin 82.000 doların altına geriledi, yüksek çekirdek TÜFE Fed faiz artışı endişelerini canlandırdı",
-    "summary": "Eylül ayı çekirdek TÜFE'nin beklentileri aşmasının ardından Bitcoin 82.000 doların altına düştü. Analistler fiyat hedeflerini ve olası bir faiz artışını değerlendiriyor.",
-    "url": "https://www.theblock.co/news/markets/2026-10-14-bitcoin-falls-below-82000-core-inflation-fed-rate-hike-418582",
-    "published": "2026-10-14T16:51:54Z",
+    "title": "Asya hisse senetlerindeki risk iştahsızlığı ile Bitcoin 81.000 doların altına geriledi",
+    "summary": "Asya hisse senetleri Perşembe günü düşüş yaşadı. Sabah işlemlerinde Güney Kore'nin Kospi endeksi yüzde 8 ve Japonya'nın Nikkei 225 endeksi yüzde 5 değer kaybetti.",
+    "url": "https://www.theblock.co/news/markets/2026-10-15-bitcoin-drops-asian-equities-tumble-418623",
+    "published": "2026-10-15T04:38:48Z",
+    "importance": 4
+   },
+   {
+    "title": "Bitcoin, ether ve XRP düşerken yaklaşık 1 milyar dolar değerinde kripto pozisyonu tasfiye edildi",
+    "summary": "Bitcoin, ether ve XRP düşerken yaklaşık 1 milyar dolar değerinde kripto pozisyonu tasfiye edildi.",
+    "url": "https://www.coindesk.com/markets/2026/10/15/nearly-usd1-billion-in-crypto-bets-liquidated-as-bitcoin-ether-and-xrp-slide",
+    "published": "2026-10-15T04:25:15Z",
     "importance": 4
    },
    {
@@ -20,6 +27,13 @@
     "url": "https://www.coindesk.com/markets/2026/10/14/bitcoin-climbs-toward-usd84-000-after-fed-s-williams-sees-no-rate-hikes-in-2027",
     "published": "2026-10-14T03:50:54Z",
     "importance": 4
+   },
+   {
+    "title": "Bir zamanlar ağın yüzde 2,3'ünü yöneten Bitcoin madencilik havuzu, hash oranının yüzde 65 düşmesinin ardından kapandı",
+    "summary": "Bir zamanlar ağın yüzde 2,3'ünü yöneten Bitcoin madencilik havuzu, hash oranının yüzde 65 düşmesinin ardından kapandı.",
+    "url": "https://www.coindesk.com/markets/2026/10/15/bitcoin-mining-pool-once-handling-2-3-of-network-shuts-after-hashrate-falls-65",
+    "published": "2026-10-15T04:13:56Z",
+    "importance": 3
    },
    {
     "title": "Bitcoin madencileri, Wall Street’in temmuzdan bu yana en sert satış dalgasında yüzde 13’e varan düşüş yaşadı",
@@ -48,16 +62,16 @@
     "url": "https://cointelegraph-tr.com/news/bitcoin-less-volatile-larger-gold-bitcoin-standard-author",
     "published": "2026-10-14T10:25:53Z",
     "importance": 3
-   },
-   {
-    "title": "Standard Chartered, BAE'deki Varlıklı Müşterileri İçin Doğrudan Bitcoin ve Ether Ticaretini Başlattı",
-    "summary": "Standard Chartered, Birleşik Arap Emirlikleri'ndeki varlıklı müşterileri için doğrudan Bitcoin ve Ether ticareti hizmetini kullanıma açtı.",
-    "url": "https://www.coindesk.com/business/2026/10/14/standard-chartered-unlocks-direct-bitcoin-and-ether-trading-for-affluent-uae-clients",
-    "published": "2026-10-14T08:10:07Z",
-    "importance": 3
    }
   ],
   "ETH": [
+   {
+    "title": "Bitcoin, ether ve XRP düşerken yaklaşık 1 milyar dolar değerinde kripto pozisyonu tasfiye edildi",
+    "summary": "Bitcoin, ether ve XRP düşerken yaklaşık 1 milyar dolar değerinde kripto pozisyonu tasfiye edildi.",
+    "url": "https://www.coindesk.com/markets/2026/10/15/nearly-usd1-billion-in-crypto-bets-liquidated-as-bitcoin-ether-and-xrp-slide",
+    "published": "2026-10-15T04:25:15Z",
+    "importance": 4
+   },
    {
     "title": "Fed'li Williams 2027'de faiz artışı öngörmezken Bitcoin 84.000 dolara doğru yükseldi",
     "summary": "Fed'li Williams'ın 2027'de faiz artışı öngörmemesinin ardından Bitcoin 84.000 dolara doğru yükseldi.",
@@ -138,6 +152,13 @@
    }
   ],
   "XRP": [
+   {
+    "title": "Bitcoin, ether ve XRP düşerken yaklaşık 1 milyar dolar değerinde kripto pozisyonu tasfiye edildi",
+    "summary": "Bitcoin, ether ve XRP düşerken yaklaşık 1 milyar dolar değerinde kripto pozisyonu tasfiye edildi.",
+    "url": "https://www.coindesk.com/markets/2026/10/15/nearly-usd1-billion-in-crypto-bets-liquidated-as-bitcoin-ether-and-xrp-slide",
+    "published": "2026-10-15T04:25:15Z",
+    "importance": 4
+   },
    {
     "title": "DriveWealth, stablecoin takası ve sınır ötesi ödemeler için Ripple'ın RLUSD'sini kullanacak",
     "summary": "DriveWealth, Avrupa'dan başlayarak stablecoin takası, teminat fonlaması ve saklama işlemleri için XRP Ledger üzerinde Ripple'ın RLUSD'sini kullanacak.",
@@ -301,7 +322,10 @@
   "https://cointelegraph-tr.com/news/vaneck-seeks-to-withdraw-application-for-lido-staked-ether-etf": 1792028070.844682,
   "https://cointelegraph-tr.com/news/polygon-gains-us-payments-licenses-after-closing-coinme-deal": 1792028070.844682,
   "https://www.coindesk.com/markets/2026/10/15/bitcoin-is-back-below-usd81-000-as-fed-rate-uncertainty-weighs": 1792037275.173119,
-  "https://cointelegraph-tr.com/markets/bitcoin-miners-plunge-up-to-13-in-wall-streets-worst-selloff-since-july": 1792037275.173119
+  "https://cointelegraph-tr.com/markets/bitcoin-miners-plunge-up-to-13-in-wall-streets-worst-selloff-since-july": 1792037275.173119,
+  "https://www.theblock.co/news/markets/2026-10-15-bitcoin-drops-asian-equities-tumble-418623": 1792040599.9976184,
+  "https://www.coindesk.com/markets/2026/10/15/nearly-usd1-billion-in-crypto-bets-liquidated-as-bitcoin-ether-and-xrp-slide": 1792040599.9976184,
+  "https://www.coindesk.com/markets/2026/10/15/bitcoin-mining-pool-once-handling-2-3-of-network-shuts-after-hashrate-falls-65": 1792040599.9976184
  },
  "tries": {}
 }
