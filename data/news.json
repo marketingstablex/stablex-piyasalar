@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-15T23:28:34Z",
+ "updated": "2026-10-15T23:55:37Z",
  "sources": [
   "coindesk.com",
   "cointelegraph-tr.com",
@@ -199,7 +199,6 @@
   ]
  },
  "seen": {
-  "https://cointelegraph-tr.com/magazine/ledger-attack-spreads-to-eu-ai-finds-18-trillion-xrp-bug-hodlers-digest": 1791762567.467333,
   "https://cointelegraph-tr.com/news/xrp-ledger-defends-emergency-patch-for-unlimited-xrp-bug": 1791770025.929104,
   "https://www.theblock.co/news/ecosystems/2026-10-11-sui-foundation-invests-30-million-data-network-418243": 1791771886.244989,
   "https://www.coindesk.com/markets/2026/10/12/bitcoin-shrugs-off-etf-outflows-to-trade-above-usd84-000-as-oil-falls": 1791780944.0749052,
