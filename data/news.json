@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-15T09:36:53Z",
+ "updated": "2026-10-15T10:11:04Z",
  "sources": [
   "coindesk.com",
   "cointelegraph-tr.com",
@@ -29,6 +29,13 @@
     "importance": 4
    },
    {
+    "title": "Tayland’daki kripto ETF’leri yeni kurallara rağmen yavaş başlayabilir: CoinShares",
+    "summary": "Tayland’ın yeni Bitcoin ve Ether ETF kuralları cuma günü yürürlüğe giriyor. CoinShares, mevcut yatırım seçeneklerinin talep için rekabet etmesi nedeniyle başlangıçtaki girişlerin mütevazı olmasını bekliyor.",
+    "url": "https://cointelegraph-tr.com/news/thailand-crypto-etfs-slow-start-new-rules-coinshares",
+    "published": "2026-10-15T09:36:20Z",
+    "importance": 3
+   },
+   {
     "title": "Bitcoin ETF’leri 261 milyon dolar net çıkış kaydederken XRP fonları haftalık net çıkış trendine karşı koydu",
     "summary": "Bitcoin ETF’lerinde pazartesiden bu yana 151 milyon dolar net çıkış kaydedildi. Yatırımcılar önceki hafta fonlardan 681 milyon dolar çekmişti.",
     "url": "https://cointelegraph-tr.com/markets/bitcoin-etf-outflow-btc-below-82k",
@@ -55,13 +62,6 @@
     "url": "https://www.theblock.co/news/business/2026-10-14-strive-buys-235-million-in-bitcoin-warrant-yield-369-million-418556",
     "published": "2026-10-14T14:32:39Z",
     "importance": 3
-   },
-   {
-    "title": "Strategy'nin imtiyazlı hisse senedi finansmanı bitcoin maliyeti getirebilir, K33 savunuyor",
-    "summary": "K33, Strategy'nin imtiyazlı hisseler yerine adi hisse senedi ihracına güvenerek zaman içinde daha fazla bitcoin biriktirebileceğini savunuyor.",
-    "url": "https://www.theblock.co/news/markets/2026-10-14-strategys-preferred-stock-financing-may-cost-it-bitcoin-k33-argues-418543",
-    "published": "2026-10-14T13:20:46Z",
-    "importance": 3
    }
   ],
   "ETH": [
@@ -78,6 +78,13 @@
     "url": "https://www.coindesk.com/markets/2026/10/14/bitcoin-climbs-toward-usd84-000-after-fed-s-williams-sees-no-rate-hikes-in-2027",
     "published": "2026-10-14T03:50:54Z",
     "importance": 4
+   },
+   {
+    "title": "Tayland’daki kripto ETF’leri yeni kurallara rağmen yavaş başlayabilir: CoinShares",
+    "summary": "Tayland’ın yeni Bitcoin ve Ether ETF kuralları cuma günü yürürlüğe giriyor. CoinShares, mevcut yatırım seçeneklerinin talep için rekabet etmesi nedeniyle başlangıçtaki girişlerin mütevazı olmasını bekliyor.",
+    "url": "https://cointelegraph-tr.com/news/thailand-crypto-etfs-slow-start-new-rules-coinshares",
+    "published": "2026-10-15T09:36:20Z",
+    "importance": 3
    },
    {
     "title": "VanEck, Lido stake edilmiş Ether ETF başvurusunu geri çekmek istiyor",
@@ -328,7 +335,10 @@
   "https://cointelegraph-tr.com/news/south-korea-cybersecurity-overhaul-crypto-exchanges": 1792044383.199981,
   "https://www.coindesk.com/markets/2026/10/15/blackrock-s-larry-fink-names-a-u-s-recession-trigger-and-its-tied-to-ai": 1792046843.57745,
   "https://cointelegraph-tr.com/markets/bitcoin-etf-outflow-btc-below-82k": 1792050208.8219075,
-  "https://www.coindesk.com/policy/2026/10/15/hex-founder-richard-heart-arrested-in-istanbul-turkish-media-report": 1792057013.855479
+  "https://www.coindesk.com/policy/2026/10/15/hex-founder-richard-heart-arrested-in-istanbul-turkish-media-report": 1792057013.855479,
+  "https://www.coindesk.com/policy/2026/10/15/hyperliquid-founder-wants-u-s-oversight-of-trading-platforms-not-his-blockchain": 1792059064.9588392,
+  "https://www.coindesk.com/policy/2026/10/15/australia-s-financial-watchdog-seeks-stiffer-rules-for-crypto-exchanges-ahead-of-licensing-deadline": 1792059064.9588392,
+  "https://cointelegraph-tr.com/news/thailand-crypto-etfs-slow-start-new-rules-coinshares": 1792059064.9588392
  },
  "tries": {}
 }
