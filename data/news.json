@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-15T11:38:32Z",
+ "updated": "2026-10-15T12:43:32Z",
  "sources": [
   "coindesk.com",
   "cointelegraph-tr.com",
@@ -118,6 +118,13 @@
    }
   ],
   "SOL": [
+   {
+    "title": "Ledger, Solana Mobile entegrasyonu ve yeni kurcalama korumalarıyla Atom Android cihazını tanıttı",
+    "summary": "Ledger, Solana Mobile entegrasyonu, yapay zeka ajanı kontrolleri ve donanım kurcalama korumalarına sahip Android tabanlı bir güvenlik cihazı olan Atom'u tanıttı.",
+    "url": "https://www.theblock.co/news/business/2026-10-15-ledger-atom-solana-mobile-418644",
+    "published": "2026-10-15T12:00:00Z",
+    "importance": 3
+   },
    {
     "title": "Büyük ortak, hazinesi bir ayda yüzde 70 küçülen SkyAI'a Solana satışları konusunda baskı yapıyor",
     "summary": "SkyAI şirketinin SOL hazinesi bir aydan kısa sürede yüzde 70 oranında düşerken, 400.000 SOL'ün durumu açıklanamadı. Bastion Trading, hisse başına 3 dolarlık teklifi kabul etmeyerek 3,50 dolar talep ediyor.",
@@ -364,7 +371,12 @@
   "https://cointelegraph-tr.com/news/starknet-vote-ethereum-l2-exit-post-quantum-l1": 1792062344.9107497,
   "https://www.coindesk.com/business/2026/10/15/live-updates-bitcoin-back-under-usd81-000-as-ai-selloff-worsens": 1792062344.9107497,
   "https://www.coindesk.com/daybook-us/2026/10/15/bitcoin-copper-stocks-yields-all-fall-gold-rises": 1792064312.3262188,
-  "https://www.theblock.co/news/regulation/2026-10-15-eba-designates-circles-usdc-as-the-eus-first-significant-e-money-token-418637": 1792064312.3262188
+  "https://www.theblock.co/news/regulation/2026-10-15-eba-designates-circles-usdc-as-the-eus-first-significant-e-money-token-418637": 1792064312.3262188,
+  "https://www.coindesk.com/business/2026/10/15/how-brooklyn-prosecutors-and-the-fbi-took-down-a-massive-crypto-fraud-network-targeting-russian-speakers": 1792068212.630053,
+  "https://www.theblock.co/news/business/2026-10-15-ledger-atom-solana-mobile-418644": 1792068212.630053,
+  "https://www.coindesk.com/tech/2026/10/15/under-pressure-ledger-unveils-plan-to-turn-its-crypto-hardware-wallet-into-a-smartphone": 1792068212.630053,
+  "https://cointelegraph-tr.com/news/ledger-new-hardware-device-asia-wallet-tampering": 1792068212.630053,
+  "https://cointelegraph-tr.com/news/bitget-liquid-exploits-push-crypto-hacks-near-12b-q3": 1792068212.630053
  },
  "tries": {}
 }
