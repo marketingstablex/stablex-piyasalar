@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-15T22:01:22Z",
+ "updated": "2026-10-15T22:33:06Z",
  "sources": [
   "coindesk.com",
   "cointelegraph-tr.com",
@@ -20,6 +20,13 @@
     "url": "https://www.coindesk.com/markets/2026/10/15/nearly-usd1-billion-in-crypto-bets-liquidated-as-bitcoin-ether-and-xrp-slide",
     "published": "2026-10-15T04:25:15Z",
     "importance": 4
+   },
+   {
+    "title": "MSCI, Strategy ve Kripto Hazine Firmalarını Hariç Bırakabilecek Endeks Kurallarını Sonuçlandırdı",
+    "summary": "MSCI'ın yeni faaliyet dışı şirket kuralları, Strategy, Metaplanet ve SharpLink gibi firmaların endeks kapsamı dışına çıkmasına neden olabilir. Etkilenen şirketlerin nihai listesinin 11 Kasım'da açıklanması bekleniyor.",
+    "url": "https://www.theblock.co/news/business/2026-10-15-msci-rules-could-exclude-strategy-mstr-from-indexes-418729",
+    "published": "2026-10-15T22:15:56Z",
+    "importance": 3
    },
    {
     "title": "Bitwise CIO, yapay zeka patlasın veya çöküş yaşasın bitcoin'in bundan faydalanacağını savunuyor",
@@ -55,13 +62,6 @@
     "url": "https://cointelegraph-tr.com/markets/bitcoin-etf-outflow-btc-below-82k",
     "published": "2026-10-15T07:23:43Z",
     "importance": 3
-   },
-   {
-    "title": "CleanSpark ve BitFuFu, Canaan sabit kalırken Eylül ayında bitcoin üretiminde düşüş gördü",
-    "summary": "CleanSpark aylık madencilik raporlarını sonlandırma kararı alırken, BitFuFu Etiyokya anlaşmasıyla ilgili belirsizliklerle karşı karşıya bulunuyor.",
-    "url": "https://www.theblock.co/news/business/2026-10-15-cleanspark-bitfufu-bitcoin-production-slip-september-canaan-remains-flat-418686",
-    "published": "2026-10-15T16:06:00Z",
-    "importance": 2
    }
   ],
   "ETH": [
@@ -374,7 +374,8 @@
   "https://cointelegraph-tr.com/news/bo-hines-donald-trump-crypto-advisor-nxum-tether-conflict": 1792087408.979401,
   "https://www.coindesk.com/news-analysis/2026/10/15/at-the-white-house-crypto-policy-vacancy-looms-large": 1792092811.0695806,
   "https://cointelegraph-tr.com/news/binance-us-funding-valuation-billion": 1792096469.7916603,
-  "https://www.theblock.co/news/ecosystems/2026-10-15-network-school-acquires-farcaster-from-neynar-418720": 1792101682.2712407
+  "https://www.theblock.co/news/ecosystems/2026-10-15-network-school-acquires-farcaster-from-neynar-418720": 1792101682.2712407,
+  "https://www.theblock.co/news/business/2026-10-15-msci-rules-could-exclude-strategy-mstr-from-indexes-418729": 1792103586.0639803
  },
  "tries": {}
 }
