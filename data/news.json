@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-15T08:37:45Z",
+ "updated": "2026-10-15T09:36:53Z",
  "sources": [
   "coindesk.com",
   "cointelegraph-tr.com",
@@ -176,7 +176,6 @@
   ]
  },
  "seen": {
-  "https://cointelegraph-tr.com/news/ledger-confirms-unauthorized-hardware-implant-losses-may-exceed-86m": 1791710569.2234833,
   "https://cointelegraph-tr.com/news/coldcard-says-its-investigating-how-phishing-link-appeared-on-its-x-account": 1791715796.1772492,
   "https://www.coindesk.com/business/2026/10/11/imf-finds-demand-for-tokenized-stocks-says-the-market-is-still-volatile-illiquid": 1791724994.7165349,
   "https://www.coindesk.com/markets/2026/10/11/president-trump-declares-energy-ceasefire-between-russia-and-ukraine": 1791733807.064225,
@@ -328,7 +327,8 @@
   "https://cointelegraph-tr.com/news/australia-seeks-feedback-on-crypto-platform-rules-ahead-of-2027-rollout": 1792042493.148438,
   "https://cointelegraph-tr.com/news/south-korea-cybersecurity-overhaul-crypto-exchanges": 1792044383.199981,
   "https://www.coindesk.com/markets/2026/10/15/blackrock-s-larry-fink-names-a-u-s-recession-trigger-and-its-tied-to-ai": 1792046843.57745,
-  "https://cointelegraph-tr.com/markets/bitcoin-etf-outflow-btc-below-82k": 1792050208.8219075
+  "https://cointelegraph-tr.com/markets/bitcoin-etf-outflow-btc-below-82k": 1792050208.8219075,
+  "https://www.coindesk.com/policy/2026/10/15/hex-founder-richard-heart-arrested-in-istanbul-turkish-media-report": 1792057013.855479
  },
  "tries": {}
 }
