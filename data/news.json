@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-15T06:06:23Z",
+ "updated": "2026-10-15T06:47:23Z",
  "sources": [
   "coindesk.com",
   "cointelegraph-tr.com",
@@ -327,7 +327,8 @@
   "https://www.coindesk.com/markets/2026/10/15/nearly-usd1-billion-in-crypto-bets-liquidated-as-bitcoin-ether-and-xrp-slide": 1792040599.9976184,
   "https://www.coindesk.com/markets/2026/10/15/bitcoin-mining-pool-once-handling-2-3-of-network-shuts-after-hashrate-falls-65": 1792040599.9976184,
   "https://cointelegraph-tr.com/news/australia-seeks-feedback-on-crypto-platform-rules-ahead-of-2027-rollout": 1792042493.148438,
-  "https://cointelegraph-tr.com/news/south-korea-cybersecurity-overhaul-crypto-exchanges": 1792044383.199981
+  "https://cointelegraph-tr.com/news/south-korea-cybersecurity-overhaul-crypto-exchanges": 1792044383.199981,
+  "https://www.coindesk.com/markets/2026/10/15/blackrock-s-larry-fink-names-a-u-s-recession-trigger-and-its-tied-to-ai": 1792046843.57745
  },
  "tries": {}
 }
