@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-15T03:33:57Z",
+ "updated": "2026-10-15T04:07:55Z",
  "sources": [
   "coindesk.com",
   "cointelegraph-tr.com",
@@ -20,6 +20,13 @@
     "url": "https://www.coindesk.com/markets/2026/10/14/bitcoin-climbs-toward-usd84-000-after-fed-s-williams-sees-no-rate-hikes-in-2027",
     "published": "2026-10-14T03:50:54Z",
     "importance": 4
+   },
+   {
+    "title": "Bitcoin madencileri, Wall Street’in temmuzdan bu yana en sert satış dalgasında yüzde 13’e varan düşüş yaşadı",
+    "summary": "TeraWulf, Core Scientific, Cipher Mining ve IREN, daha yüksek enflasyonun yapay zeka altyapısı şirketlerini vurmasıyla yüzde 12’den fazla değer kaybetti.",
+    "url": "https://cointelegraph-tr.com/markets/bitcoin-miners-plunge-up-to-13-in-wall-streets-worst-selloff-since-july",
+    "published": "2026-10-15T03:29:22Z",
+    "importance": 3
    },
    {
     "title": "Strive, varant kullanımından elde ettiği gelirle 235 milyon dolar değerinde Bitcoin satın aldı",
@@ -292,7 +299,9 @@
   "https://www.theblock.co/news/regulation/2026-10-14-white-house-crypto-adviser-patrick-witt-departs-418611": 1792009936.504284,
   "https://cointelegraph-tr.com/news/cci-ba-fight-illinois-crypto-tax-pause": 1792011880.7717884,
   "https://cointelegraph-tr.com/news/vaneck-seeks-to-withdraw-application-for-lido-staked-ether-etf": 1792028070.844682,
-  "https://cointelegraph-tr.com/news/polygon-gains-us-payments-licenses-after-closing-coinme-deal": 1792028070.844682
+  "https://cointelegraph-tr.com/news/polygon-gains-us-payments-licenses-after-closing-coinme-deal": 1792028070.844682,
+  "https://www.coindesk.com/markets/2026/10/15/bitcoin-is-back-below-usd81-000-as-fed-rate-uncertainty-weighs": 1792037275.173119,
+  "https://cointelegraph-tr.com/markets/bitcoin-miners-plunge-up-to-13-in-wall-streets-worst-selloff-since-july": 1792037275.173119
  },
  "tries": {}
 }
