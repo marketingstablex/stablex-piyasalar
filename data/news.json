@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-15T13:45:24Z",
+ "updated": "2026-10-15T14:38:02Z",
  "sources": [
   "coindesk.com",
   "cointelegraph-tr.com",
@@ -29,6 +29,13 @@
     "importance": 4
    },
    {
+    "title": "Bitwise CIO, yapay zeka patlasın veya çöküş yaşasın bitcoin'in bundan faydalanacağını savunuyor",
+    "summary": "Bitwise Yatırım Direktörü Matt Hougan, yapay zeka balonunun patlamasının devlet kurtarma paketlerini tetikleyeceğini ve bunun da nihayetinde bitcoin rallisini destekleyeceğini öngörüyor.",
+    "url": "https://www.theblock.co/news/markets/2026-10-15-bitwise-cio-argues-bitcoin-will-benefit-whether-ai-booms-or-busts-418668",
+    "published": "2026-10-15T14:01:06Z",
+    "importance": 3
+   },
+   {
     "title": "Bitcoin, bakır, hisse senetleri ve tahvil getirileri düştü; altın yükseldi",
     "summary": "Bitcoin, bakır, hisse senetleri ve tahvil getirileri düşerken altın yükseliş kaydetti.",
     "url": "https://www.coindesk.com/daybook-us/2026/10/15/bitcoin-copper-stocks-yields-all-fall-gold-rises",
@@ -54,13 +61,6 @@
     "summary": "Bitcoin ETF’lerinde pazartesiden bu yana 151 milyon dolar net çıkış kaydedildi. Yatırımcılar önceki hafta fonlardan 681 milyon dolar çekmişti.",
     "url": "https://cointelegraph-tr.com/markets/bitcoin-etf-outflow-btc-below-82k",
     "published": "2026-10-15T07:23:43Z",
-    "importance": 3
-   },
-   {
-    "title": "Bir zamanlar ağın yüzde 2,3'ünü yöneten Bitcoin madencilik havuzu, hash oranının yüzde 65 düşmesinin ardından kapandı",
-    "summary": "Bir zamanlar ağın yüzde 2,3'ünü yöneten Bitcoin madencilik havuzu, hash oranının yüzde 65 düşmesinin ardından kapandı.",
-    "url": "https://www.coindesk.com/markets/2026/10/15/bitcoin-mining-pool-once-handling-2-3-of-network-shuts-after-hashrate-falls-65",
-    "published": "2026-10-15T04:13:56Z",
     "importance": 3
    }
   ],
@@ -160,6 +160,15 @@
     "summary": "Starknet’in Shadow Accounts özelliği, işlemler zincir üstünde görünür kalmaya devam etse de kullanıcıların ana cüzdanları ile DeFi etkinlikleri arasındaki bağlantıları gizlemesine olanak tanıyor.",
     "url": "https://cointelegraph-tr.com/news/starknet-introduces-wallet-privacy-feature-for-defi-activity",
     "published": "2026-10-14T05:32:14Z",
+    "importance": 3
+   }
+  ],
+  "TRX": [
+   {
+    "title": "Nasdaq’ta listelenen Tron, TRX alımlarını finanse etmek için 200 milyon dolarlık ATM hisse arzı başlattı",
+    "summary": "Nasdaq’ta listelenen bir hazine şirketi yaklaşık 237 milyon dolar değerinde TRX token’ı elinde bulunduruyor. Şirket, günlük birikiminin yanı sıra TRX alımlarını finanse etmek amacıyla ek sermaye artırmayı hedefliyor.",
+    "url": "https://cointelegraph-tr.com/news/nasdaq-tron-200m-atm-offering-fuel-trx-acquisitions",
+    "published": "2026-10-15T14:16:55Z",
     "importance": 3
    }
   ],
@@ -377,7 +386,11 @@
   "https://cointelegraph-tr.com/news/ledger-new-hardware-device-asia-wallet-tampering": 1792068212.630053,
   "https://cointelegraph-tr.com/news/bitget-liquid-exploits-push-crypto-hacks-near-12b-q3": 1792068212.630053,
   "https://cointelegraph-tr.com/magazine/can-the-sec-and-cftcs-pro-crypto-rules-be-overturned-legal-opinion": 1792071924.180171,
-  "https://www.theblock.co/news/business/2026-10-15-helius-ceo-mert-mumtaz-joins-near-foundation-council-418656": 1792071924.180171
+  "https://www.theblock.co/news/business/2026-10-15-helius-ceo-mert-mumtaz-joins-near-foundation-council-418656": 1792071924.180171,
+  "https://www.theblock.co/news/ecosystems/2026-10-15-starknet-opens-seven-day-vote-on-independent-layer-1-over-quantum-risks-418673": 1792075082.4860203,
+  "https://cointelegraph-tr.com/news/russia-ban-p2p-crypto-trades-july-2027": 1792075082.4860203,
+  "https://cointelegraph-tr.com/news/nasdaq-tron-200m-atm-offering-fuel-trx-acquisitions": 1792075082.4860203,
+  "https://www.theblock.co/news/markets/2026-10-15-bitwise-cio-argues-bitcoin-will-benefit-whether-ai-booms-or-busts-418668": 1792075082.4860203
  },
  "tries": {}
 }
