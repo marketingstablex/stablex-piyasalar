@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-15T20:03:38Z",
+ "updated": "2026-10-15T20:34:29Z",
  "sources": [
   "coindesk.com",
   "cointelegraph-tr.com",
@@ -91,13 +91,6 @@
     "summary": "VanEck, borsa yatırım fonu için S-1 kayıt bildirimini geçen yıl ekim ayında ilk kez yapmıştı. Şirket, bu başvurusunu geri çekmek istiyor.",
     "url": "https://cointelegraph-tr.com/news/vaneck-seeks-to-withdraw-application-for-lido-staked-ether-etf",
     "published": "2026-10-15T01:21:52Z",
-    "importance": 3
-   },
-   {
-    "title": "Standard Chartered, BAE'deki Varlıklı Müşterileri İçin Doğrudan Bitcoin ve Ether Ticaretini Başlattı",
-    "summary": "Standard Chartered, Birleşik Arap Emirlikleri'ndeki varlıklı müşterileri için doğrudan Bitcoin ve Ether ticareti hizmetini kullanıma açtı.",
-    "url": "https://www.coindesk.com/business/2026/10/14/standard-chartered-unlocks-direct-bitcoin-and-ether-trading-for-affluent-uae-clients",
-    "published": "2026-10-14T08:10:07Z",
     "importance": 3
    }
   ],
@@ -379,7 +372,8 @@
   "https://www.theblock.co/news/markets/2026-10-15-defi-development-chad-dividend-rate-14-418694": 1792082181.490931,
   "https://cointelegraph-tr.com/news/sweden-riksbank-digital-krona-cbdc-legislation": 1792084369.3523512,
   "https://cointelegraph-tr.com/news/bo-hines-donald-trump-crypto-advisor-nxum-tether-conflict": 1792087408.979401,
-  "https://www.coindesk.com/news-analysis/2026/10/15/at-the-white-house-crypto-policy-vacancy-looms-large": 1792092811.0695806
+  "https://www.coindesk.com/news-analysis/2026/10/15/at-the-white-house-crypto-policy-vacancy-looms-large": 1792092811.0695806,
+  "https://cointelegraph-tr.com/news/binance-us-funding-valuation-billion": 1792096469.7916603
  },
  "tries": {}
 }
