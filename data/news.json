@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-15T18:41:22Z",
+ "updated": "2026-10-15T19:33:31Z",
  "sources": [
   "coindesk.com",
   "cointelegraph-tr.com",
@@ -206,7 +206,6 @@
   ]
  },
  "seen": {
-  "https://www.coindesk.com/policy/2026/10/11/everyone-wants-scotus-to-take-up-prediction-markets-state-of-crypto": 1791744814.9375935,
   "https://www.theblock.co/news/defi/2026-10-11-trader-nets-1-28-million-on-new-1000x-exchange-papertrade-by-moving-hyperliquids-eth-prices-418239": 1791759001.9190292,
   "https://cointelegraph-tr.com/magazine/ledger-attack-spreads-to-eu-ai-finds-18-trillion-xrp-bug-hodlers-digest": 1791762567.467333,
   "https://cointelegraph-tr.com/news/xrp-ledger-defends-emergency-patch-for-unlimited-xrp-bug": 1791770025.929104,
@@ -379,7 +378,8 @@
   "https://www.theblock.co/news/deals/2026-10-15-multiliquid-tokenized-assets-funding-418693": 1792082181.490931,
   "https://www.theblock.co/news/markets/2026-10-15-defi-development-chad-dividend-rate-14-418694": 1792082181.490931,
   "https://cointelegraph-tr.com/news/sweden-riksbank-digital-krona-cbdc-legislation": 1792084369.3523512,
-  "https://cointelegraph-tr.com/news/bo-hines-donald-trump-crypto-advisor-nxum-tether-conflict": 1792087408.979401
+  "https://cointelegraph-tr.com/news/bo-hines-donald-trump-crypto-advisor-nxum-tether-conflict": 1792087408.979401,
+  "https://www.coindesk.com/news-analysis/2026/10/15/at-the-white-house-crypto-policy-vacancy-looms-large": 1792092811.0695806
  },
  "tries": {}
 }
