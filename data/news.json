@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-15T15:38:56Z",
+ "updated": "2026-10-15T16:36:21Z",
  "sources": [
   "coindesk.com",
   "cointelegraph-tr.com",
@@ -19,13 +19,6 @@
     "summary": "Bitcoin, ether ve XRP düşerken yaklaşık 1 milyar dolar değerinde kripto pozisyonu tasfiye edildi.",
     "url": "https://www.coindesk.com/markets/2026/10/15/nearly-usd1-billion-in-crypto-bets-liquidated-as-bitcoin-ether-and-xrp-slide",
     "published": "2026-10-15T04:25:15Z",
-    "importance": 4
-   },
-   {
-    "title": "Fed'li Williams 2027'de faiz artışı öngörmezken Bitcoin 84.000 dolara doğru yükseldi",
-    "summary": "Fed'li Williams'ın 2027'de faiz artışı öngörmemesinin ardından Bitcoin 84.000 dolara doğru yükseldi.",
-    "url": "https://www.coindesk.com/markets/2026/10/14/bitcoin-climbs-toward-usd84-000-after-fed-s-williams-sees-no-rate-hikes-in-2027",
-    "published": "2026-10-14T03:50:54Z",
     "importance": 4
    },
    {
@@ -62,6 +55,13 @@
     "url": "https://cointelegraph-tr.com/markets/bitcoin-etf-outflow-btc-below-82k",
     "published": "2026-10-15T07:23:43Z",
     "importance": 3
+   },
+   {
+    "title": "CleanSpark ve BitFuFu, Canaan sabit kalırken Eylül ayında bitcoin üretiminde düşüş gördü",
+    "summary": "CleanSpark aylık madencilik raporlarını sonlandırma kararı alırken, BitFuFu Etiyokya anlaşmasıyla ilgili belirsizliklerle karşı karşıya bulunuyor.",
+    "url": "https://www.theblock.co/news/business/2026-10-15-cleanspark-bitfufu-bitcoin-production-slip-september-canaan-remains-flat-418686",
+    "published": "2026-10-15T16:06:00Z",
+    "importance": 2
    }
   ],
   "ETH": [
@@ -77,13 +77,6 @@
     "summary": "Bitcoin, ether ve XRP düşerken yaklaşık 1 milyar dolar değerinde kripto pozisyonu tasfiye edildi.",
     "url": "https://www.coindesk.com/markets/2026/10/15/nearly-usd1-billion-in-crypto-bets-liquidated-as-bitcoin-ether-and-xrp-slide",
     "published": "2026-10-15T04:25:15Z",
-    "importance": 4
-   },
-   {
-    "title": "Fed'li Williams 2027'de faiz artışı öngörmezken Bitcoin 84.000 dolara doğru yükseldi",
-    "summary": "Fed'li Williams'ın 2027'de faiz artışı öngörmemesinin ardından Bitcoin 84.000 dolara doğru yükseldi.",
-    "url": "https://www.coindesk.com/markets/2026/10/14/bitcoin-climbs-toward-usd84-000-after-fed-s-williams-sees-no-rate-hikes-in-2027",
-    "published": "2026-10-14T03:50:54Z",
     "importance": 4
    },
    {
@@ -133,11 +126,11 @@
     "importance": 3
    },
    {
-    "title": "Solana, 150 milisaniyelik kesinliği hedefleyen Alpenglow güncellemesi için 21 Ekim'i belirledi",
-    "summary": "Solana, 150 milisaniyelik kesinliği hedefleyen Alpenglow güncellemesi için 21 Ekim tarihini belirledi.",
-    "url": "https://www.coindesk.com/tech/2026/10/14/solana-sets-oct-21-for-alpenglow-upgrade-targeting-150-millisecond-finality",
-    "published": "2026-10-14T04:11:16Z",
-    "importance": 3
+    "title": "DeFi Development, Solana varlıklarını büyütme çabaları ortasında CHAD temettüsünü %14'e yükseltti",
+    "summary": "DeFi Development, Solana varlıklarını büyütme çabaları kapsamında CHAD imtiyazlı hissesinin temettü oranını yüzde 13'ten yüzde 14'e yükseltiyor.",
+    "url": "https://www.theblock.co/news/markets/2026-10-15-defi-development-chad-dividend-rate-14-418694",
+    "published": "2026-10-15T15:48:32Z",
+    "importance": 2
    }
   ],
   "STRK": [
@@ -227,8 +220,6 @@
   ]
  },
  "seen": {
-  "https://www.coindesk.com/markets/2026/10/11/president-trump-declares-energy-ceasefire-between-russia-and-ukraine": 1791733807.064225,
-  "https://www.coindesk.com/policy/2026/10/11/clarity-s-failure-could-speed-crypto-innovation-while-shielding-incumbents": 1791735767.153094,
   "https://cointelegraph-tr.com/news/saylors-teases-strategy-bitcoin-buying-after-ending-september-with-strc-buybacks": 1791739300.1785047,
   "https://www.theblock.co/news/ecosystems/2026-10-11-xrp-ledger-patches-decade-old-bug-that-could-have-minted-trillions-of-xrp-418230": 1791743118.3982887,
   "https://www.coindesk.com/policy/2026/10/11/everyone-wants-scotus-to-take-up-prediction-markets-state-of-crypto": 1791744814.9375935,
@@ -399,7 +390,10 @@
   "https://cointelegraph-tr.com/news/nasdaq-tron-200m-atm-offering-fuel-trx-acquisitions": 1792075082.4860203,
   "https://www.theblock.co/news/markets/2026-10-15-bitwise-cio-argues-bitcoin-will-benefit-whether-ai-booms-or-busts-418668": 1792075082.4860203,
   "https://www.coindesk.com/coindesk-indices/2026/10/15/crypto-for-advisors-wall-street-is-done-waiting-on-congress-for-crypto-rules": 1792078736.2170355,
-  "https://www.theblock.co/news/business/2026-10-15-ripple-prime-rwa-swaps-perpetual-futures-hyperliquid-418681": 1792078736.2170355
+  "https://www.theblock.co/news/business/2026-10-15-ripple-prime-rwa-swaps-perpetual-futures-hyperliquid-418681": 1792078736.2170355,
+  "https://www.theblock.co/news/business/2026-10-15-cleanspark-bitfufu-bitcoin-production-slip-september-canaan-remains-flat-418686": 1792082181.490931,
+  "https://www.theblock.co/news/deals/2026-10-15-multiliquid-tokenized-assets-funding-418693": 1792082181.490931,
+  "https://www.theblock.co/news/markets/2026-10-15-defi-development-chad-dividend-rate-14-418694": 1792082181.490931
  },
  "tries": {}
 }
