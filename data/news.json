@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-15T06:47:23Z",
+ "updated": "2026-10-15T07:43:28Z",
  "sources": [
   "coindesk.com",
   "cointelegraph-tr.com",
@@ -29,6 +29,13 @@
     "importance": 4
    },
    {
+    "title": "Bitcoin ETF’leri 261 milyon dolar net çıkış kaydederken XRP fonları haftalık net çıkış trendine karşı koydu",
+    "summary": "Bitcoin ETF’lerinde pazartesiden bu yana 151 milyon dolar net çıkış kaydedildi. Yatırımcılar önceki hafta fonlardan 681 milyon dolar çekmişti.",
+    "url": "https://cointelegraph-tr.com/markets/bitcoin-etf-outflow-btc-below-82k",
+    "published": "2026-10-15T07:23:43Z",
+    "importance": 3
+   },
+   {
     "title": "Bir zamanlar ağın yüzde 2,3'ünü yöneten Bitcoin madencilik havuzu, hash oranının yüzde 65 düşmesinin ardından kapandı",
     "summary": "Bir zamanlar ağın yüzde 2,3'ünü yöneten Bitcoin madencilik havuzu, hash oranının yüzde 65 düşmesinin ardından kapandı.",
     "url": "https://www.coindesk.com/markets/2026/10/15/bitcoin-mining-pool-once-handling-2-3-of-network-shuts-after-hashrate-falls-65",
@@ -54,13 +61,6 @@
     "summary": "K33, Strategy'nin imtiyazlı hisseler yerine adi hisse senedi ihracına güvenerek zaman içinde daha fazla bitcoin biriktirebileceğini savunuyor.",
     "url": "https://www.theblock.co/news/markets/2026-10-14-strategys-preferred-stock-financing-may-cost-it-bitcoin-k33-argues-418543",
     "published": "2026-10-14T13:20:46Z",
-    "importance": 3
-   },
-   {
-    "title": "Bitcoin, altından daha büyük ve “daha az volatil” olacak: “The Bitcoin Standard” yazarı",
-    "summary": "Saifedean Ammous, Bitcoin’in değer saklama aracı olarak tutulduğunda zaten para işlevi gördüğünü savunuyor; olgunlaştıkça altından daha büyük ve daha az volatil olmasını bekliyor.",
-    "url": "https://cointelegraph-tr.com/news/bitcoin-less-volatile-larger-gold-bitcoin-standard-author",
-    "published": "2026-10-14T10:25:53Z",
     "importance": 3
    }
   ],
@@ -158,6 +158,13 @@
     "url": "https://www.coindesk.com/markets/2026/10/15/nearly-usd1-billion-in-crypto-bets-liquidated-as-bitcoin-ether-and-xrp-slide",
     "published": "2026-10-15T04:25:15Z",
     "importance": 4
+   },
+   {
+    "title": "Bitcoin ETF’leri 261 milyon dolar net çıkış kaydederken XRP fonları haftalık net çıkış trendine karşı koydu",
+    "summary": "Bitcoin ETF’lerinde pazartesiden bu yana 151 milyon dolar net çıkış kaydedildi. Yatırımcılar önceki hafta fonlardan 681 milyon dolar çekmişti.",
+    "url": "https://cointelegraph-tr.com/markets/bitcoin-etf-outflow-btc-below-82k",
+    "published": "2026-10-15T07:23:43Z",
+    "importance": 3
    },
    {
     "title": "DriveWealth, stablecoin takası ve sınır ötesi ödemeler için Ripple'ın RLUSD'sini kullanacak",
@@ -328,7 +335,8 @@
   "https://www.coindesk.com/markets/2026/10/15/bitcoin-mining-pool-once-handling-2-3-of-network-shuts-after-hashrate-falls-65": 1792040599.9976184,
   "https://cointelegraph-tr.com/news/australia-seeks-feedback-on-crypto-platform-rules-ahead-of-2027-rollout": 1792042493.148438,
   "https://cointelegraph-tr.com/news/south-korea-cybersecurity-overhaul-crypto-exchanges": 1792044383.199981,
-  "https://www.coindesk.com/markets/2026/10/15/blackrock-s-larry-fink-names-a-u-s-recession-trigger-and-its-tied-to-ai": 1792046843.57745
+  "https://www.coindesk.com/markets/2026/10/15/blackrock-s-larry-fink-names-a-u-s-recession-trigger-and-its-tied-to-ai": 1792046843.57745,
+  "https://cointelegraph-tr.com/markets/bitcoin-etf-outflow-btc-below-82k": 1792050208.8219075
  },
  "tries": {}
 }
