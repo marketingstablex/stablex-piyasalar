@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-15T10:11:04Z",
+ "updated": "2026-10-15T11:05:44Z",
  "sources": [
   "coindesk.com",
   "cointelegraph-tr.com",
@@ -29,6 +29,13 @@
     "importance": 4
    },
    {
+    "title": "Asya hisse senedi düşüşü altcoin'leri aşağı çekerken Bitcoin 80.000 doların üzerinde tutunuyor",
+    "summary": "Asya hisse senedi düşüşü altcoin'leri aşağı çekerken Bitcoin 80.000 doların üzerinde tutunuyor",
+    "url": "https://www.coindesk.com/markets/2026/10/15/bitcoin-holds-above-usd80-000-as-an-asian-stock-rout-drags-altcoins-lower",
+    "published": "2026-10-15T10:52:11Z",
+    "importance": 3
+   },
+   {
     "title": "Tayland’daki kripto ETF’leri yeni kurallara rağmen yavaş başlayabilir: CoinShares",
     "summary": "Tayland’ın yeni Bitcoin ve Ether ETF kuralları cuma günü yürürlüğe giriyor. CoinShares, mevcut yatırım seçeneklerinin talep için rekabet etmesi nedeniyle başlangıçtaki girişlerin mütevazı olmasını bekliyor.",
     "url": "https://cointelegraph-tr.com/news/thailand-crypto-etfs-slow-start-new-rules-coinshares",
@@ -55,16 +62,16 @@
     "url": "https://cointelegraph-tr.com/markets/bitcoin-miners-plunge-up-to-13-in-wall-streets-worst-selloff-since-july",
     "published": "2026-10-15T03:29:22Z",
     "importance": 3
-   },
-   {
-    "title": "Strive, varant kullanımından elde ettiği gelirle 235 milyon dolar değerinde Bitcoin satın aldı",
-    "summary": "Strive, geleneksel varant kullanımından elde ettiği 369,2 milyon dolarlık brüt gelir sonrasında 235 milyon dolar karşılığında 2.822 adet Bitcoin satın aldı.",
-    "url": "https://www.theblock.co/news/business/2026-10-14-strive-buys-235-million-in-bitcoin-warrant-yield-369-million-418556",
-    "published": "2026-10-14T14:32:39Z",
-    "importance": 3
    }
   ],
   "ETH": [
+   {
+    "title": "Starknet, kuantum riskleri nedeniyle olası Ethereum L2 çıkışı için oylama başlattı",
+    "summary": "Starknet, Ethereum'un kuantum güvenliği yükseltmesinin takvimine bağımlılığını azaltmak amacıyla bağımsız bir birinci katman blockchain ağına dönüşmeyi araştırıp araştırmaması gerektiğini STRK sahiplerine soruyor.",
+    "url": "https://cointelegraph-tr.com/news/starknet-vote-ethereum-l2-exit-post-quantum-l1",
+    "published": "2026-10-15T10:22:00Z",
+    "importance": 4
+   },
    {
     "title": "Bitcoin, ether ve XRP düşerken yaklaşık 1 milyar dolar değerinde kripto pozisyonu tasfiye edildi",
     "summary": "Bitcoin, ether ve XRP düşerken yaklaşık 1 milyar dolar değerinde kripto pozisyonu tasfiye edildi.",
@@ -128,6 +135,13 @@
   ],
   "STRK": [
    {
+    "title": "Starknet, kuantum riskleri nedeniyle olası Ethereum L2 çıkışı için oylama başlattı",
+    "summary": "Starknet, Ethereum'un kuantum güvenliği yükseltmesinin takvimine bağımlılığını azaltmak amacıyla bağımsız bir birinci katman blockchain ağına dönüşmeyi araştırıp araştırmaması gerektiğini STRK sahiplerine soruyor.",
+    "url": "https://cointelegraph-tr.com/news/starknet-vote-ethereum-l2-exit-post-quantum-l1",
+    "published": "2026-10-15T10:22:00Z",
+    "importance": 4
+   },
+   {
     "title": "StarkWare, Polymarket kullanıcılarının daha gizli işlem yapmasını sağlayan OffMarket'ı başlattı",
     "summary": "StarkWare, Polymarket kullanıcılarının pozisyonlarını hesaplarına açıkça bağlamadan işlem yapmasına olanak tanıyan OffMarket'ı halka açtı.",
     "url": "https://www.theblock.co/news/ecosystems/2026-10-14-starkware-launches-offmarket-to-let-polymarket-users-trade-more-privately-418567",
@@ -183,7 +197,6 @@
   ]
  },
  "seen": {
-  "https://cointelegraph-tr.com/news/coldcard-says-its-investigating-how-phishing-link-appeared-on-its-x-account": 1791715796.1772492,
   "https://www.coindesk.com/business/2026/10/11/imf-finds-demand-for-tokenized-stocks-says-the-market-is-still-volatile-illiquid": 1791724994.7165349,
   "https://www.coindesk.com/markets/2026/10/11/president-trump-declares-energy-ceasefire-between-russia-and-ukraine": 1791733807.064225,
   "https://www.coindesk.com/policy/2026/10/11/clarity-s-failure-could-speed-crypto-innovation-while-shielding-incumbents": 1791735767.153094,
@@ -338,7 +351,11 @@
   "https://www.coindesk.com/policy/2026/10/15/hex-founder-richard-heart-arrested-in-istanbul-turkish-media-report": 1792057013.855479,
   "https://www.coindesk.com/policy/2026/10/15/hyperliquid-founder-wants-u-s-oversight-of-trading-platforms-not-his-blockchain": 1792059064.9588392,
   "https://www.coindesk.com/policy/2026/10/15/australia-s-financial-watchdog-seeks-stiffer-rules-for-crypto-exchanges-ahead-of-licensing-deadline": 1792059064.9588392,
-  "https://cointelegraph-tr.com/news/thailand-crypto-etfs-slow-start-new-rules-coinshares": 1792059064.9588392
+  "https://cointelegraph-tr.com/news/thailand-crypto-etfs-slow-start-new-rules-coinshares": 1792059064.9588392,
+  "https://www.coindesk.com/markets/2026/10/15/bitcoin-holds-above-usd80-000-as-an-asian-stock-rout-drags-altcoins-lower": 1792062344.9107497,
+  "https://cointelegraph-tr.com/news/white-house-crypto-council-director-steps-down": 1792062344.9107497,
+  "https://cointelegraph-tr.com/news/starknet-vote-ethereum-l2-exit-post-quantum-l1": 1792062344.9107497,
+  "https://www.coindesk.com/business/2026/10/15/live-updates-bitcoin-back-under-usd81-000-as-ai-selloff-worsens": 1792062344.9107497
  },
  "tries": {}
 }
