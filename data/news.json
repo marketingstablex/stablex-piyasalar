@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-15T07:43:28Z",
+ "updated": "2026-10-15T08:37:45Z",
  "sources": [
   "coindesk.com",
   "cointelegraph-tr.com",
@@ -117,13 +117,6 @@
     "url": "https://www.coindesk.com/tech/2026/10/14/solana-sets-oct-21-for-alpenglow-upgrade-targeting-150-millisecond-finality",
     "published": "2026-10-14T04:11:16Z",
     "importance": 3
-   },
-   {
-    "title": "Solana ve BNB Chain’de tokenleştirilmiş hisse senedi işlemlerinin çoğu ABD piyasa saatleri dışında gerçekleşiyor",
-    "summary": "Tokenleştirilmiş hisse senetlerinin değeri, yatırımcıların Wall Street saatleri dışında günün her saati erişimi benimsemesiyle yaklaşık 3,3 milyar dolara ulaştı.",
-    "url": "https://cointelegraph-tr.com/news/tokenized-stocks-after-hours-trading-solana-bnb-chain",
-    "published": "2026-10-13T19:48:06Z",
-    "importance": 3
    }
   ],
   "STRK": [
@@ -183,7 +176,6 @@
   ]
  },
  "seen": {
-  "https://cointelegraph-tr.com/news/cftc-proposals-aimed-at-separating-prediction-markets-from-casino-gambling": 1791705005.8088388,
   "https://cointelegraph-tr.com/news/ledger-confirms-unauthorized-hardware-implant-losses-may-exceed-86m": 1791710569.2234833,
   "https://cointelegraph-tr.com/news/coldcard-says-its-investigating-how-phishing-link-appeared-on-its-x-account": 1791715796.1772492,
   "https://www.coindesk.com/business/2026/10/11/imf-finds-demand-for-tokenized-stocks-says-the-market-is-still-volatile-illiquid": 1791724994.7165349,
