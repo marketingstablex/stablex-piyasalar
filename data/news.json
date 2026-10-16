@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-16T23:01:17Z",
+ "updated": "2026-10-16T23:28:27Z",
  "sources": [
   "coindesk.com",
   "cointelegraph-tr.com",
@@ -113,13 +113,6 @@
    }
   ],
   "USDC": [
-   {
-    "title": "EBA, Circle'ın USDC'sini AB'nin ilk 'önemli' elektronik para token'ı olarak belirledi",
-    "summary": "Avrupa Bankacılık Otoritesi (EBA), Circle'ın USDC'sini Avrupa Birliği'nin ilk 'önemli' elektronik para token'ı olarak sınıflandırdı ve yeni denetim sorumlulukları 12 Kasım itibarıyla başladı.",
-    "url": "https://www.theblock.co/news/regulation/2026-10-15-eba-designates-circles-usdc-as-the-eus-first-significant-e-money-token-418637",
-    "published": "2026-10-15T11:10:07Z",
-    "importance": 4
-   },
    {
     "title": "Circle, USDC gelir dağılımını açıkladı: 2026'nın ilk yarısında ortaklara ve maliyetlere 819 milyon dolar gitti",
     "summary": "Circle, 2026 yılının ilk yarısında yaklaşık 1,4 milyar dolar USDC geliri elde ettiğini açıkladı. Bu gelirin 819 milyon doları ortaklara ve işlem maliyetlerine giderken, 473 milyon doları yeniden yatırıma yönlendirildi.",
