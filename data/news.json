@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-16T14:11:13Z",
+ "updated": "2026-10-16T15:06:17Z",
  "sources": [
   "coindesk.com",
   "cointelegraph-tr.com",
@@ -158,6 +158,13 @@
     "importance": 4
    },
    {
+    "title": "Circle, USDC gelir dağılımını açıkladı: 2026'nın ilk yarısında ortaklara ve maliyetlere 819 milyon dolar gitti",
+    "summary": "Circle, 2026 yılının ilk yarısında yaklaşık 1,4 milyar dolar USDC geliri elde ettiğini açıkladı. Bu gelirin 819 milyon doları ortaklara ve işlem maliyetlerine giderken, 473 milyon doları yeniden yatırıma yönlendirildi.",
+    "url": "https://www.theblock.co/news/business/2026-10-16-circle-usdc-revenue-split-partners-418826",
+    "published": "2026-10-16T14:58:29Z",
+    "importance": 3
+   },
+   {
     "title": "Visa Direct, Inyo Global ile USDC ön finansmanını ticari üretime taşıyor",
     "summary": "Visa Direct, Inyo Global'i ilk ticari sağlayıcısı yaparak USDC ön finansmanını ticari üretime taşıdı.",
     "url": "https://www.theblock.co/news/business/2026-10-16-visa-direct-moves-usdc-prefunding-into-commercial-production-with-inyo-global-418802",
@@ -197,10 +204,6 @@
   ]
  },
  "seen": {
-  "https://cointelegraph-tr.com/news/xrp-treasury-evernorth-rise-nasdaq-opening": 1791815376.893325,
-  "https://cointelegraph-tr.com/news/ledger-implant-bitcoin-etfs-hardware-wallets": 1791815376.893325,
-  "https://www.theblock.co/news/business/2026-10-12-bitmine-eth-holdings-6-million-ether-treasury-418296": 1791815376.893325,
-  "https://www.theblock.co/news/business/2026-10-12-defi-development-sol-holdings-2-59-million-chad-418307": 1791817131.7940001,
   "https://www.coindesk.com/business/2026/10/12/tokenized-catastrophe-bonds-target-the-disaster-insurance-gap": 1791818740.071161,
   "https://www.coindesk.com/business/2026/10/12/tom-lee-sees-usd2-trillion-wealth-transfer-fueling-crypto-demand-as-bitmine-buys-more-ether": 1791820502.825745,
   "https://www.coindesk.com/policy/2026/10/12/palantir-executive-warns-europe-is-missing-the-boat-on-ai-just-like-it-did-with-the-internet": 1791822321.1986668,
@@ -371,7 +374,9 @@
   "https://www.coindesk.com/daybook-us/2026/10/16/traders-will-soon-be-able-to-bet-on-whether-coinbase-robinhood-and-marathon-will-hit-their-targets": 1792150622.3478918,
   "https://cointelegraph-tr.com/news/ledger-early-implant-warnings-mark-karpeles": 1792159873.4448955,
   "https://cointelegraph-tr.com/news/deutsche-bank-crypto-custody-expansion-asia-2027": 1792159873.4448955,
-  "https://www.theblock.co/learn/ethereum/how-ethereum-works-418525": 1792159873.4448955
+  "https://www.theblock.co/learn/ethereum/how-ethereum-works-418525": 1792159873.4448955,
+  "https://www.theblock.co/news/business/2026-10-16-circle-usdc-revenue-split-partners-418826": 1792163177.8088932,
+  "https://www.coindesk.com/opinion/2026/10/16/big-tech-s-ai-auditors-will-only-see-what-they-re-shown": 1792163177.8088932
  },
  "tries": {}
 }
