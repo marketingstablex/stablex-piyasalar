@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-16T06:07:09Z",
+ "updated": "2026-10-16T07:16:40Z",
  "sources": [
   "coindesk.com",
   "cointelegraph-tr.com",
@@ -126,13 +126,6 @@
     "importance": 3
    },
    {
-    "title": "Büyük ortak, hazinesi bir ayda yüzde 70 küçülen SkyAI'a Solana satışları konusunda baskı yapıyor",
-    "summary": "SkyAI şirketinin SOL hazinesi bir aydan kısa sürede yüzde 70 oranında düşerken, 400.000 SOL'ün durumu açıklanamadı. Bastion Trading, hisse başına 3 dolarlık teklifi kabul etmeyerek 3,50 dolar talep ediyor.",
-    "url": "https://www.theblock.co/news/business/2026-10-14-solana-treasury-skyai-bastion-sol-sales-tender-offer-418598",
-    "published": "2026-10-14T18:25:54Z",
-    "importance": 3
-   },
-   {
     "title": "DeFi Development, Solana varlıklarını büyütme çabaları ortasında CHAD temettüsünü %14'e yükseltti",
     "summary": "DeFi Development, Solana varlıklarını büyütme çabaları kapsamında CHAD imtiyazlı hissesinin temettü oranını yüzde 13'ten yüzde 14'e yükseltiyor.",
     "url": "https://www.theblock.co/news/markets/2026-10-15-defi-development-chad-dividend-rate-14-418694",
@@ -199,7 +192,6 @@
   ]
  },
  "seen": {
-  "https://cointelegraph-tr.com/news/fsb-stablecoin-ai-risks-g20-finance-meeting": 1791788717.1970956,
   "https://www.coindesk.com/tech/2026/10/12/ledger-says-unauthorized-implant-found-in-at-least-one-device-sold-by-cryptobilis": 1791791783.4076877,
   "https://cointelegraph-tr.com/news/south-korea-jeonbuk-bank-bitcoin-backed-business-loans": 1791795365.283051,
   "https://www.coindesk.com/tech/2026/10/12/why-a-bug-that-could-have-threatened-xrp-s-100-billion-supply-cap-stayed-hidden-for-years": 1791795365.283051,
