@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-16T11:04:37Z",
+ "updated": "2026-10-16T11:37:02Z",
  "sources": [
   "coindesk.com",
   "cointelegraph-tr.com",
@@ -126,6 +126,13 @@
     "importance": 3
    },
    {
+    "title": "Solana’dan Liu: Şanghay etkinliği kayıtların artması üzerine ertelendi",
+    "summary": "Solana Vakfı Başkanı Lily Liu, kayıtların bir gecede dört katına çıkarak yerel makamlara bildirilen katılım sınırını aştığını belirtti.",
+    "url": "https://cointelegraph-tr.com/news/solana-shanghai-postponed-exceeding-event-cap",
+    "published": "2026-10-16T11:22:47Z",
+    "importance": 2
+   },
+   {
     "title": "DeFi Development, Solana varlıklarını büyütme çabaları ortasında CHAD temettüsünü %14'e yükseltti",
     "summary": "DeFi Development, Solana varlıklarını büyütme çabaları kapsamında CHAD imtiyazlı hissesinin temettü oranını yüzde 13'ten yüzde 14'e yükseltiyor.",
     "url": "https://www.theblock.co/news/markets/2026-10-15-defi-development-chad-dividend-rate-14-418694",
@@ -158,6 +165,13 @@
     "url": "https://www.theblock.co/news/regulation/2026-10-15-eba-designates-circles-usdc-as-the-eus-first-significant-e-money-token-418637",
     "published": "2026-10-15T11:10:07Z",
     "importance": 4
+   },
+   {
+    "title": "Visa Direct, Inyo Global ile USDC ön finansmanını ticari üretime taşıyor",
+    "summary": "Visa Direct, Inyo Global'i ilk ticari sağlayıcısı yaparak USDC ön finansmanını ticari üretime taşıdı.",
+    "url": "https://www.theblock.co/news/business/2026-10-16-visa-direct-moves-usdc-prefunding-into-commercial-production-with-inyo-global-418802",
+    "published": "2026-10-16T11:25:12Z",
+    "importance": 3
    }
   ],
   "XRP": [
@@ -192,9 +206,6 @@
   ]
  },
  "seen": {
-  "https://www.coindesk.com/markets/2026/10/12/bitcoin-holds-usd83-000-as-dollar-strength-keeps-markets-on-edge": 1791804378.26469,
-  "https://www.coindesk.com/policy/2026/10/12/global-financial-watchdog-calls-for-cross-border-information-sharing-planning-for-stablecoin-crisis": 1791804378.26469,
-  "https://www.coindesk.com/business/2026/10/12/south-korea-just-got-its-first-traditional-bank-loans-backed-by-bitcoin": 1791804378.26469,
   "https://cointelegraph-tr.com/news/michael-saylor-strategy-250-btc-buy": 1791808918.962741,
   "https://www.theblock.co/news/business/2026-10-12-theres-always-room-for-more-orange-michael-saylors-strategy-scoops-up-another-250-bitcoin-for-21-5-million-as-holdings-reach-848250-btc-418275": 1791808918.962741,
   "https://www.coindesk.com/business/2026/10/12/standard-chartered-offers-rlusd-custody-in-dubai-and-plans-lmax-collateral-link": 1791808918.962741,
@@ -367,7 +378,11 @@
   "https://www.coindesk.com/business/2026/10/16/elon-musk-s-flying-roadster-reveal-sent-tesla-crypto-trading-into-overdrive-while-stock-markets-were-closed": 1792148677.5104089,
   "https://www.coindesk.com/markets/2026/10/16/altcoins-outpace-bitcoin-as-celestia-jumps-16-warsh-silent-on-interest-rate-plans": 1792148677.5104089,
   "https://www.coindesk.com/business/2026/10/16/scammer-gets-scammed-in-ledger-spy-chip-exploit-loses-almost-usd5-million-in-bitcoin": 1792148677.5104089,
-  "https://www.theblock.co/news/web3/2026-10-16-google-quantum-computing-breakthrough-418787": 1792148677.5104089
+  "https://www.theblock.co/news/web3/2026-10-16-google-quantum-computing-breakthrough-418787": 1792148677.5104089,
+  "https://www.theblock.co/news/business/2026-10-16-openai-says-research-model-spent-another-wallets-testnet-eth-without-authorization-on-coding-task-418798": 1792150622.3478918,
+  "https://www.theblock.co/news/business/2026-10-16-visa-direct-moves-usdc-prefunding-into-commercial-production-with-inyo-global-418802": 1792150622.3478918,
+  "https://cointelegraph-tr.com/news/solana-shanghai-postponed-exceeding-event-cap": 1792150622.3478918,
+  "https://www.coindesk.com/daybook-us/2026/10/16/traders-will-soon-be-able-to-bet-on-whether-coinbase-robinhood-and-marathon-will-hit-their-targets": 1792150622.3478918
  },
  "tries": {}
 }
