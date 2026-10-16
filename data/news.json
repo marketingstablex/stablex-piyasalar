@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-16T02:38:03Z",
+ "updated": "2026-10-16T03:34:00Z",
  "sources": [
   "coindesk.com",
   "cointelegraph-tr.com",
@@ -133,13 +133,6 @@
     "url": "https://cointelegraph-tr.com/news/starknet-vote-ethereum-l2-exit-post-quantum-l1",
     "published": "2026-10-15T10:22:00Z",
     "importance": 4
-   },
-   {
-    "title": "StarkWare, Polymarket kullanıcılarının daha gizli işlem yapmasını sağlayan OffMarket'ı başlattı",
-    "summary": "StarkWare, Polymarket kullanıcılarının pozisyonlarını hesaplarına açıkça bağlamadan işlem yapmasına olanak tanıyan OffMarket'ı halka açtı.",
-    "url": "https://www.theblock.co/news/ecosystems/2026-10-14-starkware-launches-offmarket-to-let-polymarket-users-trade-more-privately-418567",
-    "published": "2026-10-14T15:00:00Z",
-    "importance": 3
    }
   ],
   "TRX": [
