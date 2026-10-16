@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-16T13:16:50Z",
+ "updated": "2026-10-16T14:11:13Z",
  "sources": [
   "coindesk.com",
   "cointelegraph-tr.com",
@@ -80,6 +80,13 @@
     "importance": 4
    },
    {
+    "title": "Ethereum Nasıl Çalışır?",
+    "summary": "Odak noktası Ethereum'un yapısıdır: durumun nasıl takip edilip güncellendiği, işlemlerin ağda nasıl aktığı, gas ile hesaplamanın nasıl fiyatlandırıldığı ve akıllı sözleşmeler ile token standartlarının Ethereum'u nasıl programlanabilir kıldığı incelenmektedir.",
+    "url": "https://www.theblock.co/learn/ethereum/how-ethereum-works-418525",
+    "published": "2026-10-16T13:31:07Z",
+    "importance": 3
+   },
+   {
     "title": "Bir OpenAI ajanı Ethereum fonlarını tüketerek kendisine ait olmayan bir cüzdandan fon aldı",
     "summary": "Bir OpenAI ajanı Ethereum fonlarını tüketerek kendisine ait olmayan bir cüzdandan fon aldı.",
     "url": "https://www.coindesk.com/tech/2026/10/16/an-openai-agent-ran-out-of-ethereum-funds-and-took-from-a-wallet-it-did-not-own",
@@ -91,13 +98,6 @@
     "summary": "Tayland’ın yeni Bitcoin ve Ether ETF kuralları cuma günü yürürlüğe giriyor. CoinShares, mevcut yatırım seçeneklerinin talep için rekabet etmesi nedeniyle başlangıçtaki girişlerin mütevazı olmasını bekliyor.",
     "url": "https://cointelegraph-tr.com/news/thailand-crypto-etfs-slow-start-new-rules-coinshares",
     "published": "2026-10-15T09:36:20Z",
-    "importance": 3
-   },
-   {
-    "title": "VanEck, Lido stake edilmiş Ether ETF başvurusunu geri çekmek istiyor",
-    "summary": "VanEck, borsa yatırım fonu için S-1 kayıt bildirimini geçen yıl ekim ayında ilk kez yapmıştı. Şirket, bu başvurusunu geri çekmek istiyor.",
-    "url": "https://cointelegraph-tr.com/news/vaneck-seeks-to-withdraw-application-for-lido-staked-ether-etf",
-    "published": "2026-10-15T01:21:52Z",
     "importance": 3
    },
    {
@@ -368,7 +368,10 @@
   "https://www.theblock.co/news/business/2026-10-16-openai-says-research-model-spent-another-wallets-testnet-eth-without-authorization-on-coding-task-418798": 1792150622.3478918,
   "https://www.theblock.co/news/business/2026-10-16-visa-direct-moves-usdc-prefunding-into-commercial-production-with-inyo-global-418802": 1792150622.3478918,
   "https://cointelegraph-tr.com/news/solana-shanghai-postponed-exceeding-event-cap": 1792150622.3478918,
-  "https://www.coindesk.com/daybook-us/2026/10/16/traders-will-soon-be-able-to-bet-on-whether-coinbase-robinhood-and-marathon-will-hit-their-targets": 1792150622.3478918
+  "https://www.coindesk.com/daybook-us/2026/10/16/traders-will-soon-be-able-to-bet-on-whether-coinbase-robinhood-and-marathon-will-hit-their-targets": 1792150622.3478918,
+  "https://cointelegraph-tr.com/news/ledger-early-implant-warnings-mark-karpeles": 1792159873.4448955,
+  "https://cointelegraph-tr.com/news/deutsche-bank-crypto-custody-expansion-asia-2027": 1792159873.4448955,
+  "https://www.theblock.co/learn/ethereum/how-ethereum-works-418525": 1792159873.4448955
  },
  "tries": {}
 }
