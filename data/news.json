@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-16T16:34:30Z",
+ "updated": "2026-10-16T17:07:54Z",
  "sources": [
   "coindesk.com",
   "cointelegraph-tr.com",
@@ -7,13 +7,6 @@
  ],
  "bySymbol": {
   "BTC": [
-   {
-    "title": "Asya hisse senetlerindeki risk iştahsızlığı ile Bitcoin 81.000 doların altına geriledi",
-    "summary": "Asya hisse senetleri Perşembe günü düşüş yaşadı. Sabah işlemlerinde Güney Kore'nin Kospi endeksi yüzde 8 ve Japonya'nın Nikkei 225 endeksi yüzde 5 değer kaybetti.",
-    "url": "https://www.theblock.co/news/markets/2026-10-15-bitcoin-drops-asian-equities-tumble-418623",
-    "published": "2026-10-15T04:38:48Z",
-    "importance": 4
-   },
    {
     "title": "6,4 milyon bitcoin'in gelecekteki kuantum tehdidiyle karşı karşıya olduğu uyarısı üzerine Kuantum İttifakı kuruldu",
     "summary": "6,4 milyon bitcoin'in gelecekteki kuantum tehdidiyle karşı karşıya olduğu uyarısı üzerine Kuantum İttifakı kuruldu.",
