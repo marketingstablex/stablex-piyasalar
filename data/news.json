@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-16T22:03:47Z",
+ "updated": "2026-10-16T22:34:23Z",
  "sources": [
   "coindesk.com",
   "cointelegraph-tr.com",
@@ -59,13 +59,6 @@
   ],
   "ETH": [
    {
-    "title": "Starknet, kuantum riskleri nedeniyle olası Ethereum L2 çıkışı için oylama başlattı",
-    "summary": "Starknet, Ethereum'un kuantum güvenliği yükseltmesinin takvimine bağımlılığını azaltmak amacıyla bağımsız bir birinci katman blockchain ağına dönüşmeyi araştırıp araştırmaması gerektiğini STRK sahiplerine soruyor.",
-    "url": "https://cointelegraph-tr.com/news/starknet-vote-ethereum-l2-exit-post-quantum-l1",
-    "published": "2026-10-15T10:22:00Z",
-    "importance": 4
-   },
-   {
     "title": "Ethereum Nasıl Çalışır?",
     "summary": "Odak noktası Ethereum'un yapısıdır: durumun nasıl takip edilip güncellendiği, işlemlerin ağda nasıl aktığı, gas ile hesaplamanın nasıl fiyatlandırıldığı ve akıllı sözleşmeler ile token standartlarının Ethereum'u nasıl programlanabilir kıldığı incelenmektedir.",
     "url": "https://www.theblock.co/learn/ethereum/how-ethereum-works-418525",
@@ -108,15 +101,6 @@
     "url": "https://www.theblock.co/news/markets/2026-10-15-defi-development-chad-dividend-rate-14-418694",
     "published": "2026-10-15T15:48:32Z",
     "importance": 2
-   }
-  ],
-  "STRK": [
-   {
-    "title": "Starknet, kuantum riskleri nedeniyle olası Ethereum L2 çıkışı için oylama başlattı",
-    "summary": "Starknet, Ethereum'un kuantum güvenliği yükseltmesinin takvimine bağımlılığını azaltmak amacıyla bağımsız bir birinci katman blockchain ağına dönüşmeyi araştırıp araştırmaması gerektiğini STRK sahiplerine soruyor.",
-    "url": "https://cointelegraph-tr.com/news/starknet-vote-ethereum-l2-exit-post-quantum-l1",
-    "published": "2026-10-15T10:22:00Z",
-    "importance": 4
    }
   ],
   "TRX": [
