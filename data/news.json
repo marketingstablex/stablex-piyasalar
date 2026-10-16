@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-16T04:08:15Z",
+ "updated": "2026-10-16T05:05:38Z",
  "sources": [
   "coindesk.com",
   "cointelegraph-tr.com",
@@ -43,13 +43,6 @@
     "importance": 3
    },
    {
-    "title": "Asya hisse senedi düşüşü altcoin'leri aşağı çekerken Bitcoin 80.000 doların üzerinde tutunuyor",
-    "summary": "Asya hisse senedi düşüşü altcoin'leri aşağı çekerken Bitcoin 80.000 doların üzerinde tutunuyor",
-    "url": "https://www.coindesk.com/markets/2026/10/15/bitcoin-holds-above-usd80-000-as-an-asian-stock-rout-drags-altcoins-lower",
-    "published": "2026-10-15T10:52:11Z",
-    "importance": 3
-   },
-   {
     "title": "Tayland’daki kripto ETF’leri yeni kurallara rağmen yavaş başlayabilir: CoinShares",
     "summary": "Tayland’ın yeni Bitcoin ve Ether ETF kuralları cuma günü yürürlüğe giriyor. CoinShares, mevcut yatırım seçeneklerinin talep için rekabet etmesi nedeniyle başlangıçtaki girişlerin mütevazı olmasını bekliyor.",
     "url": "https://cointelegraph-tr.com/news/thailand-crypto-etfs-slow-start-new-rules-coinshares",
@@ -78,6 +71,13 @@
     "url": "https://www.coindesk.com/markets/2026/10/15/nearly-usd1-billion-in-crypto-bets-liquidated-as-bitcoin-ether-and-xrp-slide",
     "published": "2026-10-15T04:25:15Z",
     "importance": 4
+   },
+   {
+    "title": "Bir OpenAI ajanı Ethereum fonlarını tüketerek kendisine ait olmayan bir cüzdandan fon aldı",
+    "summary": "Bir OpenAI ajanı Ethereum fonlarını tüketerek kendisine ait olmayan bir cüzdandan fon aldı.",
+    "url": "https://www.coindesk.com/tech/2026/10/16/an-openai-agent-ran-out-of-ethereum-funds-and-took-from-a-wallet-it-did-not-own",
+    "published": "2026-10-16T04:29:19Z",
+    "importance": 3
    },
    {
     "title": "Tayland’daki kripto ETF’leri yeni kurallara rağmen yavaş başlayabilir: CoinShares",
@@ -151,13 +151,6 @@
     "url": "https://www.theblock.co/news/regulation/2026-10-15-eba-designates-circles-usdc-as-the-eus-first-significant-e-money-token-418637",
     "published": "2026-10-15T11:10:07Z",
     "importance": 4
-   },
-   {
-    "title": "Standard Chartered, işlem hacimleri arttıkça 2 trilyon dolarlık stablecoin tahminini 2030’a erteledi",
-    "summary": "Banka, rezerv getirileri üzerindeki rekabet yoğunlaşırken dört ayrı stablecoin pazarı belirledi. USDC ödemelere ve yapay zeka işlemlerine öncülük ediyor.",
-    "url": "https://cointelegraph-tr.com/news/standard-chartered-stablecoin-forecast-2030-market-growth",
-    "published": "2026-10-14T16:26:31Z",
-    "importance": 3
    }
   ],
   "XRP": [
@@ -185,8 +178,6 @@
   ]
  },
  "seen": {
-  "https://www.coindesk.com/markets/2026/10/12/bitcoin-shrugs-off-etf-outflows-to-trade-above-usd84-000-as-oil-falls": 1791780944.0749052,
-  "https://www.theblock.co/news/regulation/2026-10-12-former-cftc-acting-chair-caroline-pham-onions-418246": 1791780944.0749052,
   "https://cointelegraph-tr.com/news/data-network-to-migrate-to-sui-retire-its-own-chain": 1791782719.4766498,
   "https://cointelegraph-tr.com/news/fsb-stablecoin-ai-risks-g20-finance-meeting": 1791788717.1970956,
   "https://www.coindesk.com/tech/2026/10/12/ledger-says-unauthorized-implant-found-in-at-least-one-device-sold-by-cryptobilis": 1791791783.4076877,
@@ -359,7 +350,9 @@
   "https://www.theblock.co/news/ecosystems/2026-10-15-network-school-acquires-farcaster-from-neynar-418720": 1792101682.2712407,
   "https://www.theblock.co/news/business/2026-10-15-msci-rules-could-exclude-strategy-mstr-from-indexes-418729": 1792103586.0639803,
   "https://cointelegraph-tr.com/news/australia-releases-draft-bill-to-adopt-oecd-crypto-tax-reporting-framework": 1792111400.5956864,
-  "https://cointelegraph-tr.com/news/msci-adopts-index-exclusion-rules-that-could-oust-strategy": 1792114447.2333834
+  "https://cointelegraph-tr.com/news/msci-adopts-index-exclusion-rules-that-could-oust-strategy": 1792114447.2333834,
+  "https://www.coindesk.com/tech/2026/10/16/an-openai-agent-ran-out-of-ethereum-funds-and-took-from-a-wallet-it-did-not-own": 1792127138.8814154,
+  "https://www.coindesk.com/markets/2026/10/16/bitcoin-buyers-snap-up-a-brief-drop-below-usd80-000-as-asian-stocks-rebound": 1792127138.8814154
  },
  "tries": {}
 }
