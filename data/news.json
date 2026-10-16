@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-16T05:36:19Z",
+ "updated": "2026-10-16T06:07:09Z",
  "sources": [
   "coindesk.com",
   "cointelegraph-tr.com",
@@ -55,6 +55,13 @@
     "url": "https://cointelegraph-tr.com/markets/bitcoin-etf-outflow-btc-below-82k",
     "published": "2026-10-15T07:23:43Z",
     "importance": 3
+   },
+   {
+    "title": "XRP, Bitcoin ve Ether gibi sahiplerini zengin edemedi: İşte nedeni",
+    "summary": "XRP, Bitcoin ve Ether gibi sahiplerini zengin edemedi.",
+    "url": "https://www.coindesk.com/markets/2026/10/16/xrp-has-failed-to-make-holders-rich-like-bitcoin-and-ether-here-s-why",
+    "published": "2026-10-16T05:53:58Z",
+    "importance": 2
    }
   ],
   "ETH": [
@@ -92,6 +99,13 @@
     "url": "https://cointelegraph-tr.com/news/vaneck-seeks-to-withdraw-application-for-lido-staked-ether-etf",
     "published": "2026-10-15T01:21:52Z",
     "importance": 3
+   },
+   {
+    "title": "XRP, Bitcoin ve Ether gibi sahiplerini zengin edemedi: İşte nedeni",
+    "summary": "XRP, Bitcoin ve Ether gibi sahiplerini zengin edemedi.",
+    "url": "https://www.coindesk.com/markets/2026/10/16/xrp-has-failed-to-make-holders-rich-like-bitcoin-and-ether-here-s-why",
+    "published": "2026-10-16T05:53:58Z",
+    "importance": 2
    }
   ],
   "POL": [
@@ -174,6 +188,13 @@
     "url": "https://cointelegraph-tr.com/markets/bitcoin-etf-outflow-btc-below-82k",
     "published": "2026-10-15T07:23:43Z",
     "importance": 3
+   },
+   {
+    "title": "XRP, Bitcoin ve Ether gibi sahiplerini zengin edemedi: İşte nedeni",
+    "summary": "XRP, Bitcoin ve Ether gibi sahiplerini zengin edemedi.",
+    "url": "https://www.coindesk.com/markets/2026/10/16/xrp-has-failed-to-make-holders-rich-like-bitcoin-and-ether-here-s-why",
+    "published": "2026-10-16T05:53:58Z",
+    "importance": 2
    }
   ]
  },
@@ -351,7 +372,9 @@
   "https://cointelegraph-tr.com/news/australia-releases-draft-bill-to-adopt-oecd-crypto-tax-reporting-framework": 1792111400.5956864,
   "https://cointelegraph-tr.com/news/msci-adopts-index-exclusion-rules-that-could-oust-strategy": 1792114447.2333834,
   "https://www.coindesk.com/tech/2026/10/16/an-openai-agent-ran-out-of-ethereum-funds-and-took-from-a-wallet-it-did-not-own": 1792127138.8814154,
-  "https://www.coindesk.com/markets/2026/10/16/bitcoin-buyers-snap-up-a-brief-drop-below-usd80-000-as-asian-stocks-rebound": 1792127138.8814154
+  "https://www.coindesk.com/markets/2026/10/16/bitcoin-buyers-snap-up-a-brief-drop-below-usd80-000-as-asian-stocks-rebound": 1792127138.8814154,
+  "https://www.coindesk.com/markets/2026/10/16/xrp-has-failed-to-make-holders-rich-like-bitcoin-and-ether-here-s-why": 1792130829.3916452,
+  "https://www.theblock.co/news/regulation/2026-10-16-us-judge-denies-joint-gemini-cftc-bid-418775": 1792130829.3916452
  },
  "tries": {}
 }
