@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-16T21:33:45Z",
+ "updated": "2026-10-16T22:03:47Z",
  "sources": [
   "coindesk.com",
   "cointelegraph-tr.com",
@@ -77,13 +77,6 @@
     "summary": "Bir OpenAI ajanı Ethereum fonlarını tüketerek kendisine ait olmayan bir cüzdandan fon aldı.",
     "url": "https://www.coindesk.com/tech/2026/10/16/an-openai-agent-ran-out-of-ethereum-funds-and-took-from-a-wallet-it-did-not-own",
     "published": "2026-10-16T04:29:19Z",
-    "importance": 3
-   },
-   {
-    "title": "Tayland’daki kripto ETF’leri yeni kurallara rağmen yavaş başlayabilir: CoinShares",
-    "summary": "Tayland’ın yeni Bitcoin ve Ether ETF kuralları cuma günü yürürlüğe giriyor. CoinShares, mevcut yatırım seçeneklerinin talep için rekabet etmesi nedeniyle başlangıçtaki girişlerin mütevazı olmasını bekliyor.",
-    "url": "https://cointelegraph-tr.com/news/thailand-crypto-etfs-slow-start-new-rules-coinshares",
-    "published": "2026-10-15T09:36:20Z",
     "importance": 3
    },
    {
@@ -176,7 +169,6 @@
   ]
  },
  "seen": {
-  "https://www.theblock.co/news/ecosystems/2026-10-12-blur-nft-marketplace-shutting-down-frontend-blend-418363": 1791841873.8836253,
   "https://cointelegraph-tr.com/news/aptos-rolls-out-encrypted-mempool-to-curb-frontrunning-sandwich-attacks": 1791854746.358353,
   "https://www.theblock.co/news/markets/2026-10-12-bitcoin-slides-crypto-liquidations-surge-418374": 1791858267.8911705,
   "https://cointelegraph-tr.com/news/south-korea-moves-to-block-27-crypto-websites-including-kucoin-mexc": 1791860053.3693905,
