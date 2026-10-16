@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-16T15:38:34Z",
+ "updated": "2026-10-16T16:34:30Z",
  "sources": [
   "coindesk.com",
   "cointelegraph-tr.com",
@@ -12,13 +12,6 @@
     "summary": "Asya hisse senetleri Perşembe günü düşüş yaşadı. Sabah işlemlerinde Güney Kore'nin Kospi endeksi yüzde 8 ve Japonya'nın Nikkei 225 endeksi yüzde 5 değer kaybetti.",
     "url": "https://www.theblock.co/news/markets/2026-10-15-bitcoin-drops-asian-equities-tumble-418623",
     "published": "2026-10-15T04:38:48Z",
-    "importance": 4
-   },
-   {
-    "title": "Bitcoin, ether ve XRP düşerken yaklaşık 1 milyar dolar değerinde kripto pozisyonu tasfiye edildi",
-    "summary": "Bitcoin, ether ve XRP düşerken yaklaşık 1 milyar dolar değerinde kripto pozisyonu tasfiye edildi.",
-    "url": "https://www.coindesk.com/markets/2026/10/15/nearly-usd1-billion-in-crypto-bets-liquidated-as-bitcoin-ether-and-xrp-slide",
-    "published": "2026-10-15T04:25:15Z",
     "importance": 4
    },
    {
@@ -70,13 +63,6 @@
     "summary": "Starknet, Ethereum'un kuantum güvenliği yükseltmesinin takvimine bağımlılığını azaltmak amacıyla bağımsız bir birinci katman blockchain ağına dönüşmeyi araştırıp araştırmaması gerektiğini STRK sahiplerine soruyor.",
     "url": "https://cointelegraph-tr.com/news/starknet-vote-ethereum-l2-exit-post-quantum-l1",
     "published": "2026-10-15T10:22:00Z",
-    "importance": 4
-   },
-   {
-    "title": "Bitcoin, ether ve XRP düşerken yaklaşık 1 milyar dolar değerinde kripto pozisyonu tasfiye edildi",
-    "summary": "Bitcoin, ether ve XRP düşerken yaklaşık 1 milyar dolar değerinde kripto pozisyonu tasfiye edildi.",
-    "url": "https://www.coindesk.com/markets/2026/10/15/nearly-usd1-billion-in-crypto-bets-liquidated-as-bitcoin-ether-and-xrp-slide",
-    "published": "2026-10-15T04:25:15Z",
     "importance": 4
    },
    {
@@ -174,13 +160,6 @@
   ],
   "XRP": [
    {
-    "title": "Bitcoin, ether ve XRP düşerken yaklaşık 1 milyar dolar değerinde kripto pozisyonu tasfiye edildi",
-    "summary": "Bitcoin, ether ve XRP düşerken yaklaşık 1 milyar dolar değerinde kripto pozisyonu tasfiye edildi.",
-    "url": "https://www.coindesk.com/markets/2026/10/15/nearly-usd1-billion-in-crypto-bets-liquidated-as-bitcoin-ether-and-xrp-slide",
-    "published": "2026-10-15T04:25:15Z",
-    "importance": 4
-   },
-   {
     "title": "Ripple Prime, Hyperliquid'de listelenen vadeli işlem sözleşmelerini referans alan RWA takaslarını ekledi",
     "summary": "Ripple Prime, hisse senetleri, ETF'ler, metaller, enerji ve para birimlerine bağlı RWA sürekli takaslarını 7/24 işlem ve takas imkanıyla ekledi.",
     "url": "https://www.theblock.co/news/business/2026-10-15-ripple-prime-rwa-swaps-perpetual-futures-hyperliquid-418681",
@@ -204,8 +183,6 @@
   ]
  },
  "seen": {
-  "https://www.coindesk.com/business/2026/10/12/tom-lee-sees-usd2-trillion-wealth-transfer-fueling-crypto-demand-as-bitmine-buys-more-ether": 1791820502.825745,
-  "https://www.coindesk.com/policy/2026/10/12/palantir-executive-warns-europe-is-missing-the-boat-on-ai-just-like-it-did-with-the-internet": 1791822321.1986668,
   "https://www.theblock.co/news/markets/2026-10-12-stonex-raises-securitize-price-target-tokenized-stocks-418313": 1791825893.1804662,
   "https://cointelegraph-tr.com/news/bitcoin-miners-ai-financing-costs-debt-funding-gap": 1791825893.1804662,
   "https://www.theblock.co/news/business/2026-10-12-binance-ai-trading-interface-global-rollout-418349": 1791831440.0625763,
