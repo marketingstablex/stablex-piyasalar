@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-16T09:07:53Z",
+ "updated": "2026-10-16T10:07:31Z",
  "sources": [
   "coindesk.com",
   "cointelegraph-tr.com",
@@ -20,6 +20,20 @@
     "url": "https://www.coindesk.com/markets/2026/10/15/nearly-usd1-billion-in-crypto-bets-liquidated-as-bitcoin-ether-and-xrp-slide",
     "published": "2026-10-15T04:25:15Z",
     "importance": 4
+   },
+   {
+    "title": "Bitcoin 82.000 doların üzerine çıktı, ETF çıkışları sürerken ZEC %11 yükseldi",
+    "summary": "Bitcoin 82.000 doların üzerine çıktı, ETF çıkışları sürerken ZEC %11 yükseldi.",
+    "url": "https://www.coindesk.com/markets/2026/10/16/live-updates-bitcoin-back-above-usd82-000-zec-jumps-11-as-etf-outflows-continue",
+    "published": "2026-10-16T09:48:14Z",
+    "importance": 3
+   },
+   {
+    "title": "Capital B, bitcoin değer düşüklüğü zararı nedeniyle ilk yarıda net zararını 78 milyon dolara çıkardı",
+    "summary": "Şirket, zararın yaklaşık 67,5 milyon eurosunu (75,9 milyon dolar) ek bir bitcoin değer düşüklüğü masrafına bağladı.",
+    "url": "https://www.theblock.co/news/business/2026-10-16-capital-b-wider-h1-net-loss-418781",
+    "published": "2026-10-16T09:30:21Z",
+    "importance": 3
    },
    {
     "title": "MSCI, Strategy ve Kripto Hazine Firmalarını Hariç Bırakabilecek Endeks Kurallarını Sonuçlandırdı",
@@ -48,20 +62,6 @@
     "url": "https://cointelegraph-tr.com/news/thailand-crypto-etfs-slow-start-new-rules-coinshares",
     "published": "2026-10-15T09:36:20Z",
     "importance": 3
-   },
-   {
-    "title": "Bitcoin ETF’leri 261 milyon dolar net çıkış kaydederken XRP fonları haftalık net çıkış trendine karşı koydu",
-    "summary": "Bitcoin ETF’lerinde pazartesiden bu yana 151 milyon dolar net çıkış kaydedildi. Yatırımcılar önceki hafta fonlardan 681 milyon dolar çekmişti.",
-    "url": "https://cointelegraph-tr.com/markets/bitcoin-etf-outflow-btc-below-82k",
-    "published": "2026-10-15T07:23:43Z",
-    "importance": 3
-   },
-   {
-    "title": "XRP, Bitcoin ve Ether gibi sahiplerini zengin edemedi: İşte nedeni",
-    "summary": "XRP, Bitcoin ve Ether gibi sahiplerini zengin edemedi.",
-    "url": "https://www.coindesk.com/markets/2026/10/16/xrp-has-failed-to-make-holders-rich-like-bitcoin-and-ether-here-s-why",
-    "published": "2026-10-16T05:53:58Z",
-    "importance": 2
    }
   ],
   "ETH": [
@@ -192,10 +192,6 @@
   ]
  },
  "seen": {
-  "https://www.coindesk.com/markets/2026/10/12/u-s-inflation-ethereum-upgrade-talks-crypto-week-ahead": 1791797280.440731,
-  "https://cointelegraph-tr.com/news/kraken-receives-vara-approval-uae-expansion": 1791798963.4420183,
-  "https://www.theblock.co/news/business/2026-10-12-standard-chartered-custody-ripple-rlusd-418258": 1791798963.4420183,
-  "https://cointelegraph-tr.com/news/standard-chartered-rlusd-custody-lmax-deal": 1791798963.4420183,
   "https://www.theblock.co/news/markets/2026-10-12-morgan-stanley-tokenized-equities-q1-2027-418256": 1791800796.8613105,
   "https://www.coindesk.com/business/2026/10/12/swi-raises-usd894-million-to-repurpose-former-ftx-bitcoin-miner-genesis-digital-to-ai": 1791802463.1486435,
   "https://www.coindesk.com/markets/2026/10/12/altcoins-rally-on-thin-trading-as-bitcoin-holds-near-usd84-000": 1791802463.1486435,
@@ -365,7 +361,10 @@
   "https://www.coindesk.com/markets/2026/10/16/xrp-has-failed-to-make-holders-rich-like-bitcoin-and-ether-here-s-why": 1792130829.3916452,
   "https://www.theblock.co/news/regulation/2026-10-16-us-judge-denies-joint-gemini-cftc-bid-418775": 1792130829.3916452,
   "https://cointelegraph-tr.com/news/judge-rejects-cftc-gemini-5m-settlement-reversal": 1792138141.4499419,
-  "https://www.coindesk.com/markets/2026/10/16/msci-approves-rules-that-could-eject-strategy-metaplanet-from-equity-indexes": 1792141673.9246216
+  "https://www.coindesk.com/markets/2026/10/16/msci-approves-rules-that-could-eject-strategy-metaplanet-from-equity-indexes": 1792141673.9246216,
+  "https://www.coindesk.com/markets/2026/10/16/live-updates-bitcoin-back-above-usd82-000-zec-jumps-11-as-etf-outflows-continue": 1792145251.5082242,
+  "https://www.coindesk.com/policy/2026/10/16/u-s-judge-rejects-gemini-s-appeal-to-void-usd5-million-settlement-despite-cftc-backing": 1792145251.5082242,
+  "https://www.theblock.co/news/business/2026-10-16-capital-b-wider-h1-net-loss-418781": 1792145251.5082242
  },
  "tries": {}
 }
