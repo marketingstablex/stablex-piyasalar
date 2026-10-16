@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-16T05:05:38Z",
+ "updated": "2026-10-16T05:36:19Z",
  "sources": [
   "coindesk.com",
   "cointelegraph-tr.com",
@@ -178,7 +178,6 @@
   ]
  },
  "seen": {
-  "https://cointelegraph-tr.com/news/data-network-to-migrate-to-sui-retire-its-own-chain": 1791782719.4766498,
   "https://cointelegraph-tr.com/news/fsb-stablecoin-ai-risks-g20-finance-meeting": 1791788717.1970956,
   "https://www.coindesk.com/tech/2026/10/12/ledger-says-unauthorized-implant-found-in-at-least-one-device-sold-by-cryptobilis": 1791791783.4076877,
   "https://cointelegraph-tr.com/news/south-korea-jeonbuk-bank-bitcoin-backed-business-loans": 1791795365.283051,
