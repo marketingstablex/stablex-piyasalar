@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-17T10:00:11Z",
+ "updated": "2026-10-17T10:29:44Z",
  "sources": [
   "coindesk.com",
   "cointelegraph-tr.com",
@@ -40,13 +40,6 @@
     "summary": "Şirket, zararın yaklaşık 67,5 milyon eurosunu (75,9 milyon dolar) ek bir bitcoin değer düşüklüğü masrafına bağladı.",
     "url": "https://www.theblock.co/news/business/2026-10-16-capital-b-wider-h1-net-loss-418781",
     "published": "2026-10-16T09:30:21Z",
-    "importance": 3
-   },
-   {
-    "title": "MSCI, Strategy ve Kripto Hazine Firmalarını Hariç Bırakabilecek Endeks Kurallarını Sonuçlandırdı",
-    "summary": "MSCI'ın yeni faaliyet dışı şirket kuralları, Strategy, Metaplanet ve SharpLink gibi firmaların endeks kapsamı dışına çıkmasına neden olabilir. Etkilenen şirketlerin nihai listesinin 11 Kasım'da açıklanması bekleniyor.",
-    "url": "https://www.theblock.co/news/business/2026-10-15-msci-rules-could-exclude-strategy-mstr-from-indexes-418729",
-    "published": "2026-10-15T22:15:56Z",
     "importance": 3
    }
   ],
@@ -109,8 +102,6 @@
   ]
  },
  "seen": {
-  "https://cointelegraph-tr.com/news/mediamarkt-pulls-ledger-wallet-security-incident": 1791887218.1971552,
-  "https://cointelegraph-tr.com/markets/bitcoin-hits-84k-resistance-as-korea-tech-sell-off-sends-kospi-down-74": 1791887218.1971552,
   "https://www.coindesk.com/markets/2026/10/13/live-updates-bitcoin-whipsaws-between-usd81-000-and-usd84-000-as-altcoins-slide": 1791888924.3849795,
   "https://www.coindesk.com/markets/2026/10/13/bitcoin-diverges-from-south-korean-stocks-as-ai-concerns-deepen-the-kospi-selloff": 1791888924.3849795,
   "https://cointelegraph-tr.com/news/what-happened-in-crypto-today": 1791888924.3849795,
@@ -264,7 +255,8 @@
   "https://www.coindesk.com/tech/2026/10/16/satoshi-era-bitcoin-faces-a-bigger-quantum-threat-after-google-s-new-willow-breakthrough": 1792204447.0824494,
   "https://cointelegraph-tr.com/news/bitget-to-discontinue-services-for-some-users-in-one-off-exercise": 1792222457.0029702,
   "https://www.coindesk.com/tech/2026/10/17/wow-it-s-a-real-discovery-claude-cracks-a-25-year-nsa-number-mystery": 1792222457.0029702,
-  "https://cointelegraph-tr.com/news/lagarde-says-euro-area-economy-is-resilient-digital-euro-imminent": 1792227629.5409672
+  "https://cointelegraph-tr.com/news/lagarde-says-euro-area-economy-is-resilient-digital-euro-imminent": 1792227629.5409672,
+  "https://cointelegraph-tr.com/news/circles-allaire-says-stablecoin-issuer-looking-to-enter-40-developing-markets-report": 1792232984.4457798
  },
  "tries": {}
 }
