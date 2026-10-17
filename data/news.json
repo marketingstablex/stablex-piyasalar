@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-17T06:37:29Z",
+ "updated": "2026-10-17T07:34:17Z",
  "sources": [
   "coindesk.com",
   "cointelegraph-tr.com",
@@ -264,7 +264,9 @@
   "https://cointelegraph-tr.com/news/stablecoin-remittances-cost-savings-traditional-transfers": 1792173785.982641,
   "https://www.theblock.co/news/business/2026-10-16-coinbase-to-power-stablecoin-backed-cards-for-marqeta-customers-418833": 1792173785.982641,
   "https://www.theblock.co/news/markets/2026-10-16-strives-bitcoin-buying-spree-earns-27-price-target-hike-td-cowen-418839": 1792182753.7309127,
-  "https://www.coindesk.com/tech/2026/10/16/satoshi-era-bitcoin-faces-a-bigger-quantum-threat-after-google-s-new-willow-breakthrough": 1792204447.0824494
+  "https://www.coindesk.com/tech/2026/10/16/satoshi-era-bitcoin-faces-a-bigger-quantum-threat-after-google-s-new-willow-breakthrough": 1792204447.0824494,
+  "https://cointelegraph-tr.com/news/bitget-to-discontinue-services-for-some-users-in-one-off-exercise": 1792222457.0029702,
+  "https://www.coindesk.com/tech/2026/10/17/wow-it-s-a-real-discovery-claude-cracks-a-25-year-nsa-number-mystery": 1792222457.0029702
  },
  "tries": {}
 }
