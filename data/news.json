@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-17T02:04:09Z",
+ "updated": "2026-10-17T02:34:07Z",
  "sources": [
   "coindesk.com",
   "cointelegraph-tr.com",
@@ -8,17 +8,17 @@
  "bySymbol": {
   "BTC": [
    {
+    "title": "Google'ın Yeni Willow Atılımının Ardından Satoshi Dönemi Bitcoin'i Daha Büyük Bir Kuantum Tehdidiyle Karşı Karşıya",
+    "summary": "Google'ın yeni Willow atılımının ardından Satoshi dönemi Bitcoin'i daha büyük bir kuantum tehdidiyle karşı karşıya.",
+    "url": "https://www.coindesk.com/tech/2026/10/16/satoshi-era-bitcoin-faces-a-bigger-quantum-threat-after-google-s-new-willow-breakthrough",
+    "published": "2026-10-17T02:30:00Z",
+    "importance": 4
+   },
+   {
     "title": "Strive’ın Bitcoin alım hamlesi TD Cowen'dan %27 fiyat hedefi artışı getirdi",
     "summary": "Strive, Bitcoin alımları için yeni bir finansman planlıyor. TD Cowen, varantla ilgili hisse senedi üzerindeki baskının hafifleyeceğini öngörerek şirketin fiyat hedefinde yüzde 27'lik bir artış gerçekleştirdi.",
     "url": "https://www.theblock.co/news/markets/2026-10-16-strives-bitcoin-buying-spree-earns-27-price-target-hike-td-cowen-418839",
     "published": "2026-10-16T20:22:57Z",
-    "importance": 3
-   },
-   {
-    "title": "6,4 milyon bitcoin'in gelecekteki kuantum tehdidiyle karşı karşıya olduğu uyarısı üzerine Kuantum İttifakı kuruldu",
-    "summary": "6,4 milyon bitcoin'in gelecekteki kuantum tehdidiyle karşı karşıya olduğu uyarısı üzerine Kuantum İttifakı kuruldu.",
-    "url": "https://www.coindesk.com/tech/2026/10/16/experts-agree-quantum-computers-could-put-satoshi-s-bitcoin-at-risk-but-not-on-what-s-next",
-    "published": "2026-10-16T10:52:26Z",
     "importance": 3
    },
    {
@@ -89,15 +89,6 @@
     "importance": 2
    }
   ],
-  "TRX": [
-   {
-    "title": "Nasdaq’ta listelenen Tron, TRX alımlarını finanse etmek için 200 milyon dolarlık ATM hisse arzı başlattı",
-    "summary": "Nasdaq’ta listelenen bir hazine şirketi yaklaşık 237 milyon dolar değerinde TRX token’ı elinde bulunduruyor. Şirket, günlük birikiminin yanı sıra TRX alımlarını finanse etmek amacıyla ek sermaye artırmayı hedefliyor.",
-    "url": "https://cointelegraph-tr.com/news/nasdaq-tron-200m-atm-offering-fuel-trx-acquisitions",
-    "published": "2026-10-15T14:16:55Z",
-    "importance": 3
-   }
-  ],
   "USDC": [
    {
     "title": "Circle, USDC gelir dağılımını açıkladı: 2026'nın ilk yarısında ortaklara ve maliyetlere 819 milyon dolar gitti",
@@ -132,7 +123,6 @@
   ]
  },
  "seen": {
-  "https://www.theblock.co/news/markets/2026-10-12-bitcoin-slides-crypto-liquidations-surge-418374": 1791858267.8911705,
   "https://cointelegraph-tr.com/news/south-korea-moves-to-block-27-crypto-websites-including-kucoin-mexc": 1791860053.3693905,
   "https://www.theblock.co/news/markets/2026-10-13-bitcoin-whale-moves-378-million-418383": 1791865562.0476425,
   "https://www.coindesk.com/markets/2026/10/13/bitcoin-rebounds-above-usd83-000-as-it-decouples-from-tumbling-korean-stocks-and-nasdaq-futures": 1791865562.0476425,
@@ -296,7 +286,8 @@
   "https://www.coindesk.com/opinion/2026/10/16/big-tech-s-ai-auditors-will-only-see-what-they-re-shown": 1792163177.8088932,
   "https://cointelegraph-tr.com/news/stablecoin-remittances-cost-savings-traditional-transfers": 1792173785.982641,
   "https://www.theblock.co/news/business/2026-10-16-coinbase-to-power-stablecoin-backed-cards-for-marqeta-customers-418833": 1792173785.982641,
-  "https://www.theblock.co/news/markets/2026-10-16-strives-bitcoin-buying-spree-earns-27-price-target-hike-td-cowen-418839": 1792182753.7309127
+  "https://www.theblock.co/news/markets/2026-10-16-strives-bitcoin-buying-spree-earns-27-price-target-hike-td-cowen-418839": 1792182753.7309127,
+  "https://www.coindesk.com/tech/2026/10/16/satoshi-era-bitcoin-faces-a-bigger-quantum-threat-after-google-s-new-willow-breakthrough": 1792204447.0824494
  },
  "tries": {}
 }
