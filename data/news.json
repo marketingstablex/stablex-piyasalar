@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-17T17:28:22Z",
+ "updated": "2026-10-17T17:55:16Z",
  "sources": [
   "coindesk.com",
   "cointelegraph-tr.com",
@@ -57,13 +57,6 @@
     "url": "https://www.theblock.co/learn/ethereum/how-ethereum-works-418525",
     "published": "2026-10-16T13:31:07Z",
     "importance": 3
-   },
-   {
-    "title": "XRP, Bitcoin ve Ether gibi sahiplerini zengin edemedi: İşte nedeni",
-    "summary": "XRP, Bitcoin ve Ether gibi sahiplerini zengin edemedi.",
-    "url": "https://www.coindesk.com/markets/2026/10/16/xrp-has-failed-to-make-holders-rich-like-bitcoin-and-ether-here-s-why",
-    "published": "2026-10-16T05:53:58Z",
-    "importance": 2
    }
   ],
   "POL": [
@@ -105,15 +98,6 @@
     "url": "https://www.theblock.co/news/business/2026-10-16-visa-direct-moves-usdc-prefunding-into-commercial-production-with-inyo-global-418802",
     "published": "2026-10-16T11:25:12Z",
     "importance": 3
-   }
-  ],
-  "XRP": [
-   {
-    "title": "XRP, Bitcoin ve Ether gibi sahiplerini zengin edemedi: İşte nedeni",
-    "summary": "XRP, Bitcoin ve Ether gibi sahiplerini zengin edemedi.",
-    "url": "https://www.coindesk.com/markets/2026/10/16/xrp-has-failed-to-make-holders-rich-like-bitcoin-and-ether-here-s-why",
-    "published": "2026-10-16T05:53:58Z",
-    "importance": 2
    }
   ]
  },
