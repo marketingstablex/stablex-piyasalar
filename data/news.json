@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-17T12:35:42Z",
+ "updated": "2026-10-17T13:10:52Z",
  "sources": [
   "coindesk.com",
   "cointelegraph-tr.com",
@@ -74,6 +74,13 @@
    }
   ],
   "SOL": [
+   {
+    "title": "Solana dayanıklılık gösteriyor ancak Fidelity bazı alanların izlenmesi gerektiğini belirtiyor",
+    "summary": "Bir rapora göre Solana, son iki yıldır hiçbir ana ağ kesintisi yaşamadı. Ancak stake, barındırma ve istemci yazılımındaki yoğunlaşmaların izlenmesi gerektiği belirtiliyor.",
+    "url": "https://cointelegraph-tr.com/news/solana-shows-resilience-but-some-areas-need-continued-observation-fidelity-says",
+    "published": "2026-10-17T12:58:03Z",
+    "importance": 3
+   },
    {
     "title": "Solana’dan Liu: Şanghay etkinliği kayıtların artması üzerine ertelendi",
     "summary": "Solana Vakfı Başkanı Lily Liu, kayıtların bir gecede dört katına çıkarak yerel makamlara bildirilen katılım sınırını aştığını belirtti.",
@@ -254,7 +261,8 @@
   "https://cointelegraph-tr.com/news/lagarde-says-euro-area-economy-is-resilient-digital-euro-imminent": 1792227629.5409672,
   "https://cointelegraph-tr.com/news/circles-allaire-says-stablecoin-issuer-looking-to-enter-40-developing-markets-report": 1792232984.4457798,
   "https://cointelegraph-tr.com/news/what-happened-in-crypto-today": 1792234682.00988,
-  "https://www.coindesk.com/business/2026/10/14/banks-could-slow-stablecoin-growth-by-paying-savers-more-bis-paper-finds": 1792240542.3326523
+  "https://www.coindesk.com/business/2026/10/14/banks-could-slow-stablecoin-growth-by-paying-savers-more-bis-paper-finds": 1792240542.3326523,
+  "https://cointelegraph-tr.com/news/solana-shows-resilience-but-some-areas-need-continued-observation-fidelity-says": 1792242652.5562975
  },
  "tries": {}
 }
