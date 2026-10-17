@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-17T16:59:29Z",
+ "updated": "2026-10-17T17:28:22Z",
  "sources": [
   "coindesk.com",
   "cointelegraph-tr.com",
@@ -118,7 +118,6 @@
   ]
  },
  "seen": {
-  "https://cointelegraph-tr.com/news/sec-leadership-facilitate-crypto-rulemaking": 1791912287.0011837,
   "https://cointelegraph-tr.com/news/trezor-preventative-steps-wallet-tampering-reports": 1791920297.7403476,
   "https://cointelegraph-tr.com/news/tokenized-stocks-after-hours-trading-solana-bnb-chain": 1791923768.4019048,
   "https://www.coindesk.com/business/2026/10/13/bny-citadel-securities-test-tokenized-u-s-treasuries-to-speed-up-wall-street-financing": 1791928951.814077,
@@ -255,7 +254,8 @@
   "https://www.coindesk.com/business/2026/10/14/banks-could-slow-stablecoin-growth-by-paying-savers-more-bis-paper-finds": 1792240542.3326523,
   "https://cointelegraph-tr.com/news/solana-shows-resilience-but-some-areas-need-continued-observation-fidelity-says": 1792242652.5562975,
   "https://www.coindesk.com/business/2026/10/17/polygon-sees-coinme-acquisition-as-entry-to-payments-sector-dominated-by-visa-stripe": 1792247355.7487876,
-  "https://www.coindesk.com/business/2026/10/17/citrini-sees-a-tokenization-boom-the-harder-question-is-who-profits": 1792250967.4758086
+  "https://www.coindesk.com/business/2026/10/17/citrini-sees-a-tokenization-boom-the-harder-question-is-who-profits": 1792250967.4758086,
+  "https://www.coindesk.com/business/2026/10/17/goldman-wells-fargo-morgan-stanley-see-tokenization-as-a-growth-play-not-a-threat": 1792258102.1351435
  },
  "tries": {}
 }
