@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-17T09:00:29Z",
+ "updated": "2026-10-17T09:30:36Z",
  "sources": [
   "coindesk.com",
   "cointelegraph-tr.com",
@@ -109,8 +109,6 @@
   ]
  },
  "seen": {
-  "https://www.coindesk.com/policy/2026/10/13/u-k-court-ruling-boosts-government-s-chances-of-keeping-gbp3-8-billion-seized-bitcoin": 1791883644.0358868,
-  "https://cointelegraph-tr.com/news/uk-court-chinese-law-61k-bitcoin-fraud-victims": 1791883644.0358868,
   "https://www.coindesk.com/tech/2026/10/13/ledger-says-spy-chip-inside-cryptobilis-ledger-devices-transmitted-wallet-keys-over-mobile-network": 1791885271.226903,
   "https://cointelegraph-tr.com/news/mediamarkt-pulls-ledger-wallet-security-incident": 1791887218.1971552,
   "https://cointelegraph-tr.com/markets/bitcoin-hits-84k-resistance-as-korea-tech-sell-off-sends-kospi-down-74": 1791887218.1971552,
