@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-17T00:44:18Z",
+ "updated": "2026-10-17T01:32:55Z",
  "sources": [
   "coindesk.com",
   "cointelegraph-tr.com",
@@ -139,7 +139,6 @@
   ]
  },
  "seen": {
-  "https://cointelegraph-tr.com/news/aptos-rolls-out-encrypted-mempool-to-curb-frontrunning-sandwich-attacks": 1791854746.358353,
   "https://www.theblock.co/news/markets/2026-10-12-bitcoin-slides-crypto-liquidations-surge-418374": 1791858267.8911705,
   "https://cointelegraph-tr.com/news/south-korea-moves-to-block-27-crypto-websites-including-kucoin-mexc": 1791860053.3693905,
   "https://www.theblock.co/news/markets/2026-10-13-bitcoin-whale-moves-378-million-418383": 1791865562.0476425,
