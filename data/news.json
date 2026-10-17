@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-17T19:55:59Z",
+ "updated": "2026-10-17T20:30:36Z",
  "sources": [
   "coindesk.com",
   "cointelegraph-tr.com",
@@ -239,7 +239,8 @@
   "https://www.coindesk.com/business/2026/10/17/polygon-sees-coinme-acquisition-as-entry-to-payments-sector-dominated-by-visa-stripe": 1792247355.7487876,
   "https://www.coindesk.com/business/2026/10/17/citrini-sees-a-tokenization-boom-the-harder-question-is-who-profits": 1792250967.4758086,
   "https://www.coindesk.com/business/2026/10/17/goldman-wells-fargo-morgan-stanley-see-tokenization-as-a-growth-play-not-a-threat": 1792258102.1351435,
-  "https://www.theblock.co/news/regulation/2026-10-17-turkey-confirms-hex-founder-richard-hearts-arrest-says-police-seized-7-15-million-and-six-cold-wallets-418852": 1792261968.4498076
+  "https://www.theblock.co/news/regulation/2026-10-17-turkey-confirms-hex-founder-richard-hearts-arrest-says-police-seized-7-15-million-and-six-cold-wallets-418852": 1792261968.4498076,
+  "https://www.theblock.co/news/markets/2026-10-17-coreweave-broadcom-verizon-among-nine-companies-objecting-to-tokenized-trading-of-their-shares-on-okxice-418859": 1792269036.3459778
  },
  "tries": {}
 }
