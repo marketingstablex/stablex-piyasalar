@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-17T05:31:52Z",
+ "updated": "2026-10-17T05:59:43Z",
  "sources": [
   "coindesk.com",
   "cointelegraph-tr.com",
@@ -109,11 +109,6 @@
   ]
  },
  "seen": {
-  "https://www.coindesk.com/markets/2026/10/13/bitcoin-whale-that-sat-through-the-march-2020-crash-moves-usd378-million": 1791870824.479726,
-  "https://www.theblock.co/news/business/2026-10-13-binance-vip-head-hedge-funds-exploring-arbitrage-418389": 1791870824.479726,
-  "https://cointelegraph-tr.com/news/blur-is-shutting-down-its-website-so-why-are-nft-collectors-cheering": 1791870824.479726,
-  "https://www.coindesk.com/markets/2026/10/13/tokenized-sandisk-bets-saw-more-liquidations-than-xrp-as-asia-s-chip-rout-wipes-out-usd800-million": 1791870824.479726,
-  "https://cointelegraph-tr.com/news/binance-shut-down-crypto-mining-pool-november": 1791870824.479726,
   "https://www.coindesk.com/policy/2026/10/13/u-k-court-ruling-boosts-government-s-chances-of-keeping-gbp3-8-billion-seized-bitcoin": 1791883644.0358868,
   "https://cointelegraph-tr.com/news/uk-court-chinese-law-61k-bitcoin-fraud-victims": 1791883644.0358868,
   "https://www.coindesk.com/tech/2026/10/13/ledger-says-spy-chip-inside-cryptobilis-ledger-devices-transmitted-wallet-keys-over-mobile-network": 1791885271.226903,
