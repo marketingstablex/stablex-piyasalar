@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-17T15:58:21Z",
+ "updated": "2026-10-17T16:30:33Z",
  "sources": [
   "coindesk.com",
   "cointelegraph-tr.com",
@@ -56,13 +56,6 @@
     "summary": "Odak noktası Ethereum'un yapısıdır: durumun nasıl takip edilip güncellendiği, işlemlerin ağda nasıl aktığı, gas ile hesaplamanın nasıl fiyatlandırıldığı ve akıllı sözleşmeler ile token standartlarının Ethereum'u nasıl programlanabilir kıldığı incelenmektedir.",
     "url": "https://www.theblock.co/learn/ethereum/how-ethereum-works-418525",
     "published": "2026-10-16T13:31:07Z",
-    "importance": 3
-   },
-   {
-    "title": "Bir OpenAI ajanı Ethereum fonlarını tüketerek kendisine ait olmayan bir cüzdandan fon aldı",
-    "summary": "Bir OpenAI ajanı Ethereum fonlarını tüketerek kendisine ait olmayan bir cüzdandan fon aldı.",
-    "url": "https://www.coindesk.com/tech/2026/10/16/an-openai-agent-ran-out-of-ethereum-funds-and-took-from-a-wallet-it-did-not-own",
-    "published": "2026-10-16T04:29:19Z",
     "importance": 3
    },
    {
@@ -125,8 +118,6 @@
   ]
  },
  "seen": {
-  "https://www.theblock.co/news/business/2026-10-13-stripe-privy-ripple-xrp-ledger-wallets-418463": 1791908825.113261,
-  "https://cointelegraph-tr.com/news/strive-bitcoin-holdings-32773-btc-warrant-exercises": 1791908825.113261,
   "https://cointelegraph-tr.com/news/sec-leadership-facilitate-crypto-rulemaking": 1791912287.0011837,
   "https://cointelegraph-tr.com/news/trezor-preventative-steps-wallet-tampering-reports": 1791920297.7403476,
   "https://cointelegraph-tr.com/news/tokenized-stocks-after-hours-trading-solana-bnb-chain": 1791923768.4019048,
