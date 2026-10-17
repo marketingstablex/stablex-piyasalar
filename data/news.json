@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-17T22:55:40Z",
+ "updated": "2026-10-17T23:26:29Z",
  "sources": [
   "coindesk.com",
   "cointelegraph-tr.com",
@@ -54,13 +54,6 @@
     "url": "https://cointelegraph-tr.com/news/solana-shows-resilience-but-some-areas-need-continued-observation-fidelity-says",
     "published": "2026-10-17T12:58:03Z",
     "importance": 3
-   },
-   {
-    "title": "Solana’dan Liu: Şanghay etkinliği kayıtların artması üzerine ertelendi",
-    "summary": "Solana Vakfı Başkanı Lily Liu, kayıtların bir gecede dört katına çıkarak yerel makamlara bildirilen katılım sınırını aştığını belirtti.",
-    "url": "https://cointelegraph-tr.com/news/solana-shanghai-postponed-exceeding-event-cap",
-    "published": "2026-10-16T11:22:47Z",
-    "importance": 2
    }
   ],
   "USDC": [
@@ -69,13 +62,6 @@
     "summary": "Circle, 2026 yılının ilk yarısında yaklaşık 1,4 milyar dolar USDC geliri elde ettiğini açıkladı. Bu gelirin 819 milyon doları ortaklara ve işlem maliyetlerine giderken, 473 milyon doları yeniden yatırıma yönlendirildi.",
     "url": "https://www.theblock.co/news/business/2026-10-16-circle-usdc-revenue-split-partners-418826",
     "published": "2026-10-16T14:58:29Z",
-    "importance": 3
-   },
-   {
-    "title": "Visa Direct, Inyo Global ile USDC ön finansmanını ticari üretime taşıyor",
-    "summary": "Visa Direct, Inyo Global'i ilk ticari sağlayıcısı yaparak USDC ön finansmanını ticari üretime taşıdı.",
-    "url": "https://www.theblock.co/news/business/2026-10-16-visa-direct-moves-usdc-prefunding-into-commercial-production-with-inyo-global-418802",
-    "published": "2026-10-16T11:25:12Z",
     "importance": 3
    }
   ]
