@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-17T19:27:55Z",
+ "updated": "2026-10-17T19:55:59Z",
  "sources": [
   "coindesk.com",
   "cointelegraph-tr.com",
@@ -102,7 +102,6 @@
   ]
  },
  "seen": {
-  "https://cointelegraph-tr.com/news/trezor-preventative-steps-wallet-tampering-reports": 1791920297.7403476,
   "https://cointelegraph-tr.com/news/tokenized-stocks-after-hours-trading-solana-bnb-chain": 1791923768.4019048,
   "https://www.coindesk.com/business/2026/10/13/bny-citadel-securities-test-tokenized-u-s-treasuries-to-speed-up-wall-street-financing": 1791928951.814077,
   "https://www.coindesk.com/markets/2026/10/13/strive-to-ipo-second-preferred-share-class-as-it-looks-to-further-build-bitcoin-treasury": 1791934190.1251338,
