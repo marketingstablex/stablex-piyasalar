@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-18T11:29:13Z",
+ "updated": "2026-10-18T11:57:18Z",
  "sources": [
   "coindesk.com",
   "cointelegraph-tr.com",
@@ -35,8 +35,6 @@
   ]
  },
  "seen": {
-  "https://www.coindesk.com/daybook-us/2026/10/14/here-s-how-analysts-see-u-s-inflation-influencing-bitcoin": 1791977950.421913,
-  "https://www.coindesk.com/policy/2026/10/14/dutch-regulator-approves-qivalis-as-electronic-money-institution-under-mica-rules": 1791977950.421913,
   "https://www.coindesk.com/markets/2026/10/14/u-s-september-cpi-comes-in-hot-sending-bitcoin-sharply-lower": 1791981754.7890108,
   "https://cointelegraph-tr.com/news/krakens-parent-buy-lithuanian-saldo-bank-tradfi-expansion": 1791981754.7890108,
   "https://www.theblock.co/news/deals/2026-10-14-evernorth-taps-ripple-kraken-coinbase-bitgo-xrp-treasury-work-418503": 1791981754.7890108,
