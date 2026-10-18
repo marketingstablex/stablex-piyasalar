@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-18T13:59:13Z",
+ "updated": "2026-10-18T14:29:37Z",
  "sources": [
   "coindesk.com",
   "cointelegraph-tr.com",
@@ -153,7 +153,8 @@
   "https://www.coindesk.com/business/2026/10/14/crypto-exchanges-binance-coinbase-join-west-africa-scam-sweep-that-flagged-usd11-million": 1792326947.8998346,
   "https://www.coindesk.com/markets/2026/10/18/bitcoin-s-usd100-000-year-end-hope-divides-analysts-as-inflation-clouds-outlook": 1792329091.8315377,
   "https://www.coindesk.com/tech/2026/10/18/crypto-audits-give-investors-false-sense-of-security-as-q3-hacks-cost-usd1-18-billion-hacken-says": 1792329091.8315377,
-  "https://cointelegraph-tr.com/news/most-americans-polled-oppose-betting-on-elections-reuters": 1792331953.3802238
+  "https://cointelegraph-tr.com/news/most-americans-polled-oppose-betting-on-elections-reuters": 1792331953.3802238,
+  "https://www.coindesk.com/business/2026/10/18/stablecoin-supply-stalls-but-payments-jump-45-as-visa-mastercard-and-stripe-connect-crypto-to-cash": 1792333777.9855072
  },
  "tries": {}
 }
