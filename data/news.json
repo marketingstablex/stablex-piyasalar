@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-18T02:34:38Z",
+ "updated": "2026-10-18T03:04:17Z",
  "sources": [
   "coindesk.com",
   "cointelegraph-tr.com",
@@ -46,19 +46,9 @@
     "published": "2026-10-17T12:58:03Z",
     "importance": 3
    }
-  ],
-  "USDC": [
-   {
-    "title": "Circle, USDC gelir dağılımını açıkladı: 2026'nın ilk yarısında ortaklara ve maliyetlere 819 milyon dolar gitti",
-    "summary": "Circle, 2026 yılının ilk yarısında yaklaşık 1,4 milyar dolar USDC geliri elde ettiğini açıkladı. Bu gelirin 819 milyon doları ortaklara ve işlem maliyetlerine giderken, 473 milyon doları yeniden yatırıma yönlendirildi.",
-    "url": "https://www.theblock.co/news/business/2026-10-16-circle-usdc-revenue-split-partners-418826",
-    "published": "2026-10-16T14:58:29Z",
-    "importance": 3
-   }
   ]
  },
  "seen": {
-  "https://cointelegraph-tr.com/markets/bitwises-hougan-says-q3-charts-point-to-crypto-spring": 1791945312.0731924,
   "https://www.theblock.co/news/ecosystems/2026-10-13-coinbase-bitcoin-post-quantum-migration-418509": 1791947153.6131203,
   "https://www.coindesk.com/tech/2026/10/14/solana-sets-oct-21-for-alpenglow-upgrade-targeting-150-millisecond-finality": 1791952595.2502334,
   "https://www.coindesk.com/markets/2026/10/14/bitcoin-climbs-toward-usd84-000-after-fed-s-williams-sees-no-rate-hikes-in-2027": 1791952595.2502334,
