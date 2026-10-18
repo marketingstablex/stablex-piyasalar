@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-18T22:57:37Z",
+ "updated": "2026-10-18T23:27:28Z",
  "sources": [
   "coindesk.com",
   "cointelegraph-tr.com",
@@ -47,6 +47,15 @@
     "url": "https://cointelegraph-tr.com/news/solana-shows-resilience-but-some-areas-need-continued-observation-fidelity-says",
     "published": "2026-10-17T12:58:03Z",
     "importance": 3
+   }
+  ],
+  "STRK": [
+   {
+    "title": "Richard Heart gafil avlandı, QDay daha da yaklaşıyor: Hodler’s Digest",
+    "summary": "HEX’in kurucusu Richard Heart İstanbul’da düzenlenen baskında gözaltına alındı. Starknet, L1’e dönüşmek için yapılan oylama sırasında yaklaşık yüzde 50 değer kaybetti. Bitwise ise tüm işaretlerin Kripto Baharı’na işaret ettiğini belirtiyor.",
+    "url": "https://cointelegraph-tr.com/magazine/richard-heart-caught-with-pants-down-qday-gets-even-closer-hodlers-digest",
+    "published": "2026-10-18T22:58:17Z",
+    "importance": 4
    }
   ]
  },
@@ -150,7 +159,8 @@
   "https://www.coindesk.com/policy/2026/10/18/latvia-eyes-crypto-tax-payments-in-2027-as-parliament-overhauls-crypto-taxation": 1792341063.116699,
   "https://www.coindesk.com/markets/2026/10/18/wall-street-freaked-out-friday-vix-and-bitcoin-say-it-may-not-last": 1792342809.9507086,
   "https://www.coindesk.com/policy/2026/10/18/the-white-house-s-crypto-chief-departs-state-of-crypto": 1792348396.720453,
-  "https://www.theblock.co/news/regulation/2026-10-18-crypto-com-novig-sue-missouri-over-sports-event-contracts-kalshi-polymarket-robinhood-hold-off-418866": 1792353324.6531873
+  "https://www.theblock.co/news/regulation/2026-10-18-crypto-com-novig-sue-missouri-over-sports-event-contracts-kalshi-polymarket-robinhood-hold-off-418866": 1792353324.6531873,
+  "https://cointelegraph-tr.com/magazine/richard-heart-caught-with-pants-down-qday-gets-even-closer-hodlers-digest": 1792366048.6428044
  },
  "tries": {}
 }
