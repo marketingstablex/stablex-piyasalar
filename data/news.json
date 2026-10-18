@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-18T11:57:18Z",
+ "updated": "2026-10-18T12:35:47Z",
  "sources": [
   "coindesk.com",
   "cointelegraph-tr.com",
@@ -154,7 +154,8 @@
   "https://cointelegraph-tr.com/news/tether-backs-aisa-as-strategic-investor-completing-seed-extension-round": 1792305401.4641669,
   "https://www.coindesk.com/markets/2026/10/18/chip-stock-bets-lost-usd52-million-in-10-minutes-with-wall-street-shut": 1792307745.2321858,
   "https://cointelegraph-tr.com/news/chinese-suspect-in-75m-international-crime-network-arrested-in-bangkok": 1792315840.9159467,
-  "https://cointelegraph-tr.com/news/cysic-crypto-bridge-halted-after-unauthorized-mint-of-10m-cys": 1792321116.7595096
+  "https://cointelegraph-tr.com/news/cysic-crypto-bridge-halted-after-unauthorized-mint-of-10m-cys": 1792321116.7595096,
+  "https://www.coindesk.com/business/2026/10/14/crypto-exchanges-binance-coinbase-join-west-africa-scam-sweep-that-flagged-usd11-million": 1792326947.8998346
  },
  "tries": {}
 }
