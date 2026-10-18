@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-18T06:02:02Z",
+ "updated": "2026-10-18T06:36:41Z",
  "sources": [
   "coindesk.com",
   "cointelegraph-tr.com",
@@ -49,10 +49,6 @@
   ]
  },
  "seen": {
-  "https://www.coindesk.com/tech/2026/10/14/coinbase-which-holds-5-of-all-bitcoin-wants-the-quantum-fix-started-now": 1791957823.5486298,
-  "https://cointelegraph-tr.com/news/starknet-introduces-wallet-privacy-feature-for-defi-activity": 1791957823.5486298,
-  "https://cointelegraph-tr.com/markets/feds-williams-sees-ai-supply-squeeze-lasting-beyond-2-years": 1791957823.5486298,
-  "https://www.coindesk.com/tech/2026/10/14/ripple-adds-stripe-owned-wallets-to-xrp-ledger-as-ai-payments-pass-14-million": 1791957823.5486298,
   "https://www.coindesk.com/business/2026/10/14/standard-chartered-unlocks-direct-bitcoin-and-ether-trading-for-affluent-uae-clients": 1791967032.5247598,
   "https://www.coindesk.com/policy/2026/10/14/proposed-french-tax-on-regulated-stablecoins-could-drive-crypto-traders-offshore": 1791970572.687017,
   "https://www.coindesk.com/business/2026/10/14/live-updates-bitcoin-tumbles-from-near-usd84-000-ahead-of-u-s-inflation-data": 1791972615.8629756,
@@ -179,7 +175,8 @@
   "https://www.coindesk.com/business/2026/10/17/goldman-wells-fargo-morgan-stanley-see-tokenization-as-a-growth-play-not-a-threat": 1792258102.1351435,
   "https://www.theblock.co/news/regulation/2026-10-17-turkey-confirms-hex-founder-richard-hearts-arrest-says-police-seized-7-15-million-and-six-cold-wallets-418852": 1792261968.4498076,
   "https://www.theblock.co/news/markets/2026-10-17-coreweave-broadcom-verizon-among-nine-companies-objecting-to-tokenized-trading-of-their-shares-on-okxice-418859": 1792269036.3459778,
-  "https://www.coindesk.com/business/2026/10/17/circle-defends-usdc-economics-as-stablecoin-rivals-court-its-partners-with-bigger-cut": 1792287219.3896756
+  "https://www.coindesk.com/business/2026/10/17/circle-defends-usdc-economics-as-stablecoin-rivals-court-its-partners-with-bigger-cut": 1792287219.3896756,
+  "https://cointelegraph-tr.com/news/tether-backs-aisa-as-strategic-investor-completing-seed-extension-round": 1792305401.4641669
  },
  "tries": {}
 }
