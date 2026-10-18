@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-18T17:55:40Z",
+ "updated": "2026-10-18T18:33:16Z",
  "sources": [
   "coindesk.com",
   "cointelegraph-tr.com",
@@ -51,8 +51,6 @@
   ]
  },
  "seen": {
-  "https://cointelegraph-tr.com/news/fbi-brooklyn-crypto-scam-112-servers-241-websites": 1792001181.4219496,
-  "https://www.theblock.co/news/regulation/2026-10-14-youre-committing-crime-broad-daylight-kalshi-ceo-defends-prediction-markets-insider-trading-concerns-418601": 1792001181.4219496,
   "https://www.theblock.co/news/business/2026-10-14-solana-treasury-skyai-bastion-sol-sales-tender-offer-418598": 1792003583.2694566,
   "https://www.theblock.co/news/regulation/2026-10-14-white-house-crypto-adviser-patrick-witt-departs-418611": 1792009936.504284,
   "https://cointelegraph-tr.com/news/cci-ba-fight-illinois-crypto-tax-pause": 1792011880.7717884,
@@ -153,7 +151,8 @@
   "https://www.coindesk.com/business/2026/10/18/stablecoin-supply-stalls-but-payments-jump-45-as-visa-mastercard-and-stripe-connect-crypto-to-cash": 1792333777.9855072,
   "https://www.theblock.co/news/defi/2026-10-18-cysic-suspends-bridge-after-attacker-mints-tokens-and-moves-727000-to-ethereum-418863": 1792341063.116699,
   "https://www.coindesk.com/policy/2026/10/18/latvia-eyes-crypto-tax-payments-in-2027-as-parliament-overhauls-crypto-taxation": 1792341063.116699,
-  "https://www.coindesk.com/markets/2026/10/18/wall-street-freaked-out-friday-vix-and-bitcoin-say-it-may-not-last": 1792342809.9507086
+  "https://www.coindesk.com/markets/2026/10/18/wall-street-freaked-out-friday-vix-and-bitcoin-say-it-may-not-last": 1792342809.9507086,
+  "https://www.coindesk.com/policy/2026/10/18/the-white-house-s-crypto-chief-departs-state-of-crypto": 1792348396.720453
  },
  "tries": {}
 }
