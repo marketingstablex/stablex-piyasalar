@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-18T00:43:46Z",
+ "updated": "2026-10-18T01:33:39Z",
  "sources": [
   "coindesk.com",
   "cointelegraph-tr.com",
@@ -27,15 +27,6 @@
     "url": "https://cointelegraph-tr.com/news/what-happened-in-crypto-today",
     "published": "2026-10-16T19:17:04Z",
     "importance": 2
-   }
-  ],
-  "ETH": [
-   {
-    "title": "Ethereum Nasıl Çalışır?",
-    "summary": "Odak noktası Ethereum'un yapısıdır: durumun nasıl takip edilip güncellendiği, işlemlerin ağda nasıl aktığı, gas ile hesaplamanın nasıl fiyatlandırıldığı ve akıllı sözleşmeler ile token standartlarının Ethereum'u nasıl programlanabilir kıldığı incelenmektedir.",
-    "url": "https://www.theblock.co/learn/ethereum/how-ethereum-works-418525",
-    "published": "2026-10-16T13:31:07Z",
-    "importance": 3
    }
   ],
   "POL": [
@@ -201,7 +192,8 @@
   "https://www.coindesk.com/business/2026/10/17/citrini-sees-a-tokenization-boom-the-harder-question-is-who-profits": 1792250967.4758086,
   "https://www.coindesk.com/business/2026/10/17/goldman-wells-fargo-morgan-stanley-see-tokenization-as-a-growth-play-not-a-threat": 1792258102.1351435,
   "https://www.theblock.co/news/regulation/2026-10-17-turkey-confirms-hex-founder-richard-hearts-arrest-says-police-seized-7-15-million-and-six-cold-wallets-418852": 1792261968.4498076,
-  "https://www.theblock.co/news/markets/2026-10-17-coreweave-broadcom-verizon-among-nine-companies-objecting-to-tokenized-trading-of-their-shares-on-okxice-418859": 1792269036.3459778
+  "https://www.theblock.co/news/markets/2026-10-17-coreweave-broadcom-verizon-among-nine-companies-objecting-to-tokenized-trading-of-their-shares-on-okxice-418859": 1792269036.3459778,
+  "https://www.coindesk.com/business/2026/10/17/circle-defends-usdc-economics-as-stablecoin-rivals-court-its-partners-with-bigger-cut": 1792287219.3896756
  },
  "tries": {}
 }
