@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-18T14:29:37Z",
+ "updated": "2026-10-18T14:58:10Z",
  "sources": [
   "coindesk.com",
   "cointelegraph-tr.com",
@@ -7,13 +7,6 @@
  ],
  "bySymbol": {
   "BTC": [
-   {
-    "title": "Google'ın Yeni Willow Atılımının Ardından Satoshi Dönemi Bitcoin'i Daha Büyük Bir Kuantum Tehdidiyle Karşı Karşıya",
-    "summary": "Google'ın yeni Willow atılımının ardından Satoshi dönemi Bitcoin'i daha büyük bir kuantum tehdidiyle karşı karşıya.",
-    "url": "https://www.coindesk.com/tech/2026/10/16/satoshi-era-bitcoin-faces-a-bigger-quantum-threat-after-google-s-new-willow-breakthrough",
-    "published": "2026-10-17T02:30:00Z",
-    "importance": 4
-   },
    {
     "title": "Enflasyon görünümü gölgelerken Bitcoin’in yıl sonu 100.000 dolar umudu analistleri böldü",
     "summary": "Enflasyon görünümü gölgelerken Bitcoin’in yıl sonu 100.000 dolar umudu analistleri böldü",
@@ -42,10 +35,6 @@
   ]
  },
  "seen": {
-  "https://www.theblock.co/news/business/2026-10-14-strive-buys-235-million-in-bitcoin-warrant-yield-369-million-418556": 1791988562.435739,
-  "https://www.coindesk.com/markets/2026/10/14/blackrock-s-crypto-etf-assets-surge-63-but-remain-far-below-2025-peak": 1791988562.435739,
-  "https://www.coindesk.com/business/2026/10/14/former-ftx-europe-chief-targets-u-s-stock-tokenization-with-new-sec-exemption": 1791988562.435739,
-  "https://www.coindesk.com/opinion/2026/10/14/the-battle-over-the-ratepayer-protection-act-is-just-getting-started": 1791988562.435739,
   "https://www.coindesk.com/coindesk-indices/2026/10/14/crypto-long-and-short-why-gold-and-bitcoin-belong-in-the-same-portfolio": 1791990580.6648293,
   "https://www.theblock.co/news/ecosystems/2026-10-14-starkware-launches-offmarket-to-let-polymarket-users-trade-more-privately-418567": 1791990580.6648293,
   "https://www.coindesk.com/business/2026/10/14/easya-hits-usd1-1-billion-valuation-targets-2027-public-listing-and-tokenized-shares": 1791990580.6648293,
