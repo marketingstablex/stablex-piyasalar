@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-18T20:29:43Z",
+ "updated": "2026-10-18T20:58:41Z",
  "sources": [
   "coindesk.com",
   "cointelegraph-tr.com",
@@ -51,7 +51,6 @@
   ]
  },
  "seen": {
-  "https://www.theblock.co/news/regulation/2026-10-14-white-house-crypto-adviser-patrick-witt-departs-418611": 1792009936.504284,
   "https://cointelegraph-tr.com/news/cci-ba-fight-illinois-crypto-tax-pause": 1792011880.7717884,
   "https://cointelegraph-tr.com/news/vaneck-seeks-to-withdraw-application-for-lido-staked-ether-etf": 1792028070.844682,
   "https://cointelegraph-tr.com/news/polygon-gains-us-payments-licenses-after-closing-coinme-deal": 1792028070.844682,
