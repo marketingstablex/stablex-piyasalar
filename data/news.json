@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-18T15:58:31Z",
+ "updated": "2026-10-18T16:31:03Z",
  "sources": [
   "coindesk.com",
   "cointelegraph-tr.com",
@@ -12,6 +12,15 @@
     "summary": "Enflasyon görünümü gölgelerken Bitcoin’in yıl sonu 100.000 dolar umudu analistleri böldü",
     "url": "https://www.coindesk.com/markets/2026/10/18/bitcoin-s-usd100-000-year-end-hope-divides-analysts-as-inflation-clouds-outlook",
     "published": "2026-10-18T13:00:00Z",
+    "importance": 3
+   }
+  ],
+  "ETH": [
+   {
+    "title": "Cysic, bir saldırganın token basıp Ethereum'a 727.000 dolar aktarmasının ardından köprüyü askıya aldı",
+    "summary": "Saldırgan 10 milyon CYS bastıktan sonra Mayan, deBridge ve SWFT'nin Bridgers platformları aracılığıyla yaklaşık 727.000 dolar değerindeki geliri Ethereum'a köprülemeyi başardı.",
+    "url": "https://www.theblock.co/news/defi/2026-10-18-cysic-suspends-bridge-after-attacker-mints-tokens-and-moves-727000-to-ethereum-418863",
+    "published": "2026-10-18T16:07:43Z",
     "importance": 3
    }
   ],
@@ -35,9 +44,6 @@
   ]
  },
  "seen": {
-  "https://www.theblock.co/news/regulation/2026-10-14-hex-pulsechain-founder-richard-heart-detained-istanbul-turkish-media-reports-418574": 1791994273.9366155,
-  "https://www.theblock.co/news/web3/2026-10-14-standard-chartered-stablecoin-market-report-418578": 1791994273.9366155,
-  "https://www.coindesk.com/business/2026/10/14/ai-agents-make-138-million-crypto-payments-as-u-s-dominates-spending-on-ai-models": 1791994273.9366155,
   "https://www.theblock.co/news/markets/2026-10-14-bitcoin-falls-below-82000-core-inflation-fed-rate-hike-418582": 1791997711.2108467,
   "https://www.coindesk.com/policy/2026/10/14/kalshi-ceo-says-state-led-oversight-of-u-s-prediction-markets-would-push-them-out": 1791997711.2108467,
   "https://cointelegraph-tr.com/news/standard-chartered-stablecoin-forecast-2030-market-growth": 1791997711.2108467,
@@ -140,7 +146,9 @@
   "https://www.coindesk.com/markets/2026/10/18/bitcoin-s-usd100-000-year-end-hope-divides-analysts-as-inflation-clouds-outlook": 1792329091.8315377,
   "https://www.coindesk.com/tech/2026/10/18/crypto-audits-give-investors-false-sense-of-security-as-q3-hacks-cost-usd1-18-billion-hacken-says": 1792329091.8315377,
   "https://cointelegraph-tr.com/news/most-americans-polled-oppose-betting-on-elections-reuters": 1792331953.3802238,
-  "https://www.coindesk.com/business/2026/10/18/stablecoin-supply-stalls-but-payments-jump-45-as-visa-mastercard-and-stripe-connect-crypto-to-cash": 1792333777.9855072
+  "https://www.coindesk.com/business/2026/10/18/stablecoin-supply-stalls-but-payments-jump-45-as-visa-mastercard-and-stripe-connect-crypto-to-cash": 1792333777.9855072,
+  "https://www.theblock.co/news/defi/2026-10-18-cysic-suspends-bridge-after-attacker-mints-tokens-and-moves-727000-to-ethereum-418863": 1792341063.116699,
+  "https://www.coindesk.com/policy/2026/10/18/latvia-eyes-crypto-tax-payments-in-2027-as-parliament-overhauls-crypto-taxation": 1792341063.116699
  },
  "tries": {}
 }
