@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-18T10:30:06Z",
+ "updated": "2026-10-18T10:58:36Z",
  "sources": [
   "coindesk.com",
   "cointelegraph-tr.com",
@@ -161,7 +161,8 @@
   "https://www.coindesk.com/business/2026/10/17/circle-defends-usdc-economics-as-stablecoin-rivals-court-its-partners-with-bigger-cut": 1792287219.3896756,
   "https://cointelegraph-tr.com/news/tether-backs-aisa-as-strategic-investor-completing-seed-extension-round": 1792305401.4641669,
   "https://www.coindesk.com/markets/2026/10/18/chip-stock-bets-lost-usd52-million-in-10-minutes-with-wall-street-shut": 1792307745.2321858,
-  "https://cointelegraph-tr.com/news/chinese-suspect-in-75m-international-crime-network-arrested-in-bangkok": 1792315840.9159467
+  "https://cointelegraph-tr.com/news/chinese-suspect-in-75m-international-crime-network-arrested-in-bangkok": 1792315840.9159467,
+  "https://cointelegraph-tr.com/news/cysic-crypto-bridge-halted-after-unauthorized-mint-of-10m-cys": 1792321116.7595096
  },
  "tries": {}
 }
