@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-18T03:04:17Z",
+ "updated": "2026-10-18T03:33:59Z",
  "sources": [
   "coindesk.com",
   "cointelegraph-tr.com",
@@ -49,7 +49,6 @@
   ]
  },
  "seen": {
-  "https://www.theblock.co/news/ecosystems/2026-10-13-coinbase-bitcoin-post-quantum-migration-418509": 1791947153.6131203,
   "https://www.coindesk.com/tech/2026/10/14/solana-sets-oct-21-for-alpenglow-upgrade-targeting-150-millisecond-finality": 1791952595.2502334,
   "https://www.coindesk.com/markets/2026/10/14/bitcoin-climbs-toward-usd84-000-after-fed-s-williams-sees-no-rate-hikes-in-2027": 1791952595.2502334,
   "https://www.coindesk.com/tech/2026/10/14/coinbase-which-holds-5-of-all-bitcoin-wants-the-quantum-fix-started-now": 1791957823.5486298,
