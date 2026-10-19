@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-19T09:40:10Z",
+ "updated": "2026-10-19T10:36:53Z",
  "sources": [
   "coindesk.com",
   "cointelegraph-tr.com",
@@ -20,6 +20,13 @@
     "url": "https://cointelegraph-tr.com/markets/bitcoin-ether-etfs-549-million-weekly-outflows",
     "published": "2026-10-19T07:54:13Z",
     "importance": 4
+   },
+   {
+    "title": "Bitcoin 82.000 Doların Üzerindeki Toparlanmasını Sürdürüyor",
+    "summary": "Hisse senetlerinin toparlanmasıyla birlikte Bitcoin 82.000 doların üzerine çıktı ve DeFi token'ları altcoin kazançlarına öncülük etti.",
+    "url": "https://www.coindesk.com/markets/2026/10/19/bitcoin-extends-bounce-above-usd82-000-as-stocks-rebound-defi-tokens-lead-altcoin-gains",
+    "published": "2026-10-19T10:26:33Z",
+    "importance": 3
    },
    {
     "title": "CME'nin Bitcoin Cash, Uniswap Vadeli İşlemleri ve Küresel PMI'lar: Haftalık Kripto Görünümü",
@@ -118,9 +125,6 @@
   ]
  },
  "seen": {
-  "https://www.coindesk.com/policy/2026/10/15/hyperliquid-founder-wants-u-s-oversight-of-trading-platforms-not-his-blockchain": 1792059064.9588392,
-  "https://www.coindesk.com/policy/2026/10/15/australia-s-financial-watchdog-seeks-stiffer-rules-for-crypto-exchanges-ahead-of-licensing-deadline": 1792059064.9588392,
-  "https://cointelegraph-tr.com/news/thailand-crypto-etfs-slow-start-new-rules-coinshares": 1792059064.9588392,
   "https://www.coindesk.com/markets/2026/10/15/bitcoin-holds-above-usd80-000-as-an-asian-stock-rout-drags-altcoins-lower": 1792062344.9107497,
   "https://cointelegraph-tr.com/news/white-house-crypto-council-director-steps-down": 1792062344.9107497,
   "https://cointelegraph-tr.com/news/starknet-vote-ethereum-l2-exit-post-quantum-l1": 1792062344.9107497,
@@ -221,7 +225,10 @@
   "https://cointelegraph-tr.com/markets/bitcoin-ether-etfs-549-million-weekly-outflows": 1792399392.6340172,
   "https://www.coindesk.com/markets/2026/10/19/crypto-vault-deposits-top-usd10-billion-as-lending-risks-draw-regulatory-scrutiny": 1792402810.629093,
   "https://www.coindesk.com/markets/2026/10/19/cme-s-bitcoin-cash-uniswap-futures-global-pmis-crypto-week-ahead": 1792402810.629093,
-  "https://cointelegraph-tr.com/news/jpmorgan-jpm-coin-ethereum-institutional-clients": 1792402810.629093
+  "https://cointelegraph-tr.com/news/jpmorgan-jpm-coin-ethereum-institutional-clients": 1792402810.629093,
+  "https://www.coindesk.com/markets/2026/10/19/bitcoin-extends-bounce-above-usd82-000-as-stocks-rebound-defi-tokens-lead-altcoin-gains": 1792406213.0153344,
+  "https://cointelegraph-tr.com/news/bingx-youhodler-esma-mica-register-friday-update": 1792406213.0153344,
+  "https://www.coindesk.com/markets/2026/10/19/jpmorgan-s-jpm-coin-representing-dollar-deposits-is-coming-to-ethereum-bloomberg": 1792406213.0153344
  },
  "tries": {}
 }
