@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-19T01:37:21Z",
+ "updated": "2026-10-19T02:33:20Z",
  "sources": [
   "coindesk.com",
   "cointelegraph-tr.com",
@@ -28,15 +28,6 @@
     "summary": "Saldırgan 10 milyon CYS bastıktan sonra Mayan, deBridge ve SWFT'nin Bridgers platformları aracılığıyla yaklaşık 727.000 dolar değerindeki geliri Ethereum'a köprülemeyi başardı.",
     "url": "https://www.theblock.co/news/defi/2026-10-18-cysic-suspends-bridge-after-attacker-mints-tokens-and-moves-727000-to-ethereum-418863",
     "published": "2026-10-18T16:07:43Z",
-    "importance": 3
-   }
-  ],
-  "POL": [
-   {
-    "title": "Polygon, Coinme satın alımını Visa ve Stripe'ın hakim olduğu ödeme sektörüne giriş olarak görüyor",
-    "summary": "Polygon, Coinme satın alımını Visa ve Stripe'ın hakim olduğu ödeme sektörüne giriş olarak görüyor.",
-    "url": "https://www.coindesk.com/business/2026/10/17/polygon-sees-coinme-acquisition-as-entry-to-payments-sector-dominated-by-visa-stripe",
-    "published": "2026-10-17T14:00:00Z",
     "importance": 3
    }
   ],
@@ -161,7 +152,8 @@
   "https://cointelegraph-tr.com/magazine/richard-heart-caught-with-pants-down-qday-gets-even-closer-hodlers-digest": 1792366048.6428044,
   "https://www.coindesk.com/business/2026/10/18/sec-tokenized-stock-framework-faces-issuer-pushback-as-broadcom-verizon-object-to-okx-ice-listing": 1792367709.107883,
   "https://www.theblock.co/news/ecosystems/2026-10-18-world-launches-world-id-suite-banks-418869": 1792373841.1980724,
-  "https://cointelegraph-tr.com/news/qubic-freezes-chain-after-attacker-drains-14k-wallets-with-weak-seeds": 1792373841.1980724
+  "https://cointelegraph-tr.com/news/qubic-freezes-chain-after-attacker-drains-14k-wallets-with-weak-seeds": 1792373841.1980724,
+  "https://www.coindesk.com/business/2026/10/18/deutsche-bank-targets-asia-crypto-custody-expansion-in-2027-as-german-launch-nears": 1792377200.949983
  },
  "tries": {}
 }
