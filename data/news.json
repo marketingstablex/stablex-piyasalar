@@ -1,11 +1,20 @@
 {
- "updated": "2026-10-19T12:09:03Z",
+ "updated": "2026-10-19T13:21:45Z",
  "sources": [
   "coindesk.com",
   "cointelegraph-tr.com",
   "theblock.co"
  ],
  "bySymbol": {
+  "ADA": [
+   {
+    "title": "Cardano kurucusu Charles Hoskinson ağ için yeni bir programlama dili inşa ediyor",
+    "summary": "Cardano kurucusu Charles Hoskinson ağ için yeni bir programlama dili inşa ediyor",
+    "url": "https://www.coindesk.com/tech/2026/10/19/cardano-founder-charles-hoskinson-is-building-a-new-programming-language-for-the-network",
+    "published": "2026-10-19T12:16:58Z",
+    "importance": 2
+   }
+  ],
   "BTC": [
    {
     "title": "JPMorgan, JPM Coin'i kurumsal müşteriler için Ethereum'a taşıyor: Rapor",
@@ -20,6 +29,13 @@
     "url": "https://cointelegraph-tr.com/markets/bitcoin-ether-etfs-549-million-weekly-outflows",
     "published": "2026-10-19T07:54:13Z",
     "importance": 4
+   },
+   {
+    "title": "Strategy 22 milyon dolarlık Bitcoin satın aldı, 193 milyon dolarlık STRC geri alımı yaptı",
+    "summary": "Strategy, varlıklarına 267 Bitcoin eklerken 1,94 milyon STRC hissesini geri aldı ve imtiyazlı hisse geri alım programını 3 milyar dolara çıkardı.",
+    "url": "https://cointelegraph-tr.com/news/strategy-btc-22-million-buy-strc-buyback-193-million",
+    "published": "2026-10-19T12:30:00Z",
+    "importance": 3
    },
    {
     "title": "Strategy, Bitcoin'in yükseliş sinyalinden haftalar sonra altın kesişimin eşiğinde",
@@ -54,13 +70,6 @@
     "summary": "CME'nin bitcoin cash ve uniswap vadeli işlemleri ile küresel PMI'lar haftanın kripto gündeminde yer alıyor.",
     "url": "https://www.coindesk.com/markets/2026/10/19/cme-s-bitcoin-cash-uniswap-futures-global-pmis-crypto-week-ahead",
     "published": "2026-10-19T09:12:39Z",
-    "importance": 3
-   },
-   {
-    "title": "2013 yılında 131 dolardan BTC alan bir Bitcoin balinası 34 milyon dolar değerinde BTC hareket ettirdi",
-    "summary": "2013 yılında bir Bitcoin balinası, coin'ler 131 dolardan işlem görürken edindiği 34 milyon dolar değerinde BTC'yi hareket ettirdi.",
-    "url": "https://www.coindesk.com/markets/2026/10/19/bitcoin-whale-moves-usd34-million-in-btc-it-got-in-2013-when-coins-traded-at-usd131",
-    "published": "2026-10-19T06:23:16Z",
     "importance": 3
    }
   ],
@@ -125,11 +134,6 @@
   ]
  },
  "seen": {
-  "https://www.coindesk.com/business/2026/10/15/how-brooklyn-prosecutors-and-the-fbi-took-down-a-massive-crypto-fraud-network-targeting-russian-speakers": 1792068212.630053,
-  "https://www.theblock.co/news/business/2026-10-15-ledger-atom-solana-mobile-418644": 1792068212.630053,
-  "https://www.coindesk.com/tech/2026/10/15/under-pressure-ledger-unveils-plan-to-turn-its-crypto-hardware-wallet-into-a-smartphone": 1792068212.630053,
-  "https://cointelegraph-tr.com/news/ledger-new-hardware-device-asia-wallet-tampering": 1792068212.630053,
-  "https://cointelegraph-tr.com/news/bitget-liquid-exploits-push-crypto-hacks-near-12b-q3": 1792068212.630053,
   "https://cointelegraph-tr.com/magazine/can-the-sec-and-cftcs-pro-crypto-rules-be-overturned-legal-opinion": 1792071924.180171,
   "https://www.theblock.co/news/business/2026-10-15-helius-ceo-mert-mumtaz-joins-near-foundation-council-418656": 1792071924.180171,
   "https://www.theblock.co/news/ecosystems/2026-10-15-starknet-opens-seven-day-vote-on-independent-layer-1-over-quantum-risks-418673": 1792075082.4860203,
@@ -227,7 +231,10 @@
   "https://www.theblock.co/news/regulation/2026-10-19-revolut-secures-gibraltar-crypto-licence-to-support-international-expansion-plans-418889": 1792408244.8907402,
   "https://cointelegraph-tr.com/markets/stocks-rebound-into-key-tech-earnings-three-things-to-know-in-bitcoin-this-week": 1792408244.8907402,
   "https://www.coindesk.com/tech/2026/10/19/bitcoin-mining-offshoot-nscale-loses-microsoft-ai-deal-as-power-delay-stretches-into-2030s": 1792408244.8907402,
-  "https://www.coindesk.com/daybook-us/2026/10/19/strategy-on-verge-of-golden-cross-just-weeks-after-bitcoin-flashed-same-bullish-signal": 1792411743.5643492
+  "https://www.coindesk.com/daybook-us/2026/10/19/strategy-on-verge-of-golden-cross-just-weeks-after-bitcoin-flashed-same-bullish-signal": 1792411743.5643492,
+  "https://cointelegraph-tr.com/news/strategy-btc-22-million-buy-strc-buyback-193-million": 1792416105.8451633,
+  "https://www.coindesk.com/tech/2026/10/19/cardano-founder-charles-hoskinson-is-building-a-new-programming-language-for-the-network": 1792416105.8451633,
+  "https://www.theblock.co/news/business/2026-10-19-we-found-room-for-more-orange-michael-saylors-strategy-buys-more-bitcoin-418895": 1792416105.8451633
  },
  "tries": {}
 }
