@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-19T05:15:09Z",
+ "updated": "2026-10-19T06:06:59Z",
  "sources": [
   "coindesk.com",
   "cointelegraph-tr.com",
@@ -67,8 +67,6 @@
   ]
  },
  "seen": {
-  "https://cointelegraph-tr.com/news/australia-seeks-feedback-on-crypto-platform-rules-ahead-of-2027-rollout": 1792042493.148438,
-  "https://cointelegraph-tr.com/news/south-korea-cybersecurity-overhaul-crypto-exchanges": 1792044383.199981,
   "https://www.coindesk.com/markets/2026/10/15/blackrock-s-larry-fink-names-a-u-s-recession-trigger-and-its-tied-to-ai": 1792046843.57745,
   "https://cointelegraph-tr.com/markets/bitcoin-etf-outflow-btc-below-82k": 1792050208.8219075,
   "https://www.coindesk.com/policy/2026/10/15/hex-founder-richard-heart-arrested-in-istanbul-turkish-media-report": 1792057013.855479,
@@ -166,7 +164,10 @@
   "https://cointelegraph-tr.com/news/qubic-freezes-chain-after-attacker-drains-14k-wallets-with-weak-seeds": 1792373841.1980724,
   "https://www.coindesk.com/business/2026/10/18/deutsche-bank-targets-asia-crypto-custody-expansion-in-2027-as-german-launch-nears": 1792377200.949983,
   "https://www.coindesk.com/markets/2026/10/19/bitcoin-korea-s-kospi-and-nasdaq-futures-rally-as-china-gdp-beats-estimates": 1792381181.8979695,
-  "https://www.coindesk.com/tech/2026/10/19/xrp-ledger-is-set-to-fix-its-lending-code-before-anyone-can-use-it": 1792386909.0127769
+  "https://www.coindesk.com/tech/2026/10/19/xrp-ledger-is-set-to-fix-its-lending-code-before-anyone-can-use-it": 1792386909.0127769,
+  "https://cointelegraph-tr.com/news/zoom-proof-of-human-badges-world-id-ai-deepfakes": 1792390019.3231852,
+  "https://www.coindesk.com/tech/2026/10/19/zcash-developers-plan-a-fix-to-keep-zec-swaps-private-from-future-quantum-computers": 1792390019.3231852,
+  "https://cointelegraph-tr.com/news/south-korea-to-meet-crypto-exchanges-amid-calls-for-tax-delay": 1792390019.3231852
  },
  "tries": {}
 }
