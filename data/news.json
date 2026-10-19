@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-19T22:07:07Z",
+ "updated": "2026-10-19T22:37:59Z",
  "sources": [
   "coindesk.com",
   "cointelegraph-tr.com",
@@ -159,7 +159,6 @@
   ]
  },
  "seen": {
-  "https://www.theblock.co/news/business/2026-10-15-msci-rules-could-exclude-strategy-mstr-from-indexes-418729": 1792103586.0639803,
   "https://cointelegraph-tr.com/news/australia-releases-draft-bill-to-adopt-oecd-crypto-tax-reporting-framework": 1792111400.5956864,
   "https://cointelegraph-tr.com/news/msci-adopts-index-exclusion-rules-that-could-oust-strategy": 1792114447.2333834,
   "https://www.coindesk.com/tech/2026/10/16/an-openai-agent-ran-out-of-ethereum-funds-and-took-from-a-wallet-it-did-not-own": 1792127138.8814154,
