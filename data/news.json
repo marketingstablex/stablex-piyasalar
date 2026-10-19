@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-19T13:21:45Z",
+ "updated": "2026-10-19T14:18:21Z",
  "sources": [
   "coindesk.com",
   "cointelegraph-tr.com",
@@ -29,6 +29,13 @@
     "url": "https://cointelegraph-tr.com/markets/bitcoin-ether-etfs-549-million-weekly-outflows",
     "published": "2026-10-19T07:54:13Z",
     "importance": 4
+   },
+   {
+    "title": "Strive, 100 milyon dolar karşılığında 1.223 bitcoin daha satın aldı ve toplam varlıkları 36.818 BTC'ye ulaştı",
+    "summary": "Strive, bitcoin başına ortalama 81.734 dolar ödeyerek portföyüne 1.223 BTC daha ekledi. Böylece şirketin toplam varlıkları 36.818 BTC'ye ulaştı.",
+    "url": "https://www.theblock.co/news/business/2026-10-19-strive-scoops-1223-bitcoin-100-million-total-holdings-reach-36818-btc-421020",
+    "published": "2026-10-19T13:45:41Z",
+    "importance": 3
    },
    {
     "title": "Strategy 22 milyon dolarlık Bitcoin satın aldı, 193 milyon dolarlık STRC geri alımı yaptı",
@@ -64,13 +71,6 @@
     "url": "https://cointelegraph-tr.com/markets/stocks-rebound-into-key-tech-earnings-three-things-to-know-in-bitcoin-this-week",
     "published": "2026-10-19T10:20:00Z",
     "importance": 3
-   },
-   {
-    "title": "CME'nin Bitcoin Cash, Uniswap Vadeli İşlemleri ve Küresel PMI'lar: Haftalık Kripto Görünümü",
-    "summary": "CME'nin bitcoin cash ve uniswap vadeli işlemleri ile küresel PMI'lar haftanın kripto gündeminde yer alıyor.",
-    "url": "https://www.coindesk.com/markets/2026/10/19/cme-s-bitcoin-cash-uniswap-futures-global-pmis-crypto-week-ahead",
-    "published": "2026-10-19T09:12:39Z",
-    "importance": 3
    }
   ],
   "ETH": [
@@ -87,6 +87,13 @@
     "url": "https://cointelegraph-tr.com/markets/bitcoin-ether-etfs-549-million-weekly-outflows",
     "published": "2026-10-19T07:54:13Z",
     "importance": 4
+   },
+   {
+    "title": "Bitmine, hazine rezervini 6,04 milyon tokena çıkararak 12.535 ETH ekledi",
+    "summary": "Bitmine geçen hafta 12.535 ETH satın aldı. Bu alımla birlikte şirketin hazinesi 6,04 milyon tokene ve toplam yatırım varlıkları 15,1 milyar dolara yükseldi.",
+    "url": "https://www.theblock.co/news/business/2026-10-19-bitmine-adds-12535-eth-as-treasury-reaches-6-04-million-tokens-421018",
+    "published": "2026-10-19T13:36:46Z",
+    "importance": 3
    },
    {
     "title": "Cysic, bir saldırganın token basıp Ethereum'a 727.000 dolar aktarmasının ardından köprüyü askıya aldı",
@@ -134,8 +141,6 @@
   ]
  },
  "seen": {
-  "https://cointelegraph-tr.com/magazine/can-the-sec-and-cftcs-pro-crypto-rules-be-overturned-legal-opinion": 1792071924.180171,
-  "https://www.theblock.co/news/business/2026-10-15-helius-ceo-mert-mumtaz-joins-near-foundation-council-418656": 1792071924.180171,
   "https://www.theblock.co/news/ecosystems/2026-10-15-starknet-opens-seven-day-vote-on-independent-layer-1-over-quantum-risks-418673": 1792075082.4860203,
   "https://cointelegraph-tr.com/news/russia-ban-p2p-crypto-trades-july-2027": 1792075082.4860203,
   "https://cointelegraph-tr.com/news/nasdaq-tron-200m-atm-offering-fuel-trx-acquisitions": 1792075082.4860203,
@@ -234,7 +239,11 @@
   "https://www.coindesk.com/daybook-us/2026/10/19/strategy-on-verge-of-golden-cross-just-weeks-after-bitcoin-flashed-same-bullish-signal": 1792411743.5643492,
   "https://cointelegraph-tr.com/news/strategy-btc-22-million-buy-strc-buyback-193-million": 1792416105.8451633,
   "https://www.coindesk.com/tech/2026/10/19/cardano-founder-charles-hoskinson-is-building-a-new-programming-language-for-the-network": 1792416105.8451633,
-  "https://www.theblock.co/news/business/2026-10-19-we-found-room-for-more-orange-michael-saylors-strategy-buys-more-bitcoin-418895": 1792416105.8451633
+  "https://www.theblock.co/news/business/2026-10-19-we-found-room-for-more-orange-michael-saylors-strategy-buys-more-bitcoin-418895": 1792416105.8451633,
+  "https://www.theblock.co/news/business/2026-10-19-strive-scoops-1223-bitcoin-100-million-total-holdings-reach-36818-btc-421020": 1792419501.5616815,
+  "https://www.theblock.co/news/business/2026-10-19-bitmine-adds-12535-eth-as-treasury-reaches-6-04-million-tokens-421018": 1792419501.5616815,
+  "https://cointelegraph-tr.com/magazine/made-an-honest-mistake-with-crypto-taxes-new-bill-offers-way-out": 1792419501.5616815,
+  "https://cointelegraph-tr.com/news/public-companies-object-okx-ice-tokenized-stock": 1792419501.5616815
  },
  "tries": {}
 }
