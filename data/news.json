@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-19T06:06:59Z",
+ "updated": "2026-10-19T06:52:19Z",
  "sources": [
   "coindesk.com",
   "cointelegraph-tr.com",
@@ -7,6 +7,13 @@
  ],
  "bySymbol": {
   "BTC": [
+   {
+    "title": "2013 yılında 131 dolardan BTC alan bir Bitcoin balinası 34 milyon dolar değerinde BTC hareket ettirdi",
+    "summary": "2013 yılında bir Bitcoin balinası, coin'ler 131 dolardan işlem görürken edindiği 34 milyon dolar değerinde BTC'yi hareket ettirdi.",
+    "url": "https://www.coindesk.com/markets/2026/10/19/bitcoin-whale-moves-usd34-million-in-btc-it-got-in-2013-when-coins-traded-at-usd131",
+    "published": "2026-10-19T06:23:16Z",
+    "importance": 3
+   },
    {
     "title": "Çin'in GSYİH verilerinin beklentileri aşmasıyla Bitcoin, Kore Kospi ve Nasdaq vadelileri yükseldi",
     "summary": "Çin'in GSYİH verilerinin beklentileri aşmasının ardından Bitcoin, Kore Kospi ve Nasdaq vadelileri yükseliş gösterdi.",
@@ -67,7 +74,6 @@
   ]
  },
  "seen": {
-  "https://www.coindesk.com/markets/2026/10/15/blackrock-s-larry-fink-names-a-u-s-recession-trigger-and-its-tied-to-ai": 1792046843.57745,
   "https://cointelegraph-tr.com/markets/bitcoin-etf-outflow-btc-below-82k": 1792050208.8219075,
   "https://www.coindesk.com/policy/2026/10/15/hex-founder-richard-heart-arrested-in-istanbul-turkish-media-report": 1792057013.855479,
   "https://www.coindesk.com/policy/2026/10/15/hyperliquid-founder-wants-u-s-oversight-of-trading-platforms-not-his-blockchain": 1792059064.9588392,
@@ -167,7 +173,8 @@
   "https://www.coindesk.com/tech/2026/10/19/xrp-ledger-is-set-to-fix-its-lending-code-before-anyone-can-use-it": 1792386909.0127769,
   "https://cointelegraph-tr.com/news/zoom-proof-of-human-badges-world-id-ai-deepfakes": 1792390019.3231852,
   "https://www.coindesk.com/tech/2026/10/19/zcash-developers-plan-a-fix-to-keep-zec-swaps-private-from-future-quantum-computers": 1792390019.3231852,
-  "https://cointelegraph-tr.com/news/south-korea-to-meet-crypto-exchanges-amid-calls-for-tax-delay": 1792390019.3231852
+  "https://cointelegraph-tr.com/news/south-korea-to-meet-crypto-exchanges-amid-calls-for-tax-delay": 1792390019.3231852,
+  "https://www.coindesk.com/markets/2026/10/19/bitcoin-whale-moves-usd34-million-in-btc-it-got-in-2013-when-coins-traded-at-usd131": 1792392739.6688478
  },
  "tries": {}
 }
