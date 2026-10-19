@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-19T08:43:12Z",
+ "updated": "2026-10-19T09:40:10Z",
  "sources": [
   "coindesk.com",
   "cointelegraph-tr.com",
@@ -8,6 +8,13 @@
  "bySymbol": {
   "BTC": [
    {
+    "title": "JPMorgan, JPM Coin'i kurumsal müşteriler için Ethereum'a taşıyor: Rapor",
+    "summary": "JPMorgan'ın, kurumsal müşterilerin ödeme yapmasına ve tokenleştirilmiş varlık işlemlerini sonuçlandırmasına olanak tanıyarak JPM Coin mevduat token'ını Ethereum'a genişlettiği bildiriliyor.",
+    "url": "https://cointelegraph-tr.com/news/jpmorgan-jpm-coin-ethereum-institutional-clients",
+    "published": "2026-10-19T08:58:45Z",
+    "importance": 4
+   },
+   {
     "title": "Bitcoin ve Ether ETF’leri 549 milyon dolar kaybetti, Ekim ETH çıkışları 1 milyar dolara yaklaşıyor",
     "summary": "ABD’deki spot Ether ETF’lerinde Ekim ayında yaklaşık 955 milyon dolarlık net çıkış kaydedildi. Bitcoin fonlarının haftalık para çekme serisi ise iki haftaya uzadı.",
     "url": "https://cointelegraph-tr.com/markets/bitcoin-ether-etfs-549-million-weekly-outflows",
@@ -15,10 +22,10 @@
     "importance": 4
    },
    {
-    "title": "JPMorgan, 'JPM Coin' mevduat tokenini kurumsal müşteriler için Ethereum'a genişletti",
-    "summary": "ABD doları cinsinden mevduat tokeni, Base dahil olmak üzere Ethereum Sanal Makinesi ekosisteminde eşler arası transferleri desteklemeye başladı.",
-    "url": "https://www.theblock.co/news/business/2026-10-19-jpmorgan-jpm-coin-deposit-token-ethereum-418874",
-    "published": "2026-10-19T08:31:31Z",
+    "title": "CME'nin Bitcoin Cash, Uniswap Vadeli İşlemleri ve Küresel PMI'lar: Haftalık Kripto Görünümü",
+    "summary": "CME'nin bitcoin cash ve uniswap vadeli işlemleri ile küresel PMI'lar haftanın kripto gündeminde yer alıyor.",
+    "url": "https://www.coindesk.com/markets/2026/10/19/cme-s-bitcoin-cash-uniswap-futures-global-pmis-crypto-week-ahead",
+    "published": "2026-10-19T09:12:39Z",
     "importance": 3
    },
    {
@@ -52,18 +59,18 @@
   ],
   "ETH": [
    {
+    "title": "JPMorgan, JPM Coin'i kurumsal müşteriler için Ethereum'a taşıyor: Rapor",
+    "summary": "JPMorgan'ın, kurumsal müşterilerin ödeme yapmasına ve tokenleştirilmiş varlık işlemlerini sonuçlandırmasına olanak tanıyarak JPM Coin mevduat token'ını Ethereum'a genişlettiği bildiriliyor.",
+    "url": "https://cointelegraph-tr.com/news/jpmorgan-jpm-coin-ethereum-institutional-clients",
+    "published": "2026-10-19T08:58:45Z",
+    "importance": 4
+   },
+   {
     "title": "Bitcoin ve Ether ETF’leri 549 milyon dolar kaybetti, Ekim ETH çıkışları 1 milyar dolara yaklaşıyor",
     "summary": "ABD’deki spot Ether ETF’lerinde Ekim ayında yaklaşık 955 milyon dolarlık net çıkış kaydedildi. Bitcoin fonlarının haftalık para çekme serisi ise iki haftaya uzadı.",
     "url": "https://cointelegraph-tr.com/markets/bitcoin-ether-etfs-549-million-weekly-outflows",
     "published": "2026-10-19T07:54:13Z",
     "importance": 4
-   },
-   {
-    "title": "JPMorgan, 'JPM Coin' mevduat tokenini kurumsal müşteriler için Ethereum'a genişletti",
-    "summary": "ABD doları cinsinden mevduat tokeni, Base dahil olmak üzere Ethereum Sanal Makinesi ekosisteminde eşler arası transferleri desteklemeye başladı.",
-    "url": "https://www.theblock.co/news/business/2026-10-19-jpmorgan-jpm-coin-deposit-token-ethereum-418874",
-    "published": "2026-10-19T08:31:31Z",
-    "importance": 3
    },
    {
     "title": "Cysic, bir saldırganın token basıp Ethereum'a 727.000 dolar aktarmasının ardından köprüyü askıya aldı",
@@ -80,6 +87,15 @@
     "url": "https://cointelegraph-tr.com/magazine/richard-heart-caught-with-pants-down-qday-gets-even-closer-hodlers-digest",
     "published": "2026-10-18T22:58:17Z",
     "importance": 4
+   }
+  ],
+  "UNI": [
+   {
+    "title": "CME'nin Bitcoin Cash, Uniswap Vadeli İşlemleri ve Küresel PMI'lar: Haftalık Kripto Görünümü",
+    "summary": "CME'nin bitcoin cash ve uniswap vadeli işlemleri ile küresel PMI'lar haftanın kripto gündeminde yer alıyor.",
+    "url": "https://www.coindesk.com/markets/2026/10/19/cme-s-bitcoin-cash-uniswap-futures-global-pmis-crypto-week-ahead",
+    "published": "2026-10-19T09:12:39Z",
+    "importance": 3
    }
   ],
   "WLD": [
@@ -102,7 +118,6 @@
   ]
  },
  "seen": {
-  "https://www.coindesk.com/policy/2026/10/15/hex-founder-richard-heart-arrested-in-istanbul-turkish-media-report": 1792057013.855479,
   "https://www.coindesk.com/policy/2026/10/15/hyperliquid-founder-wants-u-s-oversight-of-trading-platforms-not-his-blockchain": 1792059064.9588392,
   "https://www.coindesk.com/policy/2026/10/15/australia-s-financial-watchdog-seeks-stiffer-rules-for-crypto-exchanges-ahead-of-licensing-deadline": 1792059064.9588392,
   "https://cointelegraph-tr.com/news/thailand-crypto-etfs-slow-start-new-rules-coinshares": 1792059064.9588392,
@@ -203,7 +218,10 @@
   "https://cointelegraph-tr.com/news/south-korea-to-meet-crypto-exchanges-amid-calls-for-tax-delay": 1792390019.3231852,
   "https://www.coindesk.com/markets/2026/10/19/bitcoin-whale-moves-usd34-million-in-btc-it-got-in-2013-when-coins-traded-at-usd131": 1792392739.6688478,
   "https://www.theblock.co/news/business/2026-10-19-jpmorgan-jpm-coin-deposit-token-ethereum-418874": 1792399392.6340172,
-  "https://cointelegraph-tr.com/markets/bitcoin-ether-etfs-549-million-weekly-outflows": 1792399392.6340172
+  "https://cointelegraph-tr.com/markets/bitcoin-ether-etfs-549-million-weekly-outflows": 1792399392.6340172,
+  "https://www.coindesk.com/markets/2026/10/19/crypto-vault-deposits-top-usd10-billion-as-lending-risks-draw-regulatory-scrutiny": 1792402810.629093,
+  "https://www.coindesk.com/markets/2026/10/19/cme-s-bitcoin-cash-uniswap-futures-global-pmis-crypto-week-ahead": 1792402810.629093,
+  "https://cointelegraph-tr.com/news/jpmorgan-jpm-coin-ethereum-institutional-clients": 1792402810.629093
  },
  "tries": {}
 }
