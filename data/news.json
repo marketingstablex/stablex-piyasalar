@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-19T07:51:39Z",
+ "updated": "2026-10-19T08:43:12Z",
  "sources": [
   "coindesk.com",
   "cointelegraph-tr.com",
@@ -7,6 +7,20 @@
  ],
  "bySymbol": {
   "BTC": [
+   {
+    "title": "Bitcoin ve Ether ETF’leri 549 milyon dolar kaybetti, Ekim ETH çıkışları 1 milyar dolara yaklaşıyor",
+    "summary": "ABD’deki spot Ether ETF’lerinde Ekim ayında yaklaşık 955 milyon dolarlık net çıkış kaydedildi. Bitcoin fonlarının haftalık para çekme serisi ise iki haftaya uzadı.",
+    "url": "https://cointelegraph-tr.com/markets/bitcoin-ether-etfs-549-million-weekly-outflows",
+    "published": "2026-10-19T07:54:13Z",
+    "importance": 4
+   },
+   {
+    "title": "JPMorgan, 'JPM Coin' mevduat tokenini kurumsal müşteriler için Ethereum'a genişletti",
+    "summary": "ABD doları cinsinden mevduat tokeni, Base dahil olmak üzere Ethereum Sanal Makinesi ekosisteminde eşler arası transferleri desteklemeye başladı.",
+    "url": "https://www.theblock.co/news/business/2026-10-19-jpmorgan-jpm-coin-deposit-token-ethereum-418874",
+    "published": "2026-10-19T08:31:31Z",
+    "importance": 3
+   },
    {
     "title": "2013 yılında 131 dolardan BTC alan bir Bitcoin balinası 34 milyon dolar değerinde BTC hareket ettirdi",
     "summary": "2013 yılında bir Bitcoin balinası, coin'ler 131 dolardan işlem görürken edindiği 34 milyon dolar değerinde BTC'yi hareket ettirdi.",
@@ -37,6 +51,20 @@
    }
   ],
   "ETH": [
+   {
+    "title": "Bitcoin ve Ether ETF’leri 549 milyon dolar kaybetti, Ekim ETH çıkışları 1 milyar dolara yaklaşıyor",
+    "summary": "ABD’deki spot Ether ETF’lerinde Ekim ayında yaklaşık 955 milyon dolarlık net çıkış kaydedildi. Bitcoin fonlarının haftalık para çekme serisi ise iki haftaya uzadı.",
+    "url": "https://cointelegraph-tr.com/markets/bitcoin-ether-etfs-549-million-weekly-outflows",
+    "published": "2026-10-19T07:54:13Z",
+    "importance": 4
+   },
+   {
+    "title": "JPMorgan, 'JPM Coin' mevduat tokenini kurumsal müşteriler için Ethereum'a genişletti",
+    "summary": "ABD doları cinsinden mevduat tokeni, Base dahil olmak üzere Ethereum Sanal Makinesi ekosisteminde eşler arası transferleri desteklemeye başladı.",
+    "url": "https://www.theblock.co/news/business/2026-10-19-jpmorgan-jpm-coin-deposit-token-ethereum-418874",
+    "published": "2026-10-19T08:31:31Z",
+    "importance": 3
+   },
    {
     "title": "Cysic, bir saldırganın token basıp Ethereum'a 727.000 dolar aktarmasının ardından köprüyü askıya aldı",
     "summary": "Saldırgan 10 milyon CYS bastıktan sonra Mayan, deBridge ve SWFT'nin Bridgers platformları aracılığıyla yaklaşık 727.000 dolar değerindeki geliri Ethereum'a köprülemeyi başardı.",
@@ -173,7 +201,9 @@
   "https://cointelegraph-tr.com/news/zoom-proof-of-human-badges-world-id-ai-deepfakes": 1792390019.3231852,
   "https://www.coindesk.com/tech/2026/10/19/zcash-developers-plan-a-fix-to-keep-zec-swaps-private-from-future-quantum-computers": 1792390019.3231852,
   "https://cointelegraph-tr.com/news/south-korea-to-meet-crypto-exchanges-amid-calls-for-tax-delay": 1792390019.3231852,
-  "https://www.coindesk.com/markets/2026/10/19/bitcoin-whale-moves-usd34-million-in-btc-it-got-in-2013-when-coins-traded-at-usd131": 1792392739.6688478
+  "https://www.coindesk.com/markets/2026/10/19/bitcoin-whale-moves-usd34-million-in-btc-it-got-in-2013-when-coins-traded-at-usd131": 1792392739.6688478,
+  "https://www.theblock.co/news/business/2026-10-19-jpmorgan-jpm-coin-deposit-token-ethereum-418874": 1792399392.6340172,
+  "https://cointelegraph-tr.com/markets/bitcoin-ether-etfs-549-million-weekly-outflows": 1792399392.6340172
  },
  "tries": {}
 }
