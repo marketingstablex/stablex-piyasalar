@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-19T16:07:50Z",
+ "updated": "2026-10-19T17:07:21Z",
  "sources": [
   "coindesk.com",
   "cointelegraph-tr.com",
@@ -29,6 +29,13 @@
     "url": "https://cointelegraph-tr.com/markets/bitcoin-ether-etfs-549-million-weekly-outflows",
     "published": "2026-10-19T07:54:13Z",
     "importance": 4
+   },
+   {
+    "title": "Metaplanet, 2.100 BTC’lik anlaşmayla Super League’de %93,7 hisse alacak",
+    "summary": "İşlem, Metaplanet’e ek Bitcoin alımlarını finanse etmek için imtiyazlı hisse senedi ihraçlarını kullanmayı planladığı ABD sermaye piyasalarına erişim sağlayacak.",
+    "url": "https://cointelegraph-tr.com/news/metaplanet-super-league-2100-btc-us-bitcoin-treasury-deal",
+    "published": "2026-10-19T16:41:55Z",
+    "importance": 3
    },
    {
     "title": "AnchorWatch Trust Company, Müşteri Başına 370 Milyon Dolara Kadar Sigortalı Bitcoin Saklama Hizmetini Başlattı",
@@ -63,13 +70,6 @@
     "summary": "Çip hisseleri toparlanmaya öncülük ederken Bitcoin 83.000 dolar seviyesini test etti ve ardından geriledi.",
     "url": "https://www.coindesk.com/markets/2026/10/19/live-updates-bitcoin-tags-usd83-000-and-slips-back-as-chip-stocks-lead-a-rebound",
     "published": "2026-10-19T11:05:54Z",
-    "importance": 3
-   },
-   {
-    "title": "Önemli teknoloji bilançoları öncesi piyasalar toparlanıyor: Bu hafta Bitcoin hakkında bilinmesi gereken üç şey",
-    "summary": "Hisse senedi piyasaları geçen haftaki kayıpları telafi etmeye çalışırken, analistler Bitcoin'in 80.000 dolarlık desteği yeniden test etmesini bekliyor.",
-    "url": "https://cointelegraph-tr.com/markets/stocks-rebound-into-key-tech-earnings-three-things-to-know-in-bitcoin-this-week",
-    "published": "2026-10-19T10:20:00Z",
     "importance": 3
    }
   ],
@@ -150,9 +150,6 @@
   ]
  },
  "seen": {
-  "https://www.theblock.co/news/business/2026-10-15-cleanspark-bitfufu-bitcoin-production-slip-september-canaan-remains-flat-418686": 1792082181.490931,
-  "https://www.theblock.co/news/deals/2026-10-15-multiliquid-tokenized-assets-funding-418693": 1792082181.490931,
-  "https://www.theblock.co/news/markets/2026-10-15-defi-development-chad-dividend-rate-14-418694": 1792082181.490931,
   "https://cointelegraph-tr.com/news/sweden-riksbank-digital-krona-cbdc-legislation": 1792084369.3523512,
   "https://cointelegraph-tr.com/news/bo-hines-donald-trump-crypto-advisor-nxum-tether-conflict": 1792087408.979401,
   "https://www.coindesk.com/news-analysis/2026/10/15/at-the-white-house-crypto-policy-vacancy-looms-large": 1792092811.0695806,
@@ -251,7 +248,10 @@
   "https://www.coindesk.com/business/2026/10/19/zerohash-rolls-out-a-new-tool-to-move-crypto-without-copying-wallet-addresses": 1792422893.751159,
   "https://www.theblock.co/news/business/2026-10-19-mastercard-unveils-stablecoin-security-tool-to-screen-payments-for-fraud-and-sanctions-risks-420658": 1792426070.7880914,
   "https://www.theblock.co/news/markets/2026-10-19-galaxy-digital-glxy-stonex-buy-coreweave-helios-ai-data-center-421045": 1792426070.7880914,
-  "https://www.theblock.co/news/business/2026-10-19-skyai-sells-off-entire-solana-treasury-launches-201-million-buyback-421037": 1792426070.7880914
+  "https://www.theblock.co/news/business/2026-10-19-skyai-sells-off-entire-solana-treasury-launches-201-million-buyback-421037": 1792426070.7880914,
+  "https://www.coindesk.com/policy/2026/10/19/u-s-cftc-rebuffs-cme-legal-stance-in-consequential-fight-over-perpetual-futures": 1792429641.894915,
+  "https://cointelegraph-tr.com/news/metaplanet-super-league-2100-btc-us-bitcoin-treasury-deal": 1792429641.894915,
+  "https://www.theblock.co/news/business/2026-10-19-mesh-visa-partner-spend-crypto-stablecoins-421058": 1792429641.894915
  },
  "tries": {}
 }
