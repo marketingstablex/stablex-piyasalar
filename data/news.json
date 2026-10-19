@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-19T00:44:39Z",
+ "updated": "2026-10-19T01:37:21Z",
  "sources": [
   "coindesk.com",
   "cointelegraph-tr.com",
@@ -40,15 +40,6 @@
     "importance": 3
    }
   ],
-  "SOL": [
-   {
-    "title": "Solana dayanıklılık gösteriyor ancak Fidelity bazı alanların izlenmesi gerektiğini belirtiyor",
-    "summary": "Bir rapora göre Solana, son iki yıldır hiçbir ana ağ kesintisi yaşamadı. Ancak stake, barındırma ve istemci yazılımındaki yoğunlaşmaların izlenmesi gerektiği belirtiliyor.",
-    "url": "https://cointelegraph-tr.com/news/solana-shows-resilience-but-some-areas-need-continued-observation-fidelity-says",
-    "published": "2026-10-17T12:58:03Z",
-    "importance": 3
-   }
-  ],
   "STRK": [
    {
     "title": "Richard Heart gafil avlandı, QDay daha da yaklaşıyor: Hodler’s Digest",
@@ -57,11 +48,18 @@
     "published": "2026-10-18T22:58:17Z",
     "importance": 4
    }
+  ],
+  "WLD": [
+   {
+    "title": "World, Bankalar İçin World ID Paketini Başlattı ve Zoom Derin Sahte Kontrolünü Erişime Açtı",
+    "summary": "World ID for Zoom, Nisan ayında başlayan beta sürecinin ardından genel kullanıma sunuldu. Bu hizmet, Zoom görüşmelerindeki derin sahte katılımcıları tespit etmek üzere tasarlandı.",
+    "url": "https://www.theblock.co/news/ecosystems/2026-10-18-world-launches-world-id-suite-banks-418869",
+    "published": "2026-10-19T01:10:00Z",
+    "importance": 3
+   }
   ]
  },
  "seen": {
-  "https://cointelegraph-tr.com/news/vaneck-seeks-to-withdraw-application-for-lido-staked-ether-etf": 1792028070.844682,
-  "https://cointelegraph-tr.com/news/polygon-gains-us-payments-licenses-after-closing-coinme-deal": 1792028070.844682,
   "https://www.coindesk.com/markets/2026/10/15/bitcoin-is-back-below-usd81-000-as-fed-rate-uncertainty-weighs": 1792037275.173119,
   "https://cointelegraph-tr.com/markets/bitcoin-miners-plunge-up-to-13-in-wall-streets-worst-selloff-since-july": 1792037275.173119,
   "https://www.theblock.co/news/markets/2026-10-15-bitcoin-drops-asian-equities-tumble-418623": 1792040599.9976184,
@@ -161,7 +159,9 @@
   "https://www.coindesk.com/policy/2026/10/18/the-white-house-s-crypto-chief-departs-state-of-crypto": 1792348396.720453,
   "https://www.theblock.co/news/regulation/2026-10-18-crypto-com-novig-sue-missouri-over-sports-event-contracts-kalshi-polymarket-robinhood-hold-off-418866": 1792353324.6531873,
   "https://cointelegraph-tr.com/magazine/richard-heart-caught-with-pants-down-qday-gets-even-closer-hodlers-digest": 1792366048.6428044,
-  "https://www.coindesk.com/business/2026/10/18/sec-tokenized-stock-framework-faces-issuer-pushback-as-broadcom-verizon-object-to-okx-ice-listing": 1792367709.107883
+  "https://www.coindesk.com/business/2026/10/18/sec-tokenized-stock-framework-faces-issuer-pushback-as-broadcom-verizon-object-to-okx-ice-listing": 1792367709.107883,
+  "https://www.theblock.co/news/ecosystems/2026-10-18-world-launches-world-id-suite-banks-418869": 1792373841.1980724,
+  "https://cointelegraph-tr.com/news/qubic-freezes-chain-after-attacker-drains-14k-wallets-with-weak-seeds": 1792373841.1980724
  },
  "tries": {}
 }
