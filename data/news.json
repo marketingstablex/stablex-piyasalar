@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-19T15:14:53Z",
+ "updated": "2026-10-19T16:07:50Z",
  "sources": [
   "coindesk.com",
   "cointelegraph-tr.com",
@@ -103,6 +103,15 @@
     "importance": 3
    }
   ],
+  "SOL": [
+   {
+    "title": "SkyAI, 201 Milyon Dolarlık Geri Alım Başlatırken Tüm Solana Hazinesini Sattı",
+    "summary": "SkyAI, tüm SOL varlıklarını sattıktan sonra 223,8 milyon dolar nakde sahip oldu ve 3 dolarlık geri alımı 29 Ekim'e kadar sürecek.",
+    "url": "https://www.theblock.co/news/business/2026-10-19-skyai-sells-off-entire-solana-treasury-launches-201-million-buyback-421037",
+    "published": "2026-10-19T15:28:43Z",
+    "importance": 3
+   }
+  ],
   "STRK": [
    {
     "title": "Richard Heart gafil avlandı, QDay daha da yaklaşıyor: Hodler’s Digest",
@@ -141,8 +150,6 @@
   ]
  },
  "seen": {
-  "https://www.coindesk.com/coindesk-indices/2026/10/15/crypto-for-advisors-wall-street-is-done-waiting-on-congress-for-crypto-rules": 1792078736.2170355,
-  "https://www.theblock.co/news/business/2026-10-15-ripple-prime-rwa-swaps-perpetual-futures-hyperliquid-418681": 1792078736.2170355,
   "https://www.theblock.co/news/business/2026-10-15-cleanspark-bitfufu-bitcoin-production-slip-september-canaan-remains-flat-418686": 1792082181.490931,
   "https://www.theblock.co/news/deals/2026-10-15-multiliquid-tokenized-assets-funding-418693": 1792082181.490931,
   "https://www.theblock.co/news/markets/2026-10-15-defi-development-chad-dividend-rate-14-418694": 1792082181.490931,
@@ -241,7 +248,10 @@
   "https://cointelegraph-tr.com/magazine/made-an-honest-mistake-with-crypto-taxes-new-bill-offers-way-out": 1792419501.5616815,
   "https://cointelegraph-tr.com/news/public-companies-object-okx-ice-tokenized-stock": 1792419501.5616815,
   "https://www.theblock.co/news/business/2026-10-19-anchorwatch-bitcoin-custody-insurance-421011": 1792422893.751159,
-  "https://www.coindesk.com/business/2026/10/19/zerohash-rolls-out-a-new-tool-to-move-crypto-without-copying-wallet-addresses": 1792422893.751159
+  "https://www.coindesk.com/business/2026/10/19/zerohash-rolls-out-a-new-tool-to-move-crypto-without-copying-wallet-addresses": 1792422893.751159,
+  "https://www.theblock.co/news/business/2026-10-19-mastercard-unveils-stablecoin-security-tool-to-screen-payments-for-fraud-and-sanctions-risks-420658": 1792426070.7880914,
+  "https://www.theblock.co/news/markets/2026-10-19-galaxy-digital-glxy-stonex-buy-coreweave-helios-ai-data-center-421045": 1792426070.7880914,
+  "https://www.theblock.co/news/business/2026-10-19-skyai-sells-off-entire-solana-treasury-launches-201-million-buyback-421037": 1792426070.7880914
  },
  "tries": {}
 }
