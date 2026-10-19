@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-19T20:10:26Z",
+ "updated": "2026-10-19T21:03:53Z",
  "sources": [
   "coindesk.com",
   "cointelegraph-tr.com",
@@ -130,6 +130,15 @@
     "importance": 3
    }
   ],
+  "USDT": [
+   {
+    "title": "Tether: Senatörün soruşturması, İran hacimlerinin düşmesine yol açan olumlu çalışmaları gözden kaçırıyor",
+    "summary": "Tether: Senatörün soruşturması, İran hacimlerinin düşmesine yol açan olumlu çalışmaları gözden kaçırıyor",
+    "url": "https://www.coindesk.com/policy/2026/10/19/tether-senator-s-investigation-misses-positive-work-that-s-led-to-lower-iran-volumes",
+    "published": "2026-10-19T20:21:13Z",
+    "importance": 3
+   }
+  ],
   "WLD": [
    {
     "title": "World, Bankalar İçin World ID Paketini Başlattı ve Zoom Derin Sahte Kontrolünü Erişime Açtı",
@@ -150,7 +159,6 @@
   ]
  },
  "seen": {
-  "https://cointelegraph-tr.com/news/binance-us-funding-valuation-billion": 1792096469.7916603,
   "https://www.theblock.co/news/ecosystems/2026-10-15-network-school-acquires-farcaster-from-neynar-418720": 1792101682.2712407,
   "https://www.theblock.co/news/business/2026-10-15-msci-rules-could-exclude-strategy-mstr-from-indexes-418729": 1792103586.0639803,
   "https://cointelegraph-tr.com/news/australia-releases-draft-bill-to-adopt-oecd-crypto-tax-reporting-framework": 1792111400.5956864,
@@ -249,7 +257,9 @@
   "https://www.coindesk.com/policy/2026/10/19/u-s-cftc-rebuffs-cme-legal-stance-in-consequential-fight-over-perpetual-futures": 1792429641.894915,
   "https://cointelegraph-tr.com/news/metaplanet-super-league-2100-btc-us-bitcoin-treasury-deal": 1792429641.894915,
   "https://www.theblock.co/news/business/2026-10-19-mesh-visa-partner-spend-crypto-stablecoins-421058": 1792429641.894915,
-  "https://cointelegraph-tr.com/news/public-comments-us-sec-proposed-crypto-rules": 1792440626.9704857
+  "https://cointelegraph-tr.com/news/public-comments-us-sec-proposed-crypto-rules": 1792440626.9704857,
+  "https://cointelegraph-tr.com/news/crypto-pac-california-race-voters-special-election": 1792443833.7921278,
+  "https://www.coindesk.com/policy/2026/10/19/tether-senator-s-investigation-misses-positive-work-that-s-led-to-lower-iran-volumes": 1792443833.7921278
  },
  "tries": {}
 }
