@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-19T11:10:44Z",
+ "updated": "2026-10-19T12:09:03Z",
  "sources": [
   "coindesk.com",
   "cointelegraph-tr.com",
@@ -20,6 +20,13 @@
     "url": "https://cointelegraph-tr.com/markets/bitcoin-ether-etfs-549-million-weekly-outflows",
     "published": "2026-10-19T07:54:13Z",
     "importance": 4
+   },
+   {
+    "title": "Strategy, Bitcoin'in yükseliş sinyalinden haftalar sonra altın kesişimin eşiğinde",
+    "summary": "Strategy, Bitcoin'in benzer bir boğa sinyali vermesinden sadece birkaç hafta sonra altın kesişimin eşiğine geldi.",
+    "url": "https://www.coindesk.com/daybook-us/2026/10/19/strategy-on-verge-of-golden-cross-just-weeks-after-bitcoin-flashed-same-bullish-signal",
+    "published": "2026-10-19T11:15:00Z",
+    "importance": 3
    },
    {
     "title": "Canlı güncellemeler: Çip hisseleri toparlanmaya öncülük ederken Bitcoin 83.000 doları gördü ve geri geriledi",
@@ -54,13 +61,6 @@
     "summary": "2013 yılında bir Bitcoin balinası, coin'ler 131 dolardan işlem görürken edindiği 34 milyon dolar değerinde BTC'yi hareket ettirdi.",
     "url": "https://www.coindesk.com/markets/2026/10/19/bitcoin-whale-moves-usd34-million-in-btc-it-got-in-2013-when-coins-traded-at-usd131",
     "published": "2026-10-19T06:23:16Z",
-    "importance": 3
-   },
-   {
-    "title": "Çin'in GSYİH verilerinin beklentileri aşmasıyla Bitcoin, Kore Kospi ve Nasdaq vadelileri yükseldi",
-    "summary": "Çin'in GSYİH verilerinin beklentileri aşmasının ardından Bitcoin, Kore Kospi ve Nasdaq vadelileri yükseliş gösterdi.",
-    "url": "https://www.coindesk.com/markets/2026/10/19/bitcoin-korea-s-kospi-and-nasdaq-futures-rally-as-china-gdp-beats-estimates",
-    "published": "2026-10-19T03:36:58Z",
     "importance": 3
    }
   ],
@@ -125,8 +125,6 @@
   ]
  },
  "seen": {
-  "https://www.coindesk.com/daybook-us/2026/10/15/bitcoin-copper-stocks-yields-all-fall-gold-rises": 1792064312.3262188,
-  "https://www.theblock.co/news/regulation/2026-10-15-eba-designates-circles-usdc-as-the-eus-first-significant-e-money-token-418637": 1792064312.3262188,
   "https://www.coindesk.com/business/2026/10/15/how-brooklyn-prosecutors-and-the-fbi-took-down-a-massive-crypto-fraud-network-targeting-russian-speakers": 1792068212.630053,
   "https://www.theblock.co/news/business/2026-10-15-ledger-atom-solana-mobile-418644": 1792068212.630053,
   "https://www.coindesk.com/tech/2026/10/15/under-pressure-ledger-unveils-plan-to-turn-its-crypto-hardware-wallet-into-a-smartphone": 1792068212.630053,
@@ -228,7 +226,8 @@
   "https://www.coindesk.com/markets/2026/10/19/live-updates-bitcoin-tags-usd83-000-and-slips-back-as-chip-stocks-lead-a-rebound": 1792408244.8907402,
   "https://www.theblock.co/news/regulation/2026-10-19-revolut-secures-gibraltar-crypto-licence-to-support-international-expansion-plans-418889": 1792408244.8907402,
   "https://cointelegraph-tr.com/markets/stocks-rebound-into-key-tech-earnings-three-things-to-know-in-bitcoin-this-week": 1792408244.8907402,
-  "https://www.coindesk.com/tech/2026/10/19/bitcoin-mining-offshoot-nscale-loses-microsoft-ai-deal-as-power-delay-stretches-into-2030s": 1792408244.8907402
+  "https://www.coindesk.com/tech/2026/10/19/bitcoin-mining-offshoot-nscale-loses-microsoft-ai-deal-as-power-delay-stretches-into-2030s": 1792408244.8907402,
+  "https://www.coindesk.com/daybook-us/2026/10/19/strategy-on-verge-of-golden-cross-just-weeks-after-bitcoin-flashed-same-bullish-signal": 1792411743.5643492
  },
  "tries": {}
 }
