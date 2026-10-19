@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-19T03:06:35Z",
+ "updated": "2026-10-19T03:39:41Z",
  "sources": [
   "coindesk.com",
   "cointelegraph-tr.com",
@@ -7,6 +7,13 @@
  ],
  "bySymbol": {
   "BTC": [
+   {
+    "title": "Çin'in GSYİH verilerinin beklentileri aşmasıyla Bitcoin, Kore Kospi ve Nasdaq vadelileri yükseldi",
+    "summary": "Çin'in GSYİH verilerinin beklentileri aşmasının ardından Bitcoin, Kore Kospi ve Nasdaq vadelileri yükseliş gösterdi.",
+    "url": "https://www.coindesk.com/markets/2026/10/19/bitcoin-korea-s-kospi-and-nasdaq-futures-rally-as-china-gdp-beats-estimates",
+    "published": "2026-10-19T03:36:58Z",
+    "importance": 3
+   },
    {
     "title": "Wall Street Cuma günü paniğe kapıldı. VIX ve Bitcoin korkunun Pazartesi günü dinebileceğini söylüyor.",
     "summary": "Wall Street Cuma günü paniğe kapıldı. VIX ve Bitcoin korkunun Pazartesi günü dinebileceğini söylüyor.",
@@ -153,7 +160,8 @@
   "https://www.coindesk.com/business/2026/10/18/sec-tokenized-stock-framework-faces-issuer-pushback-as-broadcom-verizon-object-to-okx-ice-listing": 1792367709.107883,
   "https://www.theblock.co/news/ecosystems/2026-10-18-world-launches-world-id-suite-banks-418869": 1792373841.1980724,
   "https://cointelegraph-tr.com/news/qubic-freezes-chain-after-attacker-drains-14k-wallets-with-weak-seeds": 1792373841.1980724,
-  "https://www.coindesk.com/business/2026/10/18/deutsche-bank-targets-asia-crypto-custody-expansion-in-2027-as-german-launch-nears": 1792377200.949983
+  "https://www.coindesk.com/business/2026/10/18/deutsche-bank-targets-asia-crypto-custody-expansion-in-2027-as-german-launch-nears": 1792377200.949983,
+  "https://www.coindesk.com/markets/2026/10/19/bitcoin-korea-s-kospi-and-nasdaq-futures-rally-as-china-gdp-beats-estimates": 1792381181.8979695
  },
  "tries": {}
 }
