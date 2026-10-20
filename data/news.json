@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-20T00:45:29Z",
+ "updated": "2026-10-20T01:38:20Z",
  "sources": [
   "coindesk.com",
   "cointelegraph-tr.com",
@@ -38,6 +38,13 @@
     "importance": 4
    },
    {
+    "title": "Bitcoin rallisi hazine alımlarını yeniden canlandırabilir, ancak kolay para dönemi sona erdi",
+    "summary": "Bitfinex türev ürünler başkanı Jag Kooner, Bitcoin rallisinin hazine alımlarını yeniden canlandırabileceğini belirtti. Ancak geçen yılki ayrım gözetmeyen sermaye artırımlarına geri dönüşün pek olası olmadığını ve kolay para döneminin sona erdiğini ifade etti.",
+    "url": "https://cointelegraph-tr.com/markets/bitcoin-rally-could-revive-treasury-buying-but-easy-money-days-over",
+    "published": "2026-10-20T01:35:00Z",
+    "importance": 3
+   },
+   {
     "title": "Metaplanet, 2.100 BTC’lik anlaşmayla Super League’de %93,7 hisse alacak",
     "summary": "İşlem, Metaplanet’e ek Bitcoin alımlarını finanse etmek için imtiyazlı hisse senedi ihraçlarını kullanmayı planladığı ABD sermaye piyasalarına erişim sağlayacak.",
     "url": "https://cointelegraph-tr.com/news/metaplanet-super-league-2100-btc-us-bitcoin-treasury-deal",
@@ -63,13 +70,6 @@
     "summary": "Strategy, varlıklarına 267 Bitcoin eklerken 1,94 milyon STRC hissesini geri aldı ve imtiyazlı hisse geri alım programını 3 milyar dolara çıkardı.",
     "url": "https://cointelegraph-tr.com/news/strategy-btc-22-million-buy-strc-buyback-193-million",
     "published": "2026-10-19T12:30:00Z",
-    "importance": 3
-   },
-   {
-    "title": "Strategy, Bitcoin'in yükseliş sinyalinden haftalar sonra altın kesişimin eşiğinde",
-    "summary": "Strategy, Bitcoin'in benzer bir boğa sinyali vermesinden sadece birkaç hafta sonra altın kesişimin eşiğine geldi.",
-    "url": "https://www.coindesk.com/daybook-us/2026/10/19/strategy-on-verge-of-golden-cross-just-weeks-after-bitcoin-flashed-same-bullish-signal",
-    "published": "2026-10-19T11:15:00Z",
     "importance": 3
    }
   ],
@@ -159,7 +159,6 @@
   ]
  },
  "seen": {
-  "https://cointelegraph-tr.com/news/msci-adopts-index-exclusion-rules-that-could-oust-strategy": 1792114447.2333834,
   "https://www.coindesk.com/tech/2026/10/16/an-openai-agent-ran-out-of-ethereum-funds-and-took-from-a-wallet-it-did-not-own": 1792127138.8814154,
   "https://www.coindesk.com/markets/2026/10/16/bitcoin-buyers-snap-up-a-brief-drop-below-usd80-000-as-asian-stocks-rebound": 1792127138.8814154,
   "https://www.coindesk.com/markets/2026/10/16/xrp-has-failed-to-make-holders-rich-like-bitcoin-and-ether-here-s-why": 1792130829.3916452,
@@ -257,7 +256,8 @@
   "https://cointelegraph-tr.com/news/public-comments-us-sec-proposed-crypto-rules": 1792440626.9704857,
   "https://cointelegraph-tr.com/news/crypto-pac-california-race-voters-special-election": 1792443833.7921278,
   "https://www.coindesk.com/policy/2026/10/19/tether-senator-s-investigation-misses-positive-work-that-s-led-to-lower-iran-volumes": 1792443833.7921278,
-  "https://www.theblock.co/news/regulation/2026-10-19-blackrock-files-bitcoin-managed-protect-etf-downside-protection-ibit-421087": 1792447627.1291933
+  "https://www.theblock.co/news/regulation/2026-10-19-blackrock-files-bitcoin-managed-protect-etf-downside-protection-ibit-421087": 1792447627.1291933,
+  "https://cointelegraph-tr.com/markets/bitcoin-rally-could-revive-treasury-buying-but-easy-money-days-over": 1792460300.5064516
  },
  "tries": {}
 }
