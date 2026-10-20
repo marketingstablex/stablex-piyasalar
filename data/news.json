@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-20T16:14:28Z",
+ "updated": "2026-10-20T17:12:24Z",
  "sources": [
   "coindesk.com",
   "cointelegraph-tr.com",
@@ -75,6 +75,13 @@
   ],
   "ETH": [
    {
+    "title": "Ethereum staking'i getiriler düşerken ve Solana aktivitesi artarken rekor kırdı: Bitwise",
+    "summary": "Getirilerin yüzde 2,63'e gerilediği üçüncü çeyrekte, arzın yaklaşık yüzde 36'sına denk gelen rekor düzeyde 43,8 milyon ETH staking'e dahil edildi. Solana staking'i de 440,5 milyon SOL ile rekor seviyeye ulaştı.",
+    "url": "https://www.theblock.co/news/ecosystems/2026-10-20-ethereum-solana-staking-record-yields-fall-bitwise-q3-421414",
+    "published": "2026-10-20T16:31:24Z",
+    "importance": 4
+   },
+   {
     "title": "Drift saldırganı Tornado Cash’e 61 milyon dolarlık ETH gönderdi, 194 milyon dolarlık varlık tutuyor",
     "summary": "Nisan ayında gerçekleşen ve yaklaşık 295 milyon dolarlık kayba yol açan saldırının faili, Tornado Cash'e 61 milyon dolarlık ETH gönderdi. Yürütülen Mandiant soruşturması bu saldırıyı Kuzey Koreli bir tehdit grubuna atfetmişti.",
     "url": "https://cointelegraph-tr.com/news/drift-exploiter-eth-tornado-cash",
@@ -111,6 +118,13 @@
    }
   ],
   "SOL": [
+   {
+    "title": "Ethereum staking'i getiriler düşerken ve Solana aktivitesi artarken rekor kırdı: Bitwise",
+    "summary": "Getirilerin yüzde 2,63'e gerilediği üçüncü çeyrekte, arzın yaklaşık yüzde 36'sına denk gelen rekor düzeyde 43,8 milyon ETH staking'e dahil edildi. Solana staking'i de 440,5 milyon SOL ile rekor seviyeye ulaştı.",
+    "url": "https://www.theblock.co/news/ecosystems/2026-10-20-ethereum-solana-staking-record-yields-fall-bitwise-q3-421414",
+    "published": "2026-10-20T16:31:24Z",
+    "importance": 4
+   },
    {
     "title": "BlackRock üçüncü Bitcoin ETF'si için başvurdu; hâlâ Solana veya XRP yok",
     "summary": "BlackRock, potansiyel kayıpları sınırlamak ve kazançları tavanlamak amacıyla opsiyonları kullanacak yeni bir Bitcoin fonu için başvuruda bulundu. Bu hamle, mevcut Bitcoin ve Ether ETF ürün yelpazesine yeni bir strateji katacak.",
@@ -167,13 +181,6 @@
     "url": "https://cointelegraph-tr.com/markets/xrp-30-day-exchange-inflows-pass-6b-tokens-as-whales-move-to-the-sidelines",
     "published": "2026-10-20T10:20:58Z",
     "importance": 3
-   },
-   {
-    "title": "XRP Ledger, Kimse Kullanmadan Önce Borç Verme Kodunu Düzenlemeye Hazırlanıyor",
-    "summary": "XRP Ledger, kimse kullanmadan önce borç verme kodunu düzeltmeye hazırlanıyor.",
-    "url": "https://www.coindesk.com/tech/2026/10/19/xrp-ledger-is-set-to-fix-its-lending-code-before-anyone-can-use-it",
-    "published": "2026-10-19T04:54:31Z",
-    "importance": 2
    }
   ]
  },
@@ -283,7 +290,13 @@
   "https://www.theblock.co/news/markets/2026-10-20-blockchain-com-launches-options-trading-bitcoin-ether-sol-421326": 1792507035.464048,
   "https://www.theblock.co/news/markets/2026-10-20-injective-partners-bdacs-418883": 1792507035.464048,
   "https://www.coindesk.com/markets/2026/10/20/blackrock-seeks-to-shield-bitcoin-investors-from-losses-after-rival-fund-weathers-50-crash": 1792510589.9959478,
-  "https://www.theblock.co/news/business/2026-10-20-mastercard-opens-early-access-to-ai-agent-payments-following-pilots-with-coinbase-base-and-cloudflare-421406": 1792512868.4956257
+  "https://www.theblock.co/news/business/2026-10-20-mastercard-opens-early-access-to-ai-agent-payments-following-pilots-with-coinbase-base-and-cloudflare-421406": 1792512868.4956257,
+  "https://www.theblock.co/news/deals/2026-10-20-bitcoin-yield-platform-honeyb-funding-valuation-421430": 1792516344.0694432,
+  "https://www.coindesk.com/opinion/2026/10/20/the-coinbase-allegations-expose-bitcoin-s-corporate-governance-gap": 1792516344.0694432,
+  "https://cointelegraph-tr.com/news/injective-bdacs-korean-won-stablecoin-tokenized-assets": 1792516344.0694432,
+  "https://www.theblock.co/news/ecosystems/2026-10-20-ethereum-solana-staking-record-yields-fall-bitwise-q3-421414": 1792516344.0694432,
+  "https://cointelegraph-tr.com/news/alphabet-microsoft-goldman-object-okx-ice-tokenized-stock": 1792516344.0694432,
+  "https://www.theblock.co/news/regulation/2026-10-20-okx-putting-money-where-mouth-is-new-protection-plan-former-ny-gov-cuomo-421421": 1792516344.0694432
  },
  "tries": {}
 }
