@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-20T11:38:48Z",
+ "updated": "2026-10-20T12:43:09Z",
  "sources": [
   "coindesk.com",
   "cointelegraph-tr.com",
@@ -16,6 +16,13 @@
    }
   ],
   "BTC": [
+   {
+    "title": "İsviçre düzenleyicisi FINMA, ülkenin bireysel yatırımcılara yönelik ilk spot bitcoin ETF'sini onayladı",
+    "summary": "İsviçre düzenleyicisi FINMA, daha önceki kripto ETP listelemelerinin ve nitelikli yatırımcılarla sınırlı bir fonun ardından ülkenin bireysel yatırımcılara yönelik ilk spot Bitcoin ETF'sini onayladı.",
+    "url": "https://www.theblock.co/news/regulation/2026-10-20-swiss-regulator-finma-approves-countrys-first-spot-bitcoin-etf-for-retail-investors-421127",
+    "published": "2026-10-20T12:15:05Z",
+    "importance": 5
+   },
    {
     "title": "Asya çip hisseleri düşerken Bitcoin 81.400 dolara geriledi, opsiyon yatırımcıları aşağı yönlü koruma arıyor",
     "summary": "Asya çip hisseleri düşerken Bitcoin 81.400 dolara geriledi, opsiyon yatırımcıları aşağı yönlü koruma arıyor",
@@ -63,13 +70,6 @@
     "summary": "Hisse senedi piyasasındaki zayıflık, bir ayın en yüksek Bitcoin ETF girişlerinin ardından Bitcoin talebini baskılayabilir.",
     "url": "https://www.coindesk.com/daybook-us/2026/10/20/equity-weakness-could-damp-demand-for-bitcoin-after-biggest-etf-inflows-in-a-month",
     "published": "2026-10-20T11:14:21Z",
-    "importance": 3
-   },
-   {
-    "title": "Bitcoin rallisi hazine alımlarını yeniden canlandırabilir, ancak kolay para dönemi sona erdi",
-    "summary": "Bitfinex türev ürünler başkanı Jag Kooner, Bitcoin rallisinin hazine alımlarını yeniden canlandırabileceğini belirtti. Ancak geçen yılki ayrım gözetmeyen sermaye artırımlarına geri dönüşün pek olası olmadığını ve kolay para döneminin sona erdiğini ifade etti.",
-    "url": "https://cointelegraph-tr.com/markets/bitcoin-rally-could-revive-treasury-buying-but-easy-money-days-over",
-    "published": "2026-10-20T01:35:00Z",
     "importance": 3
    }
   ],
@@ -125,6 +125,15 @@
     "summary": "CME'nin bitcoin cash ve uniswap vadeli işlemleri ile küresel PMI'lar haftanın kripto gündeminde yer alıyor.",
     "url": "https://www.coindesk.com/markets/2026/10/19/cme-s-bitcoin-cash-uniswap-futures-global-pmis-crypto-week-ahead",
     "published": "2026-10-19T09:12:39Z",
+    "importance": 3
+   }
+  ],
+  "USDC": [
+   {
+    "title": "Tx, RWA likiditesini kendi zincirine çekmek için USTX stablecoin’ini piyasaya sürdü",
+    "summary": "Brale tarafından ihraç edilen token, sekiz ağdaki USDC ile basılabiliyor ve tx’te tokenleştirilmiş hisseler ile diğer varlıkların mutabakatını sağlamak üzere tasarlandı.",
+    "url": "https://cointelegraph-tr.com/news/tx-ustx-stablecoin-rwa-liquidity-chain",
+    "published": "2026-10-20T12:30:00Z",
     "importance": 3
    }
   ],
@@ -267,7 +276,12 @@
   "https://cointelegraph-tr.com/news/netflix-ftx-trailer-upset-first-30-seconds-ftx-coo": 1792496328.2269704,
   "https://www.coindesk.com/daybook-us/2026/10/20/equity-weakness-could-damp-demand-for-bitcoin-after-biggest-etf-inflows-in-a-month": 1792496328.2269704,
   "https://cointelegraph-tr.com/news/kazakhstan-court-limits-coinbase-bingx-four": 1792496328.2269704,
-  "https://www.coindesk.com/markets/2026/10/20/jpmorgan-sees-10-annual-bitcoin-returns-topping-stocks-bonds-and-gold-over-next-decade": 1792496328.2269704
+  "https://www.coindesk.com/markets/2026/10/20/jpmorgan-sees-10-annual-bitcoin-returns-topping-stocks-bonds-and-gold-over-next-decade": 1792496328.2269704,
+  "https://www.coindesk.com/business/2026/10/19/microsoft-alphabet-and-goldman-sachs-join-objections-to-okx-ice-tokenized-stock-trading": 1792500189.291328,
+  "https://cointelegraph-tr.com/news/tx-ustx-stablecoin-rwa-liquidity-chain": 1792500189.291328,
+  "https://www.theblock.co/news/regulation/2026-10-20-swiss-regulator-finma-approves-countrys-first-spot-bitcoin-etf-for-retail-investors-421127": 1792500189.291328,
+  "https://cointelegraph-tr.com/news/uk-banks-crypto-transfer-complaints-stand-with-crypto": 1792500189.291328,
+  "https://www.coindesk.com/policy/2026/10/20/france-s-parliament-approves-vote-to-hit-crypto-to-stablecoin-trades-with-31-levy": 1792500189.291328
  },
  "tries": {}
 }
