@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-20T17:12:24Z",
+ "updated": "2026-10-20T18:04:56Z",
  "sources": [
   "coindesk.com",
   "cointelegraph-tr.com",
@@ -66,10 +66,10 @@
     "importance": 4
    },
    {
-    "title": "BlackRock, rakip fonun %50'lik çöküş yaşamasının ardından bitcoin yatırımcılarını zarardan korumaya çalışıyor",
-    "summary": "BlackRock, rakip bir fonun %50'lik çöküş yaşamasının ardından bitcoin yatırımcılarını zarardan korumaya yönelik adımlar atıyor.",
-    "url": "https://www.coindesk.com/markets/2026/10/20/blackrock-seeks-to-shield-bitcoin-investors-from-losses-after-rival-fund-weathers-50-crash",
-    "published": "2026-10-20T14:28:39Z",
+    "title": "Strive, 630 milyon dolarlık SATS halka arzını tamamladı; Bitcoin tahsisini açıklamadı",
+    "summary": "Bitcoin hazine şirketi Strive, net gelirleriyle tahmini 7.372 BTC satın alabilecek 630 milyon dolarlık SATS halka arzını tamamladı ancak Bitcoin tahsisini henüz açıklamadı. Şirket, tüm tutarı tahsis etmesi durumunda Metaplanet'in varlıklarını aşabilir.",
+    "url": "https://cointelegraph-tr.com/news/strive-closes-630m-sats-ipo-leaves-bitcoin-allocation-unspecified",
+    "published": "2026-10-20T17:40:00Z",
     "importance": 3
    }
   ],
@@ -185,8 +185,6 @@
   ]
  },
  "seen": {
-  "https://cointelegraph-tr.com/news/stablecoin-remittances-cost-savings-traditional-transfers": 1792173785.982641,
-  "https://www.theblock.co/news/business/2026-10-16-coinbase-to-power-stablecoin-backed-cards-for-marqeta-customers-418833": 1792173785.982641,
   "https://www.theblock.co/news/markets/2026-10-16-strives-bitcoin-buying-spree-earns-27-price-target-hike-td-cowen-418839": 1792182753.7309127,
   "https://www.coindesk.com/tech/2026/10/16/satoshi-era-bitcoin-faces-a-bigger-quantum-threat-after-google-s-new-willow-breakthrough": 1792204447.0824494,
   "https://cointelegraph-tr.com/news/bitget-to-discontinue-services-for-some-users-in-one-off-exercise": 1792222457.0029702,
@@ -296,7 +294,8 @@
   "https://cointelegraph-tr.com/news/injective-bdacs-korean-won-stablecoin-tokenized-assets": 1792516344.0694432,
   "https://www.theblock.co/news/ecosystems/2026-10-20-ethereum-solana-staking-record-yields-fall-bitwise-q3-421414": 1792516344.0694432,
   "https://cointelegraph-tr.com/news/alphabet-microsoft-goldman-object-okx-ice-tokenized-stock": 1792516344.0694432,
-  "https://www.theblock.co/news/regulation/2026-10-20-okx-putting-money-where-mouth-is-new-protection-plan-former-ny-gov-cuomo-421421": 1792516344.0694432
+  "https://www.theblock.co/news/regulation/2026-10-20-okx-putting-money-where-mouth-is-new-protection-plan-former-ny-gov-cuomo-421421": 1792516344.0694432,
+  "https://cointelegraph-tr.com/news/strive-closes-630m-sats-ipo-leaves-bitcoin-allocation-unspecified": 1792519496.3370757
  },
  "tries": {}
 }
