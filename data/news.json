@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-20T12:43:09Z",
+ "updated": "2026-10-20T13:44:29Z",
  "sources": [
   "coindesk.com",
   "cointelegraph-tr.com",
@@ -17,10 +17,10 @@
   ],
   "BTC": [
    {
-    "title": "İsviçre düzenleyicisi FINMA, ülkenin bireysel yatırımcılara yönelik ilk spot bitcoin ETF'sini onayladı",
-    "summary": "İsviçre düzenleyicisi FINMA, daha önceki kripto ETP listelemelerinin ve nitelikli yatırımcılarla sınırlı bir fonun ardından ülkenin bireysel yatırımcılara yönelik ilk spot Bitcoin ETF'sini onayladı.",
-    "url": "https://www.theblock.co/news/regulation/2026-10-20-swiss-regulator-finma-approves-countrys-first-spot-bitcoin-etf-for-retail-investors-421127",
-    "published": "2026-10-20T12:15:05Z",
+    "title": "FINMA, İsviçre’nin bireysel yatırımcılara yönelik ilk Bitcoin ETF’sine onay verdi",
+    "summary": "İsviçre düzenleyicisi, bireysel yatırımcılara yönelik ilk Bitcoin ETF'sine onay verdi. Kurum, kripto para yatırımlarına yönelik artan iştaha dikkat çekerek birden fazla fon sağlayıcısının Bitcoin ETF'si başvuruları sunduğunu belirtti.",
+    "url": "https://cointelegraph-tr.com/news/finma-approves-switzerlands-first-bitcoin-etf-retail",
+    "published": "2026-10-20T13:04:28Z",
     "importance": 5
    },
    {
@@ -74,6 +74,13 @@
    }
   ],
   "ETH": [
+   {
+    "title": "Drift saldırganı Tornado Cash’e 61 milyon dolarlık ETH gönderdi, 194 milyon dolarlık varlık tutuyor",
+    "summary": "Nisan ayında gerçekleşen ve yaklaşık 295 milyon dolarlık kayba yol açan saldırının faili, Tornado Cash'e 61 milyon dolarlık ETH gönderdi. Yürütülen Mandiant soruşturması bu saldırıyı Kuzey Koreli bir tehdit grubuna atfetmişti.",
+    "url": "https://cointelegraph-tr.com/news/drift-exploiter-eth-tornado-cash",
+    "published": "2026-10-20T12:38:28Z",
+    "importance": 4
+   },
    {
     "title": "BlackRock üçüncü Bitcoin ETF'si için başvurdu; hâlâ Solana veya XRP yok",
     "summary": "BlackRock, potansiyel kayıpları sınırlamak ve kazançları tavanlamak amacıyla opsiyonları kullanacak yeni bir Bitcoin fonu için başvuruda bulundu. Bu hamle, mevcut Bitcoin ve Ether ETF ürün yelpazesine yeni bir strateji katacak.",
@@ -143,15 +150,6 @@
     "summary": "Tether: Senatörün soruşturması, İran hacimlerinin düşmesine yol açan olumlu çalışmaları gözden kaçırıyor",
     "url": "https://www.coindesk.com/policy/2026/10/19/tether-senator-s-investigation-misses-positive-work-that-s-led-to-lower-iran-volumes",
     "published": "2026-10-19T20:21:13Z",
-    "importance": 3
-   }
-  ],
-  "WLD": [
-   {
-    "title": "World, Bankalar İçin World ID Paketini Başlattı ve Zoom Derin Sahte Kontrolünü Erişime Açtı",
-    "summary": "World ID for Zoom, Nisan ayında başlayan beta sürecinin ardından genel kullanıma sunuldu. Bu hizmet, Zoom görüşmelerindeki derin sahte katılımcıları tespit etmek üzere tasarlandı.",
-    "url": "https://www.theblock.co/news/ecosystems/2026-10-18-world-launches-world-id-suite-banks-418869",
-    "published": "2026-10-19T01:10:00Z",
     "importance": 3
    }
   ],
@@ -281,7 +279,12 @@
   "https://cointelegraph-tr.com/news/tx-ustx-stablecoin-rwa-liquidity-chain": 1792500189.291328,
   "https://www.theblock.co/news/regulation/2026-10-20-swiss-regulator-finma-approves-countrys-first-spot-bitcoin-etf-for-retail-investors-421127": 1792500189.291328,
   "https://cointelegraph-tr.com/news/uk-banks-crypto-transfer-complaints-stand-with-crypto": 1792500189.291328,
-  "https://www.coindesk.com/policy/2026/10/20/france-s-parliament-approves-vote-to-hit-crypto-to-stablecoin-trades-with-31-levy": 1792500189.291328
+  "https://www.coindesk.com/policy/2026/10/20/france-s-parliament-approves-vote-to-hit-crypto-to-stablecoin-trades-with-31-levy": 1792500189.291328,
+  "https://www.coindesk.com/business/2026/10/20/kazakhstan-court-bars-coinbase-five-others-from-unlicensed-crypto-services-in-astana-international-financial-centre": 1792503869.1438065,
+  "https://cointelegraph-tr.com/magazine/ai-trade-sleep-yat-siu-warns-losing-agent": 1792503869.1438065,
+  "https://cointelegraph-tr.com/news/finma-approves-switzerlands-first-bitcoin-etf-retail": 1792503869.1438065,
+  "https://www.theblock.co/news/web3/2026-10-20-stablecoins-move-400-million-per-hour-421111": 1792503869.1438065,
+  "https://cointelegraph-tr.com/news/drift-exploiter-eth-tornado-cash": 1792503869.1438065
  },
  "tries": {}
 }
