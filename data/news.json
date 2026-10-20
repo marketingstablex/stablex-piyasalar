@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-20T04:08:57Z",
+ "updated": "2026-10-20T05:06:19Z",
  "sources": [
   "coindesk.com",
   "cointelegraph-tr.com",
@@ -152,8 +152,6 @@
   ]
  },
  "seen": {
-  "https://www.coindesk.com/tech/2026/10/16/an-openai-agent-ran-out-of-ethereum-funds-and-took-from-a-wallet-it-did-not-own": 1792127138.8814154,
-  "https://www.coindesk.com/markets/2026/10/16/bitcoin-buyers-snap-up-a-brief-drop-below-usd80-000-as-asian-stocks-rebound": 1792127138.8814154,
   "https://www.coindesk.com/markets/2026/10/16/xrp-has-failed-to-make-holders-rich-like-bitcoin-and-ether-here-s-why": 1792130829.3916452,
   "https://www.theblock.co/news/regulation/2026-10-16-us-judge-denies-joint-gemini-cftc-bid-418775": 1792130829.3916452,
   "https://cointelegraph-tr.com/news/judge-rejects-cftc-gemini-5m-settlement-reversal": 1792138141.4499419,
@@ -251,7 +249,8 @@
   "https://www.coindesk.com/policy/2026/10/19/tether-senator-s-investigation-misses-positive-work-that-s-led-to-lower-iran-volumes": 1792443833.7921278,
   "https://www.theblock.co/news/regulation/2026-10-19-blackrock-files-bitcoin-managed-protect-etf-downside-protection-ibit-421087": 1792447627.1291933,
   "https://cointelegraph-tr.com/markets/bitcoin-rally-could-revive-treasury-buying-but-easy-money-days-over": 1792460300.5064516,
-  "https://www.theblock.co/news/regulation/2026-10-20-blockchain-association-clearer-rules-genius-act-421092": 1792469337.9880831
+  "https://www.theblock.co/news/regulation/2026-10-20-blockchain-association-clearer-rules-genius-act-421092": 1792469337.9880831,
+  "https://cointelegraph-tr.com/news/us-bans-deepseek-from-civilian-agency-it-systems": 1792472779.3883672
  },
  "tries": {}
 }
