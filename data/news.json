@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-20T03:07:30Z",
+ "updated": "2026-10-20T04:08:57Z",
  "sources": [
   "coindesk.com",
   "cointelegraph-tr.com",
@@ -93,13 +93,6 @@
     "summary": "Bitmine geçen hafta 12.535 ETH satın aldı. Bu alımla birlikte şirketin hazinesi 6,04 milyon tokene ve toplam yatırım varlıkları 15,1 milyar dolara yükseldi.",
     "url": "https://www.theblock.co/news/business/2026-10-19-bitmine-adds-12535-eth-as-treasury-reaches-6-04-million-tokens-421018",
     "published": "2026-10-19T13:36:46Z",
-    "importance": 3
-   },
-   {
-    "title": "Cysic, bir saldırganın token basıp Ethereum'a 727.000 dolar aktarmasının ardından köprüyü askıya aldı",
-    "summary": "Saldırgan 10 milyon CYS bastıktan sonra Mayan, deBridge ve SWFT'nin Bridgers platformları aracılığıyla yaklaşık 727.000 dolar değerindeki geliri Ethereum'a köprülemeyi başardı.",
-    "url": "https://www.theblock.co/news/defi/2026-10-18-cysic-suspends-bridge-after-attacker-mints-tokens-and-moves-727000-to-ethereum-418863",
-    "published": "2026-10-18T16:07:43Z",
     "importance": 3
    }
   ],
@@ -257,7 +250,8 @@
   "https://cointelegraph-tr.com/news/crypto-pac-california-race-voters-special-election": 1792443833.7921278,
   "https://www.coindesk.com/policy/2026/10/19/tether-senator-s-investigation-misses-positive-work-that-s-led-to-lower-iran-volumes": 1792443833.7921278,
   "https://www.theblock.co/news/regulation/2026-10-19-blackrock-files-bitcoin-managed-protect-etf-downside-protection-ibit-421087": 1792447627.1291933,
-  "https://cointelegraph-tr.com/markets/bitcoin-rally-could-revive-treasury-buying-but-easy-money-days-over": 1792460300.5064516
+  "https://cointelegraph-tr.com/markets/bitcoin-rally-could-revive-treasury-buying-but-easy-money-days-over": 1792460300.5064516,
+  "https://www.theblock.co/news/regulation/2026-10-20-blockchain-association-clearer-rules-genius-act-421092": 1792469337.9880831
  },
  "tries": {}
 }
