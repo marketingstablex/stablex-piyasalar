@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-20T00:01:33Z",
+ "updated": "2026-10-20T00:45:29Z",
  "sources": [
   "coindesk.com",
   "cointelegraph-tr.com",
@@ -159,7 +159,6 @@
   ]
  },
  "seen": {
-  "https://cointelegraph-tr.com/news/australia-releases-draft-bill-to-adopt-oecd-crypto-tax-reporting-framework": 1792111400.5956864,
   "https://cointelegraph-tr.com/news/msci-adopts-index-exclusion-rules-that-could-oust-strategy": 1792114447.2333834,
   "https://www.coindesk.com/tech/2026/10/16/an-openai-agent-ran-out-of-ethereum-funds-and-took-from-a-wallet-it-did-not-own": 1792127138.8814154,
   "https://www.coindesk.com/markets/2026/10/16/bitcoin-buyers-snap-up-a-brief-drop-below-usd80-000-as-asian-stocks-rebound": 1792127138.8814154,
