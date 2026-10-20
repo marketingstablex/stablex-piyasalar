@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-20T06:40:55Z",
+ "updated": "2026-10-20T07:43:51Z",
  "sources": [
   "coindesk.com",
   "cointelegraph-tr.com",
@@ -16,6 +16,13 @@
    }
   ],
   "BTC": [
+   {
+    "title": "BlackRock’ın IBIT Bitcoin ETF'si, Ekim 2025'ten bu yana en yüksek olan 665 milyon dolarlık giriş çekti",
+    "summary": "Presto Research kıdemli araştırmacısı Min Jung, yatırımcıların Bitcoin'de olası bir 'yakalama işlemine' hazırlanıyor olabileceğini belirtti.",
+    "url": "https://www.theblock.co/news/markets/2026-10-20-blackrock-ibit-bitcoin-etf-665-million-421102",
+    "published": "2026-10-20T07:05:24Z",
+    "importance": 4
+   },
    {
     "title": "BlackRock, Düşüş Koruması ve Yükseliş Maruziyeti Sunan Bitcoin ETF İçin Başvurdu",
     "summary": "Dünyanın en büyük yatırım yöneticilerinden biri olan BlackRock, varlıkla bağlantılı üçüncü fonunu işaret ederek yeni bir Bitcoin fonu için başvuruda bulundu.",
@@ -63,13 +70,6 @@
     "summary": "Strive, bitcoin başına ortalama 81.734 dolar ödeyerek portföyüne 1.223 BTC daha ekledi. Böylece şirketin toplam varlıkları 36.818 BTC'ye ulaştı.",
     "url": "https://www.theblock.co/news/business/2026-10-19-strive-scoops-1223-bitcoin-100-million-total-holdings-reach-36818-btc-421020",
     "published": "2026-10-19T13:45:41Z",
-    "importance": 3
-   },
-   {
-    "title": "Strategy 22 milyon dolarlık Bitcoin satın aldı, 193 milyon dolarlık STRC geri alımı yaptı",
-    "summary": "Strategy, varlıklarına 267 Bitcoin eklerken 1,94 milyon STRC hissesini geri aldı ve imtiyazlı hisse geri alım programını 3 milyar dolara çıkardı.",
-    "url": "https://cointelegraph-tr.com/news/strategy-btc-22-million-buy-strc-buyback-193-million",
-    "published": "2026-10-19T12:30:00Z",
     "importance": 3
    }
   ],
@@ -249,7 +249,8 @@
   "https://cointelegraph-tr.com/markets/bitcoin-rally-could-revive-treasury-buying-but-easy-money-days-over": 1792460300.5064516,
   "https://www.theblock.co/news/regulation/2026-10-20-blockchain-association-clearer-rules-genius-act-421092": 1792469337.9880831,
   "https://cointelegraph-tr.com/news/us-bans-deepseek-from-civilian-agency-it-systems": 1792472779.3883672,
-  "https://cointelegraph-tr.com/news/sophon-sets-nov-25-withdrawal-deadline-ahead-of-mainnet-shutdown": 1792474693.5770593
+  "https://cointelegraph-tr.com/news/sophon-sets-nov-25-withdrawal-deadline-ahead-of-mainnet-shutdown": 1792474693.5770593,
+  "https://www.theblock.co/news/markets/2026-10-20-blackrock-ibit-bitcoin-etf-665-million-421102": 1792482231.8349817
  },
  "tries": {}
 }
