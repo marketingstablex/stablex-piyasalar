@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-20T13:44:29Z",
+ "updated": "2026-10-20T14:37:15Z",
  "sources": [
   "coindesk.com",
   "cointelegraph-tr.com",
@@ -178,9 +178,6 @@
   ]
  },
  "seen": {
-  "https://cointelegraph-tr.com/news/ledger-early-implant-warnings-mark-karpeles": 1792159873.4448955,
-  "https://cointelegraph-tr.com/news/deutsche-bank-crypto-custody-expansion-asia-2027": 1792159873.4448955,
-  "https://www.theblock.co/learn/ethereum/how-ethereum-works-418525": 1792159873.4448955,
   "https://www.theblock.co/news/business/2026-10-16-circle-usdc-revenue-split-partners-418826": 1792163177.8088932,
   "https://www.coindesk.com/opinion/2026/10/16/big-tech-s-ai-auditors-will-only-see-what-they-re-shown": 1792163177.8088932,
   "https://cointelegraph-tr.com/news/stablecoin-remittances-cost-savings-traditional-transfers": 1792173785.982641,
@@ -284,7 +281,9 @@
   "https://cointelegraph-tr.com/magazine/ai-trade-sleep-yat-siu-warns-losing-agent": 1792503869.1438065,
   "https://cointelegraph-tr.com/news/finma-approves-switzerlands-first-bitcoin-etf-retail": 1792503869.1438065,
   "https://www.theblock.co/news/web3/2026-10-20-stablecoins-move-400-million-per-hour-421111": 1792503869.1438065,
-  "https://cointelegraph-tr.com/news/drift-exploiter-eth-tornado-cash": 1792503869.1438065
+  "https://cointelegraph-tr.com/news/drift-exploiter-eth-tornado-cash": 1792503869.1438065,
+  "https://www.theblock.co/news/markets/2026-10-20-blockchain-com-launches-options-trading-bitcoin-ether-sol-421326": 1792507035.464048,
+  "https://www.theblock.co/news/markets/2026-10-20-injective-partners-bdacs-418883": 1792507035.464048
  },
  "tries": {}
 }
