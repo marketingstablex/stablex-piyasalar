@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-20T19:37:07Z",
+ "updated": "2026-10-20T20:06:40Z",
  "sources": [
   "coindesk.com",
   "cointelegraph-tr.com",
@@ -59,13 +59,6 @@
     "importance": 4
    },
    {
-    "title": "Bitcoin ve Ether ETF’leri 549 milyon dolar kaybetti, Ekim ETH çıkışları 1 milyar dolara yaklaşıyor",
-    "summary": "ABD’deki spot Ether ETF’lerinde Ekim ayında yaklaşık 955 milyon dolarlık net çıkış kaydedildi. Bitcoin fonlarının haftalık para çekme serisi ise iki haftaya uzadı.",
-    "url": "https://cointelegraph-tr.com/markets/bitcoin-ether-etfs-549-million-weekly-outflows",
-    "published": "2026-10-19T07:54:13Z",
-    "importance": 4
-   },
-   {
     "title": "Strive, 630 milyon dolarlık SATS halka arzını tamamladı; Bitcoin tahsisini açıklamadı",
     "summary": "Bitcoin hazine şirketi Strive, net gelirleriyle tahmini 7.372 BTC satın alabilecek 630 milyon dolarlık SATS halka arzını tamamladı ancak Bitcoin tahsisini henüz açıklamadı. Şirket, tüm tutarı tahsis etmesi durumunda Metaplanet'in varlıklarını aşabilir.",
     "url": "https://cointelegraph-tr.com/news/strive-closes-630m-sats-ipo-leaves-bitcoin-allocation-unspecified",
@@ -100,13 +93,6 @@
     "summary": "JPMorgan'ın, kurumsal müşterilerin ödeme yapmasına ve tokenleştirilmiş varlık işlemlerini sonuçlandırmasına olanak tanıyarak JPM Coin mevduat token'ını Ethereum'a genişlettiği bildiriliyor.",
     "url": "https://cointelegraph-tr.com/news/jpmorgan-jpm-coin-ethereum-institutional-clients",
     "published": "2026-10-19T08:58:45Z",
-    "importance": 4
-   },
-   {
-    "title": "Bitcoin ve Ether ETF’leri 549 milyon dolar kaybetti, Ekim ETH çıkışları 1 milyar dolara yaklaşıyor",
-    "summary": "ABD’deki spot Ether ETF’lerinde Ekim ayında yaklaşık 955 milyon dolarlık net çıkış kaydedildi. Bitcoin fonlarının haftalık para çekme serisi ise iki haftaya uzadı.",
-    "url": "https://cointelegraph-tr.com/markets/bitcoin-ether-etfs-549-million-weekly-outflows",
-    "published": "2026-10-19T07:54:13Z",
     "importance": 4
    },
    {
