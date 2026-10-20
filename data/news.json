@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-20T20:40:33Z",
+ "updated": "2026-10-20T21:34:54Z",
  "sources": [
   "coindesk.com",
   "cointelegraph-tr.com",
@@ -52,13 +52,6 @@
     "importance": 4
    },
    {
-    "title": "JPMorgan, JPM Coin'i kurumsal müşteriler için Ethereum'a taşıyor: Rapor",
-    "summary": "JPMorgan'ın, kurumsal müşterilerin ödeme yapmasına ve tokenleştirilmiş varlık işlemlerini sonuçlandırmasına olanak tanıyarak JPM Coin mevduat token'ını Ethereum'a genişlettiği bildiriliyor.",
-    "url": "https://cointelegraph-tr.com/news/jpmorgan-jpm-coin-ethereum-institutional-clients",
-    "published": "2026-10-19T08:58:45Z",
-    "importance": 4
-   },
-   {
     "title": "Strive, 630 milyon dolarlık SATS halka arzını tamamladı; Bitcoin tahsisini açıklamadı",
     "summary": "Bitcoin hazine şirketi Strive, net gelirleriyle tahmini 7.372 BTC satın alabilecek 630 milyon dolarlık SATS halka arzını tamamladı ancak Bitcoin tahsisini henüz açıklamadı. Şirket, tüm tutarı tahsis etmesi durumunda Metaplanet'in varlıklarını aşabilir.",
     "url": "https://cointelegraph-tr.com/news/strive-closes-630m-sats-ipo-leaves-bitcoin-allocation-unspecified",
@@ -89,13 +82,6 @@
     "importance": 4
    },
    {
-    "title": "JPMorgan, JPM Coin'i kurumsal müşteriler için Ethereum'a taşıyor: Rapor",
-    "summary": "JPMorgan'ın, kurumsal müşterilerin ödeme yapmasına ve tokenleştirilmiş varlık işlemlerini sonuçlandırmasına olanak tanıyarak JPM Coin mevduat token'ını Ethereum'a genişlettiği bildiriliyor.",
-    "url": "https://cointelegraph-tr.com/news/jpmorgan-jpm-coin-ethereum-institutional-clients",
-    "published": "2026-10-19T08:58:45Z",
-    "importance": 4
-   },
-   {
     "title": "Bitmine, hazine rezervini 6,04 milyon tokena çıkararak 12.535 ETH ekledi",
     "summary": "Bitmine geçen hafta 12.535 ETH satın aldı. Bu alımla birlikte şirketin hazinesi 6,04 milyon tokene ve toplam yatırım varlıkları 15,1 milyar dolara yükseldi.",
     "url": "https://www.theblock.co/news/business/2026-10-19-bitmine-adds-12535-eth-as-treasury-reaches-6-04-million-tokens-421018",
@@ -123,15 +109,6 @@
     "summary": "SkyAI, tüm SOL varlıklarını sattıktan sonra 223,8 milyon dolar nakde sahip oldu ve 3 dolarlık geri alımı 29 Ekim'e kadar sürecek.",
     "url": "https://www.theblock.co/news/business/2026-10-19-skyai-sells-off-entire-solana-treasury-launches-201-million-buyback-421037",
     "published": "2026-10-19T15:28:43Z",
-    "importance": 3
-   }
-  ],
-  "UNI": [
-   {
-    "title": "CME'nin Bitcoin Cash, Uniswap Vadeli İşlemleri ve Küresel PMI'lar: Haftalık Kripto Görünümü",
-    "summary": "CME'nin bitcoin cash ve uniswap vadeli işlemleri ile küresel PMI'lar haftanın kripto gündeminde yer alıyor.",
-    "url": "https://www.coindesk.com/markets/2026/10/19/cme-s-bitcoin-cash-uniswap-futures-global-pmis-crypto-week-ahead",
-    "published": "2026-10-19T09:12:39Z",
     "importance": 3
    }
   ],
@@ -284,7 +261,10 @@
   "https://www.coindesk.com/business/2026/10/20/okx-ice-s-andrew-cuomo-calls-issuer-objections-a-natural-response-to-tokenized-stock-plans": 1792521675.754963,
   "https://www.theblock.co/news/markets/2026-10-20-jpmorgan-bitcoin-10-year-return-forecast-ltcma-421436": 1792521675.754963,
   "https://www.theblock.co/news/regulation/2026-10-20-sec-regulation-crypto-assets-comment-period-hyperliquid-sifma-aima-421444": 1792525027.225688,
-  "https://www.theblock.co/news/regulation/2026-10-20-utah-likens-kalshi-back-alley-gambling-den-lawsuit-naming-susquehanna-firms-421442": 1792525027.225688
+  "https://www.theblock.co/news/regulation/2026-10-20-utah-likens-kalshi-back-alley-gambling-den-lawsuit-naming-susquehanna-firms-421442": 1792525027.225688,
+  "https://cointelegraph-tr.com/news/utah-lawsuit-kalshi-susquehanna-prediction-markets-illegal-bets": 1792532094.0078192,
+  "https://www.coindesk.com/policy/2026/10/20/u-s-cftc-sets-agenda-for-ai-forum-exploring-trading-and-agentic-finance": 1792532094.0078192,
+  "https://cointelegraph-tr.com/news/bitwise-hyperliquid-seek-sec-rule-changes-for-token-trading-airdrops": 1792532094.0078192
  },
  "tries": {}
 }
