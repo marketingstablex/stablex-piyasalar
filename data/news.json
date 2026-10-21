@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-21T16:36:33Z",
+ "updated": "2026-10-21T17:12:56Z",
  "sources": [
   "coindesk.com",
   "cointelegraph-tr.com",
@@ -133,6 +133,15 @@
     "url": "https://cointelegraph-tr.com/news/blackrock-ishares-bitcoin-managed-protection-etf-pbit",
     "published": "2026-10-20T08:12:57Z",
     "importance": 4
+   }
+  ],
+  "UNI": [
+   {
+    "title": "Dataline, Yapay Zeka Ajanları İçin Merkeziyetsiz Veri Ağı Yatırımında 10,6 Milyon Dolar Topladı ve ICO Planlıyor",
+    "summary": "Dataline girişimi, yapay zeka ajanları için geliştirdiği merkeziyetsiz veri ağı amacıyla 10,6 milyon dolar yatırım topladı. Şirket, gelecek hafta detaylarının açıklanması beklenen Uniswap'in açık artırma platformu aracılığıyla halka açık bir token satış gerçekleştirmeyi planlıyor.",
+    "url": "https://www.theblock.co/news/deals/2026-10-21-dataline-decentralized-data-network-ai-agents-funding-ico-421596",
+    "published": "2026-10-21T16:44:01Z",
+    "importance": 3
    }
   ],
   "USDC": [
@@ -316,7 +325,8 @@
   "https://www.coindesk.com/business/2026/10/16/bybit-will-look-for-big-broker-partnerships-to-take-on-robinhood-in-the-u-s": 1792597069.4823356,
   "https://www.coindesk.com/coindesk-indices/2026/10/21/crypto-long-and-short-why-real-world-assets-need-fixed-rate-loans-onchain": 1792597069.4823356,
   "https://www.coindesk.com/policy/2026/10/21/trump-to-throw-spotlight-on-overseas-crypto-abuses-in-white-house-event": 1792600593.822381,
-  "https://cointelegraph-tr.com/news/chainlink-cardano-and-other-blockchain-groups-push-sec-for-clearer-crypto-rules": 1792600593.822381
+  "https://cointelegraph-tr.com/news/chainlink-cardano-and-other-blockchain-groups-push-sec-for-clearer-crypto-rules": 1792600593.822381,
+  "https://www.theblock.co/news/deals/2026-10-21-dataline-decentralized-data-network-ai-agents-funding-ico-421596": 1792602776.7161298
  },
  "tries": {}
 }
