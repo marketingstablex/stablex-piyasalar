@@ -1,11 +1,20 @@
 {
- "updated": "2026-10-21T15:37:49Z",
+ "updated": "2026-10-21T16:36:33Z",
  "sources": [
   "coindesk.com",
   "cointelegraph-tr.com",
   "theblock.co"
  ],
  "bySymbol": {
+  "ADA": [
+   {
+    "title": "Chainlink, Cardano ve diğer blockchain grupları SEC’den daha net kripto kuralları talep ediyor",
+    "summary": "Chainlink Labs, Cardano Foundation ve diğer dört büyük blockchain kuruluşu, SEC’yi önerilen düzenleyici çerçevesinde dijital emtiaları menkul kıymet olmayan varlıklar olarak resmen tanımaya çağırdı.",
+    "url": "https://cointelegraph-tr.com/news/chainlink-cardano-and-other-blockchain-groups-push-sec-for-clearer-crypto-rules",
+    "published": "2026-10-21T16:09:26Z",
+    "importance": 4
+   }
+  ],
   "BTC": [
    {
     "title": "FINMA, İsviçre’nin bireysel yatırımcılara yönelik ilk Bitcoin ETF’sine onay verdi",
@@ -305,7 +314,9 @@
   "https://cointelegraph-tr.com/markets/bitcoin-price-tags-846k-as-us-stocks-head-higher-on-spacex-q3-earnings-beat": 1792597069.4823356,
   "https://www.theblock.co/news/markets/2026-10-21-grayscale-expands-in-kind-subscriptions-10-crypto-etfs-421559": 1792597069.4823356,
   "https://www.coindesk.com/business/2026/10/16/bybit-will-look-for-big-broker-partnerships-to-take-on-robinhood-in-the-u-s": 1792597069.4823356,
-  "https://www.coindesk.com/coindesk-indices/2026/10/21/crypto-long-and-short-why-real-world-assets-need-fixed-rate-loans-onchain": 1792597069.4823356
+  "https://www.coindesk.com/coindesk-indices/2026/10/21/crypto-long-and-short-why-real-world-assets-need-fixed-rate-loans-onchain": 1792597069.4823356,
+  "https://www.coindesk.com/policy/2026/10/21/trump-to-throw-spotlight-on-overseas-crypto-abuses-in-white-house-event": 1792600593.822381,
+  "https://cointelegraph-tr.com/news/chainlink-cardano-and-other-blockchain-groups-push-sec-for-clearer-crypto-rules": 1792600593.822381
  },
  "tries": {}
 }
