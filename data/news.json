@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-21T22:08:06Z",
+ "updated": "2026-10-21T23:02:24Z",
  "sources": [
   "coindesk.com",
   "cointelegraph-tr.com",
@@ -56,13 +56,6 @@
     "summary": "ABD spot Ether ETF’lerinden ekimde şimdiye kadar 1,08 milyar dolar çıkış gerçekleşti. Bu durum, 2026 yılının en büyük aylık çıkışı olurken, Bitcoin ETF’lerine girişler pazartesi günkü sıçramanın ardından yavaşladı.",
     "url": "https://cointelegraph-tr.com/markets/ether-etf-outflows-near-1-1-billion-october",
     "published": "2026-10-21T08:11:50Z",
-    "importance": 4
-   },
-   {
-    "title": "Asya çip hisseleri düşerken Bitcoin 81.400 dolara geriledi, opsiyon yatırımcıları aşağı yönlü koruma arıyor",
-    "summary": "Asya çip hisseleri düşerken Bitcoin 81.400 dolara geriledi, opsiyon yatırımcıları aşağı yönlü koruma arıyor",
-    "url": "https://www.coindesk.com/markets/2026/10/20/bitcoin-drops-to-usd81-400-as-asian-chip-stocks-tumble-options-traders-seek-downside-protection",
-    "published": "2026-10-20T10:22:55Z",
     "importance": 4
    }
   ],
@@ -147,13 +140,6 @@
     "summary": "Ripple, Wall Street'i 7/24 hisse senedi bahislerine taşıyor ancak HSBC piyasaların hala zayıf olduğu konusunda uyarıyor.",
     "url": "https://www.coindesk.com/markets/2026/10/21/ripple-brings-wall-street-into-24-7-stock-bets-but-hsbc-warns-markets-are-still-thin",
     "published": "2026-10-21T05:25:57Z",
-    "importance": 3
-   },
-   {
-    "title": "XRP’nin 30 günlük borsa girişleri, balinalar kenara çekilirken 6 milyar tokenı aştı",
-    "summary": "19 Ekim’e kadar olan 30 günde CryptoQuant’ın takip ettiği borsalara 6 milyardan fazla XRP ulaştı. Bu veri, mart ayından beri görülen en yüksek seviyeyi oluşturuyor.",
-    "url": "https://cointelegraph-tr.com/markets/xrp-30-day-exchange-inflows-pass-6b-tokens-as-whales-move-to-the-sidelines",
-    "published": "2026-10-20T10:20:58Z",
     "importance": 3
    }
   ]
