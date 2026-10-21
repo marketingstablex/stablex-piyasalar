@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-21T03:09:05Z",
+ "updated": "2026-10-21T04:09:30Z",
  "sources": [
   "coindesk.com",
   "cointelegraph-tr.com",
@@ -41,6 +41,13 @@
     "url": "https://cointelegraph-tr.com/news/blackrock-ishares-bitcoin-managed-protection-etf-pbit",
     "published": "2026-10-20T08:12:57Z",
     "importance": 4
+   },
+   {
+    "title": "Yapay zeka kazançlarının teknolojiyi canlandırmasıyla Bitcoin 83.000 dolar civarında seyrediyor, ZEC %11 arttı",
+    "summary": "Yapay zeka kazançlarının teknoloji sektörünü canlandırmasıyla birlikte Bitcoin 83.000 dolar seviyelerinde seyrederken, ZEC %11 oranında bir artış kaydetti.",
+    "url": "https://www.coindesk.com/markets/2026/10/21/bitcoin-hovers-around-usd83-000-as-ai-earnings-revive-tech-zec-jumps-11",
+    "published": "2026-10-21T04:07:07Z",
+    "importance": 3
    },
    {
     "title": "Strive, 630 milyon dolarlık SATS halka arzını tamamladı; Bitcoin tahsisini açıklamadı",
@@ -87,13 +94,6 @@
     "url": "https://cointelegraph-tr.com/news/blackrock-ishares-bitcoin-managed-protection-etf-pbit",
     "published": "2026-10-20T08:12:57Z",
     "importance": 4
-   },
-   {
-    "title": "SkyAI, 201 Milyon Dolarlık Geri Alım Başlatırken Tüm Solana Hazinesini Sattı",
-    "summary": "SkyAI, tüm SOL varlıklarını sattıktan sonra 223,8 milyon dolar nakde sahip oldu ve 3 dolarlık geri alımı 29 Ekim'e kadar sürecek.",
-    "url": "https://www.theblock.co/news/business/2026-10-19-skyai-sells-off-entire-solana-treasury-launches-201-million-buyback-421037",
-    "published": "2026-10-19T15:28:43Z",
-    "importance": 3
    }
   ],
   "USDC": [
@@ -249,7 +249,8 @@
   "https://www.coindesk.com/policy/2026/10/20/u-s-cftc-sets-agenda-for-ai-forum-exploring-trading-and-agentic-finance": 1792532094.0078192,
   "https://cointelegraph-tr.com/news/bitwise-hyperliquid-seek-sec-rule-changes-for-token-trading-airdrops": 1792532094.0078192,
   "https://cointelegraph-tr.com/markets/musk-says-spacex-tesla-merger-a-good-idea-as-ai-revenue-jumps-ninefold": 1792546758.9768832,
-  "https://www.theblock.co/news/business/2026-10-20-moonpay-upbit-dunamu-421476": 1792550022.8358998
+  "https://www.theblock.co/news/business/2026-10-20-moonpay-upbit-dunamu-421476": 1792550022.8358998,
+  "https://www.coindesk.com/markets/2026/10/21/bitcoin-hovers-around-usd83-000-as-ai-earnings-revive-tech-zec-jumps-11": 1792555770.8618898
  },
  "tries": {}
 }
