@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-21T18:05:08Z",
+ "updated": "2026-10-21T18:42:25Z",
  "sources": [
   "coindesk.com",
   "cointelegraph-tr.com",
@@ -7,6 +7,13 @@
  ],
  "bySymbol": {
   "ADA": [
+   {
+    "title": "Cardano Vakfı, AB’yi MiCA kurallarını DeFi ve staking’i kapsayacak şekilde genişletmemeye çağırıyor",
+    "summary": "Cardano Vakfı, düzenlemelerin teknoloji yerine finansal risklere dayanması gerektiğini belirterek, birbiriyle örtüşen kuralların AB genelindeki kripto şirketleri için belirsizlik yaratabileceği uyarısında bulundu.",
+    "url": "https://cointelegraph-tr.com/news/cardano-foundation-urges-eu-against-expanding-mica-rules-to-defi-and-staking",
+    "published": "2026-10-21T17:57:39Z",
+    "importance": 4
+   },
    {
     "title": "Chainlink, Cardano ve diğer blockchain grupları SEC’den daha net kripto kuralları talep ediyor",
     "summary": "Chainlink Labs, Cardano Foundation ve diğer dört büyük blockchain kuruluşu, SEC’yi önerilen düzenleyici çerçevesinde dijital emtiaları menkul kıymet olmayan varlıklar olarak resmen tanımaya çağırdı.",
@@ -178,7 +185,6 @@
   ]
  },
  "seen": {
-  "https://www.theblock.co/news/regulation/2026-10-17-turkey-confirms-hex-founder-richard-hearts-arrest-says-police-seized-7-15-million-and-six-cold-wallets-418852": 1792261968.4498076,
   "https://www.theblock.co/news/markets/2026-10-17-coreweave-broadcom-verizon-among-nine-companies-objecting-to-tokenized-trading-of-their-shares-on-okxice-418859": 1792269036.3459778,
   "https://www.coindesk.com/business/2026/10/17/circle-defends-usdc-economics-as-stablecoin-rivals-court-its-partners-with-bigger-cut": 1792287219.3896756,
   "https://cointelegraph-tr.com/news/tether-backs-aisa-as-strategic-investor-completing-seed-extension-round": 1792305401.4641669,
@@ -328,7 +334,8 @@
   "https://www.theblock.co/news/deals/2026-10-21-dataline-decentralized-data-network-ai-agents-funding-ico-421596": 1792602776.7161298,
   "https://www.theblock.co/news/regulation/2026-10-21-american-bankers-association-accuses-occ-undermining-congress-stablecoin-rewards-rule-421629": 1792605908.1461856,
   "https://cointelegraph-tr.com/news/uk-fca-consultations-defi-crypto-laws": 1792605908.1461856,
-  "https://cointelegraph-tr.com/news/occ-finalizes-stablecoin-rules-genius-act-bessent": 1792605908.1461856
+  "https://cointelegraph-tr.com/news/occ-finalizes-stablecoin-rules-genius-act-bessent": 1792605908.1461856,
+  "https://cointelegraph-tr.com/news/cardano-foundation-urges-eu-against-expanding-mica-rules-to-defi-and-staking": 1792608145.9713638
  },
  "tries": {}
 }
