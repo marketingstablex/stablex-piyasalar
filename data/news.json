@@ -1,20 +1,11 @@
 {
- "updated": "2026-10-20T23:58:30Z",
+ "updated": "2026-10-21T00:43:44Z",
  "sources": [
   "coindesk.com",
   "cointelegraph-tr.com",
   "theblock.co"
  ],
  "bySymbol": {
-  "ADA": [
-   {
-    "title": "Cardano kurucusu Charles Hoskinson ağ için yeni bir programlama dili inşa ediyor",
-    "summary": "Cardano kurucusu Charles Hoskinson ağ için yeni bir programlama dili inşa ediyor",
-    "url": "https://www.coindesk.com/tech/2026/10/19/cardano-founder-charles-hoskinson-is-building-a-new-programming-language-for-the-network",
-    "published": "2026-10-19T12:16:58Z",
-    "importance": 2
-   }
-  ],
   "BTC": [
    {
     "title": "FINMA, İsviçre’nin bireysel yatırımcılara yönelik ilk Bitcoin ETF’sine onay verdi",
