@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-21T07:45:43Z",
+ "updated": "2026-10-21T08:39:20Z",
  "sources": [
   "coindesk.com",
   "cointelegraph-tr.com",
@@ -13,6 +13,13 @@
     "url": "https://cointelegraph-tr.com/news/finma-approves-switzerlands-first-bitcoin-etf-retail",
     "published": "2026-10-20T13:04:28Z",
     "importance": 5
+   },
+   {
+    "title": "Ether ETF çıkışları sürüyor, ekimde şimdiye kadar 1 milyar doları aştı",
+    "summary": "ABD spot Ether ETF’lerinden ekimde şimdiye kadar 1,08 milyar dolar çıkış gerçekleşti. Bu durum, 2026 yılının en büyük aylık çıkışı olurken, Bitcoin ETF’lerine girişler pazartesi günkü sıçramanın ardından yavaşladı.",
+    "url": "https://cointelegraph-tr.com/markets/ether-etf-outflows-near-1-1-billion-october",
+    "published": "2026-10-21T08:11:50Z",
+    "importance": 4
    },
    {
     "title": "Asya çip hisseleri düşerken Bitcoin 81.400 dolara geriledi, opsiyon yatırımcıları aşağı yönlü koruma arıyor",
@@ -58,6 +65,13 @@
    }
   ],
   "ETH": [
+   {
+    "title": "Ether ETF çıkışları sürüyor, ekimde şimdiye kadar 1 milyar doları aştı",
+    "summary": "ABD spot Ether ETF’lerinden ekimde şimdiye kadar 1,08 milyar dolar çıkış gerçekleşti. Bu durum, 2026 yılının en büyük aylık çıkışı olurken, Bitcoin ETF’lerine girişler pazartesi günkü sıçramanın ardından yavaşladı.",
+    "url": "https://cointelegraph-tr.com/markets/ether-etf-outflows-near-1-1-billion-october",
+    "published": "2026-10-21T08:11:50Z",
+    "importance": 4
+   },
    {
     "title": "Ethereum staking'i getiriler düşerken ve Solana aktivitesi artarken rekor kırdı: Bitwise",
     "summary": "Getirilerin yüzde 2,63'e gerilediği üçüncü çeyrekte, arzın yaklaşık yüzde 36'sına denk gelen rekor düzeyde 43,8 milyon ETH staking'e dahil edildi. Solana staking'i de 440,5 milyon SOL ile rekor seviyeye ulaştı.",
@@ -109,15 +123,6 @@
     "summary": "Brale tarafından ihraç edilen token, sekiz ağdaki USDC ile basılabiliyor ve tx’te tokenleştirilmiş hisseler ile diğer varlıkların mutabakatını sağlamak üzere tasarlandı.",
     "url": "https://cointelegraph-tr.com/news/tx-ustx-stablecoin-rwa-liquidity-chain",
     "published": "2026-10-20T12:30:00Z",
-    "importance": 3
-   }
-  ],
-  "USDT": [
-   {
-    "title": "Tether: Senatörün soruşturması, İran hacimlerinin düşmesine yol açan olumlu çalışmaları gözden kaçırıyor",
-    "summary": "Tether: Senatörün soruşturması, İran hacimlerinin düşmesine yol açan olumlu çalışmaları gözden kaçırıyor",
-    "url": "https://www.coindesk.com/policy/2026/10/19/tether-senator-s-investigation-misses-positive-work-that-s-led-to-lower-iran-volumes",
-    "published": "2026-10-19T20:21:13Z",
     "importance": 3
    }
   ],
@@ -267,7 +272,9 @@
   "https://www.coindesk.com/tech/2026/10/21/a-company-that-vouches-for-websites-had-secret-keys-so-weak-that-8-of-them-were-cracked": 1792559246.1733315,
   "https://cointelegraph-tr.com/news/malaysia-central-bank-tokenized-bonds-sukuk-dlt-platform": 1792562779.9190075,
   "https://www.coindesk.com/markets/2026/10/21/ripple-brings-wall-street-into-24-7-stock-bets-but-hsbc-warns-markets-are-still-thin": 1792562779.9190075,
-  "https://cointelegraph-tr.com/news/tech-giants-rush-to-block-flawed-emudhra-certs-that-could-enable-fake-sites": 1792562779.9190075
+  "https://cointelegraph-tr.com/news/tech-giants-rush-to-block-flawed-emudhra-certs-that-could-enable-fake-sites": 1792562779.9190075,
+  "https://cointelegraph-tr.com/markets/ether-etf-outflows-near-1-1-billion-october": 1792571960.1625812,
+  "https://www.coindesk.com/markets/2026/10/21/zcash-developers-confirm-november-date-for-upgrade-that-triples-payment-speed": 1792571960.1625812
  },
  "tries": {}
 }
