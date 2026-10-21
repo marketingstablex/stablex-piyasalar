@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-21T12:06:42Z",
+ "updated": "2026-10-21T12:48:26Z",
  "sources": [
   "coindesk.com",
   "cointelegraph-tr.com",
@@ -160,7 +160,6 @@
   ]
  },
  "seen": {
-  "https://www.coindesk.com/business/2026/10/14/banks-could-slow-stablecoin-growth-by-paying-savers-more-bis-paper-finds": 1792240542.3326523,
   "https://cointelegraph-tr.com/news/solana-shows-resilience-but-some-areas-need-continued-observation-fidelity-says": 1792242652.5562975,
   "https://www.coindesk.com/business/2026/10/17/polygon-sees-coinme-acquisition-as-entry-to-payments-sector-dominated-by-visa-stripe": 1792247355.7487876,
   "https://www.coindesk.com/business/2026/10/17/citrini-sees-a-tokenization-boom-the-harder-question-is-who-profits": 1792250967.4758086,
@@ -297,7 +296,11 @@
   "https://www.theblock.co/news/business/2026-10-21-dogecoin-labs-launch-mydoge-dogeos-such-app-421469": 1792584402.0127072,
   "https://www.coindesk.com/tech/2026/10/21/dogecoin-wallet-app-teams-unite-in-push-to-give-doge-more-everyday-uses": 1792584402.0127072,
   "https://www.theblock.co/news/markets/2026-10-21-bitcoin-volatility-nears-2026-lows-as-traders-brace-for-fed-decision-and-us-midterms-421524": 1792584402.0127072,
-  "https://www.coindesk.com/daybook-us/2026/10/21/bitcoin-risk-management-grows-more-popular-as-the-just-bet-on-price-era-fades": 1792584402.0127072
+  "https://www.coindesk.com/daybook-us/2026/10/21/bitcoin-risk-management-grows-more-popular-as-the-just-bet-on-price-era-fades": 1792584402.0127072,
+  "https://www.theblock.co/news/business/2026-10-21-standard-chartered-signs-definitive-agreements-to-acquire-zodia-custody-421535": 1792586906.8952546,
+  "https://www.coindesk.com/policy/2026/10/21/why-centralized-exchanges-refuse-to-list-legacy-crypto-tokens-without-explicit-sec-immunity": 1792586906.8952546,
+  "https://www.coindesk.com/business/2026/10/21/japanese-visitors-may-be-able-to-pay-with-yen-stablecoins-in-south-korea-under-shinhan-sbi-pact": 1792586906.8952546,
+  "https://cointelegraph-tr.com/news/standard-chartered-acquire-zodia-custody-uk": 1792586906.8952546
  },
  "tries": {}
 }
