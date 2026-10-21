@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-21T05:07:26Z",
+ "updated": "2026-10-21T06:06:19Z",
  "sources": [
   "coindesk.com",
   "cointelegraph-tr.com",
@@ -128,6 +128,13 @@
     "url": "https://cointelegraph-tr.com/news/blackrock-ishares-bitcoin-managed-protection-etf-pbit",
     "published": "2026-10-20T08:12:57Z",
     "importance": 4
+   },
+   {
+    "title": "Ripple, Wall Street'i 7/24 hisse senedi bahislerine taşıyor ancak HSBC piyasaların hala zayıf olduğu konusunda uyarıyor",
+    "summary": "Ripple, Wall Street'i 7/24 hisse senedi bahislerine taşıyor ancak HSBC piyasaların hala zayıf olduğu konusunda uyarıyor.",
+    "url": "https://www.coindesk.com/markets/2026/10/21/ripple-brings-wall-street-into-24-7-stock-bets-but-hsbc-warns-markets-are-still-thin",
+    "published": "2026-10-21T05:25:57Z",
+    "importance": 3
    },
    {
     "title": "XRP’nin 30 günlük borsa girişleri, balinalar kenara çekilirken 6 milyar tokenı aştı",
@@ -259,7 +266,10 @@
   "https://www.theblock.co/news/business/2026-10-20-moonpay-upbit-dunamu-421476": 1792550022.8358998,
   "https://www.coindesk.com/markets/2026/10/21/bitcoin-hovers-around-usd83-000-as-ai-earnings-revive-tech-zec-jumps-11": 1792555770.8618898,
   "https://www.coindesk.com/tech/2026/10/21/solana-s-alpenglow-its-biggest-network-overhaul-since-2020-goes-live-wednesday": 1792559246.1733315,
-  "https://www.coindesk.com/tech/2026/10/21/a-company-that-vouches-for-websites-had-secret-keys-so-weak-that-8-of-them-were-cracked": 1792559246.1733315
+  "https://www.coindesk.com/tech/2026/10/21/a-company-that-vouches-for-websites-had-secret-keys-so-weak-that-8-of-them-were-cracked": 1792559246.1733315,
+  "https://cointelegraph-tr.com/news/malaysia-central-bank-tokenized-bonds-sukuk-dlt-platform": 1792562779.9190075,
+  "https://www.coindesk.com/markets/2026/10/21/ripple-brings-wall-street-into-24-7-stock-bets-but-hsbc-warns-markets-are-still-thin": 1792562779.9190075,
+  "https://cointelegraph-tr.com/news/tech-giants-rush-to-block-flawed-emudhra-certs-that-could-enable-fake-sites": 1792562779.9190075
  },
  "tries": {}
 }
