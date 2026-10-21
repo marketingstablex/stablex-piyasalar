@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-21T08:39:20Z",
+ "updated": "2026-10-21T09:36:18Z",
  "sources": [
   "coindesk.com",
   "cointelegraph-tr.com",
@@ -50,17 +50,17 @@
     "importance": 4
    },
    {
+    "title": "SpaceX ve Tesla, 30.000'den fazla bitcoin'i birleştirecek bir birleşmeyi araştırıyor",
+    "summary": "SpaceX ve Tesla, 30.000'den fazla bitcoin'i birleştirecek bir birleşmeyi araştırıyor.",
+    "url": "https://www.coindesk.com/markets/2026/10/21/spacex-and-tesla-explore-merger-that-would-unite-more-than-30-000-bitcoin",
+    "published": "2026-10-21T09:23:00Z",
+    "importance": 3
+   },
+   {
     "title": "Yapay zeka kazançlarının teknolojiyi canlandırmasıyla Bitcoin 83.000 dolar civarında seyrediyor, ZEC %11 arttı",
     "summary": "Yapay zeka kazançlarının teknoloji sektörünü canlandırmasıyla birlikte Bitcoin 83.000 dolar seviyelerinde seyrederken, ZEC %11 oranında bir artış kaydetti.",
     "url": "https://www.coindesk.com/markets/2026/10/21/bitcoin-hovers-around-usd83-000-as-ai-earnings-revive-tech-zec-jumps-11",
     "published": "2026-10-21T04:07:07Z",
-    "importance": 3
-   },
-   {
-    "title": "Strive, 630 milyon dolarlık SATS halka arzını tamamladı; Bitcoin tahsisini açıklamadı",
-    "summary": "Bitcoin hazine şirketi Strive, net gelirleriyle tahmini 7.372 BTC satın alabilecek 630 milyon dolarlık SATS halka arzını tamamladı ancak Bitcoin tahsisini henüz açıklamadı. Şirket, tüm tutarı tahsis etmesi durumunda Metaplanet'in varlıklarını aşabilir.",
-    "url": "https://cointelegraph-tr.com/news/strive-closes-630m-sats-ipo-leaves-bitcoin-allocation-unspecified",
-    "published": "2026-10-20T17:40:00Z",
     "importance": 3
    }
   ],
@@ -151,7 +151,6 @@
   ]
  },
  "seen": {
-  "https://cointelegraph-tr.com/news/lagarde-says-euro-area-economy-is-resilient-digital-euro-imminent": 1792227629.5409672,
   "https://cointelegraph-tr.com/news/circles-allaire-says-stablecoin-issuer-looking-to-enter-40-developing-markets-report": 1792232984.4457798,
   "https://cointelegraph-tr.com/news/what-happened-in-crypto-today": 1792234682.00988,
   "https://www.coindesk.com/business/2026/10/14/banks-could-slow-stablecoin-growth-by-paying-savers-more-bis-paper-finds": 1792240542.3326523,
@@ -274,7 +273,10 @@
   "https://www.coindesk.com/markets/2026/10/21/ripple-brings-wall-street-into-24-7-stock-bets-but-hsbc-warns-markets-are-still-thin": 1792562779.9190075,
   "https://cointelegraph-tr.com/news/tech-giants-rush-to-block-flawed-emudhra-certs-that-could-enable-fake-sites": 1792562779.9190075,
   "https://cointelegraph-tr.com/markets/ether-etf-outflows-near-1-1-billion-october": 1792571960.1625812,
-  "https://www.coindesk.com/markets/2026/10/21/zcash-developers-confirm-november-date-for-upgrade-that-triples-payment-speed": 1792571960.1625812
+  "https://www.coindesk.com/markets/2026/10/21/zcash-developers-confirm-november-date-for-upgrade-that-triples-payment-speed": 1792571960.1625812,
+  "https://www.coindesk.com/markets/2026/10/21/spacex-and-tesla-explore-merger-that-would-unite-more-than-30-000-bitcoin": 1792575378.9174335,
+  "https://www.coindesk.com/markets/2026/10/21/monero-futures-are-again-heating-with-leverage-raising-volatility-risks": 1792575378.9174335,
+  "https://www.coindesk.com/business/2026/10/21/tether-leads-usd15-million-series-a-for-ai-focused-payment-startup-mural": 1792575378.9174335
  },
  "tries": {}
 }
