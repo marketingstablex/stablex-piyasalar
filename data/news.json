@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-21T11:08:13Z",
+ "updated": "2026-10-21T12:06:42Z",
  "sources": [
   "coindesk.com",
   "cointelegraph-tr.com",
@@ -13,6 +13,13 @@
     "url": "https://cointelegraph-tr.com/news/finma-approves-switzerlands-first-bitcoin-etf-retail",
     "published": "2026-10-20T13:04:28Z",
     "importance": 5
+   },
+   {
+    "title": "Bitcoin volatilitesi, yatırımcılar Fed kararına ve ABD ara seçimlerine hazırlanırken 2026'nın en düşük seviyelerine yaklaşıyor",
+    "summary": "K33, olası piyasa katalizörleri öncesinde zayıf işlem faaliyetlerine işaret ederken Bitcoin volatilitesi 2026'nın en düşük seviyelerine yaklaşıyor.",
+    "url": "https://www.theblock.co/news/markets/2026-10-21-bitcoin-volatility-nears-2026-lows-as-traders-brace-for-fed-decision-and-us-midterms-421524",
+    "published": "2026-10-21T11:55:08Z",
+    "importance": 4
    },
    {
     "title": "“Top alıcılar” BTC fiyatındaki yükselişi durduruyor; Glassnode’a göre 87.700 dolar artık kritik",
@@ -55,12 +62,14 @@
     "url": "https://cointelegraph-tr.com/news/blackrock-ishares-bitcoin-managed-protection-etf-pbit",
     "published": "2026-10-20T08:12:57Z",
     "importance": 4
-   },
+   }
+  ],
+  "DOGE": [
    {
-    "title": "Canlı güncellemeler: SpaceX sonuçları vadeli işlemleri yükseltirken Bitcoin 82.500 dolar seviyesinde tutunuyor",
-    "summary": "Canlı güncellemeler: SpaceX sonuçları vadeli işlemleri yükseltirken Bitcoin 82.500 dolar seviyesinde tutunuyor.",
-    "url": "https://www.coindesk.com/markets/2026/10/21/live-updates-bitcoin-clings-to-usd82-500-as-spacex-results-lift-stock-futures",
-    "published": "2026-10-21T10:30:40Z",
+    "title": "Dogecoin Labs, DOGE ekosisteminin meme odaklı talebin ötesinde büyümesi için kuruldu",
+    "summary": "Dogecoin Vakfı destekli Dogecoin Labs; DOGE'yi ödemelere ve merkeziyetsiz finans alanına taşımak amacıyla MyDoge, DogeOS ve Such App'i bir araya getirdi.",
+    "url": "https://www.theblock.co/news/business/2026-10-21-dogecoin-labs-launch-mydoge-dogeos-such-app-421469",
+    "published": "2026-10-21T12:00:00Z",
     "importance": 3
    }
   ],
@@ -284,7 +293,11 @@
   "https://www.coindesk.com/markets/2026/10/21/live-updates-bitcoin-clings-to-usd82-500-as-spacex-results-lift-stock-futures": 1792580893.2633462,
   "https://cointelegraph-tr.com/markets/zcash-zec-rallies-12-percent-nu7-mainnet-upgrade": 1792580893.2633462,
   "https://cointelegraph-tr.com/news/drift-exploiter-moves-109m-eth-tornado-cash-2-days": 1792580893.2633462,
-  "https://cointelegraph-tr.com/news/what-happened-in-crypto-today": 1792580893.2633462
+  "https://cointelegraph-tr.com/news/what-happened-in-crypto-today": 1792580893.2633462,
+  "https://www.theblock.co/news/business/2026-10-21-dogecoin-labs-launch-mydoge-dogeos-such-app-421469": 1792584402.0127072,
+  "https://www.coindesk.com/tech/2026/10/21/dogecoin-wallet-app-teams-unite-in-push-to-give-doge-more-everyday-uses": 1792584402.0127072,
+  "https://www.theblock.co/news/markets/2026-10-21-bitcoin-volatility-nears-2026-lows-as-traders-brace-for-fed-decision-and-us-midterms-421524": 1792584402.0127072,
+  "https://www.coindesk.com/daybook-us/2026/10/21/bitcoin-risk-management-grows-more-popular-as-the-just-bet-on-price-era-fades": 1792584402.0127072
  },
  "tries": {}
 }
