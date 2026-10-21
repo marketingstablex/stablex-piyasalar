@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-21T13:43:38Z",
+ "updated": "2026-10-21T14:37:56Z",
  "sources": [
   "coindesk.com",
   "cointelegraph-tr.com",
@@ -105,10 +105,10 @@
   ],
   "SOL": [
    {
-    "title": "Solana'nın 2020'den bu yana en büyük ağ yenilemesi Alpenglow Çarşamba günü canlıya geçiyor",
-    "summary": "Solana'nın 2020'den bu yana en büyük ağ yenilemesi olan Alpenglow Çarşamba günü canlıya geçiyor.",
-    "url": "https://www.coindesk.com/tech/2026/10/21/solana-s-alpenglow-its-biggest-network-overhaul-since-2020-goes-live-wednesday",
-    "published": "2026-10-21T04:35:52Z",
+    "title": "Anza’nın Alpenglow’u Solana'da Yayına Girdi, İşlem Kesinliğini 150 Milisaniyeye Düşürdü",
+    "summary": "Solana, TowerBFT'nin yerini alan Alpenglow'u etkinleştirdi. Bu güncellemeyle işlem kesinliği süresi yaklaşık 12,8 saniyeden 150 milisaniyeye düşürüldü.",
+    "url": "https://www.theblock.co/news/ecosystems/2026-10-21-anzas-alpenglow-goes-live-on-solana-cutting-finality-to-150-milliseconds-421508",
+    "published": "2026-10-21T14:24:39Z",
     "importance": 4
    },
    {
@@ -160,7 +160,6 @@
   ]
  },
  "seen": {
-  "https://www.coindesk.com/business/2026/10/17/polygon-sees-coinme-acquisition-as-entry-to-payments-sector-dominated-by-visa-stripe": 1792247355.7487876,
   "https://www.coindesk.com/business/2026/10/17/citrini-sees-a-tokenization-boom-the-harder-question-is-who-profits": 1792250967.4758086,
   "https://www.coindesk.com/business/2026/10/17/goldman-wells-fargo-morgan-stanley-see-tokenization-as-a-growth-play-not-a-threat": 1792258102.1351435,
   "https://www.theblock.co/news/regulation/2026-10-17-turkey-confirms-hex-founder-richard-hearts-arrest-says-police-seized-7-15-million-and-six-cold-wallets-418852": 1792261968.4498076,
@@ -301,7 +300,8 @@
   "https://www.coindesk.com/business/2026/10/21/japanese-visitors-may-be-able-to-pay-with-yen-stablecoins-in-south-korea-under-shinhan-sbi-pact": 1792586906.8952546,
   "https://cointelegraph-tr.com/news/standard-chartered-acquire-zodia-custody-uk": 1792586906.8952546,
   "https://cointelegraph-tr.com/news/certik-warning-crypto-emudhra-flaw-risks": 1792590218.1560357,
-  "https://cointelegraph-tr.com/magazine/5-alternatives-to-ledger-to-store-your-bitcoin": 1792590218.1560357
+  "https://cointelegraph-tr.com/magazine/5-alternatives-to-ledger-to-store-your-bitcoin": 1792590218.1560357,
+  "https://www.theblock.co/news/ecosystems/2026-10-21-anzas-alpenglow-goes-live-on-solana-cutting-finality-to-150-milliseconds-421508": 1792593476.2470207
  },
  "tries": {}
 }
