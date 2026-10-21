@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-21T14:37:56Z",
+ "updated": "2026-10-21T15:37:49Z",
  "sources": [
   "coindesk.com",
   "cointelegraph-tr.com",
@@ -13,6 +13,13 @@
     "url": "https://cointelegraph-tr.com/news/finma-approves-switzerlands-first-bitcoin-etf-retail",
     "published": "2026-10-20T13:04:28Z",
     "importance": 5
+   },
+   {
+    "title": "Bitcoin fiyatı, SpaceX'in 3. çeyrek kazanç beklentilerini aşmasıyla ABD hisseleri yükselirken 84,6 bin dolara ulaştı",
+    "summary": "ABD hisse senedi piyasalarının beklentilerin üzerindeki SpaceX kazançlarına tepki vermesinin ardından Bitcoin yükselişini sürdürerek 85.000 dolara yaklaştı.",
+    "url": "https://cointelegraph-tr.com/markets/bitcoin-price-tags-846k-as-us-stocks-head-higher-on-spacex-q3-earnings-beat",
+    "published": "2026-10-21T15:13:17Z",
+    "importance": 4
    },
    {
     "title": "Bitcoin volatilitesi, yatırımcılar Fed kararına ve ABD ara seçimlerine hazırlanırken 2026'nın en düşük seviyelerine yaklaşıyor",
@@ -54,13 +61,6 @@
     "summary": "Bitcoin ETF'leri, tamamen BlackRock'ın etkisiyle son bir ayın en yüksek günlük hacmine ulaştı.",
     "url": "https://www.coindesk.com/business/2026/10/20/bitcoin-etfs-just-saw-their-biggest-day-in-a-month-thanks-entirely-to-blackrock",
     "published": "2026-10-20T08:24:01Z",
-    "importance": 4
-   },
-   {
-    "title": "BlackRock üçüncü Bitcoin ETF'si için başvurdu; hâlâ Solana veya XRP yok",
-    "summary": "BlackRock, potansiyel kayıpları sınırlamak ve kazançları tavanlamak amacıyla opsiyonları kullanacak yeni bir Bitcoin fonu için başvuruda bulundu. Bu hamle, mevcut Bitcoin ve Ether ETF ürün yelpazesine yeni bir strateji katacak.",
-    "url": "https://cointelegraph-tr.com/news/blackrock-ishares-bitcoin-managed-protection-etf-pbit",
-    "published": "2026-10-20T08:12:57Z",
     "importance": 4
    }
   ],
@@ -160,7 +160,6 @@
   ]
  },
  "seen": {
-  "https://www.coindesk.com/business/2026/10/17/citrini-sees-a-tokenization-boom-the-harder-question-is-who-profits": 1792250967.4758086,
   "https://www.coindesk.com/business/2026/10/17/goldman-wells-fargo-morgan-stanley-see-tokenization-as-a-growth-play-not-a-threat": 1792258102.1351435,
   "https://www.theblock.co/news/regulation/2026-10-17-turkey-confirms-hex-founder-richard-hearts-arrest-says-police-seized-7-15-million-and-six-cold-wallets-418852": 1792261968.4498076,
   "https://www.theblock.co/news/markets/2026-10-17-coreweave-broadcom-verizon-among-nine-companies-objecting-to-tokenized-trading-of-their-shares-on-okxice-418859": 1792269036.3459778,
@@ -301,7 +300,12 @@
   "https://cointelegraph-tr.com/news/standard-chartered-acquire-zodia-custody-uk": 1792586906.8952546,
   "https://cointelegraph-tr.com/news/certik-warning-crypto-emudhra-flaw-risks": 1792590218.1560357,
   "https://cointelegraph-tr.com/magazine/5-alternatives-to-ledger-to-store-your-bitcoin": 1792590218.1560357,
-  "https://www.theblock.co/news/ecosystems/2026-10-21-anzas-alpenglow-goes-live-on-solana-cutting-finality-to-150-milliseconds-421508": 1792593476.2470207
+  "https://www.theblock.co/news/ecosystems/2026-10-21-anzas-alpenglow-goes-live-on-solana-cutting-finality-to-150-milliseconds-421508": 1792593476.2470207,
+  "https://www.coindesk.com/business/2026/10/21/how-a16z-backed-data-is-rethinking-its-blockchain-strategy-after-usd30-million-sui-deal": 1792597069.4823356,
+  "https://cointelegraph-tr.com/markets/bitcoin-price-tags-846k-as-us-stocks-head-higher-on-spacex-q3-earnings-beat": 1792597069.4823356,
+  "https://www.theblock.co/news/markets/2026-10-21-grayscale-expands-in-kind-subscriptions-10-crypto-etfs-421559": 1792597069.4823356,
+  "https://www.coindesk.com/business/2026/10/16/bybit-will-look-for-big-broker-partnerships-to-take-on-robinhood-in-the-u-s": 1792597069.4823356,
+  "https://www.coindesk.com/coindesk-indices/2026/10/21/crypto-long-and-short-why-real-world-assets-need-fixed-rate-loans-onchain": 1792597069.4823356
  },
  "tries": {}
 }
