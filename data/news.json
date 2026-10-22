@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-22T15:11:05Z",
+ "updated": "2026-10-22T16:09:27Z",
  "sources": [
   "coindesk.com",
   "cointelegraph-tr.com",
@@ -364,7 +364,8 @@
   "https://cointelegraph-tr.com/news/thailand-sec-crypto-etf-applications": 1792678412.651269,
   "https://www.coindesk.com/coindesk-indices/2026/10/22/crypto-for-advisors-stablecoins-are-ready-for-prime-time": 1792681865.6411858,
   "https://cointelegraph-tr.com/news/fireblocks-disputes-report-of-25b-visa-acquisition-talks": 1792681865.6411858,
-  "https://www.coindesk.com/business/2026/10/22/crypto-custody-specialist-fireblocks-denies-its-in-talks-to-be-acquired-by-visa": 1792681865.6411858
+  "https://www.coindesk.com/business/2026/10/22/crypto-custody-specialist-fireblocks-denies-its-in-talks-to-be-acquired-by-visa": 1792681865.6411858,
+  "https://www.coindesk.com/policy/2026/10/22/irish-central-bank-fines-coinbase-ireland-usd3-6-million-over-fund-safeguarding-failures": 1792685367.1904922
  },
  "tries": {}
 }
