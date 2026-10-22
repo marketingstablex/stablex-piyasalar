@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-22T09:12:52Z",
+ "updated": "2026-10-22T10:11:37Z",
  "sources": [
   "coindesk.com",
   "cointelegraph-tr.com",
@@ -66,17 +66,17 @@
     "importance": 4
    },
    {
+    "title": "Canlı Güncellemeler: Bitcoin'in 85.000 Dolarlık Turu İki Taraftaki Yatırımcıları Yaktı",
+    "summary": "Canlı Güncellemeler: Bitcoin'in 85.000 Dolarlık Turu İki Taraftaki Yatırımcıları Yaktı",
+    "url": "https://www.coindesk.com/business/2026/10/22/live-updates-bitcoin-s-round-trip-to-usd85-000-burns-traders-on-both-sides",
+    "published": "2026-10-22T09:54:26Z",
+    "importance": 3
+   },
+   {
     "title": "Asya hisse senetleri düştü, Çin ayı piyasasına girerken bitcoin geriledi",
     "summary": "Asya hisse senetleri düştü, Çin ayı piyasasına girerken bitcoin geriledi.",
     "url": "https://www.coindesk.com/markets/2026/10/22/asian-stocks-tumble-bitcoin-retreats-as-china-enters-bear-market",
     "published": "2026-10-22T08:49:08Z",
-    "importance": 3
-   },
-   {
-    "title": "Tesla ve Meta yapay zeka endişelerini yatıştıramayınca Bitcoin 85.000 doları göremedi",
-    "summary": "Tesla ve Meta yapay zeka endişelerini yatıştıramayınca Bitcoin 85.000 doları göremedi.",
-    "url": "https://www.coindesk.com/markets/2026/10/22/bitcoin-gives-back-its-run-at-usd85-000-as-tesla-and-meta-fail-to-calm-ai-nerves",
-    "published": "2026-10-22T03:51:34Z",
     "importance": 3
    }
   ],
@@ -91,11 +91,32 @@
   ],
   "ETH": [
    {
+    "title": "Bitcoin ETF’leri 528 Milyon Dolar Daha Topladı, 3 Günlük Toplam 1 Milyar Doları Aştı",
+    "summary": "ABD spot Bitcoin ETF’leri üç işlem seansında 1,08 milyar dolar çekerek ekim ayındaki akışları yeniden pozitif bölgeye taşıdı.",
+    "url": "https://cointelegraph-tr.com/markets/bitcoin-etfs-528-million-btc-tops-84k",
+    "published": "2026-10-22T07:37:32Z",
+    "importance": 4
+   },
+   {
     "title": "Ether ETF çıkışları sürüyor, ekimde şimdiye kadar 1 milyar doları aştı",
     "summary": "ABD spot Ether ETF’lerinden ekimde şimdiye kadar 1,08 milyar dolar çıkış gerçekleşti. Bu durum, 2026 yılının en büyük aylık çıkışı olurken, Bitcoin ETF’lerine girişler pazartesi günkü sıçramanın ardından yavaşladı.",
     "url": "https://cointelegraph-tr.com/markets/ether-etf-outflows-near-1-1-billion-october",
     "published": "2026-10-21T08:11:50Z",
     "importance": 4
+   },
+   {
+    "title": "Starknet seçmenleri Ethereum ötesindeki yaşam araştırmasını destekledi",
+    "summary": "StarkWare, bağımsız ve kuantuma dirençli bir blockchain'i incelerken kasım ayında bir taslak whitepaper yayımlamayı planlıyor.",
+    "url": "https://cointelegraph-tr.com/news/starknet-vote-post-quantum-l1-research-ethereum",
+    "published": "2026-10-22T09:37:54Z",
+    "importance": 3
+   },
+   {
+    "title": "Katman 2 Ölçeklendirme Çözümleri",
+    "summary": "Katman 2 ölçeklendirme çözümleri, Ethereum gibi blokzincirlerin her işlemin doğrudan temel zincirde gerçekleşmesini zorunlu kılmadan daha fazla faaliyet yürütmesine yardımcı olur. Rollup'lar, işlemleri zincir dışında işleyip gruplandırarak ve verileri veya kanıtları Ethereum'a geri göndererek işlemleri daha ucuz ve daha hızlı hale getirir.",
+    "url": "https://www.theblock.co/learn/campus/layer-2-scaling-solutions-419685",
+    "published": "2026-10-22T09:15:50Z",
+    "importance": 3
    }
   ],
   "SOL": [
@@ -105,6 +126,15 @@
     "url": "https://www.coindesk.com/tech/2026/10/22/solana-completes-alpenglow-upgrade-here-s-what-it-means-for-users",
     "published": "2026-10-22T05:24:58Z",
     "importance": 4
+   }
+  ],
+  "STRK": [
+   {
+    "title": "Starknet seçmenleri Ethereum ötesindeki yaşam araştırmasını destekledi",
+    "summary": "StarkWare, bağımsız ve kuantuma dirençli bir blockchain'i incelerken kasım ayında bir taslak whitepaper yayımlamayı planlıyor.",
+    "url": "https://cointelegraph-tr.com/news/starknet-vote-post-quantum-l1-research-ethereum",
+    "published": "2026-10-22T09:37:54Z",
+    "importance": 3
    }
   ],
   "UNI": [
@@ -143,7 +173,6 @@
   ]
  },
  "seen": {
-  "https://cointelegraph-tr.com/news/chinese-suspect-in-75m-international-crime-network-arrested-in-bangkok": 1792315840.9159467,
   "https://cointelegraph-tr.com/news/cysic-crypto-bridge-halted-after-unauthorized-mint-of-10m-cys": 1792321116.7595096,
   "https://www.coindesk.com/business/2026/10/14/crypto-exchanges-binance-coinbase-join-west-africa-scam-sweep-that-flagged-usd11-million": 1792326947.8998346,
   "https://www.coindesk.com/markets/2026/10/18/bitcoin-s-usd100-000-year-end-hope-divides-analysts-as-inflation-clouds-outlook": 1792329091.8315377,
@@ -303,7 +332,13 @@
   "https://www.coindesk.com/markets/2026/10/22/china-seeks-to-seize-61-800-btc-tied-to-usd5-7-billion-fraud-scheme": 1792653836.168255,
   "https://cointelegraph-tr.com/markets/bitcoin-etfs-528-million-btc-tops-84k": 1792656950.817913,
   "https://www.theblock.co/news/regulation/2026-10-22-south-koreas-crypto-bill-nears-completion-421880": 1792660372.4051561,
-  "https://www.coindesk.com/markets/2026/10/22/asian-stocks-tumble-bitcoin-retreats-as-china-enters-bear-market": 1792660372.4051561
+  "https://www.coindesk.com/markets/2026/10/22/asian-stocks-tumble-bitcoin-retreats-as-china-enters-bear-market": 1792660372.4051561,
+  "https://www.theblock.co/news/markets/2026-10-22-bitcoin-etfs-draw-528-million-as-ether-funds-snap-five-day-outflow-streak-421904": 1792663897.8666227,
+  "https://www.coindesk.com/business/2026/10/22/live-updates-bitcoin-s-round-trip-to-usd85-000-burns-traders-on-both-sides": 1792663897.8666227,
+  "https://cointelegraph-tr.com/news/starknet-vote-post-quantum-l1-research-ethereum": 1792663897.8666227,
+  "https://www.theblock.co/news/ecosystems/2026-10-22-starknet-community-backs-independent-post-quantum-layer-1-421885": 1792663897.8666227,
+  "https://www.theblock.co/learn/campus/layer-2-scaling-solutions-419685": 1792663897.8666227,
+  "https://cointelegraph-tr.com/news/cloudflare-millions-exploit-attempts-php-vulnerability-disclosure": 1792663897.8666227
  },
  "tries": {}
 }
