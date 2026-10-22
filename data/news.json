@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-22T17:08:02Z",
+ "updated": "2026-10-22T18:03:12Z",
  "sources": [
   "coindesk.com",
   "cointelegraph-tr.com",
@@ -175,13 +175,6 @@
     "summary": "XRP Ledger hata düzeltmesi, doğrulayıcı desteğinin iki saat düşmesinin ardından kasım ayına ertelendi",
     "url": "https://www.coindesk.com/tech/2026/10/22/xrp-ledger-bug-fix-moved-to-november-after-validator-support-dipped-for-two-hours",
     "published": "2026-10-22T04:36:20Z",
-    "importance": 3
-   },
-   {
-    "title": "Ripple, Wall Street'i 7/24 hisse senedi bahislerine taşıyor ancak HSBC piyasaların hala zayıf olduğu konusunda uyarıyor",
-    "summary": "Ripple, Wall Street'i 7/24 hisse senedi bahislerine taşıyor ancak HSBC piyasaların hala zayıf olduğu konusunda uyarıyor.",
-    "url": "https://www.coindesk.com/markets/2026/10/21/ripple-brings-wall-street-into-24-7-stock-bets-but-hsbc-warns-markets-are-still-thin",
-    "published": "2026-10-21T05:25:57Z",
     "importance": 3
    }
   ]
