@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-22T18:03:12Z",
+ "updated": "2026-10-22T18:39:44Z",
  "sources": [
   "coindesk.com",
   "cointelegraph-tr.com",
@@ -180,7 +180,6 @@
   ]
  },
  "seen": {
-  "https://www.coindesk.com/policy/2026/10/18/the-white-house-s-crypto-chief-departs-state-of-crypto": 1792348396.720453,
   "https://www.theblock.co/news/regulation/2026-10-18-crypto-com-novig-sue-missouri-over-sports-event-contracts-kalshi-polymarket-robinhood-hold-off-418866": 1792353324.6531873,
   "https://cointelegraph-tr.com/magazine/richard-heart-caught-with-pants-down-qday-gets-even-closer-hodlers-digest": 1792366048.6428044,
   "https://www.coindesk.com/business/2026/10/18/sec-tokenized-stock-framework-faces-issuer-pushback-as-broadcom-verizon-object-to-okx-ice-listing": 1792367709.107883,
@@ -357,7 +356,8 @@
   "https://www.coindesk.com/business/2026/10/22/crypto-custody-specialist-fireblocks-denies-its-in-talks-to-be-acquired-by-visa": 1792681865.6411858,
   "https://www.coindesk.com/policy/2026/10/22/irish-central-bank-fines-coinbase-ireland-usd3-6-million-over-fund-safeguarding-failures": 1792685367.1904922,
   "https://cointelegraph-tr.com/news/bitcoin-mining-difficulty-hashrate-recovery-ai-shift": 1792688882.1643522,
-  "https://cointelegraph-tr.com/news/ireland-central-bank-coinbase-oversight-safeguard-failure": 1792688882.1643522
+  "https://cointelegraph-tr.com/news/ireland-central-bank-coinbase-oversight-safeguard-failure": 1792688882.1643522,
+  "https://www.coindesk.com/business/2026/10/22/a16z-is-the-latest-vc-giant-to-widen-bets-beyond-crypto-and-into-ai-and-emerging-tech": 1792694384.5806937
  },
  "tries": {}
 }
