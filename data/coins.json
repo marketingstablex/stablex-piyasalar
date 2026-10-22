@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-21T06:48:34Z",
+ "updated": "2026-10-22T06:48:54Z",
  "source": "https://stablex.com.tr/piyasalar",
  "note": "Bu dosya scripts/sync_coins.py tarafından otomatik güncellenir. Sıra: sembol, CoinGecko id, ad, kategoriler. binance: Binance çifti kullanılmayacak coinler (null).",
  "coins": [
@@ -425,6 +425,15 @@
    "Quant",
    [
     "infra"
+   ]
+  ],
+  [
+   "RE",
+   "re",
+   "RE",
+   [
+    "stable",
+    "rwa"
    ]
   ],
   [
