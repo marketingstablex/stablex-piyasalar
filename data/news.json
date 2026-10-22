@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-22T21:07:29Z",
+ "updated": "2026-10-22T22:06:06Z",
  "sources": [
   "coindesk.com",
   "cointelegraph-tr.com",
@@ -346,7 +346,8 @@
   "https://www.theblock.co/news/regulation/2026-10-22-jpmorgan-crypto-regulatory-moves-clarity-act-failure-risks-423473": 1792697781.3931584,
   "https://www.theblock.co/news/regulation/2026-10-22-blockchain-association-pushes-crypto-tax-clarity-broader-bill-stalls-423475": 1792697781.3931584,
   "https://cointelegraph-tr.com/news/winklevoss-pac-texas-senate-race-media-paxton-talarico": 1792699738.4849145,
-  "https://cointelegraph-tr.com/news/dune-launches-real-time-data-feeds-covering-200-onchain-trading-venues": 1792703249.1830037
+  "https://cointelegraph-tr.com/news/dune-launches-real-time-data-feeds-covering-200-onchain-trading-venues": 1792703249.1830037,
+  "https://cointelegraph-tr.com/news/circle-shareholder-lawsuit-donald-trump-world-liberty-financial-steve-witkoff-crypto-corruption": 1792706766.9796238
  },
  "tries": {}
 }
