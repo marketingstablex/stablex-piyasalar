@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-22T14:13:32Z",
+ "updated": "2026-10-22T15:11:05Z",
  "sources": [
   "coindesk.com",
   "cointelegraph-tr.com",
@@ -187,7 +187,6 @@
   ]
  },
  "seen": {
-  "https://www.coindesk.com/business/2026/10/18/stablecoin-supply-stalls-but-payments-jump-45-as-visa-mastercard-and-stripe-connect-crypto-to-cash": 1792333777.9855072,
   "https://www.theblock.co/news/defi/2026-10-18-cysic-suspends-bridge-after-attacker-mints-tokens-and-moves-727000-to-ethereum-418863": 1792341063.116699,
   "https://www.coindesk.com/policy/2026/10/18/latvia-eyes-crypto-tax-payments-in-2027-as-parliament-overhauls-crypto-taxation": 1792341063.116699,
   "https://www.coindesk.com/markets/2026/10/18/wall-street-freaked-out-friday-vix-and-bitcoin-say-it-may-not-last": 1792342809.9507086,
@@ -362,7 +361,10 @@
   "https://www.theblock.co/news/defi/2026-10-22-uniswaps-aggregator-hooks-go-live-ethereum-base-robinhood-chain-421932": 1792678412.651269,
   "https://cointelegraph-tr.com/markets/cryptoquant-rising-bitcoin-hashrate-indirect-bullish-signal": 1792678412.651269,
   "https://www.theblock.co/news/deals/2026-10-22-visa-in-talks-acquire-crypto-custody-firm-fireblocks-around-2-5-billion-axios-421926": 1792678412.651269,
-  "https://cointelegraph-tr.com/news/thailand-sec-crypto-etf-applications": 1792678412.651269
+  "https://cointelegraph-tr.com/news/thailand-sec-crypto-etf-applications": 1792678412.651269,
+  "https://www.coindesk.com/coindesk-indices/2026/10/22/crypto-for-advisors-stablecoins-are-ready-for-prime-time": 1792681865.6411858,
+  "https://cointelegraph-tr.com/news/fireblocks-disputes-report-of-25b-visa-acquisition-talks": 1792681865.6411858,
+  "https://www.coindesk.com/business/2026/10/22/crypto-custody-specialist-fireblocks-denies-its-in-talks-to-be-acquired-by-visa": 1792681865.6411858
  },
  "tries": {}
 }
