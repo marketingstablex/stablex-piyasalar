@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-22T20:08:58Z",
+ "updated": "2026-10-22T21:07:29Z",
  "sources": [
   "coindesk.com",
   "cointelegraph-tr.com",
@@ -71,13 +71,6 @@
     "url": "https://cointelegraph-tr.com/markets/bitcoin-top-buyers-halt-btc-price-upside-with-877k-now-key-glassnode",
     "published": "2026-10-21T10:39:13Z",
     "importance": 4
-   },
-   {
-    "title": "Ether ETF çıkışları sürüyor, ekimde şimdiye kadar 1 milyar doları aştı",
-    "summary": "ABD spot Ether ETF’lerinden ekimde şimdiye kadar 1,08 milyar dolar çıkış gerçekleşti. Bu durum, 2026 yılının en büyük aylık çıkışı olurken, Bitcoin ETF’lerine girişler pazartesi günkü sıçramanın ardından yavaşladı.",
-    "url": "https://cointelegraph-tr.com/markets/ether-etf-outflows-near-1-1-billion-october",
-    "published": "2026-10-21T08:11:50Z",
-    "importance": 4
    }
   ],
   "DOGE": [
@@ -95,13 +88,6 @@
     "summary": "ABD spot Bitcoin ETF’leri üç işlem seansında 1,08 milyar dolar çekerek ekim ayındaki akışları yeniden pozitif bölgeye taşıdı.",
     "url": "https://cointelegraph-tr.com/markets/bitcoin-etfs-528-million-btc-tops-84k",
     "published": "2026-10-22T07:37:32Z",
-    "importance": 4
-   },
-   {
-    "title": "Ether ETF çıkışları sürüyor, ekimde şimdiye kadar 1 milyar doları aştı",
-    "summary": "ABD spot Ether ETF’lerinden ekimde şimdiye kadar 1,08 milyar dolar çıkış gerçekleşti. Bu durum, 2026 yılının en büyük aylık çıkışı olurken, Bitcoin ETF’lerine girişler pazartesi günkü sıçramanın ardından yavaşladı.",
-    "url": "https://cointelegraph-tr.com/markets/ether-etf-outflows-near-1-1-billion-october",
-    "published": "2026-10-21T08:11:50Z",
     "importance": 4
    },
    {
@@ -359,7 +345,8 @@
   "https://www.coindesk.com/business/2026/10/22/a16z-is-the-latest-vc-giant-to-widen-bets-beyond-crypto-and-into-ai-and-emerging-tech": 1792694384.5806937,
   "https://www.theblock.co/news/regulation/2026-10-22-jpmorgan-crypto-regulatory-moves-clarity-act-failure-risks-423473": 1792697781.3931584,
   "https://www.theblock.co/news/regulation/2026-10-22-blockchain-association-pushes-crypto-tax-clarity-broader-bill-stalls-423475": 1792697781.3931584,
-  "https://cointelegraph-tr.com/news/winklevoss-pac-texas-senate-race-media-paxton-talarico": 1792699738.4849145
+  "https://cointelegraph-tr.com/news/winklevoss-pac-texas-senate-race-media-paxton-talarico": 1792699738.4849145,
+  "https://cointelegraph-tr.com/news/dune-launches-real-time-data-feeds-covering-200-onchain-trading-venues": 1792703249.1830037
  },
  "tries": {}
 }
