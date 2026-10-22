@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-22T07:23:56Z",
+ "updated": "2026-10-22T08:15:50Z",
  "sources": [
   "coindesk.com",
   "cointelegraph-tr.com",
@@ -23,6 +23,13 @@
    }
   ],
   "BTC": [
+   {
+    "title": "Bitcoin ETF’leri 528 Milyon Dolar Daha Topladı, 3 Günlük Toplam 1 Milyar Doları Aştı",
+    "summary": "ABD spot Bitcoin ETF’leri üç işlem seansında 1,08 milyar dolar çekerek ekim ayındaki akışları yeniden pozitif bölgeye taşıdı.",
+    "url": "https://cointelegraph-tr.com/markets/bitcoin-etfs-528-million-btc-tops-84k",
+    "published": "2026-10-22T07:37:32Z",
+    "importance": 4
+   },
    {
     "title": "Çin, 5,7 milyar dolarlık dolandırıcılık şebekesine bağlı 61.800 BTC'ye el koymaya çalışıyor",
     "summary": "Çin, 5,7 milyar dolarlık bir dolandırıcılık şebekesiyle bağlantılı 61.800 BTC'ye el koyma girişiminde bulunuyor.",
@@ -57,13 +64,6 @@
     "url": "https://cointelegraph-tr.com/markets/ether-etf-outflows-near-1-1-billion-october",
     "published": "2026-10-21T08:11:50Z",
     "importance": 4
-   },
-   {
-    "title": "Bitcoin ETF'leri 3 günde 1,08 milyar dolar çekti ancak hızlı bir ralli için yeterli olmayabilir",
-    "summary": "Bitcoin ETF'leri 3 günde 1,08 milyar dolar çekti ancak hızlı bir ralli için yeterli olmayabilir",
-    "url": "https://www.coindesk.com/markets/2026/10/22/bitcoin-etfs-attract-usd1-08-billion-in-3-days-but-it-may-not-be-enough-for-a-steep-rally",
-    "published": "2026-10-22T04:41:59Z",
-    "importance": 3
    },
    {
     "title": "Tesla ve Meta yapay zeka endişelerini yatıştıramayınca Bitcoin 85.000 doları göremedi",
@@ -293,7 +293,8 @@
   "https://www.coindesk.com/markets/2026/10/22/bitcoin-etfs-attract-usd1-08-billion-in-3-days-but-it-may-not-be-enough-for-a-steep-rally": 1792645814.057714,
   "https://www.coindesk.com/tech/2026/10/22/xrp-ledger-bug-fix-moved-to-november-after-validator-support-dipped-for-two-hours": 1792645814.057714,
   "https://www.coindesk.com/tech/2026/10/22/solana-completes-alpenglow-upgrade-here-s-what-it-means-for-users": 1792649261.462486,
-  "https://www.coindesk.com/markets/2026/10/22/china-seeks-to-seize-61-800-btc-tied-to-usd5-7-billion-fraud-scheme": 1792653836.168255
+  "https://www.coindesk.com/markets/2026/10/22/china-seeks-to-seize-61-800-btc-tied-to-usd5-7-billion-fraud-scheme": 1792653836.168255,
+  "https://cointelegraph-tr.com/markets/bitcoin-etfs-528-million-btc-tops-84k": 1792656950.817913
  },
  "tries": {}
 }
