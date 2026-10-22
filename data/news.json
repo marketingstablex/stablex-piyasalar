@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-22T05:10:14Z",
+ "updated": "2026-10-22T06:07:41Z",
  "sources": [
   "coindesk.com",
   "cointelegraph-tr.com",
@@ -86,10 +86,10 @@
   ],
   "SOL": [
    {
-    "title": "Anza’nın Alpenglow’u Solana'da Yayına Girdi, İşlem Kesinliğini 150 Milisaniyeye Düşürdü",
-    "summary": "Solana, TowerBFT'nin yerini alan Alpenglow'u etkinleştirdi. Bu güncellemeyle işlem kesinliği süresi yaklaşık 12,8 saniyeden 150 milisaniyeye düşürüldü.",
-    "url": "https://www.theblock.co/news/ecosystems/2026-10-21-anzas-alpenglow-goes-live-on-solana-cutting-finality-to-150-milliseconds-421508",
-    "published": "2026-10-21T14:24:39Z",
+    "title": "Solana'nın 2020'den bu yana en büyük ağ değişikliği yayında: Kullanıcılar nasıl faydalanıyor?",
+    "summary": "Solana'nın 2020 yılından bu yana gerçekleştirdiği en büyük ağ değişikliği canlıya alındı.",
+    "url": "https://www.coindesk.com/tech/2026/10/22/solana-completes-alpenglow-upgrade-here-s-what-it-means-for-users",
+    "published": "2026-10-22T05:24:58Z",
     "importance": 4
    }
   ],
@@ -286,7 +286,8 @@
   "https://cointelegraph-tr.com/news/php-foundation-admits-structural-failure-delayed-critical-security-fix": 1792633110.0224519,
   "https://www.coindesk.com/markets/2026/10/22/bitcoin-gives-back-its-run-at-usd85-000-as-tesla-and-meta-fail-to-calm-ai-nerves": 1792642284.016803,
   "https://www.coindesk.com/markets/2026/10/22/bitcoin-etfs-attract-usd1-08-billion-in-3-days-but-it-may-not-be-enough-for-a-steep-rally": 1792645814.057714,
-  "https://www.coindesk.com/tech/2026/10/22/xrp-ledger-bug-fix-moved-to-november-after-validator-support-dipped-for-two-hours": 1792645814.057714
+  "https://www.coindesk.com/tech/2026/10/22/xrp-ledger-bug-fix-moved-to-november-after-validator-support-dipped-for-two-hours": 1792645814.057714,
+  "https://www.coindesk.com/tech/2026/10/22/solana-completes-alpenglow-upgrade-here-s-what-it-means-for-users": 1792649261.462486
  },
  "tries": {}
 }
