@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-22T06:07:41Z",
+ "updated": "2026-10-22T07:23:56Z",
  "sources": [
   "coindesk.com",
   "cointelegraph-tr.com",
@@ -23,6 +23,13 @@
    }
   ],
   "BTC": [
+   {
+    "title": "Çin, 5,7 milyar dolarlık dolandırıcılık şebekesine bağlı 61.800 BTC'ye el koymaya çalışıyor",
+    "summary": "Çin, 5,7 milyar dolarlık bir dolandırıcılık şebekesiyle bağlantılı 61.800 BTC'ye el koyma girişiminde bulunuyor.",
+    "url": "https://www.coindesk.com/markets/2026/10/22/china-seeks-to-seize-61-800-btc-tied-to-usd5-7-billion-fraud-scheme",
+    "published": "2026-10-22T06:24:10Z",
+    "importance": 4
+   },
    {
     "title": "Bitcoin fiyatı, SpaceX'in 3. çeyrek kazanç beklentilerini aşmasıyla ABD hisseleri yükselirken 84,6 bin dolara ulaştı",
     "summary": "ABD hisse senedi piyasalarının beklentilerin üzerindeki SpaceX kazançlarına tepki vermesinin ardından Bitcoin yükselişini sürdürerek 85.000 dolara yaklaştı.",
@@ -129,8 +136,6 @@
   ]
  },
  "seen": {
-  "https://cointelegraph-tr.com/news/tether-backs-aisa-as-strategic-investor-completing-seed-extension-round": 1792305401.4641669,
-  "https://www.coindesk.com/markets/2026/10/18/chip-stock-bets-lost-usd52-million-in-10-minutes-with-wall-street-shut": 1792307745.2321858,
   "https://cointelegraph-tr.com/news/chinese-suspect-in-75m-international-crime-network-arrested-in-bangkok": 1792315840.9159467,
   "https://cointelegraph-tr.com/news/cysic-crypto-bridge-halted-after-unauthorized-mint-of-10m-cys": 1792321116.7595096,
   "https://www.coindesk.com/business/2026/10/14/crypto-exchanges-binance-coinbase-join-west-africa-scam-sweep-that-flagged-usd11-million": 1792326947.8998346,
@@ -287,7 +292,8 @@
   "https://www.coindesk.com/markets/2026/10/22/bitcoin-gives-back-its-run-at-usd85-000-as-tesla-and-meta-fail-to-calm-ai-nerves": 1792642284.016803,
   "https://www.coindesk.com/markets/2026/10/22/bitcoin-etfs-attract-usd1-08-billion-in-3-days-but-it-may-not-be-enough-for-a-steep-rally": 1792645814.057714,
   "https://www.coindesk.com/tech/2026/10/22/xrp-ledger-bug-fix-moved-to-november-after-validator-support-dipped-for-two-hours": 1792645814.057714,
-  "https://www.coindesk.com/tech/2026/10/22/solana-completes-alpenglow-upgrade-here-s-what-it-means-for-users": 1792649261.462486
+  "https://www.coindesk.com/tech/2026/10/22/solana-completes-alpenglow-upgrade-here-s-what-it-means-for-users": 1792649261.462486,
+  "https://www.coindesk.com/markets/2026/10/22/china-seeks-to-seize-61-800-btc-tied-to-usd5-7-billion-fraud-scheme": 1792653836.168255
  },
  "tries": {}
 }
