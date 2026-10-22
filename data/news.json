@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-22T12:08:13Z",
+ "updated": "2026-10-22T13:23:06Z",
  "sources": [
   "coindesk.com",
   "cointelegraph-tr.com",
@@ -105,6 +105,13 @@
     "importance": 4
    },
    {
+    "title": "Ethereum’un dört dakikalık mutabakat planı kripto transfer maliyetini düşürebilir",
+    "summary": "Ethereum’un dört dakikalık mutabakat planı kripto transfer maliyetini düşürebilir",
+    "url": "https://www.coindesk.com/tech/2026/10/22/ethereum-s-four-minute-settlement-plan-could-lower-the-cost-of-moving-crypto",
+    "published": "2026-10-22T12:14:29Z",
+    "importance": 3
+   },
+   {
     "title": "Starknet seçmenleri Ethereum ötesindeki yaşam araştırmasını destekledi",
     "summary": "StarkWare, bağımsız ve kuantuma dirençli bir blockchain'i incelerken kasım ayında bir taslak whitepaper yayımlamayı planlıyor.",
     "url": "https://cointelegraph-tr.com/news/starknet-vote-post-quantum-l1-research-ethereum",
@@ -173,9 +180,6 @@
   ]
  },
  "seen": {
-  "https://www.coindesk.com/business/2026/10/14/crypto-exchanges-binance-coinbase-join-west-africa-scam-sweep-that-flagged-usd11-million": 1792326947.8998346,
-  "https://www.coindesk.com/markets/2026/10/18/bitcoin-s-usd100-000-year-end-hope-divides-analysts-as-inflation-clouds-outlook": 1792329091.8315377,
-  "https://www.coindesk.com/tech/2026/10/18/crypto-audits-give-investors-false-sense-of-security-as-q3-hacks-cost-usd1-18-billion-hacken-says": 1792329091.8315377,
   "https://cointelegraph-tr.com/news/most-americans-polled-oppose-betting-on-elections-reuters": 1792331953.3802238,
   "https://www.coindesk.com/business/2026/10/18/stablecoin-supply-stalls-but-payments-jump-45-as-visa-mastercard-and-stripe-connect-crypto-to-cash": 1792333777.9855072,
   "https://www.theblock.co/news/defi/2026-10-18-cysic-suspends-bridge-after-attacker-mints-tokens-and-moves-727000-to-ethereum-418863": 1792341063.116699,
@@ -343,7 +347,11 @@
   "https://www.coindesk.com/markets/2026/10/22/crypto-traders-price-india-telecoms-company-reliance-jio-s-ipo-at-about-usd110-billion": 1792667340.5926487,
   "https://www.theblock.co/news/business/2026-10-22-dune-onchain-trading-data-feeds-421889": 1792670893.3015757,
   "https://www.theblock.co/news/business/2026-10-22-sofi-fdic-insured-tokenized-deposit-421916": 1792670893.3015757,
-  "https://www.coindesk.com/daybook-us/2026/10/22/crypto-traders-seek-shelter-in-bitcoin-as-altcoins-slide-and-etf-flows-wobble": 1792670893.3015757
+  "https://www.coindesk.com/daybook-us/2026/10/22/crypto-traders-seek-shelter-in-bitcoin-as-altcoins-slide-and-etf-flows-wobble": 1792670893.3015757,
+  "https://cointelegraph-tr.com/news/sofi-bank-issued-tokenized-deposit-yield-bearing-crypto-funds": 1792675386.5245721,
+  "https://www.coindesk.com/news-analysis/2026/10/21/crypto-is-making-a-splash-in-u-s-elections-but-chiefly-in-jabs-about-industry-influence": 1792675386.5245721,
+  "https://cointelegraph-tr.com/news/bitcoin-etf-flows-follow-price-trends-dwf-labs": 1792675386.5245721,
+  "https://www.coindesk.com/tech/2026/10/22/ethereum-s-four-minute-settlement-plan-could-lower-the-cost-of-moving-crypto": 1792675386.5245721
  },
  "tries": {}
 }
