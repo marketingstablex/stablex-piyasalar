@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-22T00:44:29Z",
+ "updated": "2026-10-22T01:38:30Z",
  "sources": [
   "coindesk.com",
   "cointelegraph-tr.com",
@@ -23,13 +23,6 @@
    }
   ],
   "BTC": [
-   {
-    "title": "FINMA, İsviçre’nin bireysel yatırımcılara yönelik ilk Bitcoin ETF’sine onay verdi",
-    "summary": "İsviçre düzenleyicisi, bireysel yatırımcılara yönelik ilk Bitcoin ETF'sine onay verdi. Kurum, kripto para yatırımlarına yönelik artan iştaha dikkat çekerek birden fazla fon sağlayıcısının Bitcoin ETF'si başvuruları sunduğunu belirtti.",
-    "url": "https://cointelegraph-tr.com/news/finma-approves-switzerlands-first-bitcoin-etf-retail",
-    "published": "2026-10-20T13:04:28Z",
-    "importance": 5
-   },
    {
     "title": "Bitcoin fiyatı, SpaceX'in 3. çeyrek kazanç beklentilerini aşmasıyla ABD hisseleri yükselirken 84,6 bin dolara ulaştı",
     "summary": "ABD hisse senedi piyasalarının beklentilerin üzerindeki SpaceX kazançlarına tepki vermesinin ardından Bitcoin yükselişini sürdürerek 85.000 dolara yaklaştı.",
@@ -129,7 +122,6 @@
   ]
  },
  "seen": {
-  "https://www.coindesk.com/business/2026/10/17/circle-defends-usdc-economics-as-stablecoin-rivals-court-its-partners-with-bigger-cut": 1792287219.3896756,
   "https://cointelegraph-tr.com/news/tether-backs-aisa-as-strategic-investor-completing-seed-extension-round": 1792305401.4641669,
   "https://www.coindesk.com/markets/2026/10/18/chip-stock-bets-lost-usd52-million-in-10-minutes-with-wall-street-shut": 1792307745.2321858,
   "https://cointelegraph-tr.com/news/chinese-suspect-in-75m-international-crime-network-arrested-in-bangkok": 1792315840.9159467,
@@ -283,7 +275,8 @@
   "https://cointelegraph-tr.com/news/tether-backs-bolivian-fintech-bringing-usdt-payments-to-food-delivery-and-banking": 1792615197.5154867,
   "https://cointelegraph-tr.com/news/white-house-cybercrime-roundtable-donald-trump-crypto-ventures": 1792615197.5154867,
   "https://cointelegraph-tr.com/news/american-bankers-association-occ-genius-rules-stablecoins": 1792620486.3551707,
-  "https://www.theblock.co/news/defi/2026-10-21-aerodrome-velodrome-merge-aero-421514": 1792629869.6834993
+  "https://www.theblock.co/news/defi/2026-10-21-aerodrome-velodrome-merge-aero-421514": 1792629869.6834993,
+  "https://cointelegraph-tr.com/news/php-foundation-admits-structural-failure-delayed-critical-security-fix": 1792633110.0224519
  },
  "tries": {}
 }
