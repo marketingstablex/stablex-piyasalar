@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-22T11:09:00Z",
+ "updated": "2026-10-22T12:08:13Z",
  "sources": [
   "coindesk.com",
   "cointelegraph-tr.com",
@@ -23,6 +23,13 @@
    }
   ],
   "BTC": [
+   {
+    "title": "Kripto Yatırımcıları Altcoinler Düşerken ve ETF Akışları Dalgalanırken Bitcoin'e Sığınıyor",
+    "summary": "Kripto yatırımcıları altcoinlerin düşmesi ve ETF akışlarının dalgalanması nedeniyle bitcoin'e yöneliyor.",
+    "url": "https://www.coindesk.com/daybook-us/2026/10/22/crypto-traders-seek-shelter-in-bitcoin-as-altcoins-slide-and-etf-flows-wobble",
+    "published": "2026-10-22T11:20:04Z",
+    "importance": 4
+   },
    {
     "title": "Yapay zeka şüphelerinin geri dönmesiyle Bitcoin 82.000 doların altına geriledi, DeFi token'ları düşüşe öncülük ediyor",
     "summary": "Yapay zeka şüphelerinin geri dönmesiyle Bitcoin 82.000 doların altına geriledi, DeFi token'ları düşüşe öncülük ediyor",
@@ -71,13 +78,6 @@
     "url": "https://cointelegraph-tr.com/markets/ether-etf-outflows-near-1-1-billion-october",
     "published": "2026-10-21T08:11:50Z",
     "importance": 4
-   },
-   {
-    "title": "Canlı Güncellemeler: Bitcoin'in 85.000 Dolarlık Turu İki Taraftaki Yatırımcıları Yaktı",
-    "summary": "Canlı Güncellemeler: Bitcoin'in 85.000 Dolarlık Turu İki Taraftaki Yatırımcıları Yaktı",
-    "url": "https://www.coindesk.com/business/2026/10/22/live-updates-bitcoin-s-round-trip-to-usd85-000-burns-traders-on-both-sides",
-    "published": "2026-10-22T09:54:26Z",
-    "importance": 3
    }
   ],
   "DOGE": [
@@ -340,7 +340,10 @@
   "https://cointelegraph-tr.com/news/cloudflare-millions-exploit-attempts-php-vulnerability-disclosure": 1792663897.8666227,
   "https://cointelegraph-tr.com/news/coindcx-suspicious-outflows-wallet-compromised-2025-exploit": 1792667340.5926487,
   "https://www.coindesk.com/markets/2026/10/22/bitcoin-slides-below-usd82-000-as-ai-doubts-return-with-defi-tokens-leading-declines": 1792667340.5926487,
-  "https://www.coindesk.com/markets/2026/10/22/crypto-traders-price-india-telecoms-company-reliance-jio-s-ipo-at-about-usd110-billion": 1792667340.5926487
+  "https://www.coindesk.com/markets/2026/10/22/crypto-traders-price-india-telecoms-company-reliance-jio-s-ipo-at-about-usd110-billion": 1792667340.5926487,
+  "https://www.theblock.co/news/business/2026-10-22-dune-onchain-trading-data-feeds-421889": 1792670893.3015757,
+  "https://www.theblock.co/news/business/2026-10-22-sofi-fdic-insured-tokenized-deposit-421916": 1792670893.3015757,
+  "https://www.coindesk.com/daybook-us/2026/10/22/crypto-traders-seek-shelter-in-bitcoin-as-altcoins-slide-and-etf-flows-wobble": 1792670893.3015757
  },
  "tries": {}
 }
