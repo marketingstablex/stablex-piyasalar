@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-22T13:23:06Z",
+ "updated": "2026-10-22T14:13:32Z",
  "sources": [
   "coindesk.com",
   "cointelegraph-tr.com",
@@ -105,6 +105,13 @@
     "importance": 4
    },
    {
+    "title": "Uniswap’in toplayıcı kancaları Ethereum, Base ve Robinhood Chain'de yayına girdi",
+    "summary": "Uniswap Labs, Uniswap v4'ün işlemlerin harici platformlardaki likidite üzerinden yönlendirilmesini sağlayan toplayıcı kancalarını başlattı.",
+    "url": "https://www.theblock.co/news/defi/2026-10-22-uniswaps-aggregator-hooks-go-live-ethereum-base-robinhood-chain-421932",
+    "published": "2026-10-22T13:55:03Z",
+    "importance": 3
+   },
+   {
     "title": "Ethereum’un dört dakikalık mutabakat planı kripto transfer maliyetini düşürebilir",
     "summary": "Ethereum’un dört dakikalık mutabakat planı kripto transfer maliyetini düşürebilir",
     "url": "https://www.coindesk.com/tech/2026/10/22/ethereum-s-four-minute-settlement-plan-could-lower-the-cost-of-moving-crypto",
@@ -180,7 +187,6 @@
   ]
  },
  "seen": {
-  "https://cointelegraph-tr.com/news/most-americans-polled-oppose-betting-on-elections-reuters": 1792331953.3802238,
   "https://www.coindesk.com/business/2026/10/18/stablecoin-supply-stalls-but-payments-jump-45-as-visa-mastercard-and-stripe-connect-crypto-to-cash": 1792333777.9855072,
   "https://www.theblock.co/news/defi/2026-10-18-cysic-suspends-bridge-after-attacker-mints-tokens-and-moves-727000-to-ethereum-418863": 1792341063.116699,
   "https://www.coindesk.com/policy/2026/10/18/latvia-eyes-crypto-tax-payments-in-2027-as-parliament-overhauls-crypto-taxation": 1792341063.116699,
@@ -351,7 +357,12 @@
   "https://cointelegraph-tr.com/news/sofi-bank-issued-tokenized-deposit-yield-bearing-crypto-funds": 1792675386.5245721,
   "https://www.coindesk.com/news-analysis/2026/10/21/crypto-is-making-a-splash-in-u-s-elections-but-chiefly-in-jabs-about-industry-influence": 1792675386.5245721,
   "https://cointelegraph-tr.com/news/bitcoin-etf-flows-follow-price-trends-dwf-labs": 1792675386.5245721,
-  "https://www.coindesk.com/tech/2026/10/22/ethereum-s-four-minute-settlement-plan-could-lower-the-cost-of-moving-crypto": 1792675386.5245721
+  "https://www.coindesk.com/tech/2026/10/22/ethereum-s-four-minute-settlement-plan-could-lower-the-cost-of-moving-crypto": 1792675386.5245721,
+  "https://www.theblock.co/news/regulation/2026-10-22-coinbase-ireland-fined-3-6-million-over-customer-fund-segregation-oversight-failures-421943": 1792678412.651269,
+  "https://www.theblock.co/news/defi/2026-10-22-uniswaps-aggregator-hooks-go-live-ethereum-base-robinhood-chain-421932": 1792678412.651269,
+  "https://cointelegraph-tr.com/markets/cryptoquant-rising-bitcoin-hashrate-indirect-bullish-signal": 1792678412.651269,
+  "https://www.theblock.co/news/deals/2026-10-22-visa-in-talks-acquire-crypto-custody-firm-fireblocks-around-2-5-billion-axios-421926": 1792678412.651269,
+  "https://cointelegraph-tr.com/news/thailand-sec-crypto-etf-applications": 1792678412.651269
  },
  "tries": {}
 }
