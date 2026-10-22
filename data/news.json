@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-22T08:15:50Z",
+ "updated": "2026-10-22T09:12:52Z",
  "sources": [
   "coindesk.com",
   "cointelegraph-tr.com",
@@ -64,6 +64,13 @@
     "url": "https://cointelegraph-tr.com/markets/ether-etf-outflows-near-1-1-billion-october",
     "published": "2026-10-21T08:11:50Z",
     "importance": 4
+   },
+   {
+    "title": "Asya hisse senetleri düştü, Çin ayı piyasasına girerken bitcoin geriledi",
+    "summary": "Asya hisse senetleri düştü, Çin ayı piyasasına girerken bitcoin geriledi.",
+    "url": "https://www.coindesk.com/markets/2026/10/22/asian-stocks-tumble-bitcoin-retreats-as-china-enters-bear-market",
+    "published": "2026-10-22T08:49:08Z",
+    "importance": 3
    },
    {
     "title": "Tesla ve Meta yapay zeka endişelerini yatıştıramayınca Bitcoin 85.000 doları göremedi",
@@ -294,7 +301,9 @@
   "https://www.coindesk.com/tech/2026/10/22/xrp-ledger-bug-fix-moved-to-november-after-validator-support-dipped-for-two-hours": 1792645814.057714,
   "https://www.coindesk.com/tech/2026/10/22/solana-completes-alpenglow-upgrade-here-s-what-it-means-for-users": 1792649261.462486,
   "https://www.coindesk.com/markets/2026/10/22/china-seeks-to-seize-61-800-btc-tied-to-usd5-7-billion-fraud-scheme": 1792653836.168255,
-  "https://cointelegraph-tr.com/markets/bitcoin-etfs-528-million-btc-tops-84k": 1792656950.817913
+  "https://cointelegraph-tr.com/markets/bitcoin-etfs-528-million-btc-tops-84k": 1792656950.817913,
+  "https://www.theblock.co/news/regulation/2026-10-22-south-koreas-crypto-bill-nears-completion-421880": 1792660372.4051561,
+  "https://www.coindesk.com/markets/2026/10/22/asian-stocks-tumble-bitcoin-retreats-as-china-enters-bear-market": 1792660372.4051561
  },
  "tries": {}
 }
