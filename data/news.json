@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-22T04:11:24Z",
+ "updated": "2026-10-22T05:10:14Z",
  "sources": [
   "coindesk.com",
   "cointelegraph-tr.com",
@@ -52,6 +52,13 @@
     "importance": 4
    },
    {
+    "title": "Bitcoin ETF'leri 3 günde 1,08 milyar dolar çekti ancak hızlı bir ralli için yeterli olmayabilir",
+    "summary": "Bitcoin ETF'leri 3 günde 1,08 milyar dolar çekti ancak hızlı bir ralli için yeterli olmayabilir",
+    "url": "https://www.coindesk.com/markets/2026/10/22/bitcoin-etfs-attract-usd1-08-billion-in-3-days-but-it-may-not-be-enough-for-a-steep-rally",
+    "published": "2026-10-22T04:41:59Z",
+    "importance": 3
+   },
+   {
     "title": "Tesla ve Meta yapay zeka endişelerini yatıştıramayınca Bitcoin 85.000 doları göremedi",
     "summary": "Tesla ve Meta yapay zeka endişelerini yatıştıramayınca Bitcoin 85.000 doları göremedi.",
     "url": "https://www.coindesk.com/markets/2026/10/22/bitcoin-gives-back-its-run-at-usd85-000-as-tesla-and-meta-fail-to-calm-ai-nerves",
@@ -75,13 +82,6 @@
     "url": "https://cointelegraph-tr.com/markets/ether-etf-outflows-near-1-1-billion-october",
     "published": "2026-10-21T08:11:50Z",
     "importance": 4
-   },
-   {
-    "title": "Ethereum staking'i getiriler düşerken ve Solana aktivitesi artarken rekor kırdı: Bitwise",
-    "summary": "Getirilerin yüzde 2,63'e gerilediği üçüncü çeyrekte, arzın yaklaşık yüzde 36'sına denk gelen rekor düzeyde 43,8 milyon ETH staking'e dahil edildi. Solana staking'i de 440,5 milyon SOL ile rekor seviyeye ulaştı.",
-    "url": "https://www.theblock.co/news/ecosystems/2026-10-20-ethereum-solana-staking-record-yields-fall-bitwise-q3-421414",
-    "published": "2026-10-20T16:31:24Z",
-    "importance": 4
    }
   ],
   "SOL": [
@@ -90,13 +90,6 @@
     "summary": "Solana, TowerBFT'nin yerini alan Alpenglow'u etkinleştirdi. Bu güncellemeyle işlem kesinliği süresi yaklaşık 12,8 saniyeden 150 milisaniyeye düşürüldü.",
     "url": "https://www.theblock.co/news/ecosystems/2026-10-21-anzas-alpenglow-goes-live-on-solana-cutting-finality-to-150-milliseconds-421508",
     "published": "2026-10-21T14:24:39Z",
-    "importance": 4
-   },
-   {
-    "title": "Ethereum staking'i getiriler düşerken ve Solana aktivitesi artarken rekor kırdı: Bitwise",
-    "summary": "Getirilerin yüzde 2,63'e gerilediği üçüncü çeyrekte, arzın yaklaşık yüzde 36'sına denk gelen rekor düzeyde 43,8 milyon ETH staking'e dahil edildi. Solana staking'i de 440,5 milyon SOL ile rekor seviyeye ulaştı.",
-    "url": "https://www.theblock.co/news/ecosystems/2026-10-20-ethereum-solana-staking-record-yields-fall-bitwise-q3-421414",
-    "published": "2026-10-20T16:31:24Z",
     "importance": 4
    }
   ],
@@ -119,6 +112,13 @@
    }
   ],
   "XRP": [
+   {
+    "title": "XRP Ledger hata düzeltmesi, doğrulayıcı desteğinin iki saat düşmesinin ardından kasım ayına ertelendi",
+    "summary": "XRP Ledger hata düzeltmesi, doğrulayıcı desteğinin iki saat düşmesinin ardından kasım ayına ertelendi",
+    "url": "https://www.coindesk.com/tech/2026/10/22/xrp-ledger-bug-fix-moved-to-november-after-validator-support-dipped-for-two-hours",
+    "published": "2026-10-22T04:36:20Z",
+    "importance": 3
+   },
    {
     "title": "Ripple, Wall Street'i 7/24 hisse senedi bahislerine taşıyor ancak HSBC piyasaların hala zayıf olduğu konusunda uyarıyor",
     "summary": "Ripple, Wall Street'i 7/24 hisse senedi bahislerine taşıyor ancak HSBC piyasaların hala zayıf olduğu konusunda uyarıyor.",
@@ -284,7 +284,9 @@
   "https://cointelegraph-tr.com/news/american-bankers-association-occ-genius-rules-stablecoins": 1792620486.3551707,
   "https://www.theblock.co/news/defi/2026-10-21-aerodrome-velodrome-merge-aero-421514": 1792629869.6834993,
   "https://cointelegraph-tr.com/news/php-foundation-admits-structural-failure-delayed-critical-security-fix": 1792633110.0224519,
-  "https://www.coindesk.com/markets/2026/10/22/bitcoin-gives-back-its-run-at-usd85-000-as-tesla-and-meta-fail-to-calm-ai-nerves": 1792642284.016803
+  "https://www.coindesk.com/markets/2026/10/22/bitcoin-gives-back-its-run-at-usd85-000-as-tesla-and-meta-fail-to-calm-ai-nerves": 1792642284.016803,
+  "https://www.coindesk.com/markets/2026/10/22/bitcoin-etfs-attract-usd1-08-billion-in-3-days-but-it-may-not-be-enough-for-a-steep-rally": 1792645814.057714,
+  "https://www.coindesk.com/tech/2026/10/22/xrp-ledger-bug-fix-moved-to-november-after-validator-support-dipped-for-two-hours": 1792645814.057714
  },
  "tries": {}
 }
