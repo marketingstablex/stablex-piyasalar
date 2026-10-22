@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-22T16:09:27Z",
+ "updated": "2026-10-22T17:08:02Z",
  "sources": [
   "coindesk.com",
   "cointelegraph-tr.com",
@@ -187,9 +187,6 @@
   ]
  },
  "seen": {
-  "https://www.theblock.co/news/defi/2026-10-18-cysic-suspends-bridge-after-attacker-mints-tokens-and-moves-727000-to-ethereum-418863": 1792341063.116699,
-  "https://www.coindesk.com/policy/2026/10/18/latvia-eyes-crypto-tax-payments-in-2027-as-parliament-overhauls-crypto-taxation": 1792341063.116699,
-  "https://www.coindesk.com/markets/2026/10/18/wall-street-freaked-out-friday-vix-and-bitcoin-say-it-may-not-last": 1792342809.9507086,
   "https://www.coindesk.com/policy/2026/10/18/the-white-house-s-crypto-chief-departs-state-of-crypto": 1792348396.720453,
   "https://www.theblock.co/news/regulation/2026-10-18-crypto-com-novig-sue-missouri-over-sports-event-contracts-kalshi-polymarket-robinhood-hold-off-418866": 1792353324.6531873,
   "https://cointelegraph-tr.com/magazine/richard-heart-caught-with-pants-down-qday-gets-even-closer-hodlers-digest": 1792366048.6428044,
@@ -365,7 +362,9 @@
   "https://www.coindesk.com/coindesk-indices/2026/10/22/crypto-for-advisors-stablecoins-are-ready-for-prime-time": 1792681865.6411858,
   "https://cointelegraph-tr.com/news/fireblocks-disputes-report-of-25b-visa-acquisition-talks": 1792681865.6411858,
   "https://www.coindesk.com/business/2026/10/22/crypto-custody-specialist-fireblocks-denies-its-in-talks-to-be-acquired-by-visa": 1792681865.6411858,
-  "https://www.coindesk.com/policy/2026/10/22/irish-central-bank-fines-coinbase-ireland-usd3-6-million-over-fund-safeguarding-failures": 1792685367.1904922
+  "https://www.coindesk.com/policy/2026/10/22/irish-central-bank-fines-coinbase-ireland-usd3-6-million-over-fund-safeguarding-failures": 1792685367.1904922,
+  "https://cointelegraph-tr.com/news/bitcoin-mining-difficulty-hashrate-recovery-ai-shift": 1792688882.1643522,
+  "https://cointelegraph-tr.com/news/ireland-central-bank-coinbase-oversight-safeguard-failure": 1792688882.1643522
  },
  "tries": {}
 }
