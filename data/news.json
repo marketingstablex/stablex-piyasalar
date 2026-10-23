@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-23T01:41:37Z",
+ "updated": "2026-10-23T02:34:29Z",
  "sources": [
   "coindesk.com",
   "cointelegraph-tr.com",
@@ -157,7 +157,6 @@
   ]
  },
  "seen": {
-  "https://www.coindesk.com/business/2026/10/18/deutsche-bank-targets-asia-crypto-custody-expansion-in-2027-as-german-launch-nears": 1792377200.949983,
   "https://www.coindesk.com/markets/2026/10/19/bitcoin-korea-s-kospi-and-nasdaq-futures-rally-as-china-gdp-beats-estimates": 1792381181.8979695,
   "https://www.coindesk.com/tech/2026/10/19/xrp-ledger-is-set-to-fix-its-lending-code-before-anyone-can-use-it": 1792386909.0127769,
   "https://cointelegraph-tr.com/news/zoom-proof-of-human-badges-world-id-ai-deepfakes": 1792390019.3231852,
@@ -338,7 +337,8 @@
   "https://www.coindesk.com/policy/2026/10/22/senate-s-top-democratic-investigator-looking-into-tether-payments-to-bo-hines-firm": 1792710421.8425763,
   "https://cointelegraph-tr.com/magazine/new-deepseek-ban-in-us-swiss-asia-crypto-ties-deepen-asia-express": 1792712235.1255178,
   "https://cointelegraph-tr.com/news/pentagon-bans-us-forces-from-using-military-info-to-bet-in-prediction-markets": 1792716382.7620156,
-  "https://cointelegraph-tr.com/news/switzerland-approves-first-spot-bitcoin-etf-for-retail-investors": 1792719697.894154
+  "https://cointelegraph-tr.com/news/switzerland-approves-first-spot-bitcoin-etf-for-retail-investors": 1792719697.894154,
+  "https://www.theblock.co/news/markets/2026-10-22-bitcoin-slides-tech-stock-sell-off-423990": 1792722869.1678882
  },
  "tries": {}
 }
