@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-23T06:46:30Z",
+ "updated": "2026-10-23T07:45:33Z",
  "sources": [
   "coindesk.com",
   "cointelegraph-tr.com",
@@ -22,6 +22,13 @@
     "url": "https://cointelegraph-tr.com/news/switzerland-approves-first-spot-bitcoin-etf-for-retail-investors",
     "published": "2026-10-23T00:59:35Z",
     "importance": 5
+   },
+   {
+    "title": "Bitcoin ETF’leri 635 milyon dolar kaybetti, ekim yeniden negatife döndü",
+    "summary": "Perşembe günkü çekilmeler, üç günlük net giriş serisini sona erdirdi ve ABD spot Bitcoin ETF’lerinde ekim ayı için 175 milyon dolarlık net çıkış bıraktı.",
+    "url": "https://cointelegraph-tr.com/markets/bitcoin-etfs-erase-october-gains-outflow",
+    "published": "2026-10-23T07:09:39Z",
+    "importance": 4
    },
    {
     "title": "Kripto Yatırımcıları Altcoinler Düşerken ve ETF Akışları Dalgalanırken Bitcoin'e Sığınıyor",
@@ -148,7 +155,6 @@
   ]
  },
  "seen": {
-  "https://www.coindesk.com/markets/2026/10/19/bitcoin-whale-moves-usd34-million-in-btc-it-got-in-2013-when-coins-traded-at-usd131": 1792392739.6688478,
   "https://www.theblock.co/news/business/2026-10-19-jpmorgan-jpm-coin-deposit-token-ethereum-418874": 1792399392.6340172,
   "https://cointelegraph-tr.com/markets/bitcoin-ether-etfs-549-million-weekly-outflows": 1792399392.6340172,
   "https://www.coindesk.com/markets/2026/10/19/crypto-vault-deposits-top-usd10-billion-as-lending-risks-draw-regulatory-scrutiny": 1792402810.629093,
@@ -331,7 +337,9 @@
   "https://www.coindesk.com/markets/2026/10/23/polymarket-has-reportedly-fired-its-marketing-chief-also-a-close-friend-of-the-ceo": 1792732041.9710426,
   "https://www.coindesk.com/tech/2026/10/23/ethereum-delays-glamsterdam-test-after-security-devs-flag-risk-to-existing-contracts": 1792732041.9710426,
   "https://www.coindesk.com/markets/2026/10/23/cardano-holders-are-being-asked-to-bet-usd5-million-on-copper-hitting-a-new-record": 1792732041.9710426,
-  "https://cointelegraph-tr.com/news/ethereum-delays-glamsterdam-testnet-fork-gas-security-risks": 1792735589.7655537
+  "https://cointelegraph-tr.com/news/ethereum-delays-glamsterdam-testnet-fork-gas-security-risks": 1792735589.7655537,
+  "https://cointelegraph-tr.com/news/malaysia-thailand-join-singapores-cross-border-stablecoin-push": 1792741533.2441478,
+  "https://cointelegraph-tr.com/markets/bitcoin-etfs-erase-october-gains-outflow": 1792741533.2441478
  },
  "tries": {}
 }
