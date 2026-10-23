@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-23T19:35:46Z",
+ "updated": "2026-10-23T20:03:57Z",
  "sources": [
   "coindesk.com",
   "cointelegraph-tr.com",
@@ -52,13 +52,6 @@
     "importance": 4
    },
    {
-    "title": "Bitcoin ETF’leri 528 Milyon Dolar Daha Topladı, 3 Günlük Toplam 1 Milyar Doları Aştı",
-    "summary": "ABD spot Bitcoin ETF’leri üç işlem seansında 1,08 milyar dolar çekerek ekim ayındaki akışları yeniden pozitif bölgeye taşıdı.",
-    "url": "https://cointelegraph-tr.com/markets/bitcoin-etfs-528-million-btc-tops-84k",
-    "published": "2026-10-22T07:37:32Z",
-    "importance": 4
-   },
-   {
     "title": "Brent ham petrolünün Mart ayından bu yana en yüksek seviyeye ulaşmasıyla Bitcoin 81 bin doların üzerinde destek arıyor",
     "summary": "Hisse senetleri düşerken ve Brent ham petrolü Mart ayından bu yana en yüksek seviyesine ulaşırken Bitcoin 81.000 doların altına geriledi. Bu hareketin ardından piyasanın odak noktası 50 günlük hareketli ortalamaya çevrildi.",
     "url": "https://cointelegraph-tr.com/markets/bitcoin-seeks-support-above-81k-as-brent-crude-oil-hits-highest-level-since-march",
@@ -67,13 +60,6 @@
    }
   ],
   "ETH": [
-   {
-    "title": "Bitcoin ETF’leri 528 Milyon Dolar Daha Topladı, 3 Günlük Toplam 1 Milyar Doları Aştı",
-    "summary": "ABD spot Bitcoin ETF’leri üç işlem seansında 1,08 milyar dolar çekerek ekim ayındaki akışları yeniden pozitif bölgeye taşıdı.",
-    "url": "https://cointelegraph-tr.com/markets/bitcoin-etfs-528-million-btc-tops-84k",
-    "published": "2026-10-22T07:37:32Z",
-    "importance": 4
-   },
    {
     "title": "Ethereum, güvenlik riskleri nedeniyle Glamsterdam’ın Hoodi test ağı lansmanını erteliyor",
     "summary": "ChainSecurity, Glamsterdam’ın gas değişikliklerinden etkilenebilecek akıllı sözleşmelere yönelik 13 gerçek dünya örneği belirledi. Şirket, etkilenen projelerle sorumlu açıklama sürecini koordine ettiğini açıkladı.",
