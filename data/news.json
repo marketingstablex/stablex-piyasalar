@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-23T04:09:30Z",
+ "updated": "2026-10-23T05:07:21Z",
  "sources": [
   "coindesk.com",
   "cointelegraph-tr.com",
@@ -13,6 +13,13 @@
     "url": "https://cointelegraph-tr.com/news/cardano-foundation-urges-eu-against-expanding-mica-rules-to-defi-and-staking",
     "published": "2026-10-21T17:57:39Z",
     "importance": 4
+   },
+   {
+    "title": "Cardano sahiplerinden bakırın yeni bir rekor kırması üzerine 5 milyon dolar bahis oynamaları isteniyor",
+    "summary": "Cardano sahiplerinden bakırın yeni bir rekor kırması üzerine 5 milyon dolar bahis oynamaları isteniyor",
+    "url": "https://www.coindesk.com/markets/2026/10/23/cardano-holders-are-being-asked-to-bet-usd5-million-on-copper-hitting-a-new-record",
+    "published": "2026-10-23T04:36:51Z",
+    "importance": 2
    }
   ],
   "BTC": [
@@ -75,6 +82,13 @@
     "importance": 4
    },
    {
+    "title": "Güvenlik geliştiricilerinin mevcut sözleşmelere yönelik riskleri işaret etmesinin ardından Ethereum, Glamsterdam testini ertelendi",
+    "summary": "Güvenlik geliştiricilerinin mevcut sözleşmelere yönelik riskleri işaret etmesinin ardından Ethereum, Glamsterdam testini ertelendi",
+    "url": "https://www.coindesk.com/tech/2026/10/23/ethereum-delays-glamsterdam-test-after-security-devs-flag-risk-to-existing-contracts",
+    "published": "2026-10-23T04:59:34Z",
+    "importance": 3
+   },
+   {
     "title": "Uniswap’in toplayıcı kancaları Ethereum, Base ve Robinhood Chain'de yayına girdi",
     "summary": "Uniswap Labs, Uniswap v4'ün işlemlerin harici platformlardaki likidite üzerinden yönlendirilmesini sağlayan toplayıcı kancalarını başlattı.",
     "url": "https://www.theblock.co/news/defi/2026-10-22-uniswaps-aggregator-hooks-go-live-ethereum-base-robinhood-chain-421932",
@@ -118,15 +132,6 @@
     "summary": "StarkWare, bağımsız ve kuantuma dirençli bir blockchain'i incelerken kasım ayında bir taslak whitepaper yayımlamayı planlıyor.",
     "url": "https://cointelegraph-tr.com/news/starknet-vote-post-quantum-l1-research-ethereum",
     "published": "2026-10-22T09:37:54Z",
-    "importance": 3
-   }
-  ],
-  "UNI": [
-   {
-    "title": "Dataline, Yapay Zeka Ajanları İçin Merkeziyetsiz Veri Ağı Yatırımında 10,6 Milyon Dolar Topladı ve ICO Planlıyor",
-    "summary": "Dataline girişimi, yapay zeka ajanları için geliştirdiği merkeziyetsiz veri ağı amacıyla 10,6 milyon dolar yatırım topladı. Şirket, gelecek hafta detaylarının açıklanması beklenen Uniswap'in açık artırma platformu aracılığıyla halka açık bir token satış gerçekleştirmeyi planlıyor.",
-    "url": "https://www.theblock.co/news/deals/2026-10-21-dataline-decentralized-data-network-ai-agents-funding-ico-421596",
-    "published": "2026-10-21T16:44:01Z",
     "importance": 3
    }
   ],
@@ -333,7 +338,10 @@
   "https://www.theblock.co/news/markets/2026-10-22-bitcoin-slides-tech-stock-sell-off-423990": 1792722869.1678882,
   "https://www.theblock.co/news/business/2026-10-22-chainlink-partners-with-lg-cns-423993": 1792725012.0398088,
   "https://www.theblock.co/news/business/2026-10-23-hsbc-hkd-stablecoin-redcoin-424018": 1792728570.878044,
-  "https://www.coindesk.com/markets/2026/10/23/bitcoin-gold-trim-early-losses-as-yen-gives-up-gains-oil-stays-near-usd100": 1792728570.878044
+  "https://www.coindesk.com/markets/2026/10/23/bitcoin-gold-trim-early-losses-as-yen-gives-up-gains-oil-stays-near-usd100": 1792728570.878044,
+  "https://www.coindesk.com/markets/2026/10/23/polymarket-has-reportedly-fired-its-marketing-chief-also-a-close-friend-of-the-ceo": 1792732041.9710426,
+  "https://www.coindesk.com/tech/2026/10/23/ethereum-delays-glamsterdam-test-after-security-devs-flag-risk-to-existing-contracts": 1792732041.9710426,
+  "https://www.coindesk.com/markets/2026/10/23/cardano-holders-are-being-asked-to-bet-usd5-million-on-copper-hitting-a-new-record": 1792732041.9710426
  },
  "tries": {}
 }
