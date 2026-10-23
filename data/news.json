@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-23T20:36:38Z",
+ "updated": "2026-10-23T21:10:17Z",
  "sources": [
   "coindesk.com",
   "cointelegraph-tr.com",
@@ -125,8 +125,6 @@
   ]
  },
  "seen": {
-  "https://cointelegraph-tr.com/news/crypto-pac-california-race-voters-special-election": 1792443833.7921278,
-  "https://www.coindesk.com/policy/2026/10/19/tether-senator-s-investigation-misses-positive-work-that-s-led-to-lower-iran-volumes": 1792443833.7921278,
   "https://www.theblock.co/news/regulation/2026-10-19-blackrock-files-bitcoin-managed-protect-etf-downside-protection-ibit-421087": 1792447627.1291933,
   "https://cointelegraph-tr.com/markets/bitcoin-rally-could-revive-treasury-buying-but-easy-money-days-over": 1792460300.5064516,
   "https://www.theblock.co/news/regulation/2026-10-20-blockchain-association-clearer-rules-genius-act-421092": 1792469337.9880831,
@@ -303,7 +301,8 @@
   "https://cointelegraph-tr.com/markets/bitcoin-seeks-support-above-81k-as-brent-crude-oil-hits-highest-level-since-march": 1792773522.269061,
   "https://www.theblock.co/news/defi/2026-10-23-initia-halts-network-after-security-incident-attacker-reportedly-mints-tokens-427755": 1792776820.3626013,
   "https://www.theblock.co/news/regulation/2026-10-23-sen-blumenthal-seeks-answers-tether-payments-firm-founded-ex-white-house-crypto-adviser-427785": 1792778615.9953651,
-  "https://www.theblock.co/news/markets/2026-10-23-netanyahu-israel-blockchain-plan-possible-sanctions-427792": 1792780842.1927738
+  "https://www.theblock.co/news/markets/2026-10-23-netanyahu-israel-blockchain-plan-possible-sanctions-427792": 1792780842.1927738,
+  "https://cointelegraph-tr.com/news/irs-plans-lower-penalties-for-crypto-tax-disclosures-forbes-reports": 1792789817.9930916
  },
  "tries": {}
 }
