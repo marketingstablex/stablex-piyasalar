@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-23T07:45:33Z",
+ "updated": "2026-10-23T08:37:38Z",
  "sources": [
   "coindesk.com",
   "cointelegraph-tr.com",
@@ -133,15 +133,6 @@
     "url": "https://cointelegraph-tr.com/news/starknet-vote-post-quantum-l1-research-ethereum",
     "published": "2026-10-22T09:37:54Z",
     "importance": 3
-   }
-  ],
-  "USDT": [
-   {
-    "title": "Tether, yemek teslimatı ve bankacılığa USDT ödemeleri getiren Bolivyalı fintech Peso’yu destekliyor",
-    "summary": "Yatırım, stablecoin ödemelerini tüccar hizmetlerine ve yerel bankacılık ağlarına bağladığı dört Latin Amerika pazarında Peso’nun genişlemesini destekleyecek.",
-    "url": "https://cointelegraph-tr.com/news/tether-backs-bolivian-fintech-bringing-usdt-payments-to-food-delivery-and-banking",
-    "published": "2026-10-21T20:26:07Z",
-    "importance": 2
    }
   ],
   "XRP": [
@@ -339,7 +330,8 @@
   "https://www.coindesk.com/markets/2026/10/23/cardano-holders-are-being-asked-to-bet-usd5-million-on-copper-hitting-a-new-record": 1792732041.9710426,
   "https://cointelegraph-tr.com/news/ethereum-delays-glamsterdam-testnet-fork-gas-security-risks": 1792735589.7655537,
   "https://cointelegraph-tr.com/news/malaysia-thailand-join-singapores-cross-border-stablecoin-push": 1792741533.2441478,
-  "https://cointelegraph-tr.com/markets/bitcoin-etfs-erase-october-gains-outflow": 1792741533.2441478
+  "https://cointelegraph-tr.com/markets/bitcoin-etfs-erase-october-gains-outflow": 1792741533.2441478,
+  "https://www.coindesk.com/markets/2026/10/23/india-s-largest-exchange-denies-hack-after-blockchain-sleuths-pointed-to-usd16-million-in-suspicious-outflows": 1792744658.6794953
  },
  "tries": {}
 }
