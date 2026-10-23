@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-23T12:40:17Z",
+ "updated": "2026-10-23T13:42:42Z",
  "sources": [
   "coindesk.com",
   "cointelegraph-tr.com",
@@ -57,20 +57,6 @@
     "url": "https://www.coindesk.com/markets/2026/10/22/china-seeks-to-seize-61-800-btc-tied-to-usd5-7-billion-fraud-scheme",
     "published": "2026-10-22T06:24:10Z",
     "importance": 4
-   },
-   {
-    "title": "Canlı gelişmeler: Yapay zeka satış dalgası zayıflarken ve petrol yükselirken Bitcoin 81.000 doların üzerinde tutunuyor",
-    "summary": "Canlı gelişmeler: Yapay zeka satış dalgası zayıflarken ve petrol yükselirken Bitcoin 81.000 doların üzerinde tutunuyor.",
-    "url": "https://www.coindesk.com/markets/2026/10/23/live-updates-bitcoin-holds-above-usd81-000-as-the-ai-rout-fades-and-oil-climbs",
-    "published": "2026-10-23T11:13:01Z",
-    "importance": 3
-   },
-   {
-    "title": "Altcoinler toparlanırken Bitcoin 81.700 dolar civarında istikrar kazandı, pepe %13 yükseldi",
-    "summary": "Altcoinler toparlanırken Bitcoin 81.700 dolar civarında istikrar kazandı, pepe %13 yükseldi",
-    "url": "https://www.coindesk.com/markets/2026/10/23/bitcoin-steadies-near-usd81-700-as-altcoins-rebound-pepe-climbs-13",
-    "published": "2026-10-23T10:54:41Z",
-    "importance": 3
    }
   ],
   "ETH": [
@@ -119,11 +105,11 @@
   ],
   "PEPE": [
    {
-    "title": "Altcoinler toparlanırken Bitcoin 81.700 dolar civarında istikrar kazandı, pepe %13 yükseldi",
-    "summary": "Altcoinler toparlanırken Bitcoin 81.700 dolar civarında istikrar kazandı, pepe %13 yükseldi",
-    "url": "https://www.coindesk.com/markets/2026/10/23/bitcoin-steadies-near-usd81-700-as-altcoins-rebound-pepe-climbs-13",
-    "published": "2026-10-23T10:54:41Z",
-    "importance": 3
+    "title": "Yapay zeka şüphelerinin geri dönmesiyle Bitcoin 82.000 doların altına geriledi, DeFi token'ları düşüşe öncülük ediyor",
+    "summary": "Yapay zeka şüphelerinin geri dönmesiyle Bitcoin 82.000 doların altına geriledi, DeFi token'ları düşüşe öncülük ediyor",
+    "url": "https://www.coindesk.com/markets/2026/10/22/bitcoin-slides-below-usd82-000-as-ai-doubts-return-with-defi-tokens-leading-declines",
+    "published": "2026-10-22T10:50:04Z",
+    "importance": 4
    }
   ],
   "SOL": [
@@ -146,6 +132,13 @@
   ],
   "XRP": [
    {
+    "title": "Singapur, Malezya ve Tayland merkez bankaları sınır ötesi stablecoin girişimini genişletiyor",
+    "summary": "Malezya ve Tayland, sınır ötesi stablecoin ve tokenize mevduat mutabakatı için Singapur'un BLOOM girişimine katıldı.",
+    "url": "https://www.theblock.co/news/regulation/2026-10-23-singapore-malaysia-and-thailand-central-banks-expand-cross-border-stablecoin-initiative-involving-ripple-visa-and-mastercard-426492",
+    "published": "2026-10-23T12:55:26Z",
+    "importance": 4
+   },
+   {
     "title": "XRP Ledger hata düzeltmesi, doğrulayıcı desteğinin iki saat düşmesinin ardından kasım ayına ertelendi",
     "summary": "XRP Ledger hata düzeltmesi, doğrulayıcı desteğinin iki saat düşmesinin ardından kasım ayına ertelendi",
     "url": "https://www.coindesk.com/tech/2026/10/22/xrp-ledger-bug-fix-moved-to-november-after-validator-support-dipped-for-two-hours",
@@ -155,9 +148,6 @@
   ]
  },
  "seen": {
-  "https://cointelegraph-tr.com/news/strategy-btc-22-million-buy-strc-buyback-193-million": 1792416105.8451633,
-  "https://www.coindesk.com/tech/2026/10/19/cardano-founder-charles-hoskinson-is-building-a-new-programming-language-for-the-network": 1792416105.8451633,
-  "https://www.theblock.co/news/business/2026-10-19-we-found-room-for-more-orange-michael-saylors-strategy-buys-more-bitcoin-418895": 1792416105.8451633,
   "https://www.theblock.co/news/business/2026-10-19-strive-scoops-1223-bitcoin-100-million-total-holdings-reach-36818-btc-421020": 1792419501.5616815,
   "https://www.theblock.co/news/business/2026-10-19-bitmine-adds-12535-eth-as-treasury-reaches-6-04-million-tokens-421018": 1792419501.5616815,
   "https://cointelegraph-tr.com/magazine/made-an-honest-mistake-with-crypto-taxes-new-bill-offers-way-out": 1792419501.5616815,
@@ -340,7 +330,10 @@
   "https://www.coindesk.com/markets/2026/10/23/live-updates-bitcoin-holds-above-usd81-000-as-the-ai-rout-fades-and-oil-climbs": 1792755658.4655561,
   "https://cointelegraph-tr.com/news/new-york-ag-novatech-founders-companies-crypto-ponzi": 1792759217.6680236,
   "https://cointelegraph-tr.com/markets/bitcoin-consolidates-after-3-loss-as-ai-fears-stoke-fresh-stock-market-weakness": 1792759217.6680236,
-  "https://cointelegraph-tr.com/news/self-custody-crypto-beginners-mainstream-adoption": 1792759217.6680236
+  "https://cointelegraph-tr.com/news/self-custody-crypto-beginners-mainstream-adoption": 1792759217.6680236,
+  "https://cointelegraph-tr.com/news/china-2030-national-blockchain-network-buildout": 1792762962.6799474,
+  "https://www.theblock.co/news/markets/2026-10-23-phantom-rolls-out-kalshi-prediction-markets-us-421652": 1792762962.6799474,
+  "https://www.theblock.co/news/regulation/2026-10-23-singapore-malaysia-and-thailand-central-banks-expand-cross-border-stablecoin-initiative-involving-ripple-visa-and-mastercard-426492": 1792762962.6799474
  },
  "tries": {}
 }
