@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-23T13:42:42Z",
+ "updated": "2026-10-23T14:40:53Z",
  "sources": [
   "coindesk.com",
   "cointelegraph-tr.com",
@@ -22,6 +22,13 @@
     "url": "https://cointelegraph-tr.com/news/switzerland-approves-first-spot-bitcoin-etf-for-retail-investors",
     "published": "2026-10-23T00:59:35Z",
     "importance": 5
+   },
+   {
+    "title": "Yapay zeka kod hatalarını bulmayı tehlikeli bir şekilde kolaylaştırırken Bitcoin Core güvenlik kurallarını değiştiriyor",
+    "summary": "Yapay zeka kod hatalarını bulmayı tehlikeli bir şekilde kolaylaştırırken Bitcoin Core güvenlik kurallarını değiştiriyor",
+    "url": "https://www.coindesk.com/tech/2026/10/23/bitcoin-will-now-stop-hiding-bugs-an-ai-can-find-in-one-prompt",
+    "published": "2026-10-23T12:03:53Z",
+    "importance": 4
    },
    {
     "title": "Bitcoin ETF’leri 635 milyon dolar kaybetti, ekim yeniden negatife döndü",
@@ -148,10 +155,6 @@
   ]
  },
  "seen": {
-  "https://www.theblock.co/news/business/2026-10-19-strive-scoops-1223-bitcoin-100-million-total-holdings-reach-36818-btc-421020": 1792419501.5616815,
-  "https://www.theblock.co/news/business/2026-10-19-bitmine-adds-12535-eth-as-treasury-reaches-6-04-million-tokens-421018": 1792419501.5616815,
-  "https://cointelegraph-tr.com/magazine/made-an-honest-mistake-with-crypto-taxes-new-bill-offers-way-out": 1792419501.5616815,
-  "https://cointelegraph-tr.com/news/public-companies-object-okx-ice-tokenized-stock": 1792419501.5616815,
   "https://www.theblock.co/news/business/2026-10-19-anchorwatch-bitcoin-custody-insurance-421011": 1792422893.751159,
   "https://www.coindesk.com/business/2026/10/19/zerohash-rolls-out-a-new-tool-to-move-crypto-without-copying-wallet-addresses": 1792422893.751159,
   "https://www.theblock.co/news/business/2026-10-19-mastercard-unveils-stablecoin-security-tool-to-screen-payments-for-fraud-and-sanctions-risks-420658": 1792426070.7880914,
@@ -333,7 +336,9 @@
   "https://cointelegraph-tr.com/news/self-custody-crypto-beginners-mainstream-adoption": 1792759217.6680236,
   "https://cointelegraph-tr.com/news/china-2030-national-blockchain-network-buildout": 1792762962.6799474,
   "https://www.theblock.co/news/markets/2026-10-23-phantom-rolls-out-kalshi-prediction-markets-us-421652": 1792762962.6799474,
-  "https://www.theblock.co/news/regulation/2026-10-23-singapore-malaysia-and-thailand-central-banks-expand-cross-border-stablecoin-initiative-involving-ripple-visa-and-mastercard-426492": 1792762962.6799474
+  "https://www.theblock.co/news/regulation/2026-10-23-singapore-malaysia-and-thailand-central-banks-expand-cross-border-stablecoin-initiative-involving-ripple-visa-and-mastercard-426492": 1792762962.6799474,
+  "https://www.coindesk.com/markets/2026/10/23/robinhood-sees-surge-in-bitcoin-gold-prediction-markets-as-traders-move-beyond-sports": 1792766453.2551885,
+  "https://www.coindesk.com/tech/2026/10/23/bitcoin-will-now-stop-hiding-bugs-an-ai-can-find-in-one-prompt": 1792766453.2551885
  },
  "tries": {}
 }
