@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-23T08:37:38Z",
+ "updated": "2026-10-23T09:36:19Z",
  "sources": [
   "coindesk.com",
   "cointelegraph-tr.com",
@@ -146,8 +146,6 @@
   ]
  },
  "seen": {
-  "https://www.theblock.co/news/business/2026-10-19-jpmorgan-jpm-coin-deposit-token-ethereum-418874": 1792399392.6340172,
-  "https://cointelegraph-tr.com/markets/bitcoin-ether-etfs-549-million-weekly-outflows": 1792399392.6340172,
   "https://www.coindesk.com/markets/2026/10/19/crypto-vault-deposits-top-usd10-billion-as-lending-risks-draw-regulatory-scrutiny": 1792402810.629093,
   "https://www.coindesk.com/markets/2026/10/19/cme-s-bitcoin-cash-uniswap-futures-global-pmis-crypto-week-ahead": 1792402810.629093,
   "https://cointelegraph-tr.com/news/jpmorgan-jpm-coin-ethereum-institutional-clients": 1792402810.629093,
@@ -331,7 +329,8 @@
   "https://cointelegraph-tr.com/news/ethereum-delays-glamsterdam-testnet-fork-gas-security-risks": 1792735589.7655537,
   "https://cointelegraph-tr.com/news/malaysia-thailand-join-singapores-cross-border-stablecoin-push": 1792741533.2441478,
   "https://cointelegraph-tr.com/markets/bitcoin-etfs-erase-october-gains-outflow": 1792741533.2441478,
-  "https://www.coindesk.com/markets/2026/10/23/india-s-largest-exchange-denies-hack-after-blockchain-sleuths-pointed-to-usd16-million-in-suspicious-outflows": 1792744658.6794953
+  "https://www.coindesk.com/markets/2026/10/23/india-s-largest-exchange-denies-hack-after-blockchain-sleuths-pointed-to-usd16-million-in-suspicious-outflows": 1792744658.6794953,
+  "https://www.coindesk.com/business/2026/10/23/sweden-s-central-bank-revives-e-krona-debate-as-stablecoins-and-digital-euro-loom": 1792748179.5401425
  },
  "tries": {}
 }
