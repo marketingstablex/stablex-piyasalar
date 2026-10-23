@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-22T06:48:54Z",
+ "updated": "2026-10-23T06:47:51Z",
  "source": "https://stablex.com.tr/piyasalar",
  "note": "Bu dosya scripts/sync_coins.py tarafından otomatik güncellenir. Sıra: sembol, CoinGecko id, ad, kategoriler. binance: Binance çifti kullanılmayacak coinler (null).",
  "coins": [
@@ -50,6 +50,15 @@
    "Arbitrum",
    [
     "l2"
+   ]
+  ],
+  [
+   "ATH",
+   "aethir",
+   "Aethir",
+   [
+    "ai",
+    "depin"
    ]
   ],
   [
@@ -650,6 +659,7 @@
   ]
  ],
  "binance": {
+  "ATH": null,
   "LIT": null,
   "USDT": null
  }
