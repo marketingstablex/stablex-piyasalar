@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-22T23:37:15Z",
+ "updated": "2026-10-23T00:46:22Z",
  "sources": [
   "coindesk.com",
   "cointelegraph-tr.com",
@@ -59,26 +59,10 @@
     "importance": 4
    },
    {
-    "title": "Bitcoin volatilitesi, yatırımcılar Fed kararına ve ABD ara seçimlerine hazırlanırken 2026'nın en düşük seviyelerine yaklaşıyor",
-    "summary": "K33, olası piyasa katalizörleri öncesinde zayıf işlem faaliyetlerine işaret ederken Bitcoin volatilitesi 2026'nın en düşük seviyelerine yaklaşıyor.",
-    "url": "https://www.theblock.co/news/markets/2026-10-21-bitcoin-volatility-nears-2026-lows-as-traders-brace-for-fed-decision-and-us-midterms-421524",
-    "published": "2026-10-21T11:55:08Z",
-    "importance": 4
-   },
-   {
     "title": "ABD’de yeni DeepSeek yasağı, İsviçre-Asya kripto bağları güçleniyor: Asia Express",
     "summary": "DeepSeek, casusluk endişeleri nedeniyle ABD federal sivil kurumlarında yasaklandı. Singapurlu bir şirket Avrupa’nın ilk spot Bitcoin ETF’sinin arkasında yer alırken, İsviçre ise kripto teknolojisi konusunda Vietnam ile ortaklık kuruyor.",
     "url": "https://cointelegraph-tr.com/magazine/new-deepseek-ban-in-us-swiss-asia-crypto-ties-deepen-asia-express",
     "published": "2026-10-22T22:50:22Z",
-    "importance": 3
-   }
-  ],
-  "DOGE": [
-   {
-    "title": "Dogecoin Labs, DOGE ekosisteminin meme odaklı talebin ötesinde büyümesi için kuruldu",
-    "summary": "Dogecoin Vakfı destekli Dogecoin Labs; DOGE'yi ödemelere ve merkeziyetsiz finans alanına taşımak amacıyla MyDoge, DogeOS ve Such App'i bir araya getirdi.",
-    "url": "https://www.theblock.co/news/business/2026-10-21-dogecoin-labs-launch-mydoge-dogeos-such-app-421469",
-    "published": "2026-10-21T12:00:00Z",
     "importance": 3
    }
   ],
@@ -166,7 +150,6 @@
   ]
  },
  "seen": {
-  "https://www.coindesk.com/business/2026/10/18/sec-tokenized-stock-framework-faces-issuer-pushback-as-broadcom-verizon-object-to-okx-ice-listing": 1792367709.107883,
   "https://www.theblock.co/news/ecosystems/2026-10-18-world-launches-world-id-suite-banks-418869": 1792373841.1980724,
   "https://cointelegraph-tr.com/news/qubic-freezes-chain-after-attacker-drains-14k-wallets-with-weak-seeds": 1792373841.1980724,
   "https://www.coindesk.com/business/2026/10/18/deutsche-bank-targets-asia-crypto-custody-expansion-in-2027-as-german-launch-nears": 1792377200.949983,
@@ -348,7 +331,8 @@
   "https://cointelegraph-tr.com/news/dune-launches-real-time-data-feeds-covering-200-onchain-trading-venues": 1792703249.1830037,
   "https://cointelegraph-tr.com/news/circle-shareholder-lawsuit-donald-trump-world-liberty-financial-steve-witkoff-crypto-corruption": 1792706766.9796238,
   "https://www.coindesk.com/policy/2026/10/22/senate-s-top-democratic-investigator-looking-into-tether-payments-to-bo-hines-firm": 1792710421.8425763,
-  "https://cointelegraph-tr.com/magazine/new-deepseek-ban-in-us-swiss-asia-crypto-ties-deepen-asia-express": 1792712235.1255178
+  "https://cointelegraph-tr.com/magazine/new-deepseek-ban-in-us-swiss-asia-crypto-ties-deepen-asia-express": 1792712235.1255178,
+  "https://cointelegraph-tr.com/news/pentagon-bans-us-forces-from-using-military-info-to-bet-in-prediction-markets": 1792716382.7620156
  },
  "tries": {}
 }
