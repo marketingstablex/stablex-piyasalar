@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-23T05:07:21Z",
+ "updated": "2026-10-23T06:06:29Z",
  "sources": [
   "coindesk.com",
   "cointelegraph-tr.com",
@@ -7,13 +7,6 @@
  ],
  "bySymbol": {
   "ADA": [
-   {
-    "title": "Cardano Vakfı, AB’yi MiCA kurallarını DeFi ve staking’i kapsayacak şekilde genişletmemeye çağırıyor",
-    "summary": "Cardano Vakfı, düzenlemelerin teknoloji yerine finansal risklere dayanması gerektiğini belirterek, birbiriyle örtüşen kuralların AB genelindeki kripto şirketleri için belirsizlik yaratabileceği uyarısında bulundu.",
-    "url": "https://cointelegraph-tr.com/news/cardano-foundation-urges-eu-against-expanding-mica-rules-to-defi-and-staking",
-    "published": "2026-10-21T17:57:39Z",
-    "importance": 4
-   },
    {
     "title": "Cardano sahiplerinden bakırın yeni bir rekor kırması üzerine 5 milyon dolar bahis oynamaları isteniyor",
     "summary": "Cardano sahiplerinden bakırın yeni bir rekor kırması üzerine 5 milyon dolar bahis oynamaları isteniyor",
@@ -82,10 +75,10 @@
     "importance": 4
    },
    {
-    "title": "Güvenlik geliştiricilerinin mevcut sözleşmelere yönelik riskleri işaret etmesinin ardından Ethereum, Glamsterdam testini ertelendi",
-    "summary": "Güvenlik geliştiricilerinin mevcut sözleşmelere yönelik riskleri işaret etmesinin ardından Ethereum, Glamsterdam testini ertelendi",
-    "url": "https://www.coindesk.com/tech/2026/10/23/ethereum-delays-glamsterdam-test-after-security-devs-flag-risk-to-existing-contracts",
-    "published": "2026-10-23T04:59:34Z",
+    "title": "Ethereum, güvenlik riskleri nedeniyle Glamsterdam’ın Hoodi test ağı lansmanını erteliyor",
+    "summary": "ChainSecurity, Glamsterdam’ın gas değişikliklerinden etkilenebilecek akıllı sözleşmelere yönelik 13 gerçek dünya örneği belirledi. Şirket, etkilenen projelerle sorumlu açıklama sürecini koordine ettiğini açıkladı.",
+    "url": "https://cointelegraph-tr.com/news/ethereum-delays-glamsterdam-testnet-fork-gas-security-risks",
+    "published": "2026-10-23T05:09:41Z",
     "importance": 3
    },
    {
@@ -155,7 +148,6 @@
   ]
  },
  "seen": {
-  "https://www.coindesk.com/tech/2026/10/19/xrp-ledger-is-set-to-fix-its-lending-code-before-anyone-can-use-it": 1792386909.0127769,
   "https://cointelegraph-tr.com/news/zoom-proof-of-human-badges-world-id-ai-deepfakes": 1792390019.3231852,
   "https://www.coindesk.com/tech/2026/10/19/zcash-developers-plan-a-fix-to-keep-zec-swaps-private-from-future-quantum-computers": 1792390019.3231852,
   "https://cointelegraph-tr.com/news/south-korea-to-meet-crypto-exchanges-amid-calls-for-tax-delay": 1792390019.3231852,
@@ -341,7 +333,8 @@
   "https://www.coindesk.com/markets/2026/10/23/bitcoin-gold-trim-early-losses-as-yen-gives-up-gains-oil-stays-near-usd100": 1792728570.878044,
   "https://www.coindesk.com/markets/2026/10/23/polymarket-has-reportedly-fired-its-marketing-chief-also-a-close-friend-of-the-ceo": 1792732041.9710426,
   "https://www.coindesk.com/tech/2026/10/23/ethereum-delays-glamsterdam-test-after-security-devs-flag-risk-to-existing-contracts": 1792732041.9710426,
-  "https://www.coindesk.com/markets/2026/10/23/cardano-holders-are-being-asked-to-bet-usd5-million-on-copper-hitting-a-new-record": 1792732041.9710426
+  "https://www.coindesk.com/markets/2026/10/23/cardano-holders-are-being-asked-to-bet-usd5-million-on-copper-hitting-a-new-record": 1792732041.9710426,
+  "https://cointelegraph-tr.com/news/ethereum-delays-glamsterdam-testnet-fork-gas-security-risks": 1792735589.7655537
  },
  "tries": {}
 }
