@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-23T18:03:35Z",
+ "updated": "2026-10-23T18:40:42Z",
  "sources": [
   "coindesk.com",
   "cointelegraph-tr.com",
@@ -56,13 +56,6 @@
     "summary": "ABD spot Bitcoin ETF’leri üç işlem seansında 1,08 milyar dolar çekerek ekim ayındaki akışları yeniden pozitif bölgeye taşıdı.",
     "url": "https://cointelegraph-tr.com/markets/bitcoin-etfs-528-million-btc-tops-84k",
     "published": "2026-10-22T07:37:32Z",
-    "importance": 4
-   },
-   {
-    "title": "Çin, 5,7 milyar dolarlık dolandırıcılık şebekesine bağlı 61.800 BTC'ye el koymaya çalışıyor",
-    "summary": "Çin, 5,7 milyar dolarlık bir dolandırıcılık şebekesiyle bağlantılı 61.800 BTC'ye el koyma girişiminde bulunuyor.",
-    "url": "https://www.coindesk.com/markets/2026/10/22/china-seeks-to-seize-61-800-btc-tied-to-usd5-7-billion-fraud-scheme",
-    "published": "2026-10-22T06:24:10Z",
     "importance": 4
    },
    {
@@ -324,7 +317,8 @@
   "https://www.coindesk.com/tech/2026/10/23/bitcoin-will-now-stop-hiding-bugs-an-ai-can-find-in-one-prompt": 1792766453.2551885,
   "https://cointelegraph-tr.com/markets/bitcoin-seeks-support-above-81k-as-brent-crude-oil-hits-highest-level-since-march": 1792773522.269061,
   "https://www.theblock.co/news/defi/2026-10-23-initia-halts-network-after-security-incident-attacker-reportedly-mints-tokens-427755": 1792776820.3626013,
-  "https://www.theblock.co/news/regulation/2026-10-23-sen-blumenthal-seeks-answers-tether-payments-firm-founded-ex-white-house-crypto-adviser-427785": 1792778615.9953651
+  "https://www.theblock.co/news/regulation/2026-10-23-sen-blumenthal-seeks-answers-tether-payments-firm-founded-ex-white-house-crypto-adviser-427785": 1792778615.9953651,
+  "https://www.theblock.co/news/markets/2026-10-23-netanyahu-israel-blockchain-plan-possible-sanctions-427792": 1792780842.1927738
  },
  "tries": {}
 }
