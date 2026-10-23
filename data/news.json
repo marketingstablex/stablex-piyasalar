@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-23T11:06:49Z",
+ "updated": "2026-10-23T11:40:58Z",
  "sources": [
   "coindesk.com",
   "cointelegraph-tr.com",
@@ -59,17 +59,17 @@
     "importance": 4
    },
    {
+    "title": "Canlı gelişmeler: Yapay zeka satış dalgası zayıflarken ve petrol yükselirken Bitcoin 81.000 doların üzerinde tutunuyor",
+    "summary": "Canlı gelişmeler: Yapay zeka satış dalgası zayıflarken ve petrol yükselirken Bitcoin 81.000 doların üzerinde tutunuyor.",
+    "url": "https://www.coindesk.com/markets/2026/10/23/live-updates-bitcoin-holds-above-usd81-000-as-the-ai-rout-fades-and-oil-climbs",
+    "published": "2026-10-23T11:13:01Z",
+    "importance": 3
+   },
+   {
     "title": "Altcoinler toparlanırken Bitcoin 81.700 dolar civarında istikrar kazandı, pepe %13 yükseldi",
     "summary": "Altcoinler toparlanırken Bitcoin 81.700 dolar civarında istikrar kazandı, pepe %13 yükseldi",
     "url": "https://www.coindesk.com/markets/2026/10/23/bitcoin-steadies-near-usd81-700-as-altcoins-rebound-pepe-climbs-13",
     "published": "2026-10-23T10:54:41Z",
-    "importance": 3
-   },
-   {
-    "title": "Bitcoin, orta vadeli döngü dip tarihiyle olan bağını koparmış gibi görünüyor",
-    "summary": "Bitcoin, orta vadeli döngü dip tarihiyle olan bağını koparmış gibi görünüyor",
-    "url": "https://www.coindesk.com/markets/2026/10/23/bitcoin-approaches-midterms-as-july-low-challenges-historical-cycle-pattern",
-    "published": "2026-10-23T10:53:09Z",
     "importance": 3
    }
   ],
@@ -155,10 +155,6 @@
   ]
  },
  "seen": {
-  "https://www.coindesk.com/markets/2026/10/19/live-updates-bitcoin-tags-usd83-000-and-slips-back-as-chip-stocks-lead-a-rebound": 1792408244.8907402,
-  "https://www.theblock.co/news/regulation/2026-10-19-revolut-secures-gibraltar-crypto-licence-to-support-international-expansion-plans-418889": 1792408244.8907402,
-  "https://cointelegraph-tr.com/markets/stocks-rebound-into-key-tech-earnings-three-things-to-know-in-bitcoin-this-week": 1792408244.8907402,
-  "https://www.coindesk.com/tech/2026/10/19/bitcoin-mining-offshoot-nscale-loses-microsoft-ai-deal-as-power-delay-stretches-into-2030s": 1792408244.8907402,
   "https://www.coindesk.com/daybook-us/2026/10/19/strategy-on-verge-of-golden-cross-just-weeks-after-bitcoin-flashed-same-bullish-signal": 1792411743.5643492,
   "https://cointelegraph-tr.com/news/strategy-btc-22-million-buy-strc-buyback-193-million": 1792416105.8451633,
   "https://www.coindesk.com/tech/2026/10/19/cardano-founder-charles-hoskinson-is-building-a-new-programming-language-for-the-network": 1792416105.8451633,
@@ -339,7 +335,10 @@
   "https://cointelegraph-tr.com/news/bybit-first-full-dubai-spot-trading-license": 1792750339.7061312,
   "https://www.coindesk.com/markets/2026/10/23/bitcoin-steadies-near-usd81-700-as-altcoins-rebound-pepe-climbs-13": 1792753609.4593346,
   "https://www.coindesk.com/markets/2026/10/23/bitcoin-approaches-midterms-as-july-low-challenges-historical-cycle-pattern": 1792753609.4593346,
-  "https://www.coindesk.com/business/2026/10/23/hsbc-rolls-out-its-first-stablecoin-to-over-3-million-everyday-app-users": 1792753609.4593346
+  "https://www.coindesk.com/business/2026/10/23/hsbc-rolls-out-its-first-stablecoin-to-over-3-million-everyday-app-users": 1792753609.4593346,
+  "https://www.theblock.co/news/markets/2026-10-23-bitcoin-etfs-swing-back-to-net-outflows-erase-previous-day-inflows-426483": 1792755658.4655561,
+  "https://www.coindesk.com/daybook-us/2026/10/23/bitcoin-s-volatility-is-well-above-euro-dollar-gyrations-though-it-has-calmed-to-rival-nvidia-s": 1792755658.4655561,
+  "https://www.coindesk.com/markets/2026/10/23/live-updates-bitcoin-holds-above-usd81-000-as-the-ai-rout-fades-and-oil-climbs": 1792755658.4655561
  },
  "tries": {}
 }
