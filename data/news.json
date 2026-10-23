@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-23T03:10:12Z",
+ "updated": "2026-10-23T04:09:30Z",
  "sources": [
   "coindesk.com",
   "cointelegraph-tr.com",
@@ -12,13 +12,6 @@
     "summary": "Cardano Vakfı, düzenlemelerin teknoloji yerine finansal risklere dayanması gerektiğini belirterek, birbiriyle örtüşen kuralların AB genelindeki kripto şirketleri için belirsizlik yaratabileceği uyarısında bulundu.",
     "url": "https://cointelegraph-tr.com/news/cardano-foundation-urges-eu-against-expanding-mica-rules-to-defi-and-staking",
     "published": "2026-10-21T17:57:39Z",
-    "importance": 4
-   },
-   {
-    "title": "Chainlink, Cardano ve diğer blockchain grupları SEC’den daha net kripto kuralları talep ediyor",
-    "summary": "Chainlink Labs, Cardano Foundation ve diğer dört büyük blockchain kuruluşu, SEC’yi önerilen düzenleyici çerçevesinde dijital emtiaları menkul kıymet olmayan varlıklar olarak resmen tanımaya çağırdı.",
-    "url": "https://cointelegraph-tr.com/news/chainlink-cardano-and-other-blockchain-groups-push-sec-for-clearer-crypto-rules",
-    "published": "2026-10-21T16:09:26Z",
     "importance": 4
    }
   ],
@@ -59,18 +52,18 @@
     "importance": 4
    },
    {
-    "title": "Bitcoin fiyatı, SpaceX'in 3. çeyrek kazanç beklentilerini aşmasıyla ABD hisseleri yükselirken 84,6 bin dolara ulaştı",
-    "summary": "ABD hisse senedi piyasalarının beklentilerin üzerindeki SpaceX kazançlarına tepki vermesinin ardından Bitcoin yükselişini sürdürerek 85.000 dolara yaklaştı.",
-    "url": "https://cointelegraph-tr.com/markets/bitcoin-price-tags-846k-as-us-stocks-head-higher-on-spacex-q3-earnings-beat",
-    "published": "2026-10-21T15:13:17Z",
-    "importance": 4
-   },
-   {
     "title": "ABD’de yeni DeepSeek yasağı, İsviçre-Asya kripto bağları güçleniyor: Asia Express",
     "summary": "DeepSeek, casusluk endişeleri nedeniyle ABD federal sivil kurumlarında yasaklandı. Singapurlu bir şirket Avrupa’nın ilk spot Bitcoin ETF’sinin arkasında yer alırken, İsviçre ise kripto teknolojisi konusunda Vietnam ile ortaklık kuruyor.",
     "url": "https://cointelegraph-tr.com/magazine/new-deepseek-ban-in-us-swiss-asia-crypto-ties-deepen-asia-express",
     "published": "2026-10-22T22:50:22Z",
     "importance": 3
+   },
+   {
+    "title": "Bitcoin ve altın erken kayıplarını azaltırken, yen kazançlarından vazgeçti. Petrol 100 dolar yakınında seyrediyor",
+    "summary": "Bitcoin ve altın erken kayıplarını azalttı.",
+    "url": "https://www.coindesk.com/markets/2026/10/23/bitcoin-gold-trim-early-losses-as-yen-gives-up-gains-oil-stays-near-usd100",
+    "published": "2026-10-23T03:13:01Z",
+    "importance": 2
    }
   ],
   "ETH": [
@@ -157,7 +150,6 @@
   ]
  },
  "seen": {
-  "https://www.coindesk.com/markets/2026/10/19/bitcoin-korea-s-kospi-and-nasdaq-futures-rally-as-china-gdp-beats-estimates": 1792381181.8979695,
   "https://www.coindesk.com/tech/2026/10/19/xrp-ledger-is-set-to-fix-its-lending-code-before-anyone-can-use-it": 1792386909.0127769,
   "https://cointelegraph-tr.com/news/zoom-proof-of-human-badges-world-id-ai-deepfakes": 1792390019.3231852,
   "https://www.coindesk.com/tech/2026/10/19/zcash-developers-plan-a-fix-to-keep-zec-swaps-private-from-future-quantum-computers": 1792390019.3231852,
@@ -339,7 +331,9 @@
   "https://cointelegraph-tr.com/news/pentagon-bans-us-forces-from-using-military-info-to-bet-in-prediction-markets": 1792716382.7620156,
   "https://cointelegraph-tr.com/news/switzerland-approves-first-spot-bitcoin-etf-for-retail-investors": 1792719697.894154,
   "https://www.theblock.co/news/markets/2026-10-22-bitcoin-slides-tech-stock-sell-off-423990": 1792722869.1678882,
-  "https://www.theblock.co/news/business/2026-10-22-chainlink-partners-with-lg-cns-423993": 1792725012.0398088
+  "https://www.theblock.co/news/business/2026-10-22-chainlink-partners-with-lg-cns-423993": 1792725012.0398088,
+  "https://www.theblock.co/news/business/2026-10-23-hsbc-hkd-stablecoin-redcoin-424018": 1792728570.878044,
+  "https://www.coindesk.com/markets/2026/10/23/bitcoin-gold-trim-early-losses-as-yen-gives-up-gains-oil-stays-near-usd100": 1792728570.878044
  },
  "tries": {}
 }
