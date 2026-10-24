@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-24T01:42:59Z",
+ "updated": "2026-10-24T02:32:26Z",
  "sources": [
   "coindesk.com",
   "cointelegraph-tr.com",
@@ -51,13 +51,6 @@
     "summary": "ChainSecurity, Glamsterdam’ın gas değişikliklerinden etkilenebilecek akıllı sözleşmelere yönelik 13 gerçek dünya örneği belirledi. Şirket, etkilenen projelerle sorumlu açıklama sürecini koordine ettiğini açıkladı.",
     "url": "https://cointelegraph-tr.com/news/ethereum-delays-glamsterdam-testnet-fork-gas-security-risks",
     "published": "2026-10-23T05:09:41Z",
-    "importance": 3
-   },
-   {
-    "title": "Uniswap’in toplayıcı kancaları Ethereum, Base ve Robinhood Chain'de yayına girdi",
-    "summary": "Uniswap Labs, Uniswap v4'ün işlemlerin harici platformlardaki likidite üzerinden yönlendirilmesini sağlayan toplayıcı kancalarını başlattı.",
-    "url": "https://www.theblock.co/news/defi/2026-10-22-uniswaps-aggregator-hooks-go-live-ethereum-base-robinhood-chain-421932",
-    "published": "2026-10-22T13:55:03Z",
     "importance": 3
    }
   ],
