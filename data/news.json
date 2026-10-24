@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-24T12:37:51Z",
+ "updated": "2026-10-24T13:33:29Z",
  "sources": [
   "coindesk.com",
   "cointelegraph-tr.com",
@@ -16,13 +16,6 @@
    }
   ],
   "BTC": [
-   {
-    "title": "İsviçre, bireysel yatırımcılar için ilk spot Bitcoin ETF’sini onayladı",
-    "summary": "BIT Asset Management’ın Bitcoin Fund ETF’sinin kasım ayında SIX Swiss Exchange’de işlem görmeye başlaması bekleniyor. Halka arzın yalnızca İsviçre ile sınırlı kalacağı belirtildi.",
-    "url": "https://cointelegraph-tr.com/news/switzerland-approves-first-spot-bitcoin-etf-for-retail-investors",
-    "published": "2026-10-23T00:59:35Z",
-    "importance": 5
-   },
    {
     "title": "Yapay zeka kod hatalarını bulmayı tehlikeli bir şekilde kolaylaştırırken Bitcoin Core güvenlik kurallarını değiştiriyor",
     "summary": "Yapay zeka kod hatalarını bulmayı tehlikeli bir şekilde kolaylaştırırken Bitcoin Core güvenlik kurallarını değiştiriyor",
@@ -72,11 +65,6 @@
   ]
  },
  "seen": {
-  "https://www.coindesk.com/business/2026/10/19/microsoft-alphabet-and-goldman-sachs-join-objections-to-okx-ice-tokenized-stock-trading": 1792500189.291328,
-  "https://cointelegraph-tr.com/news/tx-ustx-stablecoin-rwa-liquidity-chain": 1792500189.291328,
-  "https://www.theblock.co/news/regulation/2026-10-20-swiss-regulator-finma-approves-countrys-first-spot-bitcoin-etf-for-retail-investors-421127": 1792500189.291328,
-  "https://cointelegraph-tr.com/news/uk-banks-crypto-transfer-complaints-stand-with-crypto": 1792500189.291328,
-  "https://www.coindesk.com/policy/2026/10/20/france-s-parliament-approves-vote-to-hit-crypto-to-stablecoin-trades-with-31-levy": 1792500189.291328,
   "https://www.coindesk.com/business/2026/10/20/kazakhstan-court-bars-coinbase-five-others-from-unlicensed-crypto-services-in-astana-international-financial-centre": 1792503869.1438065,
   "https://cointelegraph-tr.com/magazine/ai-trade-sleep-yat-siu-warns-losing-agent": 1792503869.1438065,
   "https://cointelegraph-tr.com/news/finma-approves-switzerlands-first-bitcoin-etf-retail": 1792503869.1438065,
