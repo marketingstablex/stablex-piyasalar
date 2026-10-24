@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-24T14:31:00Z",
+ "updated": "2026-10-24T15:01:01Z",
  "sources": [
   "coindesk.com",
   "cointelegraph-tr.com",
@@ -72,8 +72,6 @@
   ]
  },
  "seen": {
-  "https://www.theblock.co/news/markets/2026-10-20-blockchain-com-launches-options-trading-bitcoin-ether-sol-421326": 1792507035.464048,
-  "https://www.theblock.co/news/markets/2026-10-20-injective-partners-bdacs-418883": 1792507035.464048,
   "https://www.coindesk.com/markets/2026/10/20/blackrock-seeks-to-shield-bitcoin-investors-from-losses-after-rival-fund-weathers-50-crash": 1792510589.9959478,
   "https://www.theblock.co/news/business/2026-10-20-mastercard-opens-early-access-to-ai-agent-payments-following-pilots-with-coinbase-base-and-cloudflare-421406": 1792512868.4956257,
   "https://www.theblock.co/news/deals/2026-10-20-bitcoin-yield-platform-honeyb-funding-valuation-421430": 1792516344.0694432,
@@ -224,7 +222,9 @@
   "https://www.coindesk.com/markets/2026/10/24/franklin-templeton-adds-usd150-million-in-fund-shares-to-xrp-ledger-all-in-one-wallet": 1792818264.0341887,
   "https://www.coindesk.com/policy/2026/10/24/u-s-clarity-act-failure-gives-asia-and-middle-east-a-competitive-edge-says-apex-group-ceo": 1792843297.6683614,
   "https://www.coindesk.com/business/2026/10/24/wells-fargo-cisco-marvell-among-latest-firms-objecting-to-okxice-s-tokenized-stock-plan": 1792852260.3495991,
-  "https://www.coindesk.com/": 1792852260.3495991
+  "https://www.coindesk.com/": 1792852260.3495991,
+  "https://www.coindesk.com/business/2026/10/23/why-mcdonalds-microsoft-and-google-saying-no-to-tokenized-stocks-isn-t-a-dealbreaker": 1792854061.1944704,
+  "https://www.coindesk.com/business/2026/10/24/argentina-drops-criminal-probe-into-president-milei-over-crashed-memecoin-libra": 1792854061.1944704
  },
  "tries": {}
 }
