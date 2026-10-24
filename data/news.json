@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-24T04:09:53Z",
+ "updated": "2026-10-24T05:04:24Z",
  "sources": [
   "coindesk.com",
   "cointelegraph-tr.com",
@@ -61,6 +61,13 @@
     "url": "https://www.theblock.co/news/regulation/2026-10-23-singapore-malaysia-and-thailand-central-banks-expand-cross-border-stablecoin-initiative-involving-ripple-visa-and-mastercard-426492",
     "published": "2026-10-23T12:55:26Z",
     "importance": 4
+   },
+   {
+    "title": "Franklin Templeton, XRP Ledger'a tek bir cüzdanda 150 milyon dolarlık fon hissesi ekledi",
+    "summary": "Franklin Templeton, XRP Ledger üzerinde tek bir cüzdanda 150 milyon dolar değerinde fon hissesi ekledi.",
+    "url": "https://www.coindesk.com/markets/2026/10/24/franklin-templeton-adds-usd150-million-in-fund-shares-to-xrp-ledger-all-in-one-wallet",
+    "published": "2026-10-24T04:45:43Z",
+    "importance": 3
    }
   ]
  },
@@ -239,7 +246,8 @@
   "https://www.theblock.co/news/defi/2026-10-23-initia-halts-network-after-security-incident-attacker-reportedly-mints-tokens-427755": 1792776820.3626013,
   "https://www.theblock.co/news/regulation/2026-10-23-sen-blumenthal-seeks-answers-tether-payments-firm-founded-ex-white-house-crypto-adviser-427785": 1792778615.9953651,
   "https://www.theblock.co/news/markets/2026-10-23-netanyahu-israel-blockchain-plan-possible-sanctions-427792": 1792780842.1927738,
-  "https://cointelegraph-tr.com/news/irs-plans-lower-penalties-for-crypto-tax-disclosures-forbes-reports": 1792789817.9930916
+  "https://cointelegraph-tr.com/news/irs-plans-lower-penalties-for-crypto-tax-disclosures-forbes-reports": 1792789817.9930916,
+  "https://www.coindesk.com/markets/2026/10/24/franklin-templeton-adds-usd150-million-in-fund-shares-to-xrp-ledger-all-in-one-wallet": 1792818264.0341887
  },
  "tries": {}
 }
