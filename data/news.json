@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-24T00:01:23Z",
+ "updated": "2026-10-24T00:49:25Z",
  "sources": [
   "coindesk.com",
   "cointelegraph-tr.com",
@@ -58,13 +58,6 @@
     "summary": "Uniswap Labs, Uniswap v4'ün işlemlerin harici platformlardaki likidite üzerinden yönlendirilmesini sağlayan toplayıcı kancalarını başlattı.",
     "url": "https://www.theblock.co/news/defi/2026-10-22-uniswaps-aggregator-hooks-go-live-ethereum-base-robinhood-chain-421932",
     "published": "2026-10-22T13:55:03Z",
-    "importance": 3
-   },
-   {
-    "title": "Ethereum’un dört dakikalık mutabakat planı kripto transfer maliyetini düşürebilir",
-    "summary": "Ethereum’un dört dakikalık mutabakat planı kripto transfer maliyetini düşürebilir",
-    "url": "https://www.coindesk.com/tech/2026/10/22/ethereum-s-four-minute-settlement-plan-could-lower-the-cost-of-moving-crypto",
-    "published": "2026-10-22T12:14:29Z",
     "importance": 3
    }
   ],
