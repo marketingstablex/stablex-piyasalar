@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-24T19:31:53Z",
+ "updated": "2026-10-24T19:56:01Z",
  "sources": [
   "coindesk.com",
   "cointelegraph-tr.com",
@@ -61,8 +61,6 @@
   ]
  },
  "seen": {
-  "https://www.theblock.co/news/regulation/2026-10-20-sec-regulation-crypto-assets-comment-period-hyperliquid-sifma-aima-421444": 1792525027.225688,
-  "https://www.theblock.co/news/regulation/2026-10-20-utah-likens-kalshi-back-alley-gambling-den-lawsuit-naming-susquehanna-firms-421442": 1792525027.225688,
   "https://cointelegraph-tr.com/news/utah-lawsuit-kalshi-susquehanna-prediction-markets-illegal-bets": 1792532094.0078192,
   "https://www.coindesk.com/policy/2026/10/20/u-s-cftc-sets-agenda-for-ai-forum-exploring-trading-and-agentic-finance": 1792532094.0078192,
   "https://cointelegraph-tr.com/news/bitwise-hyperliquid-seek-sec-rule-changes-for-token-trading-airdrops": 1792532094.0078192,
