@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-24T08:37:42Z",
+ "updated": "2026-10-24T09:32:31Z",
  "sources": [
   "coindesk.com",
   "cointelegraph-tr.com",
@@ -72,8 +72,6 @@
   ]
  },
  "seen": {
-  "https://www.coindesk.com/business/2026/10/20/bitcoin-etfs-just-saw-their-biggest-day-in-a-month-thanks-entirely-to-blackrock": 1792485474.2700853,
-  "https://cointelegraph-tr.com/news/blackrock-ishares-bitcoin-managed-protection-etf-pbit": 1792485474.2700853,
   "https://www.coindesk.com/markets/2026/10/20/south-korean-ipo-plunge-deepens-ai-market-jitters-as-brent-tops-usd111": 1792488946.122192,
   "https://cointelegraph-tr.com/markets/jpmorgan-bitcoin-outperform-stocks-gold-annual-returns": 1792488946.122192,
   "https://cointelegraph-tr.com/news/bitget-plans-thai-crypto-exchange-acquisition-weeks-after-388m-hack": 1792490956.045863,
