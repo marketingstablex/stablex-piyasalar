@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-24T11:01:25Z",
+ "updated": "2026-10-24T11:31:48Z",
  "sources": [
   "coindesk.com",
   "cointelegraph-tr.com",
@@ -72,10 +72,6 @@
   ]
  },
  "seen": {
-  "https://www.coindesk.com/markets/2026/10/20/bitcoin-drops-to-usd81-400-as-asian-chip-stocks-tumble-options-traders-seek-downside-protection": 1792494366.6612937,
-  "https://cointelegraph-tr.com/markets/xrp-30-day-exchange-inflows-pass-6b-tokens-as-whales-move-to-the-sidelines": 1792494366.6612937,
-  "https://cointelegraph-tr.com/news/mt-gox-creditor-repayment-deadline-extended-2027": 1792494366.6612937,
-  "https://www.coindesk.com/markets/2026/10/20/live-updates-market-jitters-persist-as-the-ai-selloff-deepens": 1792494366.6612937,
   "https://cointelegraph-tr.com/news/netflix-ftx-trailer-upset-first-30-seconds-ftx-coo": 1792496328.2269704,
   "https://www.coindesk.com/daybook-us/2026/10/20/equity-weakness-could-damp-demand-for-bitcoin-after-biggest-etf-inflows-in-a-month": 1792496328.2269704,
   "https://cointelegraph-tr.com/news/kazakhstan-court-limits-coinbase-bingx-four": 1792496328.2269704,
