@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-24T05:04:24Z",
+ "updated": "2026-10-24T05:34:47Z",
  "sources": [
   "coindesk.com",
   "cointelegraph-tr.com",
@@ -72,7 +72,6 @@
   ]
  },
  "seen": {
-  "https://cointelegraph-tr.com/news/us-bans-deepseek-from-civilian-agency-it-systems": 1792472779.3883672,
   "https://cointelegraph-tr.com/news/sophon-sets-nov-25-withdrawal-deadline-ahead-of-mainnet-shutdown": 1792474693.5770593,
   "https://www.theblock.co/news/markets/2026-10-20-blackrock-ibit-bitcoin-etf-665-million-421102": 1792482231.8349817,
   "https://www.coindesk.com/business/2026/10/20/bitcoin-etfs-just-saw-their-biggest-day-in-a-month-thanks-entirely-to-blackrock": 1792485474.2700853,
