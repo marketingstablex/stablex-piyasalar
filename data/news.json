@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-24T14:01:37Z",
+ "updated": "2026-10-24T14:31:00Z",
  "sources": [
   "coindesk.com",
   "cointelegraph-tr.com",
@@ -29,6 +29,13 @@
     "url": "https://cointelegraph-tr.com/markets/bitcoin-etfs-erase-october-gains-outflow",
     "published": "2026-10-23T07:09:39Z",
     "importance": 4
+   },
+   {
+    "title": "Xapo CEO'suna göre Bitcoin’in varlıklı sahipleri, yatırım alışkanlıkları olgunlaştıkça kredi ve getiriye yöneliyor",
+    "summary": "Xapo CEO'suna göre Bitcoin’in varlıklı sahipleri, yatırım alışkanlıkları olgunlaştıkça kredi ve getiriye yöneliyor.",
+    "url": "https://www.coindesk.com/",
+    "published": "2026-10-24T14:00:00Z",
+    "importance": 3
    },
    {
     "title": "Brent ham petrolünün Mart ayından bu yana en yüksek seviyeye ulaşmasıyla Bitcoin 81 bin doların üzerinde destek arıyor",
@@ -215,7 +222,9 @@
   "https://www.theblock.co/news/markets/2026-10-23-netanyahu-israel-blockchain-plan-possible-sanctions-427792": 1792780842.1927738,
   "https://cointelegraph-tr.com/news/irs-plans-lower-penalties-for-crypto-tax-disclosures-forbes-reports": 1792789817.9930916,
   "https://www.coindesk.com/markets/2026/10/24/franklin-templeton-adds-usd150-million-in-fund-shares-to-xrp-ledger-all-in-one-wallet": 1792818264.0341887,
-  "https://www.coindesk.com/policy/2026/10/24/u-s-clarity-act-failure-gives-asia-and-middle-east-a-competitive-edge-says-apex-group-ceo": 1792843297.6683614
+  "https://www.coindesk.com/policy/2026/10/24/u-s-clarity-act-failure-gives-asia-and-middle-east-a-competitive-edge-says-apex-group-ceo": 1792843297.6683614,
+  "https://www.coindesk.com/business/2026/10/24/wells-fargo-cisco-marvell-among-latest-firms-objecting-to-okxice-s-tokenized-stock-plan": 1792852260.3495991,
+  "https://www.coindesk.com/": 1792852260.3495991
  },
  "tries": {}
 }
