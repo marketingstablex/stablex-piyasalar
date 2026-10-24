@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-24T11:31:48Z",
+ "updated": "2026-10-24T12:01:37Z",
  "sources": [
   "coindesk.com",
   "cointelegraph-tr.com",
@@ -72,10 +72,6 @@
   ]
  },
  "seen": {
-  "https://cointelegraph-tr.com/news/netflix-ftx-trailer-upset-first-30-seconds-ftx-coo": 1792496328.2269704,
-  "https://www.coindesk.com/daybook-us/2026/10/20/equity-weakness-could-damp-demand-for-bitcoin-after-biggest-etf-inflows-in-a-month": 1792496328.2269704,
-  "https://cointelegraph-tr.com/news/kazakhstan-court-limits-coinbase-bingx-four": 1792496328.2269704,
-  "https://www.coindesk.com/markets/2026/10/20/jpmorgan-sees-10-annual-bitcoin-returns-topping-stocks-bonds-and-gold-over-next-decade": 1792496328.2269704,
   "https://www.coindesk.com/business/2026/10/19/microsoft-alphabet-and-goldman-sachs-join-objections-to-okx-ice-tokenized-stock-trading": 1792500189.291328,
   "https://cointelegraph-tr.com/news/tx-ustx-stablecoin-rwa-liquidity-chain": 1792500189.291328,
   "https://www.theblock.co/news/regulation/2026-10-20-swiss-regulator-finma-approves-countrys-first-spot-bitcoin-etf-for-retail-investors-421127": 1792500189.291328,
@@ -235,7 +231,8 @@
   "https://www.theblock.co/news/regulation/2026-10-23-sen-blumenthal-seeks-answers-tether-payments-firm-founded-ex-white-house-crypto-adviser-427785": 1792778615.9953651,
   "https://www.theblock.co/news/markets/2026-10-23-netanyahu-israel-blockchain-plan-possible-sanctions-427792": 1792780842.1927738,
   "https://cointelegraph-tr.com/news/irs-plans-lower-penalties-for-crypto-tax-disclosures-forbes-reports": 1792789817.9930916,
-  "https://www.coindesk.com/markets/2026/10/24/franklin-templeton-adds-usd150-million-in-fund-shares-to-xrp-ledger-all-in-one-wallet": 1792818264.0341887
+  "https://www.coindesk.com/markets/2026/10/24/franklin-templeton-adds-usd150-million-in-fund-shares-to-xrp-ledger-all-in-one-wallet": 1792818264.0341887,
+  "https://www.coindesk.com/policy/2026/10/24/u-s-clarity-act-failure-gives-asia-and-middle-east-a-competitive-edge-says-apex-group-ceo": 1792843297.6683614
  },
  "tries": {}
 }
