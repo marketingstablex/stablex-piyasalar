@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-24T15:01:01Z",
+ "updated": "2026-10-24T15:31:08Z",
  "sources": [
   "coindesk.com",
   "cointelegraph-tr.com",
@@ -16,6 +16,13 @@
    }
   ],
   "BTC": [
+   {
+    "title": "Kripto hafta sonu baskısı altında, ABD'nin Orta Doğu'daki tahliyeleriyle bitcoin 80.000 doların altına geriledi",
+    "summary": "ABD'nin Orta Doğu'daki tahliyeleriyle birlikte kripto para piyasası hafta sonu baskı altında kaldı ve bitcoin 80.000 doların altına geriledi.",
+    "url": "https://www.coindesk.com/markets/2026/10/24/crypto-under-weekend-pressure-bitcoin-slides-below-usd80-000-on-u-s-middle-east-evacuations",
+    "published": "2026-10-24T15:11:24Z",
+    "importance": 5
+   },
    {
     "title": "Yapay zeka kod hatalarını bulmayı tehlikeli bir şekilde kolaylaştırırken Bitcoin Core güvenlik kurallarını değiştiriyor",
     "summary": "Yapay zeka kod hatalarını bulmayı tehlikeli bir şekilde kolaylaştırırken Bitcoin Core güvenlik kurallarını değiştiriyor",
@@ -224,7 +231,9 @@
   "https://www.coindesk.com/business/2026/10/24/wells-fargo-cisco-marvell-among-latest-firms-objecting-to-okxice-s-tokenized-stock-plan": 1792852260.3495991,
   "https://www.coindesk.com/": 1792852260.3495991,
   "https://www.coindesk.com/business/2026/10/23/why-mcdonalds-microsoft-and-google-saying-no-to-tokenized-stocks-isn-t-a-dealbreaker": 1792854061.1944704,
-  "https://www.coindesk.com/business/2026/10/24/argentina-drops-criminal-probe-into-president-milei-over-crashed-memecoin-libra": 1792854061.1944704
+  "https://www.coindesk.com/business/2026/10/24/argentina-drops-criminal-probe-into-president-milei-over-crashed-memecoin-libra": 1792854061.1944704,
+  "https://www.coindesk.com/tech/2026/10/24/block-s-new-voice-ai-sounds-eerily-human-sparking-awe-and-scam-fears": 1792855868.8778293,
+  "https://www.coindesk.com/markets/2026/10/24/crypto-under-weekend-pressure-bitcoin-slides-below-usd80-000-on-u-s-middle-east-evacuations": 1792855868.8778293
  },
  "tries": {}
 }
