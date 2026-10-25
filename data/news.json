@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-25T13:33:33Z",
+ "updated": "2026-10-25T14:02:33Z",
  "sources": [
   "coindesk.com",
   "cointelegraph-tr.com",
@@ -40,8 +40,6 @@
   ]
  },
  "seen": {
-  "https://cointelegraph-tr.com/news/certik-warning-crypto-emudhra-flaw-risks": 1792590218.1560357,
-  "https://cointelegraph-tr.com/magazine/5-alternatives-to-ledger-to-store-your-bitcoin": 1792590218.1560357,
   "https://www.theblock.co/news/ecosystems/2026-10-21-anzas-alpenglow-goes-live-on-solana-cutting-finality-to-150-milliseconds-421508": 1792593476.2470207,
   "https://www.coindesk.com/business/2026/10/21/how-a16z-backed-data-is-rethinking-its-blockchain-strategy-after-usd30-million-sui-deal": 1792597069.4823356,
   "https://cointelegraph-tr.com/markets/bitcoin-price-tags-846k-as-us-stocks-head-higher-on-spacex-q3-earnings-beat": 1792597069.4823356,
