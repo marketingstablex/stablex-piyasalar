@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-25T12:37:08Z",
+ "updated": "2026-10-25T13:33:33Z",
  "sources": [
   "coindesk.com",
   "cointelegraph-tr.com",
@@ -40,10 +40,6 @@
   ]
  },
  "seen": {
-  "https://www.theblock.co/news/business/2026-10-21-standard-chartered-signs-definitive-agreements-to-acquire-zodia-custody-421535": 1792586906.8952546,
-  "https://www.coindesk.com/policy/2026/10/21/why-centralized-exchanges-refuse-to-list-legacy-crypto-tokens-without-explicit-sec-immunity": 1792586906.8952546,
-  "https://www.coindesk.com/business/2026/10/21/japanese-visitors-may-be-able-to-pay-with-yen-stablecoins-in-south-korea-under-shinhan-sbi-pact": 1792586906.8952546,
-  "https://cointelegraph-tr.com/news/standard-chartered-acquire-zodia-custody-uk": 1792586906.8952546,
   "https://cointelegraph-tr.com/news/certik-warning-crypto-emudhra-flaw-risks": 1792590218.1560357,
   "https://cointelegraph-tr.com/magazine/5-alternatives-to-ledger-to-store-your-bitcoin": 1792590218.1560357,
   "https://www.theblock.co/news/ecosystems/2026-10-21-anzas-alpenglow-goes-live-on-solana-cutting-finality-to-150-milliseconds-421508": 1792593476.2470207,
@@ -156,7 +152,8 @@
   "https://www.theblock.co/news/regulation/2026-10-24-argentine-judge-clears-milei-and-10-others-in-libra-case-finding-no-criminally-relevant-deception-431606": 1792859527.2225199,
   "https://www.theblock.co/news/markets/2026-10-24-crypto-longs-lose-404-million-in-four-hours-as-bitcoin-briefly-slips-below-80000-431608": 1792864692.1849716,
   "https://www.coindesk.com/business/2026/10/24/bitcoin-s-wealthy-holders-turning-to-loans-and-yield-as-investment-habits-mature-xapo-ceo": 1792864692.1849716,
-  "https://cointelegraph-tr.com/news/netanyahu-floats-use-of-blockchain-as-solution-to-potential-financial-sanctions": 1792929673.2502074
+  "https://cointelegraph-tr.com/news/netanyahu-floats-use-of-blockchain-as-solution-to-potential-financial-sanctions": 1792929673.2502074,
+  "https://www.coindesk.com/policy/2026/10/22/uk-banks-face-10-000-complaints-in-3-months-over-crypto-restrictions": 1792935213.4023223
  },
  "tries": {}
 }
