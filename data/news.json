@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-25T04:09:27Z",
+ "updated": "2026-10-25T05:07:26Z",
  "sources": [
   "coindesk.com",
   "cointelegraph-tr.com",
@@ -40,9 +40,6 @@
   ]
  },
  "seen": {
-  "https://www.coindesk.com/markets/2026/10/21/bitcoin-hovers-around-usd83-000-as-ai-earnings-revive-tech-zec-jumps-11": 1792555770.8618898,
-  "https://www.coindesk.com/tech/2026/10/21/solana-s-alpenglow-its-biggest-network-overhaul-since-2020-goes-live-wednesday": 1792559246.1733315,
-  "https://www.coindesk.com/tech/2026/10/21/a-company-that-vouches-for-websites-had-secret-keys-so-weak-that-8-of-them-were-cracked": 1792559246.1733315,
   "https://cointelegraph-tr.com/news/malaysia-central-bank-tokenized-bonds-sukuk-dlt-platform": 1792562779.9190075,
   "https://www.coindesk.com/markets/2026/10/21/ripple-brings-wall-street-into-24-7-stock-bets-but-hsbc-warns-markets-are-still-thin": 1792562779.9190075,
   "https://cointelegraph-tr.com/news/tech-giants-rush-to-block-flawed-emudhra-certs-that-could-enable-fake-sites": 1792562779.9190075,
