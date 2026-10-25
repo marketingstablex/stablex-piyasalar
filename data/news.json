@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-25T00:40:48Z",
+ "updated": "2026-10-25T01:33:10Z",
  "sources": [
   "coindesk.com",
   "cointelegraph-tr.com",
@@ -37,13 +37,6 @@
    }
   ],
   "XRP": [
-   {
-    "title": "Singapur, Malezya ve Tayland merkez bankaları sınır ötesi stablecoin girişimini genişletiyor",
-    "summary": "Malezya ve Tayland, sınır ötesi stablecoin ve tokenize mevduat mutabakatı için Singapur'un BLOOM girişimine katıldı.",
-    "url": "https://www.theblock.co/news/regulation/2026-10-23-singapore-malaysia-and-thailand-central-banks-expand-cross-border-stablecoin-initiative-involving-ripple-visa-and-mastercard-426492",
-    "published": "2026-10-23T12:55:26Z",
-    "importance": 4
-   },
    {
     "title": "Franklin Templeton, XRP Ledger'a tek bir cüzdanda 150 milyon dolarlık fon hissesi ekledi",
     "summary": "Franklin Templeton, XRP Ledger üzerinde tek bir cüzdanda 150 milyon dolar değerinde fon hissesi ekledi.",
