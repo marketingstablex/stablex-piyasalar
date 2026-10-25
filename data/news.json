@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-25T17:04:02Z",
+ "updated": "2026-10-25T17:32:12Z",
  "sources": [
   "coindesk.com",
   "cointelegraph-tr.com",
@@ -31,7 +31,6 @@
   ]
  },
  "seen": {
-  "https://www.theblock.co/news/deals/2026-10-21-dataline-decentralized-data-network-ai-agents-funding-ico-421596": 1792602776.7161298,
   "https://www.theblock.co/news/regulation/2026-10-21-american-bankers-association-accuses-occ-undermining-congress-stablecoin-rewards-rule-421629": 1792605908.1461856,
   "https://cointelegraph-tr.com/news/uk-fca-consultations-defi-crypto-laws": 1792605908.1461856,
   "https://cointelegraph-tr.com/news/occ-finalizes-stablecoin-rules-genius-act-bessent": 1792605908.1461856,
