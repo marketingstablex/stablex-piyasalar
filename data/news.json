@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-25T06:03:53Z",
+ "updated": "2026-10-25T06:40:49Z",
  "sources": [
   "coindesk.com",
   "cointelegraph-tr.com",
@@ -40,9 +40,6 @@
   ]
  },
  "seen": {
-  "https://cointelegraph-tr.com/news/malaysia-central-bank-tokenized-bonds-sukuk-dlt-platform": 1792562779.9190075,
-  "https://www.coindesk.com/markets/2026/10/21/ripple-brings-wall-street-into-24-7-stock-bets-but-hsbc-warns-markets-are-still-thin": 1792562779.9190075,
-  "https://cointelegraph-tr.com/news/tech-giants-rush-to-block-flawed-emudhra-certs-that-could-enable-fake-sites": 1792562779.9190075,
   "https://cointelegraph-tr.com/markets/ether-etf-outflows-near-1-1-billion-october": 1792571960.1625812,
   "https://www.coindesk.com/markets/2026/10/21/zcash-developers-confirm-november-date-for-upgrade-that-triples-payment-speed": 1792571960.1625812,
   "https://www.coindesk.com/markets/2026/10/21/spacex-and-tesla-explore-merger-that-would-unite-more-than-30-000-bitcoin": 1792575378.9174335,
