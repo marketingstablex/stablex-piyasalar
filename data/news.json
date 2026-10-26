@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-26T08:22:20Z",
+ "updated": "2026-10-26T09:20:29Z",
  "sources": [
   "coindesk.com",
   "cointelegraph-tr.com",
@@ -7,6 +7,13 @@
  ],
  "bySymbol": {
   "BTC": [
+   {
+    "title": "Bitcoin ETF’leri 2 haftalık çıkış serisini 301 milyon dolarlık geri dönüşle kırdı",
+    "summary": "ABD spot Bitcoin ETF’leri, güçlü bir üç günlük başlangıcın yerini yoğun para çekimlerine bırakmasının ardından haftayı 301 milyon dolarlık net girişle tamamladı.",
+    "url": "https://cointelegraph-tr.com/markets/bitcoin-etfs-rebound-weekly-inflow-301-million",
+    "published": "2026-10-26T08:20:49Z",
+    "importance": 4
+   },
    {
     "title": "Bitcoin cüzdan hatası, kullanıcılar ödemeleri hızlandırmaya çalışırken kötü amaçlı sunucuların fon çaldırmasına neden oldu",
     "summary": "Bitcoin cüzdanlarındaki bir hata, kullanıcıların ödemelerini hızlandırmaya çalıştığı sırada yetkisiz sunucuların fonları çalmasına yol açtı.",
@@ -47,8 +54,6 @@
   ]
  },
  "seen": {
-  "https://www.theblock.co/news/regulation/2026-10-22-south-koreas-crypto-bill-nears-completion-421880": 1792660372.4051561,
-  "https://www.coindesk.com/markets/2026/10/22/asian-stocks-tumble-bitcoin-retreats-as-china-enters-bear-market": 1792660372.4051561,
   "https://www.theblock.co/news/markets/2026-10-22-bitcoin-etfs-draw-528-million-as-ether-funds-snap-five-day-outflow-streak-421904": 1792663897.8666227,
   "https://www.coindesk.com/business/2026/10/22/live-updates-bitcoin-s-round-trip-to-usd85-000-burns-traders-on-both-sides": 1792663897.8666227,
   "https://cointelegraph-tr.com/news/starknet-vote-post-quantum-l1-research-ethereum": 1792663897.8666227,
@@ -145,7 +150,9 @@
   "https://cointelegraph-tr.com/news/what-happened-in-crypto-today": 1792995017.2292035,
   "https://www.coindesk.com/markets/2026/10/26/coindcx-absorbs-usd16-million-loss-from-internal-process-failure-tied-to-retired-wallet": 1792995017.2292035,
   "https://www.coindesk.com/tech/2026/10/26/bitcoin-wallet-bug-let-rogue-servers-steal-funds-when-users-tried-to-speed-up-payments": 1792995017.2292035,
-  "https://www.coindesk.com/markets/2026/10/26/over-11-million-btc-can-t-be-linked-to-any-known-owner-even-after-wall-street-buying": 1793002940.6504593
+  "https://www.coindesk.com/markets/2026/10/26/over-11-million-btc-can-t-be-linked-to-any-known-owner-even-after-wall-street-buying": 1793002940.6504593,
+  "https://www.coindesk.com/markets/2026/10/26/fed-ecb-and-boj-interest-rate-decisions-coinbase-earnings-crypto-week-ahead": 1793006429.825543,
+  "https://cointelegraph-tr.com/markets/bitcoin-etfs-rebound-weekly-inflow-301-million": 1793006429.825543
  },
  "tries": {}
 }
