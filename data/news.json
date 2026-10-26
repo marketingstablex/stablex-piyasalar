@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-26T00:55:02Z",
+ "updated": "2026-10-26T01:47:29Z",
  "sources": [
   "coindesk.com",
   "cointelegraph-tr.com",
@@ -31,7 +31,6 @@
   ]
  },
  "seen": {
-  "https://cointelegraph-tr.com/news/php-foundation-admits-structural-failure-delayed-critical-security-fix": 1792633110.0224519,
   "https://www.coindesk.com/markets/2026/10/22/bitcoin-gives-back-its-run-at-usd85-000-as-tesla-and-meta-fail-to-calm-ai-nerves": 1792642284.016803,
   "https://www.coindesk.com/markets/2026/10/22/bitcoin-etfs-attract-usd1-08-billion-in-3-days-but-it-may-not-be-enough-for-a-steep-rally": 1792645814.057714,
   "https://www.coindesk.com/tech/2026/10/22/xrp-ledger-bug-fix-moved-to-november-after-validator-support-dipped-for-two-hours": 1792645814.057714,
