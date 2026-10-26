@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-26T18:48:10Z",
+ "updated": "2026-10-26T19:43:35Z",
  "sources": [
   "coindesk.com",
   "cointelegraph-tr.com",
@@ -100,8 +100,6 @@
   ]
  },
  "seen": {
-  "https://www.theblock.co/news/regulation/2026-10-22-jpmorgan-crypto-regulatory-moves-clarity-act-failure-risks-423473": 1792697781.3931584,
-  "https://www.theblock.co/news/regulation/2026-10-22-blockchain-association-pushes-crypto-tax-clarity-broader-bill-stalls-423475": 1792697781.3931584,
   "https://cointelegraph-tr.com/news/winklevoss-pac-texas-senate-race-media-paxton-talarico": 1792699738.4849145,
   "https://cointelegraph-tr.com/news/dune-launches-real-time-data-feeds-covering-200-onchain-trading-venues": 1792703249.1830037,
   "https://cointelegraph-tr.com/news/circle-shareholder-lawsuit-donald-trump-world-liberty-financial-steve-witkoff-crypto-corruption": 1792706766.9796238,
@@ -193,7 +191,8 @@
   "https://www.coindesk.com/policy/2026/10/26/occ-calls-on-community-banks-to-enter-the-stablecoin-payments-market": 1793033221.82044,
   "https://www.theblock.co/news/markets/2026-10-26-hyperliquid-payward-kraken-cftc-regulated-hip-3-deployer-431787": 1793040490.571356,
   "https://www.theblock.co/news/deals/2026-10-26-y-combinator-mochatrade-funding-crypto-431775": 1793040490.571356,
-  "https://cointelegraph-tr.com/news/nba-names-kalshi-polymarket-preferred-exchanges-signs-cftc-deal": 1793040490.571356
+  "https://cointelegraph-tr.com/news/nba-names-kalshi-polymarket-preferred-exchanges-signs-cftc-deal": 1793040490.571356,
+  "https://cointelegraph-tr.com/news/anthropic-artificial-intelligence-ipo": 1793043815.7597587
  },
  "tries": {}
 }
