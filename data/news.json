@@ -1,20 +1,11 @@
 {
- "updated": "2026-10-26T03:36:56Z",
+ "updated": "2026-10-26T04:16:42Z",
  "sources": [
   "coindesk.com",
   "cointelegraph-tr.com",
   "theblock.co"
  ],
  "bySymbol": {
-  "BTC": [
-   {
-    "title": "Strategy ve Strive, Bitcoin alımı ile imtiyazlı hisse senedi temettüleri arasında bir denge kurma zorluğuyla karşı karşıya",
-    "summary": "Strategy ve Strive, Bitcoin alımı ile imtiyazlı hisse senedi temettüleri arasında bir denge kurma zorluğuyla karşı karşıya.",
-    "url": "https://www.coindesk.com/business/2026/10/24/strategy-strive-face-balancing-act-between-bitcoin-buying-and-preferred-stock-dividends",
-    "published": "2026-10-24T16:00:00Z",
-    "importance": 3
-   }
-  ],
   "SOL": [
    {
     "title": "Hong Kong, Nasdaq’ta listelenen Solana Company’yi stratejik işletme olarak seçti",
@@ -26,7 +17,6 @@
   ]
  },
  "seen": {
-  "https://www.coindesk.com/markets/2026/10/22/bitcoin-gives-back-its-run-at-usd85-000-as-tesla-and-meta-fail-to-calm-ai-nerves": 1792642284.016803,
   "https://www.coindesk.com/markets/2026/10/22/bitcoin-etfs-attract-usd1-08-billion-in-3-days-but-it-may-not-be-enough-for-a-steep-rally": 1792645814.057714,
   "https://www.coindesk.com/tech/2026/10/22/xrp-ledger-bug-fix-moved-to-november-after-validator-support-dipped-for-two-hours": 1792645814.057714,
   "https://www.coindesk.com/tech/2026/10/22/solana-completes-alpenglow-upgrade-here-s-what-it-means-for-users": 1792649261.462486,
