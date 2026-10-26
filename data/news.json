@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-26T15:37:36Z",
+ "updated": "2026-10-26T16:47:01Z",
  "sources": [
   "coindesk.com",
   "cointelegraph-tr.com",
@@ -71,6 +71,13 @@
     "url": "https://www.theblock.co/news/business/2026-10-26-tom-lee-insists-crypto-bull-market-is-underway-as-bitmine-adds-10452-eth-431743",
     "published": "2026-10-26T14:12:59Z",
     "importance": 3
+   },
+   {
+    "title": "Tom Lee'nin Bitmine şirketinden ether alımları yerine hisse geri alımlarına destek",
+    "summary": "Tom Lee'nin Bitmine şirketinden ether alımları yerine hisse geri alımlarına destek",
+    "url": "https://www.coindesk.com/business/2026/10/26/tom-lee-s-bitmine-favors-share-buybacks-to-ether-purchases-as-crypto-declines",
+    "published": "2026-10-26T16:05:12Z",
+    "importance": 2
    }
   ],
   "SOL": [
@@ -93,7 +100,6 @@
   ]
  },
  "seen": {
-  "https://www.coindesk.com/policy/2026/10/22/irish-central-bank-fines-coinbase-ireland-usd3-6-million-over-fund-safeguarding-failures": 1792685367.1904922,
   "https://cointelegraph-tr.com/news/bitcoin-mining-difficulty-hashrate-recovery-ai-shift": 1792688882.1643522,
   "https://cointelegraph-tr.com/news/ireland-central-bank-coinbase-oversight-safeguard-failure": 1792688882.1643522,
   "https://www.coindesk.com/business/2026/10/22/a16z-is-the-latest-vc-giant-to-widen-bets-beyond-crypto-and-into-ai-and-emerging-tech": 1792694384.5806937,
@@ -181,7 +187,13 @@
   "https://www.coindesk.com/markets/2026/10/26/bitcoin-holds-near-usd80-000-as-oil-retreats-and-the-fed-decision-looms": 1793023074.7824097,
   "https://www.coindesk.com/policy/2026/10/26/south-korea-weighs-fourth-delay-on-its-crypto-gains-tax-pushing-it-to-2029": 1793029056.2073019,
   "https://www.coindesk.com/policy/2026/10/26/canada-opens-consultation-on-draft-stablecoin-rules-maintains-ban-on-yields": 1793029056.2073019,
-  "https://www.theblock.co/news/business/2026-10-26-tom-lee-insists-crypto-bull-market-is-underway-as-bitmine-adds-10452-eth-431743": 1793029056.2073019
+  "https://www.theblock.co/news/business/2026-10-26-tom-lee-insists-crypto-bull-market-is-underway-as-bitmine-adds-10452-eth-431743": 1793029056.2073019,
+  "https://www.theblock.co/news/markets/2026-10-26-prediction-markets-derivatives-drive-bernstein-crypto-stock-outlook-coinbase-robinhood-circle-431750": 1793033221.82044,
+  "https://www.theblock.co/news/regulation/2026-10-26-nba-cftc-memorandum-of-understanding-prediction-markets-kalshi-polymarket-431764": 1793033221.82044,
+  "https://www.coindesk.com/business/2026/10/26/tom-lee-s-bitmine-favors-share-buybacks-to-ether-purchases-as-crypto-declines": 1793033221.82044,
+  "https://www.coindesk.com/policy/2026/10/26/nba-joins-pro-sports-leagues-on-cftc-prediction-markets-bandwagon-while-nfl-balks": 1793033221.82044,
+  "https://cointelegraph-tr.com/news/sp-dow-jones-partners-with-kalshi-to-bring-financial-benchmarks-to-prediction-markets": 1793033221.82044,
+  "https://www.coindesk.com/policy/2026/10/26/occ-calls-on-community-banks-to-enter-the-stablecoin-payments-market": 1793033221.82044
  },
  "tries": {}
 }
