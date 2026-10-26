@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-26T07:30:39Z",
+ "updated": "2026-10-26T08:22:20Z",
  "sources": [
   "coindesk.com",
   "cointelegraph-tr.com",
@@ -22,6 +22,13 @@
     "importance": 4
    },
    {
+    "title": "11 milyondan fazla Bitcoin'in bilinen bir sahibi yok: İşte bunun anlamı",
+    "summary": "11 milyondan fazla Bitcoin'in bilinen bir sahibi yok.",
+    "url": "https://www.coindesk.com/markets/2026/10/26/over-11-million-btc-can-t-be-linked-to-any-known-owner-even-after-wall-street-buying",
+    "published": "2026-10-26T07:18:24Z",
+    "importance": 3
+   },
+   {
     "title": "Bugün kriptoda neler oldu?",
     "summary": "Bitcoin fiyatını, blokzinciri, DeFi, Web3 ve kripto düzenlemelerini etkileyen günlük trendler ile olaylara ilişkin son gelişmeler paylaşıldı.",
     "url": "https://cointelegraph-tr.com/news/what-happened-in-crypto-today",
@@ -40,7 +47,6 @@
   ]
  },
  "seen": {
-  "https://cointelegraph-tr.com/markets/bitcoin-etfs-528-million-btc-tops-84k": 1792656950.817913,
   "https://www.theblock.co/news/regulation/2026-10-22-south-koreas-crypto-bill-nears-completion-421880": 1792660372.4051561,
   "https://www.coindesk.com/markets/2026/10/22/asian-stocks-tumble-bitcoin-retreats-as-china-enters-bear-market": 1792660372.4051561,
   "https://www.theblock.co/news/markets/2026-10-22-bitcoin-etfs-draw-528-million-as-ether-funds-snap-five-day-outflow-streak-421904": 1792663897.8666227,
@@ -138,9 +144,8 @@
   "https://www.coindesk.com/markets/2026/10/26/bitcoin-slips-under-usd80-000-as-traders-de-risk-ahead-of-fed-meeting": 1792991574.4010763,
   "https://cointelegraph-tr.com/news/what-happened-in-crypto-today": 1792995017.2292035,
   "https://www.coindesk.com/markets/2026/10/26/coindcx-absorbs-usd16-million-loss-from-internal-process-failure-tied-to-retired-wallet": 1792995017.2292035,
-  "https://www.coindesk.com/tech/2026/10/26/bitcoin-wallet-bug-let-rogue-servers-steal-funds-when-users-tried-to-speed-up-payments": 1792995017.2292035
+  "https://www.coindesk.com/tech/2026/10/26/bitcoin-wallet-bug-let-rogue-servers-steal-funds-when-users-tried-to-speed-up-payments": 1792995017.2292035,
+  "https://www.coindesk.com/markets/2026/10/26/over-11-million-btc-can-t-be-linked-to-any-known-owner-even-after-wall-street-buying": 1793002940.6504593
  },
- "tries": {
-  "https://www.coindesk.com/markets/2026/10/26/over-11-million-btc-can-t-be-linked-to-any-known-owner-even-after-wall-street-buying": 1
- }
+ "tries": {}
 }
