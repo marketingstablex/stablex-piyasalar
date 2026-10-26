@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-26T02:37:09Z",
+ "updated": "2026-10-26T03:36:56Z",
  "sources": [
   "coindesk.com",
   "cointelegraph-tr.com",
@@ -8,17 +8,19 @@
  "bySymbol": {
   "BTC": [
    {
-    "title": "Kripto hafta sonu baskısı altında, ABD'nin Orta Doğu'daki tahliyeleriyle bitcoin 80.000 doların altına geriledi",
-    "summary": "ABD'nin Orta Doğu'daki tahliyeleriyle birlikte kripto para piyasası hafta sonu baskı altında kaldı ve bitcoin 80.000 doların altına geriledi.",
-    "url": "https://www.coindesk.com/markets/2026/10/24/crypto-under-weekend-pressure-bitcoin-slides-below-usd80-000-on-u-s-middle-east-evacuations",
-    "published": "2026-10-24T15:11:24Z",
-    "importance": 5
-   },
-   {
     "title": "Strategy ve Strive, Bitcoin alımı ile imtiyazlı hisse senedi temettüleri arasında bir denge kurma zorluğuyla karşı karşıya",
     "summary": "Strategy ve Strive, Bitcoin alımı ile imtiyazlı hisse senedi temettüleri arasında bir denge kurma zorluğuyla karşı karşıya.",
     "url": "https://www.coindesk.com/business/2026/10/24/strategy-strive-face-balancing-act-between-bitcoin-buying-and-preferred-stock-dividends",
     "published": "2026-10-24T16:00:00Z",
+    "importance": 3
+   }
+  ],
+  "SOL": [
+   {
+    "title": "Hong Kong, Nasdaq’ta listelenen Solana Company’yi stratejik işletme olarak seçti",
+    "summary": "Nasdaq’ta listelenen şirket, Hong Kong’da Solana doğrulayıcı operasyonları kurmayı planladığını açıkladı.",
+    "url": "https://cointelegraph-tr.com/news/hong-kong-names-nasdaq-listed-solana-company-a-strategic-enterprise",
+    "published": "2026-10-26T03:21:26Z",
     "importance": 3
    }
   ]
@@ -120,7 +122,10 @@
   "https://www.coindesk.com/business/2026/10/25/latvia-targets-tokenization-rules-in-2027-with-commercial-property-in-focus": 1792940477.9817636,
   "https://cointelegraph-tr.com/news/ecb-official-sees-digital-euro-tool-to-protect-eu-sovereignty": 1792942306.1287563,
   "https://www.theblock.co/news/business/2026-10-25-keystone-customers-say-breach-exposed-data-the-hardware-wallet-maker-promised-to-delete-431613": 1792944142.670254,
-  "https://www.theblock.co/news/business/2026-10-25-coindcx-confirms-16-million-loss-from-retired-wallets-days-after-ceo-called-breach-reports-a-false-alarm-431617": 1792955233.940427
+  "https://www.theblock.co/news/business/2026-10-25-coindcx-confirms-16-million-loss-from-retired-wallets-days-after-ceo-called-breach-reports-a-false-alarm-431617": 1792955233.940427,
+  "https://cointelegraph-tr.com/news/hong-kong-names-nasdaq-listed-solana-company-a-strategic-enterprise": 1792985816.151512,
+  "https://www.coindesk.com/markets/2026/10/26/elon-musk-confirms-usd40-billion-spacex-debt-deal-for-ai-chips-warns-of-neocloud-shakeout": 1792985816.151512,
+  "https://cointelegraph-tr.com/news/keystone-says-website-breach-exposed-hardware-wallet-buyers-addresses": 1792985816.151512
  },
  "tries": {}
 }
