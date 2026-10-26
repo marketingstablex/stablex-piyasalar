@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-26T21:11:36Z",
+ "updated": "2026-10-26T22:07:59Z",
  "sources": [
   "coindesk.com",
   "cointelegraph-tr.com",
@@ -100,7 +100,6 @@
   ]
  },
  "seen": {
-  "https://cointelegraph-tr.com/news/circle-shareholder-lawsuit-donald-trump-world-liberty-financial-steve-witkoff-crypto-corruption": 1792706766.9796238,
   "https://www.coindesk.com/policy/2026/10/22/senate-s-top-democratic-investigator-looking-into-tether-payments-to-bo-hines-firm": 1792710421.8425763,
   "https://cointelegraph-tr.com/magazine/new-deepseek-ban-in-us-swiss-asia-crypto-ties-deepen-asia-express": 1792712235.1255178,
   "https://cointelegraph-tr.com/news/pentagon-bans-us-forces-from-using-military-info-to-bet-in-prediction-markets": 1792716382.7620156,
@@ -192,7 +191,9 @@
   "https://cointelegraph-tr.com/news/nba-names-kalshi-polymarket-preferred-exchanges-signs-cftc-deal": 1793040490.571356,
   "https://cointelegraph-tr.com/news/anthropic-artificial-intelligence-ipo": 1793043815.7597587,
   "https://cointelegraph-tr.com/news/canada-consultation-stablecoins-genius-act": 1793046988.1944656,
-  "https://www.theblock.co/news/ecosystems/2026-10-26-cz-pitches-bnb-chains-role-ai-bnb-standard-rings-nasdaq-bell-431790": 1793046988.1944656
+  "https://www.theblock.co/news/ecosystems/2026-10-26-cz-pitches-bnb-chains-role-ai-bnb-standard-rings-nasdaq-bell-431790": 1793046988.1944656,
+  "https://cointelegraph-tr.com/news/occ-community-banks-stablecoin-issuers-genius-act": 1793052479.1052089,
+  "https://cointelegraph-tr.com/news/injective-launches-onchain-futures-market-tracking-nvidia-gpu-rental-costs": 1793052479.1052089
  },
  "tries": {}
 }
