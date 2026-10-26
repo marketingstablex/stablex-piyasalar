@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-26T06:10:17Z",
+ "updated": "2026-10-26T07:30:39Z",
  "sources": [
   "coindesk.com",
   "cointelegraph-tr.com",
@@ -40,7 +40,6 @@
   ]
  },
  "seen": {
-  "https://www.coindesk.com/markets/2026/10/22/china-seeks-to-seize-61-800-btc-tied-to-usd5-7-billion-fraud-scheme": 1792653836.168255,
   "https://cointelegraph-tr.com/markets/bitcoin-etfs-528-million-btc-tops-84k": 1792656950.817913,
   "https://www.theblock.co/news/regulation/2026-10-22-south-koreas-crypto-bill-nears-completion-421880": 1792660372.4051561,
   "https://www.coindesk.com/markets/2026/10/22/asian-stocks-tumble-bitcoin-retreats-as-china-enters-bear-market": 1792660372.4051561,
@@ -141,5 +140,7 @@
   "https://www.coindesk.com/markets/2026/10/26/coindcx-absorbs-usd16-million-loss-from-internal-process-failure-tied-to-retired-wallet": 1792995017.2292035,
   "https://www.coindesk.com/tech/2026/10/26/bitcoin-wallet-bug-let-rogue-servers-steal-funds-when-users-tried-to-speed-up-payments": 1792995017.2292035
  },
- "tries": {}
+ "tries": {
+  "https://www.coindesk.com/markets/2026/10/26/over-11-million-btc-can-t-be-linked-to-any-known-owner-even-after-wall-street-buying": 1
+ }
 }
