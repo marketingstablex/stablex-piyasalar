@@ -1,11 +1,20 @@
 {
- "updated": "2026-10-26T04:16:42Z",
+ "updated": "2026-10-26T05:12:54Z",
  "sources": [
   "coindesk.com",
   "cointelegraph-tr.com",
   "theblock.co"
  ],
  "bySymbol": {
+  "BTC": [
+   {
+    "title": "Fed toplantısı öncesi yatırımcıların risk azaltmasıyla Bitcoin 80.000 doların altına geriledi",
+    "summary": "Fed toplantısı öncesi yatırımcıların risk azaltmasıyla Bitcoin 80.000 doların altına geriledi.",
+    "url": "https://www.coindesk.com/markets/2026/10/26/bitcoin-slips-under-usd80-000-as-traders-de-risk-ahead-of-fed-meeting",
+    "published": "2026-10-26T04:37:02Z",
+    "importance": 4
+   }
+  ],
   "SOL": [
    {
     "title": "Hong Kong, Nasdaq’ta listelenen Solana Company’yi stratejik işletme olarak seçti",
@@ -17,8 +26,6 @@
   ]
  },
  "seen": {
-  "https://www.coindesk.com/markets/2026/10/22/bitcoin-etfs-attract-usd1-08-billion-in-3-days-but-it-may-not-be-enough-for-a-steep-rally": 1792645814.057714,
-  "https://www.coindesk.com/tech/2026/10/22/xrp-ledger-bug-fix-moved-to-november-after-validator-support-dipped-for-two-hours": 1792645814.057714,
   "https://www.coindesk.com/tech/2026/10/22/solana-completes-alpenglow-upgrade-here-s-what-it-means-for-users": 1792649261.462486,
   "https://www.coindesk.com/markets/2026/10/22/china-seeks-to-seize-61-800-btc-tied-to-usd5-7-billion-fraud-scheme": 1792653836.168255,
   "https://cointelegraph-tr.com/markets/bitcoin-etfs-528-million-btc-tops-84k": 1792656950.817913,
@@ -115,7 +122,8 @@
   "https://www.theblock.co/news/business/2026-10-25-coindcx-confirms-16-million-loss-from-retired-wallets-days-after-ceo-called-breach-reports-a-false-alarm-431617": 1792955233.940427,
   "https://cointelegraph-tr.com/news/hong-kong-names-nasdaq-listed-solana-company-a-strategic-enterprise": 1792985816.151512,
   "https://www.coindesk.com/markets/2026/10/26/elon-musk-confirms-usd40-billion-spacex-debt-deal-for-ai-chips-warns-of-neocloud-shakeout": 1792985816.151512,
-  "https://cointelegraph-tr.com/news/keystone-says-website-breach-exposed-hardware-wallet-buyers-addresses": 1792985816.151512
+  "https://cointelegraph-tr.com/news/keystone-says-website-breach-exposed-hardware-wallet-buyers-addresses": 1792985816.151512,
+  "https://www.coindesk.com/markets/2026/10/26/bitcoin-slips-under-usd80-000-as-traders-de-risk-ahead-of-fed-meeting": 1792991574.4010763
  },
  "tries": {}
 }
