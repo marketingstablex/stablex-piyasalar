@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-26T10:19:10Z",
+ "updated": "2026-10-26T11:15:09Z",
  "sources": [
   "coindesk.com",
   "cointelegraph-tr.com",
@@ -54,9 +54,6 @@
   ]
  },
  "seen": {
-  "https://cointelegraph-tr.com/news/coindcx-suspicious-outflows-wallet-compromised-2025-exploit": 1792667340.5926487,
-  "https://www.coindesk.com/markets/2026/10/22/bitcoin-slides-below-usd82-000-as-ai-doubts-return-with-defi-tokens-leading-declines": 1792667340.5926487,
-  "https://www.coindesk.com/markets/2026/10/22/crypto-traders-price-india-telecoms-company-reliance-jio-s-ipo-at-about-usd110-billion": 1792667340.5926487,
   "https://www.theblock.co/news/business/2026-10-22-dune-onchain-trading-data-feeds-421889": 1792670893.3015757,
   "https://www.theblock.co/news/business/2026-10-22-sofi-fdic-insured-tokenized-deposit-421916": 1792670893.3015757,
   "https://www.coindesk.com/daybook-us/2026/10/22/crypto-traders-seek-shelter-in-bitcoin-as-altcoins-slide-and-etf-flows-wobble": 1792670893.3015757,
@@ -147,7 +144,9 @@
   "https://www.coindesk.com/markets/2026/10/26/over-11-million-btc-can-t-be-linked-to-any-known-owner-even-after-wall-street-buying": 1793002940.6504593,
   "https://www.coindesk.com/markets/2026/10/26/fed-ecb-and-boj-interest-rate-decisions-coinbase-earnings-crypto-week-ahead": 1793006429.825543,
   "https://cointelegraph-tr.com/markets/bitcoin-etfs-rebound-weekly-inflow-301-million": 1793006429.825543,
-  "https://www.theblock.co/news/regulation/2026-10-26-south-korea-weighs-fourth-delay-crypto-tax-431649": 1793009950.2161338
+  "https://www.theblock.co/news/regulation/2026-10-26-south-korea-weighs-fourth-delay-crypto-tax-431649": 1793009950.2161338,
+  "https://www.coindesk.com/tech/2026/10/26/live-news-brent-crude-slides-below-usd110-as-iran-deal-hopes-grow-and-brazil-stocks-sink": 1793013309.4070272,
+  "https://www.coindesk.com/markets/2026/10/26/calpers-pulls-back-from-big-tech-as-ai-jitters-deepen-neocloud-sell-off": 1793013309.4070272
  },
  "tries": {}
 }
