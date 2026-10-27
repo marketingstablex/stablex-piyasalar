@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-27T01:44:41Z",
+ "updated": "2026-10-27T02:34:48Z",
  "sources": [
   "coindesk.com",
   "cointelegraph-tr.com",
@@ -107,7 +107,6 @@
   ]
  },
  "seen": {
-  "https://www.theblock.co/news/markets/2026-10-22-bitcoin-slides-tech-stock-sell-off-423990": 1792722869.1678882,
   "https://www.theblock.co/news/business/2026-10-22-chainlink-partners-with-lg-cns-423993": 1792725012.0398088,
   "https://www.theblock.co/news/business/2026-10-23-hsbc-hkd-stablecoin-redcoin-424018": 1792728570.878044,
   "https://www.coindesk.com/markets/2026/10/23/bitcoin-gold-trim-early-losses-as-yen-gives-up-gains-oil-stays-near-usd100": 1792728570.878044,
@@ -198,7 +197,8 @@
   "https://cointelegraph-tr.com/news/occ-community-banks-stablecoin-issuers-genius-act": 1793052479.1052089,
   "https://cointelegraph-tr.com/news/injective-launches-onchain-futures-market-tracking-nvidia-gpu-rental-costs": 1793052479.1052089,
   "https://cointelegraph-tr.com/news/ripple-wins-final-us-approval-for-national-trust-bank": 1793061947.6986217,
-  "https://www.theblock.co/news/business/2026-10-26-blackrock-sbi-startale-mou-431642": 1793065481.0546534
+  "https://www.theblock.co/news/business/2026-10-26-blackrock-sbi-startale-mou-431642": 1793065481.0546534,
+  "https://www.theblock.co/news/regulation/2026-10-26-ripple-gains-final-occ-approval-rlusd-431810": 1793068488.5453763
  },
  "tries": {}
 }
