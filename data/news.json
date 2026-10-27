@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-27T00:02:36Z",
+ "updated": "2026-10-27T00:45:47Z",
  "sources": [
   "coindesk.com",
   "cointelegraph-tr.com",
@@ -90,6 +90,13 @@
    }
   ],
   "XRP": [
+   {
+    "title": "Ripple, ulusal trust bankası için nihai ABD onayını aldı",
+    "summary": "Ripple, ulusal trust bankası olmak için nihai ABD onayını aldı. Bu onay, şirketin RLUSD stablecoin'ini destekleyen rezervleri yönetmesini ve dijital varlık saklama hizmetleri sunmasını sağlayacak.",
+    "url": "https://cointelegraph-tr.com/news/ripple-wins-final-us-approval-for-national-trust-bank",
+    "published": "2026-10-27T00:06:41Z",
+    "importance": 4
+   },
    {
     "title": "Aviva Investors ve Ripple, 29 milyar dolarlık sterlin fonunun tokenleştirilmiş hisse sınıfını XRP Ledger üzerinde başlattı",
     "summary": "Aviva Investors, Sterling Likidite Fonu'nun tokenleştirilmiş bir hisse sınıfını Ripple destekli XRP Ledger üzerinde başlattı.",
@@ -191,7 +198,8 @@
   "https://cointelegraph-tr.com/news/canada-consultation-stablecoins-genius-act": 1793046988.1944656,
   "https://www.theblock.co/news/ecosystems/2026-10-26-cz-pitches-bnb-chains-role-ai-bnb-standard-rings-nasdaq-bell-431790": 1793046988.1944656,
   "https://cointelegraph-tr.com/news/occ-community-banks-stablecoin-issuers-genius-act": 1793052479.1052089,
-  "https://cointelegraph-tr.com/news/injective-launches-onchain-futures-market-tracking-nvidia-gpu-rental-costs": 1793052479.1052089
+  "https://cointelegraph-tr.com/news/injective-launches-onchain-futures-market-tracking-nvidia-gpu-rental-costs": 1793052479.1052089,
+  "https://cointelegraph-tr.com/news/ripple-wins-final-us-approval-for-national-trust-bank": 1793061947.6986217
  },
  "tries": {}
 }
