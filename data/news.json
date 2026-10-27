@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-27T18:16:16Z",
+ "updated": "2026-10-27T19:23:39Z",
  "sources": [
   "coindesk.com",
   "cointelegraph-tr.com",
@@ -160,7 +160,6 @@
   ]
  },
  "seen": {
-  "https://www.theblock.co/news/markets/2026-10-23-netanyahu-israel-blockchain-plan-possible-sanctions-427792": 1792780842.1927738,
   "https://cointelegraph-tr.com/news/irs-plans-lower-penalties-for-crypto-tax-disclosures-forbes-reports": 1792789817.9930916,
   "https://www.coindesk.com/markets/2026/10/24/franklin-templeton-adds-usd150-million-in-fund-shares-to-xrp-ledger-all-in-one-wallet": 1792818264.0341887,
   "https://www.coindesk.com/policy/2026/10/24/u-s-clarity-act-failure-gives-asia-and-middle-east-a-competitive-edge-says-apex-group-ceo": 1792843297.6683614,
@@ -257,7 +256,9 @@
   "https://cointelegraph-tr.com/news/janus-henderson-centrifuge-launch-tokenized-nasdaq-100-fund-on-stellar": 1793121719.062596,
   "https://www.coindesk.com/business/2026/10/27/intel-oracle-ibm-join-growing-list-of-firms-objecting-to-okx-ice-tokenized-stock-plans": 1793124976.6646588,
   "https://cointelegraph-tr.com/news/us-voters-candidates-support-financial-technology-poll": 1793124976.6646588,
-  "https://www.coindesk.com/business/2026/10/27/ripple-s-rlusd-stablecoin-is-coming-to-robinhood-s-28-6-million-customer-platform": 1793124976.6646588
+  "https://www.coindesk.com/business/2026/10/27/ripple-s-rlusd-stablecoin-is-coming-to-robinhood-s-28-6-million-customer-platform": 1793124976.6646588,
+  "https://www.coindesk.com/policy/2026/10/27/u-s-agency-hits-utah-with-lawsuit-to-shield-kalshi-s-ability-to-offer-betting-there": 1793129019.286333,
+  "https://www.theblock.co/news/regulation/2026-10-27-cftc-sues-utah-battle-over-prediction-market-regulation-intensifies-431922": 1793129019.286333
  },
  "tries": {}
 }
