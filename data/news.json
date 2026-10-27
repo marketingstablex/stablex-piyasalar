@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-27T17:21:59Z",
+ "updated": "2026-10-27T18:16:16Z",
  "sources": [
   "coindesk.com",
   "cointelegraph-tr.com",
@@ -160,8 +160,6 @@
   ]
  },
  "seen": {
-  "https://www.theblock.co/news/defi/2026-10-23-initia-halts-network-after-security-incident-attacker-reportedly-mints-tokens-427755": 1792776820.3626013,
-  "https://www.theblock.co/news/regulation/2026-10-23-sen-blumenthal-seeks-answers-tether-payments-firm-founded-ex-white-house-crypto-adviser-427785": 1792778615.9953651,
   "https://www.theblock.co/news/markets/2026-10-23-netanyahu-israel-blockchain-plan-possible-sanctions-427792": 1792780842.1927738,
   "https://cointelegraph-tr.com/news/irs-plans-lower-penalties-for-crypto-tax-disclosures-forbes-reports": 1792789817.9930916,
   "https://www.coindesk.com/markets/2026/10/24/franklin-templeton-adds-usd150-million-in-fund-shares-to-xrp-ledger-all-in-one-wallet": 1792818264.0341887,
@@ -256,7 +254,10 @@
   "https://www.theblock.co/news/markets/2026-10-27-crypto-com-og-com-launch-us-crypto-perps-up-to-5x-leverage-431902": 1793121719.062596,
   "https://www.theblock.co/news/deals/2026-10-27-canton-based-trading-platform-cancore-raises-7-2-million-60-million-token-valuation-431906": 1793121719.062596,
   "https://www.coindesk.com/business/2026/10/27/brazilian-companies-turned-to-stablecoins-on-election-day-to-dodge-a-currency-crash": 1793121719.062596,
-  "https://cointelegraph-tr.com/news/janus-henderson-centrifuge-launch-tokenized-nasdaq-100-fund-on-stellar": 1793121719.062596
+  "https://cointelegraph-tr.com/news/janus-henderson-centrifuge-launch-tokenized-nasdaq-100-fund-on-stellar": 1793121719.062596,
+  "https://www.coindesk.com/business/2026/10/27/intel-oracle-ibm-join-growing-list-of-firms-objecting-to-okx-ice-tokenized-stock-plans": 1793124976.6646588,
+  "https://cointelegraph-tr.com/news/us-voters-candidates-support-financial-technology-poll": 1793124976.6646588,
+  "https://www.coindesk.com/business/2026/10/27/ripple-s-rlusd-stablecoin-is-coming-to-robinhood-s-28-6-million-customer-platform": 1793124976.6646588
  },
  "tries": {}
 }
