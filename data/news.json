@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-27T09:16:49Z",
+ "updated": "2026-10-27T10:16:16Z",
  "sources": [
   "coindesk.com",
   "cointelegraph-tr.com",
@@ -130,10 +130,6 @@
   ]
  },
  "seen": {
-  "https://www.coindesk.com/business/2026/10/23/sweden-s-central-bank-revives-e-krona-debate-as-stablecoins-and-digital-euro-loom": 1792748179.5401425,
-  "https://www.theblock.co/news/regulation/2026-10-23-new-york-seeks-over-1-3-billion-from-novatech-founders-after-couple-fled-the-us-424453": 1792750339.7061312,
-  "https://www.theblock.co/news/regulation/2026-10-23-south-korea-stablecoins-payment-instruments-424028": 1792750339.7061312,
-  "https://cointelegraph-tr.com/news/bybit-first-full-dubai-spot-trading-license": 1792750339.7061312,
   "https://www.coindesk.com/markets/2026/10/23/bitcoin-steadies-near-usd81-700-as-altcoins-rebound-pepe-climbs-13": 1792753609.4593346,
   "https://www.coindesk.com/markets/2026/10/23/bitcoin-approaches-midterms-as-july-low-challenges-historical-cycle-pattern": 1792753609.4593346,
   "https://www.coindesk.com/business/2026/10/23/hsbc-rolls-out-its-first-stablecoin-to-over-3-million-everyday-app-users": 1792753609.4593346,
@@ -220,7 +216,9 @@
   "https://cointelegraph-tr.com/news/binance-brazil-crypto-license-oct-30-deadline": 1793089098.7796493,
   "https://www.coindesk.com/tech/2026/10/27/solana-bug-reports-now-cost-1-sol-as-ai-floods-security-teams-with-spam": 1793089098.7796493,
   "https://cointelegraph-tr.com/markets/bitcoin-etf-rebound-110-million-btc-dip-below-80k": 1793089098.7796493,
-  "https://www.coindesk.com/markets/2026/10/27/an-ai-label-alone-no-longer-wins-lenders-jpmorgan-says": 1793092609.0583353
+  "https://www.coindesk.com/markets/2026/10/27/an-ai-label-alone-no-longer-wins-lenders-jpmorgan-says": 1793092609.0583353,
+  "https://cointelegraph-tr.com/news/zcash-co-founder-ending-zcg-funding-125m": 1793096176.775684,
+  "https://www.coindesk.com/markets/2026/10/27/now-is-the-time-to-accumulate-bitcoin-galaxy-says": 1793096176.775684
  },
  "tries": {}
 }
