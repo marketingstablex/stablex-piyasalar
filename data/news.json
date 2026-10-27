@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-27T13:28:44Z",
+ "updated": "2026-10-27T14:24:28Z",
  "sources": [
   "coindesk.com",
   "cointelegraph-tr.com",
@@ -50,21 +50,28 @@
     "importance": 4
    },
    {
+    "title": "Kripto, yapay zeka hisselerinden daha iyi performans gösterebilir: Wall Street emektarı Jordi Visser",
+    "summary": "Morgan Stanley ve Weiss’in eski yöneticisi Jordi Visser, yapay zeka ajanlarının kripto talebini artırdığını ve Bitcoin, Ether ile Solana’nın ötesine geçerek varlıklarını çeşitlendirdiğini belirtiyor.",
+    "url": "https://cointelegraph-tr.com/magazine/crypto-could-outperform-ai-stocks-wall-street-veteran-jordi-visser",
+    "published": "2026-10-27T13:30:00Z",
+    "importance": 3
+   },
+   {
     "title": "Bitcoin madencilerinin yapay zekaya yönelmesi, işlem gücü ticareti için yeni bir pazar yaratıyor",
     "summary": "Bitcoin madencilerinin yapay zekaya yönelmesi, işlem gücü ticareti için yeni bir pazar yaratıyor.",
     "url": "https://www.coindesk.com/business/2026/10/27/bitcoin-miners-move-into-ai-is-creating-a-new-market-for-trading-computing-power",
     "published": "2026-10-27T13:13:50Z",
     "importance": 3
-   },
-   {
-    "title": "Luxor, yapay zeka-Bitcoin madenciliği yakınsamasının ortasında CMT Digital’dan 16 milyon dolar topladı",
-    "summary": "Luxor, elde ettiği 16 milyon dolar geliri mevcut yapay zeka altyapısı işini ölçeklendirmek ve küresel çip tedarik zincirleri kısıtlanırken GPU tedarik hizmetlerini genişletmek için kullanmayı amaçlıyor.",
-    "url": "https://cointelegraph-tr.com/news/luxor-raises-16m-ai-bitcoin-miner-convergence",
-    "published": "2026-10-27T13:01:00Z",
-    "importance": 3
    }
   ],
   "ETH": [
+   {
+    "title": "Kripto, yapay zeka hisselerinden daha iyi performans gösterebilir: Wall Street emektarı Jordi Visser",
+    "summary": "Morgan Stanley ve Weiss’in eski yöneticisi Jordi Visser, yapay zeka ajanlarının kripto talebini artırdığını ve Bitcoin, Ether ile Solana’nın ötesine geçerek varlıklarını çeşitlendirdiğini belirtiyor.",
+    "url": "https://cointelegraph-tr.com/magazine/crypto-could-outperform-ai-stocks-wall-street-veteran-jordi-visser",
+    "published": "2026-10-27T13:30:00Z",
+    "importance": 3
+   },
    {
     "title": "Ethereum, stake depozitolarını builder'lara gönderebilecek Glamsterdam hatasını düzeltti",
     "summary": "Ethereum, stake depozitolarını builder'lara gönderebilecek Glamsterdam hatasını düzeltti.",
@@ -88,6 +95,13 @@
    }
   ],
   "SOL": [
+   {
+    "title": "Kripto, yapay zeka hisselerinden daha iyi performans gösterebilir: Wall Street emektarı Jordi Visser",
+    "summary": "Morgan Stanley ve Weiss’in eski yöneticisi Jordi Visser, yapay zeka ajanlarının kripto talebini artırdığını ve Bitcoin, Ether ile Solana’nın ötesine geçerek varlıklarını çeşitlendirdiğini belirtiyor.",
+    "url": "https://cointelegraph-tr.com/magazine/crypto-could-outperform-ai-stocks-wall-street-veteran-jordi-visser",
+    "published": "2026-10-27T13:30:00Z",
+    "importance": 3
+   },
    {
     "title": "Hong Kong, Nasdaq’ta listelenen Solana Company’yi stratejik işletme olarak seçti",
     "summary": "Nasdaq’ta listelenen şirket, Hong Kong’da Solana doğrulayıcı operasyonları kurmayı planladığını açıkladı.",
@@ -137,9 +151,6 @@
   ]
  },
  "seen": {
-  "https://cointelegraph-tr.com/news/china-2030-national-blockchain-network-buildout": 1792762962.6799474,
-  "https://www.theblock.co/news/markets/2026-10-23-phantom-rolls-out-kalshi-prediction-markets-us-421652": 1792762962.6799474,
-  "https://www.theblock.co/news/regulation/2026-10-23-singapore-malaysia-and-thailand-central-banks-expand-cross-border-stablecoin-initiative-involving-ripple-visa-and-mastercard-426492": 1792762962.6799474,
   "https://www.coindesk.com/markets/2026/10/23/robinhood-sees-surge-in-bitcoin-gold-prediction-markets-as-traders-move-beyond-sports": 1792766453.2551885,
   "https://www.coindesk.com/tech/2026/10/23/bitcoin-will-now-stop-hiding-bugs-an-ai-can-find-in-one-prompt": 1792766453.2551885,
   "https://cointelegraph-tr.com/markets/bitcoin-seeks-support-above-81k-as-brent-crude-oil-hits-highest-level-since-march": 1792773522.269061,
@@ -226,7 +237,11 @@
   "https://www.coindesk.com/markets/2026/10/27/bitcoin-drops-below-usd80-000-as-crypto-ignores-asian-tech-rally-fed-meeting-begins": 1793103103.290208,
   "https://www.coindesk.com/business/2026/10/27/crypto-wallet-maker-keystone-to-destroy-almost-19-000-devices-after-security-breach": 1793103103.290208,
   "https://www.coindesk.com/business/2026/10/27/bitcoin-miners-move-into-ai-is-creating-a-new-market-for-trading-computing-power": 1793107724.4156675,
-  "https://cointelegraph-tr.com/news/luxor-raises-16m-ai-bitcoin-miner-convergence": 1793107724.4156675
+  "https://cointelegraph-tr.com/news/luxor-raises-16m-ai-bitcoin-miner-convergence": 1793107724.4156675,
+  "https://www.coindesk.com/business/2026/10/27/nasdaq-100-comes-onchain-as-janus-henderson-and-centrifuge-launch-first-licensed-fund": 1793111068.9831526,
+  "https://www.theblock.co/learn/campus/crypto-market-structure-explained-426489": 1793111068.9831526,
+  "https://www.coindesk.com/markets/2026/10/27/cf-benchmarks-brings-wall-street-pricing-infrastructure-onchain-including-data-used-by-blackrock": 1793111068.9831526,
+  "https://cointelegraph-tr.com/magazine/crypto-could-outperform-ai-stocks-wall-street-veteran-jordi-visser": 1793111068.9831526
  },
  "tries": {}
 }
