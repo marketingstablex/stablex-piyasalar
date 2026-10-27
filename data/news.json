@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-27T07:26:05Z",
+ "updated": "2026-10-27T08:18:18Z",
  "sources": [
   "coindesk.com",
   "cointelegraph-tr.com",
@@ -7,6 +7,13 @@
  ],
  "bySymbol": {
   "BTC": [
+   {
+    "title": "Bitcoin ETF’leri 774 milyon dolarlık çıkışın ardından 110 milyon doları geri aldı",
+    "summary": "ABD’deki spot Bitcoin ETF’leri, pazartesi günkü toparlanmaya rağmen ay boyunca yaklaşık 202 milyon dolarlık net çıkışla ekim ayında negatif bölgede kaldı.",
+    "url": "https://cointelegraph-tr.com/markets/bitcoin-etf-rebound-110-million-btc-dip-below-80k",
+    "published": "2026-10-27T07:35:37Z",
+    "importance": 4
+   },
    {
     "title": "Strive, 511 milyon dolarlık alımla en büyük ikinci kurumsal bitcoin hazinesine yaklaşıyor",
     "summary": "Strive'ın en son bitcoin alımı, yeni bir 1 milyar dolarlık imtiyazlı hisse senedi teklif programını duyurmasıyla şirketi ikinci sıradaki Metaplanet'in 1.000 BTC yakınına taşıdı.",
@@ -55,13 +62,6 @@
     "url": "https://www.coindesk.com/daybook-us/2026/10/26/a-usd68-million-bitcoin-bet-is-targeting-a-post-midterm-election-breakout-to-usd90-000",
     "published": "2026-10-26T11:53:07Z",
     "importance": 3
-   },
-   {
-    "title": "11 milyondan fazla Bitcoin'in bilinen bir sahibi yok: İşte bunun anlamı",
-    "summary": "11 milyondan fazla Bitcoin'in bilinen bir sahibi yok.",
-    "url": "https://www.coindesk.com/markets/2026/10/26/over-11-million-btc-can-t-be-linked-to-any-known-owner-even-after-wall-street-buying",
-    "published": "2026-10-26T07:18:24Z",
-    "importance": 3
    }
   ],
   "ETH": [
@@ -94,6 +94,13 @@
     "url": "https://cointelegraph-tr.com/news/hong-kong-names-nasdaq-listed-solana-company-a-strategic-enterprise",
     "published": "2026-10-26T03:21:26Z",
     "importance": 3
+   },
+   {
+    "title": "Solana hata bildirimleri artık 1 SOL maliyetine sahip; yapay zeka güvenlik ekiplerini spam ile dolduruyor",
+    "summary": "Solana hata bildirimleri artık 1 SOL maliyetine sahip; yapay zeka güvenlik ekiplerini spam ile dolduruyor",
+    "url": "https://www.coindesk.com/tech/2026/10/27/solana-bug-reports-now-cost-1-sol-as-ai-floods-security-teams-with-spam",
+    "published": "2026-10-27T07:44:04Z",
+    "importance": 2
    }
   ],
   "USDC": [
@@ -123,8 +130,6 @@
   ]
  },
  "seen": {
-  "https://cointelegraph-tr.com/news/malaysia-thailand-join-singapores-cross-border-stablecoin-push": 1792741533.2441478,
-  "https://cointelegraph-tr.com/markets/bitcoin-etfs-erase-october-gains-outflow": 1792741533.2441478,
   "https://www.coindesk.com/markets/2026/10/23/india-s-largest-exchange-denies-hack-after-blockchain-sleuths-pointed-to-usd16-million-in-suspicious-outflows": 1792744658.6794953,
   "https://www.coindesk.com/business/2026/10/23/sweden-s-central-bank-revives-e-krona-debate-as-stablecoins-and-digital-euro-loom": 1792748179.5401425,
   "https://www.theblock.co/news/regulation/2026-10-23-new-york-seeks-over-1-3-billion-from-novatech-founders-after-couple-fled-the-us-424453": 1792750339.7061312,
@@ -212,7 +217,10 @@
   "https://www.coindesk.com/markets/2026/10/27/ripple-gets-a-final-go-ahead-to-launch-its-own-u-s-national-trust-bank": 1793077820.0441372,
   "https://www.coindesk.com/tech/2026/10/27/ethereum-fixes-glamsterdam-bug-that-could-have-sent-staking-deposits-to-builders": 1793085965.1347504,
   "https://www.theblock.co/news/business/2026-10-27-mizuho-cuts-circle-price-target-431826": 1793085965.1347504,
-  "https://www.coindesk.com/markets/2026/10/27/zcash-co-founder-proposes-ending-grants-funding-citing-usd125-million-treasury": 1793085965.1347504
+  "https://www.coindesk.com/markets/2026/10/27/zcash-co-founder-proposes-ending-grants-funding-citing-usd125-million-treasury": 1793085965.1347504,
+  "https://cointelegraph-tr.com/news/binance-brazil-crypto-license-oct-30-deadline": 1793089098.7796493,
+  "https://www.coindesk.com/tech/2026/10/27/solana-bug-reports-now-cost-1-sol-as-ai-floods-security-teams-with-spam": 1793089098.7796493,
+  "https://cointelegraph-tr.com/markets/bitcoin-etf-rebound-110-million-btc-dip-below-80k": 1793089098.7796493
  },
  "tries": {}
 }
