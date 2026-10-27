@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-27T10:16:16Z",
+ "updated": "2026-10-27T11:13:51Z",
  "sources": [
   "coindesk.com",
   "cointelegraph-tr.com",
@@ -50,17 +50,17 @@
     "importance": 4
    },
    {
-    "title": "Strategy, bitcoin alımlarına ara vererek 205 milyon dolarlık STRC imtiyazlı hissesi geri aldı",
-    "summary": "Strategy'nin bitcoin varlıkları, toplam arz sınırının yaklaşık %4'ünü oluşturuyor ve şirketin 3,9 milyar dolarlık kâğıt üzerinde kazancı bulunuyor.",
-    "url": "https://www.theblock.co/news/business/2026-10-26-strategy-pauses-bitcoin-buys-repurchases-205-million-of-strc-preferred-shares-431699",
-    "published": "2026-10-26T13:23:14Z",
+    "title": "2023'te yapay zeka dönüşü yapan yatırımcı, bitcoin'in 57.000 dolara düşeceğini söylüyor",
+    "summary": "2023'te yapay zeka dönüşü çağrısı yapan bir yatırımcı, Bitcoin'in 57.000 dolara gerileyeceğini öngörüyor.",
+    "url": "https://www.coindesk.com/markets/2026/10/27/investor-who-called-for-ai-pivot-in-2023-says-bitcoin-is-going-to-usd57-000",
+    "published": "2026-10-27T10:57:51Z",
     "importance": 3
    },
    {
-    "title": "68 milyon dolarlık bir bitcoin bahsi, ara seçimler sonrası 90.000 dolara doğru bir kırılımı hedefliyor",
-    "summary": "68 milyon dolarlık bir bitcoin bahsi, ara seçimler sonrası 90.000 dolara doğru bir kırılımı hedefliyor.",
-    "url": "https://www.coindesk.com/daybook-us/2026/10/26/a-usd68-million-bitcoin-bet-is-targeting-a-post-midterm-election-breakout-to-usd90-000",
-    "published": "2026-10-26T11:53:07Z",
+    "title": "Ark Invest, BTC gerilerken 5,2 milyon dolarlık Circle hissesi aldı, kendi Bitcoin ETF'inden 15,9 milyon dolarlık satış yaptı",
+    "summary": "BTC 80.000 doların altına gerilerken Ark Invest fon ağırlıklarını yeniden dengeledi. Bu kapsamda Circle hisseleri satın alırken Bitcoin ETF varlıklarını azalttı.",
+    "url": "https://www.theblock.co/news/markets/2026-10-27-ark-invest-buys-5-2-million-of-circle-shares-sells-15-9-million-of-its-own-bitcoin-etf-as-btc-grinds-lower-431838",
+    "published": "2026-10-27T10:57:34Z",
     "importance": 3
    }
   ],
@@ -130,9 +130,6 @@
   ]
  },
  "seen": {
-  "https://www.coindesk.com/markets/2026/10/23/bitcoin-steadies-near-usd81-700-as-altcoins-rebound-pepe-climbs-13": 1792753609.4593346,
-  "https://www.coindesk.com/markets/2026/10/23/bitcoin-approaches-midterms-as-july-low-challenges-historical-cycle-pattern": 1792753609.4593346,
-  "https://www.coindesk.com/business/2026/10/23/hsbc-rolls-out-its-first-stablecoin-to-over-3-million-everyday-app-users": 1792753609.4593346,
   "https://www.theblock.co/news/markets/2026-10-23-bitcoin-etfs-swing-back-to-net-outflows-erase-previous-day-inflows-426483": 1792755658.4655561,
   "https://www.coindesk.com/daybook-us/2026/10/23/bitcoin-s-volatility-is-well-above-euro-dollar-gyrations-though-it-has-calmed-to-rival-nvidia-s": 1792755658.4655561,
   "https://www.coindesk.com/markets/2026/10/23/live-updates-bitcoin-holds-above-usd81-000-as-the-ai-rout-fades-and-oil-climbs": 1792755658.4655561,
@@ -218,7 +215,9 @@
   "https://cointelegraph-tr.com/markets/bitcoin-etf-rebound-110-million-btc-dip-below-80k": 1793089098.7796493,
   "https://www.coindesk.com/markets/2026/10/27/an-ai-label-alone-no-longer-wins-lenders-jpmorgan-says": 1793092609.0583353,
   "https://cointelegraph-tr.com/news/zcash-co-founder-ending-zcg-funding-125m": 1793096176.775684,
-  "https://www.coindesk.com/markets/2026/10/27/now-is-the-time-to-accumulate-bitcoin-galaxy-says": 1793096176.775684
+  "https://www.coindesk.com/markets/2026/10/27/now-is-the-time-to-accumulate-bitcoin-galaxy-says": 1793096176.775684,
+  "https://www.coindesk.com/markets/2026/10/27/investor-who-called-for-ai-pivot-in-2023-says-bitcoin-is-going-to-usd57-000": 1793099631.152238,
+  "https://www.theblock.co/news/markets/2026-10-27-ark-invest-buys-5-2-million-of-circle-shares-sells-15-9-million-of-its-own-bitcoin-etf-as-btc-grinds-lower-431838": 1793099631.152238
  },
  "tries": {}
 }
