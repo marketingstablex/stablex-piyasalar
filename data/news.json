@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-27T16:23:08Z",
+ "updated": "2026-10-27T17:21:59Z",
  "sources": [
   "coindesk.com",
   "cointelegraph-tr.com",
@@ -40,13 +40,6 @@
     "summary": "ABD spot Bitcoin ETF’leri, güçlü bir üç günlük başlangıcın yerini yoğun para çekimlerine bırakmasının ardından haftayı 301 milyon dolarlık net girişle tamamladı.",
     "url": "https://cointelegraph-tr.com/markets/bitcoin-etfs-rebound-weekly-inflow-301-million",
     "published": "2026-10-26T08:20:49Z",
-    "importance": 4
-   },
-   {
-    "title": "Bitcoin cüzdan hatası, kullanıcılar ödemeleri hızlandırmaya çalışırken kötü amaçlı sunucuların fon çaldırmasına neden oldu",
-    "summary": "Bitcoin cüzdanlarındaki bir hata, kullanıcıların ödemelerini hızlandırmaya çalıştığı sırada yetkisiz sunucuların fonları çalmasına yol açtı.",
-    "url": "https://www.coindesk.com/tech/2026/10/26/bitcoin-wallet-bug-let-rogue-servers-steal-funds-when-users-tried-to-speed-up-payments",
-    "published": "2026-10-26T05:15:20Z",
     "importance": 4
    },
    {
@@ -167,7 +160,6 @@
   ]
  },
  "seen": {
-  "https://cointelegraph-tr.com/markets/bitcoin-seeks-support-above-81k-as-brent-crude-oil-hits-highest-level-since-march": 1792773522.269061,
   "https://www.theblock.co/news/defi/2026-10-23-initia-halts-network-after-security-incident-attacker-reportedly-mints-tokens-427755": 1792776820.3626013,
   "https://www.theblock.co/news/regulation/2026-10-23-sen-blumenthal-seeks-answers-tether-payments-firm-founded-ex-white-house-crypto-adviser-427785": 1792778615.9953651,
   "https://www.theblock.co/news/markets/2026-10-23-netanyahu-israel-blockchain-plan-possible-sanctions-427792": 1792780842.1927738,
@@ -260,7 +252,11 @@
   "https://www.theblock.co/news/business/2026-10-27-galaxy-digital-323-million-quarterly-profit-new-200-million-share-buyback-431860": 1793114597.9224584,
   "https://www.theblock.co/news/deals/2026-10-27-bitcoin-mining-ai-luxor-technology-funding-431858": 1793114597.9224584,
   "https://cointelegraph-tr.com/news/usdc-overtakes-usdt-euro-stablecoin-trading-mica-kaiko": 1793118188.3058662,
-  "https://www.theblock.co/news/markets/2026-10-27-sofi-discloses-503000-crypto-products-as-gross-crypto-revenue-hits-162-million-431897": 1793118188.3058662
+  "https://www.theblock.co/news/markets/2026-10-27-sofi-discloses-503000-crypto-products-as-gross-crypto-revenue-hits-162-million-431897": 1793118188.3058662,
+  "https://www.theblock.co/news/markets/2026-10-27-crypto-com-og-com-launch-us-crypto-perps-up-to-5x-leverage-431902": 1793121719.062596,
+  "https://www.theblock.co/news/deals/2026-10-27-canton-based-trading-platform-cancore-raises-7-2-million-60-million-token-valuation-431906": 1793121719.062596,
+  "https://www.coindesk.com/business/2026/10/27/brazilian-companies-turned-to-stablecoins-on-election-day-to-dodge-a-currency-crash": 1793121719.062596,
+  "https://cointelegraph-tr.com/news/janus-henderson-centrifuge-launch-tokenized-nasdaq-100-fund-on-stellar": 1793121719.062596
  },
  "tries": {}
 }
