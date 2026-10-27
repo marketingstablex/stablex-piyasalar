@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-27T06:09:33Z",
+ "updated": "2026-10-27T07:26:05Z",
  "sources": [
   "coindesk.com",
   "cointelegraph-tr.com",
@@ -66,6 +66,13 @@
   ],
   "ETH": [
    {
+    "title": "Ethereum, stake depozitolarını builder'lara gönderebilecek Glamsterdam hatasını düzeltti",
+    "summary": "Ethereum, stake depozitolarını builder'lara gönderebilecek Glamsterdam hatasını düzeltti.",
+    "url": "https://www.coindesk.com/tech/2026/10/27/ethereum-fixes-glamsterdam-bug-that-could-have-sent-staking-deposits-to-builders",
+    "published": "2026-10-27T07:09:56Z",
+    "importance": 3
+   },
+   {
     "title": "Tom Lee, Bitmine 10.452 ETH eklerken 'kripto boğa piyasasının devam ettiğini' vurguluyor",
     "summary": "Tom Lee kripto boğa piyasasının devam ettiğini belirtirken, şirket 25 Ekim itibarıyla toplam 15 milyar dolar değerinde kripto, nakit, pazarlanabilir menkul kıymet ve diğer yatırımlara ulaştı.",
     "url": "https://www.theblock.co/news/business/2026-10-26-tom-lee-insists-crypto-bull-market-is-underway-as-bitmine-adds-10452-eth-431743",
@@ -86,6 +93,15 @@
     "summary": "Nasdaq’ta listelenen şirket, Hong Kong’da Solana doğrulayıcı operasyonları kurmayı planladığını açıkladı.",
     "url": "https://cointelegraph-tr.com/news/hong-kong-names-nasdaq-listed-solana-company-a-strategic-enterprise",
     "published": "2026-10-26T03:21:26Z",
+    "importance": 3
+   }
+  ],
+  "USDC": [
+   {
+    "title": "Mizuho'ya göre Circle, yapay zeka ajanları nedeniyle yüzde 20'ye varan gelir riskiyle karşı karşıya",
+    "summary": "Mizuho, yapay zeka ajanlarının USDC sahiplerini daha yüksek getirili fiat alternatiflerine yönlendirmesi nedeniyle orta vadede yüzde 10 ila 20 arasında rezerv geliri düşüş riski bulunduğunu belirtti.",
+    "url": "https://www.theblock.co/news/business/2026-10-27-mizuho-cuts-circle-price-target-431826",
+    "published": "2026-10-27T06:28:34Z",
     "importance": 3
    }
   ],
@@ -193,7 +209,10 @@
   "https://www.theblock.co/news/business/2026-10-26-blackrock-sbi-startale-mou-431642": 1793065481.0546534,
   "https://www.theblock.co/news/regulation/2026-10-26-ripple-gains-final-occ-approval-rlusd-431810": 1793068488.5453763,
   "https://www.theblock.co/news/business/2026-10-26-stonex-lifts-strive-price-target-431818": 1793074296.7106216,
-  "https://www.coindesk.com/markets/2026/10/27/ripple-gets-a-final-go-ahead-to-launch-its-own-u-s-national-trust-bank": 1793077820.0441372
+  "https://www.coindesk.com/markets/2026/10/27/ripple-gets-a-final-go-ahead-to-launch-its-own-u-s-national-trust-bank": 1793077820.0441372,
+  "https://www.coindesk.com/tech/2026/10/27/ethereum-fixes-glamsterdam-bug-that-could-have-sent-staking-deposits-to-builders": 1793085965.1347504,
+  "https://www.theblock.co/news/business/2026-10-27-mizuho-cuts-circle-price-target-431826": 1793085965.1347504,
+  "https://www.coindesk.com/markets/2026/10/27/zcash-co-founder-proposes-ending-grants-funding-citing-usd125-million-treasury": 1793085965.1347504
  },
  "tries": {}
 }
