@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-27T12:11:43Z",
+ "updated": "2026-10-27T13:28:44Z",
  "sources": [
   "coindesk.com",
   "cointelegraph-tr.com",
@@ -50,17 +50,17 @@
     "importance": 4
    },
    {
-    "title": "Bitcoin zayıflık belirtileri gösterirken Ripple'ın banka zaferi XRP'yi desteklemekte yetersiz kalıyor",
-    "summary": "Bitcoin zayıflık belirtileri gösterirken Ripple'ın banka zaferi XRP'yi desteklemekte yetersiz kalıyor.",
-    "url": "https://www.coindesk.com/daybook-us/2026/10/27/bitcoin-shows-signs-of-weakness-while-ripple-s-bank-win-fails-to-bolster-xrp",
-    "published": "2026-10-27T12:00:39Z",
+    "title": "Bitcoin madencilerinin yapay zekaya yönelmesi, işlem gücü ticareti için yeni bir pazar yaratıyor",
+    "summary": "Bitcoin madencilerinin yapay zekaya yönelmesi, işlem gücü ticareti için yeni bir pazar yaratıyor.",
+    "url": "https://www.coindesk.com/business/2026/10/27/bitcoin-miners-move-into-ai-is-creating-a-new-market-for-trading-computing-power",
+    "published": "2026-10-27T13:13:50Z",
     "importance": 3
    },
    {
-    "title": "2023'te yapay zeka dönüşü yapan yatırımcı, bitcoin'in 57.000 dolara düşeceğini söylüyor",
-    "summary": "2023'te yapay zeka dönüşü çağrısı yapan bir yatırımcı, Bitcoin'in 57.000 dolara gerileyeceğini öngörüyor.",
-    "url": "https://www.coindesk.com/markets/2026/10/27/investor-who-called-for-ai-pivot-in-2023-says-bitcoin-is-going-to-usd57-000",
-    "published": "2026-10-27T10:57:51Z",
+    "title": "Luxor, yapay zeka-Bitcoin madenciliği yakınsamasının ortasında CMT Digital’dan 16 milyon dolar topladı",
+    "summary": "Luxor, elde ettiği 16 milyon dolar geliri mevcut yapay zeka altyapısı işini ölçeklendirmek ve küresel çip tedarik zincirleri kısıtlanırken GPU tedarik hizmetlerini genişletmek için kullanmayı amaçlıyor.",
+    "url": "https://cointelegraph-tr.com/news/luxor-raises-16m-ai-bitcoin-miner-convergence",
+    "published": "2026-10-27T13:01:00Z",
     "importance": 3
    }
   ],
@@ -137,9 +137,6 @@
   ]
  },
  "seen": {
-  "https://cointelegraph-tr.com/news/new-york-ag-novatech-founders-companies-crypto-ponzi": 1792759217.6680236,
-  "https://cointelegraph-tr.com/markets/bitcoin-consolidates-after-3-loss-as-ai-fears-stoke-fresh-stock-market-weakness": 1792759217.6680236,
-  "https://cointelegraph-tr.com/news/self-custody-crypto-beginners-mainstream-adoption": 1792759217.6680236,
   "https://cointelegraph-tr.com/news/china-2030-national-blockchain-network-buildout": 1792762962.6799474,
   "https://www.theblock.co/news/markets/2026-10-23-phantom-rolls-out-kalshi-prediction-markets-us-421652": 1792762962.6799474,
   "https://www.theblock.co/news/regulation/2026-10-23-singapore-malaysia-and-thailand-central-banks-expand-cross-border-stablecoin-initiative-involving-ripple-visa-and-mastercard-426492": 1792762962.6799474,
@@ -227,7 +224,9 @@
   "https://www.coindesk.com/tech/2026/10/27/live-updates-bitcoin-holds-below-usd80-000-as-ai-buildout-draws-more-capital": 1793103103.290208,
   "https://www.coindesk.com/business/2026/10/27/japan-s-top-yen-stablecoin-falls-short-of-its-target-in-a-disappointing-first-year": 1793103103.290208,
   "https://www.coindesk.com/markets/2026/10/27/bitcoin-drops-below-usd80-000-as-crypto-ignores-asian-tech-rally-fed-meeting-begins": 1793103103.290208,
-  "https://www.coindesk.com/business/2026/10/27/crypto-wallet-maker-keystone-to-destroy-almost-19-000-devices-after-security-breach": 1793103103.290208
+  "https://www.coindesk.com/business/2026/10/27/crypto-wallet-maker-keystone-to-destroy-almost-19-000-devices-after-security-breach": 1793103103.290208,
+  "https://www.coindesk.com/business/2026/10/27/bitcoin-miners-move-into-ai-is-creating-a-new-market-for-trading-computing-power": 1793107724.4156675,
+  "https://cointelegraph-tr.com/news/luxor-raises-16m-ai-bitcoin-miner-convergence": 1793107724.4156675
  },
  "tries": {}
 }
