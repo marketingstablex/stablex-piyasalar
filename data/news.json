@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-27T11:13:51Z",
+ "updated": "2026-10-27T12:11:43Z",
  "sources": [
   "coindesk.com",
   "cointelegraph-tr.com",
@@ -7,6 +7,13 @@
  ],
  "bySymbol": {
   "BTC": [
+   {
+    "title": "Kripto para Asya teknoloji rallisini görmezden gelir ve Fed toplantısı başlarken Bitcoin 80.000 doların altına geriledi",
+    "summary": "Kripto para Asya teknoloji rallisini görmezden gelir ve Fed toplantısı başlarken Bitcoin 80.000 doların altına geriledi.",
+    "url": "https://www.coindesk.com/markets/2026/10/27/bitcoin-drops-below-usd80-000-as-crypto-ignores-asian-tech-rally-fed-meeting-begins",
+    "published": "2026-10-27T11:32:45Z",
+    "importance": 4
+   },
    {
     "title": "Bitcoin ETF’leri 774 milyon dolarlık çıkışın ardından 110 milyon doları geri aldı",
     "summary": "ABD’deki spot Bitcoin ETF’leri, pazartesi günkü toparlanmaya rağmen ay boyunca yaklaşık 202 milyon dolarlık net çıkışla ekim ayında negatif bölgede kaldı.",
@@ -29,13 +36,6 @@
     "importance": 4
    },
    {
-    "title": "Petrol fiyatlarının gerilemesi ve Fed kararının yaklaşmasıyla Bitcoin 80.000 dolar civarında seyrediyor",
-    "summary": "Petrol fiyatlarının gerilemesi ve Fed kararının yaklaşmasıyla Bitcoin 80.000 dolar civarında seyrediyor.",
-    "url": "https://www.coindesk.com/markets/2026/10/26/bitcoin-holds-near-usd80-000-as-oil-retreats-and-the-fed-decision-looms",
-    "published": "2026-10-26T11:24:33Z",
-    "importance": 4
-   },
-   {
     "title": "Bitcoin ETF’leri 2 haftalık çıkış serisini 301 milyon dolarlık geri dönüşle kırdı",
     "summary": "ABD spot Bitcoin ETF’leri, güçlü bir üç günlük başlangıcın yerini yoğun para çekimlerine bırakmasının ardından haftayı 301 milyon dolarlık net girişle tamamladı.",
     "url": "https://cointelegraph-tr.com/markets/bitcoin-etfs-rebound-weekly-inflow-301-million",
@@ -50,17 +50,17 @@
     "importance": 4
    },
    {
+    "title": "Bitcoin zayıflık belirtileri gösterirken Ripple'ın banka zaferi XRP'yi desteklemekte yetersiz kalıyor",
+    "summary": "Bitcoin zayıflık belirtileri gösterirken Ripple'ın banka zaferi XRP'yi desteklemekte yetersiz kalıyor.",
+    "url": "https://www.coindesk.com/daybook-us/2026/10/27/bitcoin-shows-signs-of-weakness-while-ripple-s-bank-win-fails-to-bolster-xrp",
+    "published": "2026-10-27T12:00:39Z",
+    "importance": 3
+   },
+   {
     "title": "2023'te yapay zeka dönüşü yapan yatırımcı, bitcoin'in 57.000 dolara düşeceğini söylüyor",
     "summary": "2023'te yapay zeka dönüşü çağrısı yapan bir yatırımcı, Bitcoin'in 57.000 dolara gerileyeceğini öngörüyor.",
     "url": "https://www.coindesk.com/markets/2026/10/27/investor-who-called-for-ai-pivot-in-2023-says-bitcoin-is-going-to-usd57-000",
     "published": "2026-10-27T10:57:51Z",
-    "importance": 3
-   },
-   {
-    "title": "Ark Invest, BTC gerilerken 5,2 milyon dolarlık Circle hissesi aldı, kendi Bitcoin ETF'inden 15,9 milyon dolarlık satış yaptı",
-    "summary": "BTC 80.000 doların altına gerilerken Ark Invest fon ağırlıklarını yeniden dengeledi. Bu kapsamda Circle hisseleri satın alırken Bitcoin ETF varlıklarını azalttı.",
-    "url": "https://www.theblock.co/news/markets/2026-10-27-ark-invest-buys-5-2-million-of-circle-shares-sells-15-9-million-of-its-own-bitcoin-etf-as-btc-grinds-lower-431838",
-    "published": "2026-10-27T10:57:34Z",
     "importance": 3
    }
   ],
@@ -126,13 +126,17 @@
     "url": "https://www.theblock.co/news/business/2026-10-26-aviva-investors-ripple-tokenized-share-class-sterling-fund-xrp-ledger-431712",
     "published": "2026-10-26T11:34:12Z",
     "importance": 4
+   },
+   {
+    "title": "Bitcoin zayıflık belirtileri gösterirken Ripple'ın banka zaferi XRP'yi desteklemekte yetersiz kalıyor",
+    "summary": "Bitcoin zayıflık belirtileri gösterirken Ripple'ın banka zaferi XRP'yi desteklemekte yetersiz kalıyor.",
+    "url": "https://www.coindesk.com/daybook-us/2026/10/27/bitcoin-shows-signs-of-weakness-while-ripple-s-bank-win-fails-to-bolster-xrp",
+    "published": "2026-10-27T12:00:39Z",
+    "importance": 3
    }
   ]
  },
  "seen": {
-  "https://www.theblock.co/news/markets/2026-10-23-bitcoin-etfs-swing-back-to-net-outflows-erase-previous-day-inflows-426483": 1792755658.4655561,
-  "https://www.coindesk.com/daybook-us/2026/10/23/bitcoin-s-volatility-is-well-above-euro-dollar-gyrations-though-it-has-calmed-to-rival-nvidia-s": 1792755658.4655561,
-  "https://www.coindesk.com/markets/2026/10/23/live-updates-bitcoin-holds-above-usd81-000-as-the-ai-rout-fades-and-oil-climbs": 1792755658.4655561,
   "https://cointelegraph-tr.com/news/new-york-ag-novatech-founders-companies-crypto-ponzi": 1792759217.6680236,
   "https://cointelegraph-tr.com/markets/bitcoin-consolidates-after-3-loss-as-ai-fears-stoke-fresh-stock-market-weakness": 1792759217.6680236,
   "https://cointelegraph-tr.com/news/self-custody-crypto-beginners-mainstream-adoption": 1792759217.6680236,
@@ -217,7 +221,13 @@
   "https://cointelegraph-tr.com/news/zcash-co-founder-ending-zcg-funding-125m": 1793096176.775684,
   "https://www.coindesk.com/markets/2026/10/27/now-is-the-time-to-accumulate-bitcoin-galaxy-says": 1793096176.775684,
   "https://www.coindesk.com/markets/2026/10/27/investor-who-called-for-ai-pivot-in-2023-says-bitcoin-is-going-to-usd57-000": 1793099631.152238,
-  "https://www.theblock.co/news/markets/2026-10-27-ark-invest-buys-5-2-million-of-circle-shares-sells-15-9-million-of-its-own-bitcoin-etf-as-btc-grinds-lower-431838": 1793099631.152238
+  "https://www.theblock.co/news/markets/2026-10-27-ark-invest-buys-5-2-million-of-circle-shares-sells-15-9-million-of-its-own-bitcoin-etf-as-btc-grinds-lower-431838": 1793099631.152238,
+  "https://www.theblock.co/news/ecosystems/2026-10-27-zcash-co-founder-proposes-ending-grants-subsidy-citing-125-million-treasury-431847": 1793103103.290208,
+  "https://www.coindesk.com/daybook-us/2026/10/27/bitcoin-shows-signs-of-weakness-while-ripple-s-bank-win-fails-to-bolster-xrp": 1793103103.290208,
+  "https://www.coindesk.com/tech/2026/10/27/live-updates-bitcoin-holds-below-usd80-000-as-ai-buildout-draws-more-capital": 1793103103.290208,
+  "https://www.coindesk.com/business/2026/10/27/japan-s-top-yen-stablecoin-falls-short-of-its-target-in-a-disappointing-first-year": 1793103103.290208,
+  "https://www.coindesk.com/markets/2026/10/27/bitcoin-drops-below-usd80-000-as-crypto-ignores-asian-tech-rally-fed-meeting-begins": 1793103103.290208,
+  "https://www.coindesk.com/business/2026/10/27/crypto-wallet-maker-keystone-to-destroy-almost-19-000-devices-after-security-breach": 1793103103.290208
  },
  "tries": {}
 }
