@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-28T13:59:25Z",
+ "updated": "2026-10-28T14:55:38Z",
  "sources": [
   "coindesk.com",
   "cointelegraph-tr.com",
@@ -171,8 +171,6 @@
   ]
  },
  "seen": {
-  "https://www.coindesk.com/business/2026/10/24/wells-fargo-cisco-marvell-among-latest-firms-objecting-to-okxice-s-tokenized-stock-plan": 1792852260.3495991,
-  "https://www.coindesk.com/": 1792852260.3495991,
   "https://www.coindesk.com/business/2026/10/23/why-mcdonalds-microsoft-and-google-saying-no-to-tokenized-stocks-isn-t-a-dealbreaker": 1792854061.1944704,
   "https://www.coindesk.com/business/2026/10/24/argentina-drops-criminal-probe-into-president-milei-over-crashed-memecoin-libra": 1792854061.1944704,
   "https://www.coindesk.com/tech/2026/10/24/block-s-new-voice-ai-sounds-eerily-human-sparking-awe-and-scam-fears": 1792855868.8778293,
@@ -301,7 +299,8 @@
   "https://cointelegraph-tr.com/news/dtcc-subsidiary-launches-tokenization-services": 1793195965.8099918,
   "https://www.coindesk.com/business/2026/10/28/wall-street-backbone-dtcc-brings-usd30-trillion-securities-closer-to-blockchain-with-major-banks": 1793195965.8099918,
   "https://www.theblock.co/news/business/2026-10-28-ripple-900-million-revenue-run-rate-rlusd-431920": 1793195965.8099918,
-  "https://www.coindesk.com/business/2026/10/28/jpmorgan-coca-cola-dell-also-say-no-to-okx-ice-tokenized-tock-trading-plan": 1793195965.8099918
+  "https://www.coindesk.com/business/2026/10/28/jpmorgan-coca-cola-dell-also-say-no-to-okx-ice-tokenized-tock-trading-plan": 1793195965.8099918,
+  "https://www.theblock.co/news/regulation/2026-10-28-crypto-braces-for-potential-shift-in-congressional-oversight-after-midterms-431949": 1793199338.2973864
  },
  "tries": {}
 }
