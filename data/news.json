@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-28T15:53:19Z",
+ "updated": "2026-10-28T16:52:21Z",
  "sources": [
   "coindesk.com",
   "cointelegraph-tr.com",
@@ -43,6 +43,13 @@
     "importance": 4
    },
    {
+    "title": "Bitwise Bitcoin fiyat hedefini 2036 yılına kadar 1,6 milyon dolara yükseltti, yıllık %34 getiri öngörüyor",
+    "summary": "Bitwise'ın düşüş senaryosu 2036 yılına kadar bitcoin'i 130.686 dolara koyarken, yükseliş senaryosu önümüzdeki on yılda 3,67 milyon dolara ulaşıyor.",
+    "url": "https://www.theblock.co/news/markets/2026-10-28-bitwise-raises-bitcoin-price-target-to-1-6-million-by-2036-projects-34-annualized-returns-432010",
+    "published": "2026-10-28T16:07:08Z",
+    "importance": 3
+   },
+   {
     "title": "Google Cloud, kurumsal Bitcoin saklama için MPC hizmetini ana hatlarıyla açıkladı",
     "summary": "Google Cloud, New York'ta düzenlediği dijital varlık güvenliği sempozyumunda kurumsal Bitcoin saklama için önizleme aşamasında olan MPC hizmetinin ayrıntılarını paylaştı.",
     "url": "https://cointelegraph-tr.com/news/google-cloud-mpc-service-bitcoin-custody",
@@ -54,13 +61,6 @@
     "summary": "Bitcoin 81.000 doların üzerine toparlanırken, pepe %9 oranında artış gösterdi.",
     "url": "https://www.coindesk.com/markets/2026/10/28/bitcoin-rebounds-above-usd81-000-as-asian-chip-rally-spills-into-crypto-pepe-jumps-9",
     "published": "2026-10-28T11:32:31Z",
-    "importance": 3
-   },
-   {
-    "title": "Bitcoin hazine şirketi Datavault AI, BTC'sine erişemediğini söylemesinin ardından yüzde 50 düştü",
-    "summary": "Bitcoin hazine şirketi Datavault AI, Bitcoin'lerine erişemediğini açıklamasının ardından yüzde 50 değer kaybetti.",
-    "url": "https://www.coindesk.com/markets/2026/10/28/bitcoin-treasury-datavault-ai-plunges-50-after-firm-says-it-can-t-access-its-btc",
-    "published": "2026-10-28T05:28:13Z",
     "importance": 3
    }
   ],
@@ -171,8 +171,6 @@
   ]
  },
  "seen": {
-  "https://www.coindesk.com/business/2026/10/24/strategy-strive-face-balancing-act-between-bitcoin-buying-and-preferred-stock-dividends": 1792857715.285509,
-  "https://www.theblock.co/news/regulation/2026-10-24-argentine-judge-clears-milei-and-10-others-in-libra-case-finding-no-criminally-relevant-deception-431606": 1792859527.2225199,
   "https://www.theblock.co/news/markets/2026-10-24-crypto-longs-lose-404-million-in-four-hours-as-bitcoin-briefly-slips-below-80000-431608": 1792864692.1849716,
   "https://www.coindesk.com/business/2026/10/24/bitcoin-s-wealthy-holders-turning-to-loans-and-yield-as-investment-habits-mature-xapo-ceo": 1792864692.1849716,
   "https://cointelegraph-tr.com/news/netanyahu-floats-use-of-blockchain-as-solution-to-potential-financial-sanctions": 1792929673.2502074,
@@ -297,7 +295,11 @@
   "https://www.theblock.co/news/business/2026-10-28-ripple-900-million-revenue-run-rate-rlusd-431920": 1793195965.8099918,
   "https://www.coindesk.com/business/2026/10/28/jpmorgan-coca-cola-dell-also-say-no-to-okx-ice-tokenized-tock-trading-plan": 1793195965.8099918,
   "https://www.theblock.co/news/regulation/2026-10-28-crypto-braces-for-potential-shift-in-congressional-oversight-after-midterms-431949": 1793199338.2973864,
-  "https://www.theblock.co/news/defi/2026-10-28-avail-launches-shieldtx-privacy-tool-targeting-copy-trading-bots-on-hyperliquid-431977": 1793202799.7234278
+  "https://www.theblock.co/news/defi/2026-10-28-avail-launches-shieldtx-privacy-tool-targeting-copy-trading-bots-on-hyperliquid-431977": 1793202799.7234278,
+  "https://cointelegraph-tr.com/news/phantom-launches-kalshi-powered-prediction-markets-for-us-users": 1793206341.648012,
+  "https://www.theblock.co/news/markets/2026-10-28-bitwise-raises-bitcoin-price-target-to-1-6-million-by-2036-projects-34-annualized-returns-432010": 1793206341.648012,
+  "https://www.coindesk.com/coindesk-indices/2026/10/28/crypto-long-and-short-what-happens-when-an-ai-agent-pays-for-the-wrong-thing": 1793206341.648012,
+  "https://www.theblock.co/news/business/2026-10-28-coinbase-adds-ripple-rlusd-stablecoin-432009": 1793206341.648012
  },
  "tries": {}
 }
