@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-28T10:47:19Z",
+ "updated": "2026-10-28T11:43:52Z",
  "sources": [
   "coindesk.com",
   "cointelegraph-tr.com",
@@ -7,6 +7,13 @@
  ],
  "bySymbol": {
   "BTC": [
+   {
+    "title": "Fed kararı öncesinde majör kripto paralar yükselirken Bitcoin 81.000 doları aştı",
+    "summary": "Fed kararı öncesinde büyük kripto paralar yükseliş yaşarken Bitcoin 81.000 doların üzerine çıktı.",
+    "url": "https://www.coindesk.com/business/2026/10/28/live-updates-bitcoin-climbs-above-usd81-000-as-majors-rally-ahead-of-fed-decision",
+    "published": "2026-10-28T11:23:34Z",
+    "importance": 4
+   },
    {
     "title": "Bitcoin fiyatı 82.000 doları hedefliyor; Morgan Stanley stratejisti düzeltmenin büyük bölümünün sona erdiğini söylüyor",
     "summary": "Bitcoin, Asya ve ABD teknoloji hisseleri önemli şirket bilançolarının açıklanmasına doğru toparlanmayı sürdürürken 80.000 dolar seviyesindeki desteği yeniden oluşturmaya çalıştı.",
@@ -43,24 +50,17 @@
     "importance": 4
    },
    {
+    "title": "Bitcoin 81.000 doların üzerine yükselirken Pepe %9 artış yaşadı",
+    "summary": "Bitcoin 81.000 doların üzerine toparlanırken, pepe %9 oranında artış gösterdi.",
+    "url": "https://www.coindesk.com/markets/2026/10/28/bitcoin-rebounds-above-usd81-000-as-asian-chip-rally-spills-into-crypto-pepe-jumps-9",
+    "published": "2026-10-28T11:32:31Z",
+    "importance": 3
+   },
+   {
     "title": "Bitcoin hazine şirketi Datavault AI, BTC'sine erişemediğini söylemesinin ardından yüzde 50 düştü",
     "summary": "Bitcoin hazine şirketi Datavault AI, Bitcoin'lerine erişemediğini açıklamasının ardından yüzde 50 değer kaybetti.",
     "url": "https://www.coindesk.com/markets/2026/10/28/bitcoin-treasury-datavault-ai-plunges-50-after-firm-says-it-can-t-access-its-btc",
     "published": "2026-10-28T05:28:13Z",
-    "importance": 3
-   },
-   {
-    "title": "Fed kararı öncesinde Bitcoin 81.000 dolara yaklaşırken ZEC %8 sıçrama yaptı",
-    "summary": "Fed kararı öncesinde Bitcoin 81.000 dolara yaklaşırken ZEC %8 sıçrama yaptı",
-    "url": "https://www.coindesk.com/markets/2026/10/28/bitcoin-nears-usd81-000-ahead-of-fed-decision-as-zec-jumps-8",
-    "published": "2026-10-28T04:15:20Z",
-    "importance": 3
-   },
-   {
-    "title": "Kuantum korkuları Bitcoin’in büyümesini şimdiden sınırlıyor, diyor Stacks kurucusu",
-    "summary": "Muneeb Ali, Bitcoin’in kuantum güvenliği konusundaki belirsizliğin kurumsal yatırımcıları caydırabileceği uyarısında bulundu.",
-    "url": "https://cointelegraph-tr.com/news/quantum-fears-already-limiting-bitcoins-growth-stacks-founder-says",
-    "published": "2026-10-27T20:33:19Z",
     "importance": 3
    }
   ],
@@ -77,6 +77,15 @@
     "summary": "Ethereum, stake depozitolarını builder'lara gönderebilecek Glamsterdam hatasını düzeltti.",
     "url": "https://www.coindesk.com/tech/2026/10/27/ethereum-fixes-glamsterdam-bug-that-could-have-sent-staking-deposits-to-builders",
     "published": "2026-10-27T07:09:56Z",
+    "importance": 3
+   }
+  ],
+  "PEPE": [
+   {
+    "title": "Bitcoin 81.000 doların üzerine yükselirken Pepe %9 artış yaşadı",
+    "summary": "Bitcoin 81.000 doların üzerine toparlanırken, pepe %9 oranında artış gösterdi.",
+    "url": "https://www.coindesk.com/markets/2026/10/28/bitcoin-rebounds-above-usd81-000-as-asian-chip-rally-spills-into-crypto-pepe-jumps-9",
+    "published": "2026-10-28T11:32:31Z",
     "importance": 3
    }
   ],
@@ -282,7 +291,10 @@
   "https://www.coindesk.com/business/2026/10/28/nearly-90-of-large-businesses-are-embracing-tokenized-cash-to-speed-up-payments-dbs": 1793184439.8703692,
   "https://www.coindesk.com/policy/2026/10/28/brazil-s-largest-lender-becomes-first-bank-to-formalize-crypto-brokerage-under-new-rules": 1793184439.8703692,
   "https://www.coindesk.com/markets/2026/10/28/kospi-surges-7-as-sk-hynix-earnings-fuel-ai-stock-rebound": 1793184439.8703692,
-  "https://cointelegraph-tr.com/markets/bitcoin-price-eyes-82k-as-morgan-stanley-strategist-says-most-of-correction-is-over": 1793184439.8703692
+  "https://cointelegraph-tr.com/markets/bitcoin-price-eyes-82k-as-morgan-stanley-strategist-says-most-of-correction-is-over": 1793184439.8703692,
+  "https://www.coindesk.com/markets/2026/10/28/bitcoin-rebounds-above-usd81-000-as-asian-chip-rally-spills-into-crypto-pepe-jumps-9": 1793187832.0342815,
+  "https://www.coindesk.com/business/2026/10/28/live-updates-bitcoin-climbs-above-usd81-000-as-majors-rally-ahead-of-fed-decision": 1793187832.0342815,
+  "https://www.coindesk.com/tech/2026/10/28/google-to-preview-crypto-custody-security-system-as-ai-threats-grow": 1793187832.0342815
  },
  "tries": {}
 }
