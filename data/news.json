@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-28T01:56:27Z",
+ "updated": "2026-10-28T02:48:00Z",
  "sources": [
   "coindesk.com",
   "cointelegraph-tr.com",
@@ -63,13 +63,6 @@
     "summary": "Ethereum, stake depozitolarını builder'lara gönderebilecek Glamsterdam hatasını düzeltti.",
     "url": "https://www.coindesk.com/tech/2026/10/27/ethereum-fixes-glamsterdam-bug-that-could-have-sent-staking-deposits-to-builders",
     "published": "2026-10-27T07:09:56Z",
-    "importance": 3
-   },
-   {
-    "title": "Tom Lee, Bitmine 10.452 ETH eklerken 'kripto boğa piyasasının devam ettiğini' vurguluyor",
-    "summary": "Tom Lee kripto boğa piyasasının devam ettiğini belirtirken, şirket 25 Ekim itibarıyla toplam 15 milyar dolar değerinde kripto, nakit, pazarlanabilir menkul kıymet ve diğer yatırımlara ulaştı.",
-    "url": "https://www.theblock.co/news/business/2026-10-26-tom-lee-insists-crypto-bull-market-is-underway-as-bitmine-adds-10452-eth-431743",
-    "published": "2026-10-26T14:12:59Z",
     "importance": 3
    },
    {
@@ -267,7 +260,8 @@
   "https://cointelegraph-tr.com/news/quantum-fears-already-limiting-bitcoins-growth-stacks-founder-says": 1793135462.2199974,
   "https://www.coindesk.com/markets/2026/10/27/robinhood-s-crypto-revenue-plunges-55-even-as-trading-platform-posts-record-sales": 1793135462.2199974,
   "https://cointelegraph-tr.com/news/vaneck-launches-diversified-etf-combining-stocks-bonds-and-bitcoin-exposure": 1793139050.4370103,
-  "https://cointelegraph-tr.com/news/intel-ibm-oracle-ionq-object-okx-ice-tokenized-stocks": 1793139050.4370103
+  "https://cointelegraph-tr.com/news/intel-ibm-oracle-ionq-object-okx-ice-tokenized-stocks": 1793139050.4370103,
+  "https://cointelegraph-tr.com/news/bithumb-discloses-data-leak-after-internal-system-breach-report": 1793155680.5671952
  },
  "tries": {}
 }
