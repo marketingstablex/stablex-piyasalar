@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-28T09:50:31Z",
+ "updated": "2026-10-28T10:47:19Z",
  "sources": [
   "coindesk.com",
   "cointelegraph-tr.com",
@@ -7,6 +7,13 @@
  ],
  "bySymbol": {
   "BTC": [
+   {
+    "title": "Bitcoin fiyatı 82.000 doları hedefliyor; Morgan Stanley stratejisti düzeltmenin büyük bölümünün sona erdiğini söylüyor",
+    "summary": "Bitcoin, Asya ve ABD teknoloji hisseleri önemli şirket bilançolarının açıklanmasına doğru toparlanmayı sürdürürken 80.000 dolar seviyesindeki desteği yeniden oluşturmaya çalıştı.",
+    "url": "https://cointelegraph-tr.com/markets/bitcoin-price-eyes-82k-as-morgan-stanley-strategist-says-most-of-correction-is-over",
+    "published": "2026-10-28T09:55:29Z",
+    "importance": 4
+   },
    {
     "title": "BTC 80 bin doların üzerine çıkarken Bitcoin ETF girişleri 176 milyon dolara yükseldi",
     "summary": "ABD spot Bitcoin ETF'leri iki günde 286 milyon dolar çekerek, Kripto Korku ve Açgözlülük Endeksi nötr kalırken ekim ayındaki net çıkışları 26 milyon dolara indirdi.",
@@ -54,13 +61,6 @@
     "summary": "Muneeb Ali, Bitcoin’in kuantum güvenliği konusundaki belirsizliğin kurumsal yatırımcıları caydırabileceği uyarısında bulundu.",
     "url": "https://cointelegraph-tr.com/news/quantum-fears-already-limiting-bitcoins-growth-stacks-founder-says",
     "published": "2026-10-27T20:33:19Z",
-    "importance": 3
-   },
-   {
-    "title": "Bitcoin madencilik altyapı firması Luxor, yapay zeka işini büyütmek için 16 milyon dolar topladı",
-    "summary": "Bitcoin madencilik altyapı firması Luxor, yapay zeka işini büyütmek amacıyla 16 milyon dolar yatırım topladı. Şirket, yıl sonuna kadar yaklaşık 12 kişi işe almayı planlıyor.",
-    "url": "https://www.theblock.co/news/deals/2026-10-27-bitcoin-mining-ai-luxor-technology-funding-431858",
-    "published": "2026-10-27T14:32:08Z",
     "importance": 3
    }
   ],
@@ -278,7 +278,11 @@
   "https://cointelegraph-tr.com/markets/bitcoin-etf-176-million-inflow-sentiment-rebounds": 1793177559.0774345,
   "https://www.coindesk.com/markets/2026/10/28/bitcoin-averages-over-50-in-the-12-months-after-midterms-s-and-p-500-gains-15": 1793181031.8693404,
   "https://www.theblock.co/news/web3/2026-10-28-moodys-ripple-rlusd-stablecoin-431969": 1793181031.8693404,
-  "https://www.coindesk.com/business/2026/10/28/securitize-adds-stellar-blockchain-as-institutional-tokenization-gathers-steam": 1793181031.8693404
+  "https://www.coindesk.com/business/2026/10/28/securitize-adds-stellar-blockchain-as-institutional-tokenization-gathers-steam": 1793181031.8693404,
+  "https://www.coindesk.com/business/2026/10/28/nearly-90-of-large-businesses-are-embracing-tokenized-cash-to-speed-up-payments-dbs": 1793184439.8703692,
+  "https://www.coindesk.com/policy/2026/10/28/brazil-s-largest-lender-becomes-first-bank-to-formalize-crypto-brokerage-under-new-rules": 1793184439.8703692,
+  "https://www.coindesk.com/markets/2026/10/28/kospi-surges-7-as-sk-hynix-earnings-fuel-ai-stock-rebound": 1793184439.8703692,
+  "https://cointelegraph-tr.com/markets/bitcoin-price-eyes-82k-as-morgan-stanley-strategist-says-most-of-correction-is-over": 1793184439.8703692
  },
  "tries": {}
 }
