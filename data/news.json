@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-28T12:53:58Z",
+ "updated": "2026-10-28T13:59:25Z",
  "sources": [
   "coindesk.com",
   "cointelegraph-tr.com",
@@ -41,6 +41,13 @@
     "url": "https://cointelegraph-tr.com/markets/bitcoin-etf-rebound-110-million-btc-dip-below-80k",
     "published": "2026-10-27T07:35:37Z",
     "importance": 4
+   },
+   {
+    "title": "Google Cloud, kurumsal Bitcoin saklama için MPC hizmetini ana hatlarıyla açıkladı",
+    "summary": "Google Cloud, New York'ta düzenlediği dijital varlık güvenliği sempozyumunda kurumsal Bitcoin saklama için önizleme aşamasında olan MPC hizmetinin ayrıntılarını paylaştı.",
+    "url": "https://cointelegraph-tr.com/news/google-cloud-mpc-service-bitcoin-custody",
+    "published": "2026-10-28T13:47:51Z",
+    "importance": 3
    },
    {
     "title": "Bitcoin 81.000 doların üzerine yükselirken Pepe %9 artış yaşadı",
@@ -288,7 +295,13 @@
   "https://www.coindesk.com/business/2026/10/28/live-updates-bitcoin-climbs-above-usd81-000-as-majors-rally-ahead-of-fed-decision": 1793187832.0342815,
   "https://www.coindesk.com/tech/2026/10/28/google-to-preview-crypto-custody-security-system-as-ai-threats-grow": 1793187832.0342815,
   "https://www.coindesk.com/daybook-us/2026/10/28/dissent-and-more-3-things-to-watch-for-at-the-fed-meeting": 1793192038.508918,
-  "https://www.coindesk.com/tech/2026/10/28/xrp-ledger-developers-propose-creating-wallets-with-zero-xrp-for-stablecoin-payments": 1793192038.508918
+  "https://www.coindesk.com/tech/2026/10/28/xrp-ledger-developers-propose-creating-wallets-with-zero-xrp-for-stablecoin-payments": 1793192038.508918,
+  "https://cointelegraph-tr.com/news/google-cloud-mpc-service-bitcoin-custody": 1793195965.8099918,
+  "https://cointelegraph-tr.com/magazine/cybersecuritys-black-october-how-to-protect-yourself": 1793195965.8099918,
+  "https://cointelegraph-tr.com/news/dtcc-subsidiary-launches-tokenization-services": 1793195965.8099918,
+  "https://www.coindesk.com/business/2026/10/28/wall-street-backbone-dtcc-brings-usd30-trillion-securities-closer-to-blockchain-with-major-banks": 1793195965.8099918,
+  "https://www.theblock.co/news/business/2026-10-28-ripple-900-million-revenue-run-rate-rlusd-431920": 1793195965.8099918,
+  "https://www.coindesk.com/business/2026/10/28/jpmorgan-coca-cola-dell-also-say-no-to-okx-ice-tokenized-tock-trading-plan": 1793195965.8099918
  },
  "tries": {}
 }
