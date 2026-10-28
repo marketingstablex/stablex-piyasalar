@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-28T08:52:39Z",
+ "updated": "2026-10-28T09:50:31Z",
  "sources": [
   "coindesk.com",
   "cointelegraph-tr.com",
@@ -275,7 +275,10 @@
   "https://www.coindesk.com/markets/2026/10/28/bitcoin-treasury-datavault-ai-plunges-50-after-firm-says-it-can-t-access-its-btc": 1793166266.5231442,
   "https://www.coindesk.com/tech/2026/10/28/bithumb-hacked-through-employee-system-as-south-korean-financial-firms-face-cyberattacks": 1793166266.5231442,
   "https://cointelegraph-tr.com/news/coinbase-analytics-provider-customer-data": 1793174337.4237728,
-  "https://cointelegraph-tr.com/markets/bitcoin-etf-176-million-inflow-sentiment-rebounds": 1793177559.0774345
+  "https://cointelegraph-tr.com/markets/bitcoin-etf-176-million-inflow-sentiment-rebounds": 1793177559.0774345,
+  "https://www.coindesk.com/markets/2026/10/28/bitcoin-averages-over-50-in-the-12-months-after-midterms-s-and-p-500-gains-15": 1793181031.8693404,
+  "https://www.theblock.co/news/web3/2026-10-28-moodys-ripple-rlusd-stablecoin-431969": 1793181031.8693404,
+  "https://www.coindesk.com/business/2026/10/28/securitize-adds-stellar-blockchain-as-institutional-tokenization-gathers-steam": 1793181031.8693404
  },
  "tries": {}
 }
