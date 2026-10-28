@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-28T20:43:31Z",
+ "updated": "2026-10-28T21:41:51Z",
  "sources": [
   "coindesk.com",
   "cointelegraph-tr.com",
@@ -34,6 +34,13 @@
     "url": "https://www.coindesk.com/markets/2026/10/27/bitcoin-drops-below-usd80-000-as-crypto-ignores-asian-tech-rally-fed-meeting-begins",
     "published": "2026-10-27T11:32:45Z",
     "importance": 4
+   },
+   {
+    "title": "Kanada'da Bitcoin destekli mortgage'lar geliyor ancak borçlular hala maliyetin farkında değil",
+    "summary": "Kanada'da Bitcoin destekli mortgage'lar geliyor ancak borçlular hala maliyetin farkında değil.",
+    "url": "https://www.coindesk.com/markets/2026/10/28/bitcoin-backed-mortgages-are-coming-to-canada-but-borrowers-are-still-unaware-of-the-cost",
+    "published": "2026-10-28T21:13:44Z",
+    "importance": 3
    },
    {
     "title": "Strategy hissedarları dört ayrıcalıklı hisse için günlük temettüleri onayladı",
@@ -277,7 +284,9 @@
   "https://cointelegraph-tr.com/news/strategy-shareholders-approve-daily-dividends-for-four-preferred-stocks": 1793213338.3156362,
   "https://www.coindesk.com/markets/2026/10/28/fed-leaves-interest-rates-unchanged-as-expected": 1793213338.3156362,
   "https://cointelegraph-tr.com/news/sam-bankman-fried-actor-anthony-boyle-netflix": 1793216903.87593,
-  "https://www.coindesk.com/policy/2026/10/28/cftc-chief-poses-questions-about-policing-ai-but-calls-it-a-road-to-autonomous-trading": 1793216903.87593
+  "https://www.coindesk.com/policy/2026/10/28/cftc-chief-poses-questions-about-policing-ai-but-calls-it-a-road-to-autonomous-trading": 1793216903.87593,
+  "https://cointelegraph-tr.com/news/canada-crypto-king-jury-criminal-trial-closing": 1793223711.8866024,
+  "https://www.coindesk.com/markets/2026/10/28/bitcoin-backed-mortgages-are-coming-to-canada-but-borrowers-are-still-unaware-of-the-cost": 1793223711.8866024
  },
  "tries": {}
 }
