@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-28T17:47:11Z",
+ "updated": "2026-10-28T18:48:58Z",
  "sources": [
   "coindesk.com",
   "cointelegraph-tr.com",
@@ -43,6 +43,13 @@
     "importance": 4
    },
    {
+    "title": "Strategy hissedarları dört ayrıcalıklı hisse için günlük temettüleri onayladı",
+    "summary": "En büyük Bitcoin hazinesine sahip şirket, STRC için günlük temettü ödemelerine kasım ayında başlayacak. Diğer üç ayrıcalıklı menkul kıymet ise bu ödemeleri ocak 2027'de izleyecek.",
+    "url": "https://cointelegraph-tr.com/news/strategy-shareholders-approve-daily-dividends-for-four-preferred-stocks",
+    "published": "2026-10-28T18:00:54Z",
+    "importance": 3
+   },
+   {
     "title": "Bitcoin fiyatındaki sıçrama, FOMC ve bilançolar öncesinde 50 günlük trend çizgisinde reddedildi",
     "summary": "Piyasa katılımcıları FOMC toplantısının sonucunu ve önemli teknoloji şirketlerinin bilançolarını beklerken Bitcoin, 50 günlük basit hareketli ortalamasını aşmayı başaramadı.",
     "url": "https://cointelegraph-tr.com/markets/bitcoin-price-bounce-rejected-at-50-day-trend-line-ahead-of-fomc-earnings",
@@ -54,13 +61,6 @@
     "summary": "Bitwise'ın düşüş senaryosu 2036 yılına kadar bitcoin'i 130.686 dolara koyarken, yükseliş senaryosu önümüzdeki on yılda 3,67 milyon dolara ulaşıyor.",
     "url": "https://www.theblock.co/news/markets/2026-10-28-bitwise-raises-bitcoin-price-target-to-1-6-million-by-2036-projects-34-annualized-returns-432010",
     "published": "2026-10-28T16:07:08Z",
-    "importance": 3
-   },
-   {
-    "title": "Google Cloud, kurumsal Bitcoin saklama için MPC hizmetini ana hatlarıyla açıkladı",
-    "summary": "Google Cloud, New York'ta düzenlediği dijital varlık güvenliği sempozyumunda kurumsal Bitcoin saklama için önizleme aşamasında olan MPC hizmetinin ayrıntılarını paylaştı.",
-    "url": "https://cointelegraph-tr.com/news/google-cloud-mpc-service-bitcoin-custody",
-    "published": "2026-10-28T13:47:51Z",
     "importance": 3
    }
   ],
@@ -121,13 +121,6 @@
     "url": "https://cointelegraph-tr.com/news/usdc-overtakes-usdt-euro-stablecoin-trading-mica-kaiko",
     "published": "2026-10-27T15:59:58Z",
     "importance": 4
-   },
-   {
-    "title": "Mizuho'ya göre Circle, yapay zeka ajanları nedeniyle yüzde 20'ye varan gelir riskiyle karşı karşıya",
-    "summary": "Mizuho, yapay zeka ajanlarının USDC sahiplerini daha yüksek getirili fiat alternatiflerine yönlendirmesi nedeniyle orta vadede yüzde 10 ila 20 arasında rezerv geliri düşüş riski bulunduğunu belirtti.",
-    "url": "https://www.theblock.co/news/business/2026-10-27-mizuho-cuts-circle-price-target-431826",
-    "published": "2026-10-27T06:28:34Z",
-    "importance": 3
    }
   ],
   "USDT": [
@@ -171,8 +164,6 @@
   ]
  },
  "seen": {
-  "https://www.theblock.co/news/markets/2026-10-24-crypto-longs-lose-404-million-in-four-hours-as-bitcoin-briefly-slips-below-80000-431608": 1792864692.1849716,
-  "https://www.coindesk.com/business/2026/10/24/bitcoin-s-wealthy-holders-turning-to-loans-and-yield-as-investment-habits-mature-xapo-ceo": 1792864692.1849716,
   "https://cointelegraph-tr.com/news/netanyahu-floats-use-of-blockchain-as-solution-to-potential-financial-sanctions": 1792929673.2502074,
   "https://www.coindesk.com/policy/2026/10/22/uk-banks-face-10-000-complaints-in-3-months-over-crypto-restrictions": 1792935213.4023223,
   "https://www.coindesk.com/business/2026/10/25/latvia-targets-tokenization-rules-in-2027-with-commercial-property-in-focus": 1792940477.9817636,
@@ -302,7 +293,10 @@
   "https://www.theblock.co/news/business/2026-10-28-coinbase-adds-ripple-rlusd-stablecoin-432009": 1793206341.648012,
   "https://www.theblock.co/news/business/2026-10-28-robinhood-earnings-miss-crypto-weakness-wall-street-bullish-outlook-432011": 1793209631.533251,
   "https://www.coindesk.com/markets/2026/10/28/coinbase-earnings-wall-street-divided-on-trading-rebound-as-robinhood-crypto-revenue-sinks-55": 1793209631.533251,
-  "https://cointelegraph-tr.com/markets/bitcoin-price-bounce-rejected-at-50-day-trend-line-ahead-of-fomc-earnings": 1793209631.533251
+  "https://cointelegraph-tr.com/markets/bitcoin-price-bounce-rejected-at-50-day-trend-line-ahead-of-fomc-earnings": 1793209631.533251,
+  "https://www.coindesk.com/opinion/2026/10/28/crypto-isn-t-a-partisan-fight-proven-by-data": 1793213338.3156362,
+  "https://cointelegraph-tr.com/news/strategy-shareholders-approve-daily-dividends-for-four-preferred-stocks": 1793213338.3156362,
+  "https://www.coindesk.com/markets/2026/10/28/fed-leaves-interest-rates-unchanged-as-expected": 1793213338.3156362
  },
  "tries": {}
 }
