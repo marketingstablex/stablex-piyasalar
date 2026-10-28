@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-28T11:43:52Z",
+ "updated": "2026-10-28T12:53:58Z",
  "sources": [
   "coindesk.com",
   "cointelegraph-tr.com",
@@ -7,13 +7,6 @@
  ],
  "bySymbol": {
   "BTC": [
-   {
-    "title": "Fed kararı öncesinde majör kripto paralar yükselirken Bitcoin 81.000 doları aştı",
-    "summary": "Fed kararı öncesinde büyük kripto paralar yükseliş yaşarken Bitcoin 81.000 doların üzerine çıktı.",
-    "url": "https://www.coindesk.com/business/2026/10/28/live-updates-bitcoin-climbs-above-usd81-000-as-majors-rally-ahead-of-fed-decision",
-    "published": "2026-10-28T11:23:34Z",
-    "importance": 4
-   },
    {
     "title": "Bitcoin fiyatı 82.000 doları hedefliyor; Morgan Stanley stratejisti düzeltmenin büyük bölümünün sona erdiğini söylüyor",
     "summary": "Bitcoin, Asya ve ABD teknoloji hisseleri önemli şirket bilançolarının açıklanmasına doğru toparlanmayı sürdürürken 80.000 dolar seviyesindeki desteği yeniden oluşturmaya çalıştı.",
@@ -141,11 +134,11 @@
   ],
   "XRP": [
    {
-    "title": "Ripple, ulusal trust bankası için nihai ABD onayını aldı",
-    "summary": "Ripple, ulusal trust bankası olmak için nihai ABD onayını aldı. Bu onay, şirketin RLUSD stablecoin'ini destekleyen rezervleri yönetmesini ve dijital varlık saklama hizmetleri sunmasını sağlayacak.",
-    "url": "https://cointelegraph-tr.com/news/ripple-wins-final-us-approval-for-national-trust-bank",
-    "published": "2026-10-27T00:06:41Z",
-    "importance": 4
+    "title": "XRP Ledger geliştiricileri, stablecoin ödemeleri için sıfır XRP ile cüzdan oluşturulmasını öneriyor",
+    "summary": "XRP Ledger geliştiricileri, stablecoin ödemeleri için sıfır XRP ile cüzdan oluşturulmasını öneriyor.",
+    "url": "https://www.coindesk.com/tech/2026/10/28/xrp-ledger-developers-propose-creating-wallets-with-zero-xrp-for-stablecoin-payments",
+    "published": "2026-10-28T11:52:14Z",
+    "importance": 3
    },
    {
     "title": "Ripple, RLUSD’yi bireysel ve kurumsal piyasalara sunmak için Robinhood ile ortaklığını genişletiyor",
@@ -171,7 +164,6 @@
   ]
  },
  "seen": {
-  "https://www.coindesk.com/policy/2026/10/24/u-s-clarity-act-failure-gives-asia-and-middle-east-a-competitive-edge-says-apex-group-ceo": 1792843297.6683614,
   "https://www.coindesk.com/business/2026/10/24/wells-fargo-cisco-marvell-among-latest-firms-objecting-to-okxice-s-tokenized-stock-plan": 1792852260.3495991,
   "https://www.coindesk.com/": 1792852260.3495991,
   "https://www.coindesk.com/business/2026/10/23/why-mcdonalds-microsoft-and-google-saying-no-to-tokenized-stocks-isn-t-a-dealbreaker": 1792854061.1944704,
@@ -294,7 +286,9 @@
   "https://cointelegraph-tr.com/markets/bitcoin-price-eyes-82k-as-morgan-stanley-strategist-says-most-of-correction-is-over": 1793184439.8703692,
   "https://www.coindesk.com/markets/2026/10/28/bitcoin-rebounds-above-usd81-000-as-asian-chip-rally-spills-into-crypto-pepe-jumps-9": 1793187832.0342815,
   "https://www.coindesk.com/business/2026/10/28/live-updates-bitcoin-climbs-above-usd81-000-as-majors-rally-ahead-of-fed-decision": 1793187832.0342815,
-  "https://www.coindesk.com/tech/2026/10/28/google-to-preview-crypto-custody-security-system-as-ai-threats-grow": 1793187832.0342815
+  "https://www.coindesk.com/tech/2026/10/28/google-to-preview-crypto-custody-security-system-as-ai-threats-grow": 1793187832.0342815,
+  "https://www.coindesk.com/daybook-us/2026/10/28/dissent-and-more-3-things-to-watch-for-at-the-fed-meeting": 1793192038.508918,
+  "https://www.coindesk.com/tech/2026/10/28/xrp-ledger-developers-propose-creating-wallets-with-zero-xrp-for-stablecoin-payments": 1793192038.508918
  },
  "tries": {}
 }
