@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-29T15:55:07Z",
+ "updated": "2026-10-29T16:54:46Z",
  "sources": [
   "coindesk.com",
   "cointelegraph-tr.com",
@@ -114,7 +114,23 @@
     "importance": 3
    }
   ],
+  "POL": [
+   {
+    "title": "Rakipten ortadağa: Polygon ve Solana, bankalara stablecoin ödemeleri getirmek için iş birliği yapıyor",
+    "summary": "Polygon ve Solana, bankalara stablecoin ödemeleri getirmek için ortaklık kuruyor.",
+    "url": "https://www.coindesk.com/business/2026/10/29/from-rivals-to-partners-polygon-and-solana-team-to-bring-stablecoin-payments-to-banks",
+    "published": "2026-10-29T16:35:43Z",
+    "importance": 4
+   }
+  ],
   "SOL": [
+   {
+    "title": "Rakipten ortadağa: Polygon ve Solana, bankalara stablecoin ödemeleri getirmek için iş birliği yapıyor",
+    "summary": "Polygon ve Solana, bankalara stablecoin ödemeleri getirmek için ortaklık kuruyor.",
+    "url": "https://www.coindesk.com/business/2026/10/29/from-rivals-to-partners-polygon-and-solana-team-to-bring-stablecoin-payments-to-banks",
+    "published": "2026-10-29T16:35:43Z",
+    "importance": 4
+   },
    {
     "title": "Polygon, Tron’un kullanıma sunulmasının ardından Açık Para Yığını’nı Solana’ya genişletiyor",
     "summary": "Bu hamle, Tron desteğinin eklenmesi ve Polygon’un Coinme’yi satın almasının ardından geldi.",
@@ -166,7 +182,6 @@
   ]
  },
  "seen": {
-  "https://www.theblock.co/news/business/2026-10-25-keystone-customers-say-breach-exposed-data-the-hardware-wallet-maker-promised-to-delete-431613": 1792944142.670254,
   "https://www.theblock.co/news/business/2026-10-25-coindcx-confirms-16-million-loss-from-retired-wallets-days-after-ceo-called-breach-reports-a-false-alarm-431617": 1792955233.940427,
   "https://cointelegraph-tr.com/news/hong-kong-names-nasdaq-listed-solana-company-a-strategic-enterprise": 1792985816.151512,
   "https://www.coindesk.com/markets/2026/10/26/elon-musk-confirms-usd40-billion-spacex-debt-deal-for-ai-chips-warns-of-neocloud-shakeout": 1792985816.151512,
@@ -344,7 +359,11 @@
   "https://www.theblock.co/news/defi/2026-10-29-uniswap-token-jar-tjar-robinhood-432131": 1793289307.9107125,
   "https://www.theblock.co/news/defi/2026-10-29-polygon-adds-solana-payment-stack-432115": 1793289307.9107125,
   "https://cointelegraph-tr.com/news/polygon-brings-open-money-stack-payments-services-to-solana": 1793289307.9107125,
-  "https://www.coindesk.com/opinion/2026/10/28/a-new-framework-for-tokenized-asset-tracking": 1793289307.9107125
+  "https://www.coindesk.com/opinion/2026/10/28/a-new-framework-for-tokenized-asset-tracking": 1793289307.9107125,
+  "https://www.coindesk.com/policy/2026/10/29/kucoin-exits-russia-and-belarus-as-crypto-exchanges-withdraw-from-western-sanctioned-markets": 1793292886.4721253,
+  "https://www.coindesk.com/business/2026/10/29/from-rivals-to-partners-polygon-and-solana-team-to-bring-stablecoin-payments-to-banks": 1793292886.4721253,
+  "https://cointelegraph-tr.com/news/canton-strategic-holdings-tokenized-stock-trading-november-2026": 1793292886.4721253,
+  "https://www.coindesk.com/policy/2026/10/29/crypto-exchange-htx-exits-the-uk-after-settling-with-the-fca": 1793292886.4721253
  },
  "tries": {
   "https://www.coindesk.com/markets/2026/10/29/the-chart-bitcoin-traders-should-be-paying-attention-to": 3,
