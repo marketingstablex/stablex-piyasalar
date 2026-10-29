@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-29T11:44:46Z",
+ "updated": "2026-10-29T12:54:45Z",
  "sources": [
   "coindesk.com",
   "cointelegraph-tr.com",
@@ -7,6 +7,13 @@
  ],
  "bySymbol": {
   "BTC": [
+   {
+    "title": "10 milyar dolarlık bitcoin opsiyonunun vadesi yaklaşırken, fiyatlamalardaki sinyaller dikkat çekiyor",
+    "summary": "10 milyar dolarlık bitcoin opsiyonunun vadesi yaklaşırken, fiyatlamalardaki sinyaller dikkat çekiyor.",
+    "url": "https://www.coindesk.com/daybook-us/2026/10/29/as-usd10-billion-in-bitcoin-options-near-expiry-the-tell-is-in-the-pricing",
+    "published": "2026-10-29T12:04:50Z",
+    "importance": 4
+   },
    {
     "title": "Bitcoin, Fed muhalefeti, Samsung ve Alphabet kazançları ile 80.000 dolara geriledi; yapay zeka token'ları düştü",
     "summary": "Bitcoin, Fed muhalefeti, Samsung ve Alphabet kazançları etkisiyle 80.000 dolara gerilerken yapay zeka token'ları düşüş yaşadı.",
@@ -50,17 +57,10 @@
     "importance": 4
    },
    {
-    "title": "Canlı güncellemeler: Bitcoin, kazançlar öncesinde Strategy'nin tamponu incelirken 80.000 dolara tutunuyor",
-    "summary": "Bitcoin, şirket kazançları öncesinde 80.000 dolar seviyesinde tutunmaya devam ediyor.",
-    "url": "https://www.coindesk.com/business/2026/10/29/live-updates-bitcoin-clings-to-usd80-000-as-strategy-s-cushion-thins-before-earnings",
-    "published": "2026-10-29T10:41:39Z",
-    "importance": 3
-   },
-   {
-    "title": "Tayland Yüksek Mahkemesi, bir hırsızın mahkumiyete itiraz etmesinin ardından Bitcoin'in mülk olduğuna hükmetti",
-    "summary": "Tayland Yüksek Mahkemesi, bir hırsızın mahkumiyetine itiraz etmesi sonrasında Bitcoin'in mülk olduğuna karar verdi.",
-    "url": "https://www.coindesk.com/policy/2026/10/29/thai-supreme-court-rules-bitcoin-is-property-after-thief-challenges-conviction",
-    "published": "2026-10-29T10:04:36Z",
+    "title": "Bitcoin kredileri ve getiri, kurumsal talebin bir sonraki dalgasını tetikleyebilir: Rootstock",
+    "summary": "Yeni bir rapora göre kurumsal Bitcoin varlıklarının kredi, teminat ve finansman yoluyla kullanılması, Bitcoin’in değer saklama aracı rolünün ötesinde talep yaratabilir.",
+    "url": "https://cointelegraph-tr.com/news/bitcoin-lending-and-yield-could-drive-next-wave-of-institutional-demand-rootstock-says",
+    "published": "2026-10-29T12:00:00Z",
     "importance": 3
    }
   ],
@@ -109,7 +109,6 @@
   ]
  },
  "seen": {
-  "https://cointelegraph-tr.com/news/netanyahu-floats-use-of-blockchain-as-solution-to-potential-financial-sanctions": 1792929673.2502074,
   "https://www.coindesk.com/policy/2026/10/22/uk-banks-face-10-000-complaints-in-3-months-over-crypto-restrictions": 1792935213.4023223,
   "https://www.coindesk.com/business/2026/10/25/latvia-targets-tokenization-rules-in-2027-with-commercial-property-in-focus": 1792940477.9817636,
   "https://cointelegraph-tr.com/news/ecb-official-sees-digital-euro-tool-to-protect-eu-sovereignty": 1792942306.1287563,
@@ -267,7 +266,16 @@
   "https://www.coindesk.com/markets/2026/10/29/nyse-owner-takes-steps-to-bring-hyperliquid-perpetual-futures-to-u-s": 1793274286.2623038,
   "https://www.theblock.co/news/defi/2026-10-29-curve-finance-stellar-432121": 1793274286.2623038,
   "https://www.coindesk.com/markets/2026/10/29/cathie-wood-s-ark-buys-the-dip-on-robinhood-in-its-largest-purchase-in-6-months-after-23-slump": 1793274286.2623038,
-  "https://cointelegraph-tr.com/markets/bitcoin-long-term-resistance-in-focus-as-analysis-sees-selling-risk-above-85k": 1793274286.2623038
+  "https://cointelegraph-tr.com/markets/bitcoin-long-term-resistance-in-focus-as-analysis-sees-selling-risk-above-85k": 1793274286.2623038,
+  "https://www.coindesk.com/business/2026/10/29/tokenized-stock-venue-on-canton-could-beat-okx-ice-to-first-trade-under-sec-framework": 1793278485.7479775,
+  "https://cointelegraph-tr.com/news/chainalysis-dprk-crypto-cash-out-network-ofac-sanctions": 1793278485.7479775,
+  "https://cointelegraph-tr.com/news/unlimit-founder-phase-blockchain-mainnet-launches": 1793278485.7479775,
+  "https://cointelegraph-tr.com/news/htx-halt-unlawful-uk-crypto-promotions-fca": 1793278485.7479775,
+  "https://www.coindesk.com/business/2026/10/29/u-s-sanctions-russian-crypto-middlemen-tied-to-north-korean-it-worker-fraud": 1793278485.7479775,
+  "https://www.coindesk.com/daybook-us/2026/10/29/as-usd10-billion-in-bitcoin-options-near-expiry-the-tell-is-in-the-pricing": 1793278485.7479775,
+  "https://cointelegraph-tr.com/news/eu-investors-crypto-above-retirement-lasting-wealth": 1793278485.7479775,
+  "https://cointelegraph-tr.com/news/coinbase-brazil-license-no-service-disruption-expected": 1793278485.7479775,
+  "https://cointelegraph-tr.com/news/bitcoin-lending-and-yield-could-drive-next-wave-of-institutional-demand-rootstock-says": 1793278485.7479775
  },
  "tries": {
   "https://www.coindesk.com/markets/2026/10/29/the-chart-bitcoin-traders-should-be-paying-attention-to": 3
