@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-29T03:47:33Z",
+ "updated": "2026-10-29T04:48:20Z",
  "sources": [
   "coindesk.com",
   "cointelegraph-tr.com",
@@ -64,6 +64,15 @@
     "importance": 3
    }
   ],
+  "ETH": [
+   {
+    "title": "Buzdolabınız bir gün Ether stake edip memecoin çıkarabilir: CFTC Başkanı",
+    "summary": "CFTC Başkanı Mike Selig, otonom yapay zeka ajanlarının insan yatırımcılar etrafında oluşturulan finansal kurallara meydan okuyabileceğini ve düzenleyicilerin buna uyum sağlaması gerektiğini belirtiyor.",
+    "url": "https://cointelegraph-tr.com/news/a-fridge-that-launches-memecoins-cftc-floats-ai-crypto-future",
+    "published": "2026-10-29T04:39:49Z",
+    "importance": 3
+   }
+  ],
   "PEPE": [
    {
     "title": "Bitcoin 81.000 doların üzerine yükselirken Pepe %9 artış yaşadı",
@@ -80,24 +89,6 @@
     "url": "https://cointelegraph-tr.com/news/quantum-fears-already-limiting-bitcoins-growth-stacks-founder-says",
     "published": "2026-10-27T20:33:19Z",
     "importance": 3
-   }
-  ],
-  "USDC": [
-   {
-    "title": "USDC, AB kuralları piyasayı yeniden şekillendirirken euro stablecoin işlemlerinde USDT’yi geride bıraktı: Kaiko",
-    "summary": "Avrupa Birliği’nin MiCA düzenlemeleri kapsamında borsaların USDT işlemlerini kısıtlamasıyla birlikte, USDC’nin euro karşısındaki stablecoin işlemlerindeki payı Ocak 2024’ten bu yana yüzde 56’ya yükseldi ve likiditesi derinleşti.",
-    "url": "https://cointelegraph-tr.com/news/usdc-overtakes-usdt-euro-stablecoin-trading-mica-kaiko",
-    "published": "2026-10-27T15:59:58Z",
-    "importance": 4
-   }
-  ],
-  "USDT": [
-   {
-    "title": "USDC, AB kuralları piyasayı yeniden şekillendirirken euro stablecoin işlemlerinde USDT’yi geride bıraktı: Kaiko",
-    "summary": "Avrupa Birliği’nin MiCA düzenlemeleri kapsamında borsaların USDT işlemlerini kısıtlamasıyla birlikte, USDC’nin euro karşısındaki stablecoin işlemlerindeki payı Ocak 2024’ten bu yana yüzde 56’ya yükseldi ve likiditesi derinleşti.",
-    "url": "https://cointelegraph-tr.com/news/usdc-overtakes-usdt-euro-stablecoin-trading-mica-kaiko",
-    "published": "2026-10-27T15:59:58Z",
-    "importance": 4
    }
   ],
   "XRP": [
@@ -258,7 +249,8 @@
   "https://cointelegraph-tr.com/markets/bitcoin-faces-fresh-pressure-after-feds-hawkish-rate-hold-analysts": 1793238995.4877136,
   "https://www.coindesk.com/markets/2026/10/29/bitcoin-dips-below-usd80-000-as-samsung-led-risk-aversion-in-tech-and-a-hawkish-fed-weigh-on-crypto": 1793245653.2733634,
   "https://www.coindesk.com/policy/2026/10/28/mystery-wall-street-journal-ad-sparks-new-fight-over-tokenized-stocks": 1793245653.2733634,
-  "https://cointelegraph-tr.com/news/tampered-ledger-wallets-cost-singapore-users-27m-police": 1793245653.2733634
+  "https://cointelegraph-tr.com/news/tampered-ledger-wallets-cost-singapore-users-27m-police": 1793245653.2733634,
+  "https://cointelegraph-tr.com/news/a-fridge-that-launches-memecoins-cftc-floats-ai-crypto-future": 1793249300.5460787
  },
  "tries": {}
 }
