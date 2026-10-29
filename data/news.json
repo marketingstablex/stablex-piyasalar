@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-29T20:45:25Z",
+ "updated": "2026-10-29T21:43:21Z",
  "sources": [
   "coindesk.com",
   "cointelegraph-tr.com",
@@ -22,6 +22,13 @@
     "url": "https://www.coindesk.com/tech/2026/10/29/new-quantum-model-slashes-hardware-needed-to-break-bitcoin-keys-by-17-times",
     "published": "2026-10-29T13:55:42Z",
     "importance": 5
+   },
+   {
+    "title": "Strategy, imtiyazlı hissedarların günlük temettüleri onaylamasıyla 3. çeyrekte 19,5 milyar dolar net gelir bildirdi",
+    "summary": "Strategy, 20,91 milyar dolarlık Bitcoin kazancına dayalı olarak 3. çeyrekte 19,53 milyar dolar net gelir bildirdi. Şirket 848.517 BTC tutmaktadır ve imtiyazlı hisse senetleri için günlük temettü ödemelerine geçmiştir.",
+    "url": "https://www.theblock.co/news/business/2026-10-29-strategy-q3-net-income-preferred-daily-dividends-432141",
+    "published": "2026-10-29T20:58:35Z",
+    "importance": 4
    },
    {
     "title": "İsviçre'nin ilk gerçek spot bitcoin ETF'si neden yakında denizaşırı bankaları ve brokerları cezonderebilir?",
@@ -63,13 +70,6 @@
     "summary": "Bitcoin ETF’leri üç günde 424 milyon dolar çekerek, Federal Reserve kararı ve zayıflayan kripto piyasası duyarlılığından etkilenmeyerek ekim ayındaki net girişleri 111 milyon dolara yükseltti.",
     "url": "https://cointelegraph-tr.com/markets/bitcoin-etf-137-million-october-back-green",
     "published": "2026-10-29T07:32:20Z",
-    "importance": 4
-   },
-   {
-    "title": "Fed’in şahin faiz kararı Bitcoin üzerindeki baskıyı sürdürüyor: Analistler",
-    "summary": "Yatırımcılar aralık ayında faiz artırımı olasılığını yüzde 78 olarak fiyatlıyor. Analistler, Hazine tahvil getirileri, ABD doları ve yaklaşan enflasyon verilerinin Bitcoin’in bir sonraki hamlesini belirleyebileceğini belirtiyor.",
-    "url": "https://cointelegraph-tr.com/markets/bitcoin-faces-fresh-pressure-after-feds-hawkish-rate-hold-analysts",
-    "published": "2026-10-29T01:12:01Z",
     "importance": 4
    }
   ],
@@ -367,7 +367,9 @@
   "https://cointelegraph-tr.com/news/kucoin-services-russia-belarus-suspended": 1793296238.37336,
   "https://www.coindesk.com/business/2026/10/29/stanley-druckenmiller-s-first-x-post-backs-hyperliquid-venture-after-usd23-million-indirect-investment": 1793296238.37336,
   "https://www.theblock.co/news/defi/2026-10-29-polymarket-exploit-2-5-million-cancel-only-mode-432158": 1793303465.3031526,
-  "https://www.coindesk.com/markets/2026/10/29/polymarket-suspends-trading-after-third-party-breach-leads-to-user-losses": 1793303465.3031526
+  "https://www.coindesk.com/markets/2026/10/29/polymarket-suspends-trading-after-third-party-breach-leads-to-user-losses": 1793303465.3031526,
+  "https://www.coindesk.com/business/2026/10/29/potential-multi-billion-binance-hack-hitting-crypto-markets": 1793310201.1083174,
+  "https://www.theblock.co/news/business/2026-10-29-strategy-q3-net-income-preferred-daily-dividends-432141": 1793310201.1083174
  },
  "tries": {
   "https://www.coindesk.com/markets/2026/10/29/the-chart-bitcoin-traders-should-be-paying-attention-to": 3,
