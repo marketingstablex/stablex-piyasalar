@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-29T08:01:39Z",
+ "updated": "2026-10-29T08:54:43Z",
  "sources": [
   "coindesk.com",
   "cointelegraph-tr.com",
@@ -86,15 +86,6 @@
     "summary": "Bitcoin 81.000 doların üzerine toparlanırken, pepe %9 oranında artış gösterdi.",
     "url": "https://www.coindesk.com/markets/2026/10/28/bitcoin-rebounds-above-usd81-000-as-asian-chip-rally-spills-into-crypto-pepe-jumps-9",
     "published": "2026-10-28T11:32:31Z",
-    "importance": 3
-   }
-  ],
-  "STX": [
-   {
-    "title": "Kuantum korkuları Bitcoin’in büyümesini şimdiden sınırlıyor, diyor Stacks kurucusu",
-    "summary": "Muneeb Ali, Bitcoin’in kuantum güvenliği konusundaki belirsizliğin kurumsal yatırımcıları caydırabileceği uyarısında bulundu.",
-    "url": "https://cointelegraph-tr.com/news/quantum-fears-already-limiting-bitcoins-growth-stacks-founder-says",
-    "published": "2026-10-27T20:33:19Z",
     "importance": 3
    }
   ],
@@ -258,6 +249,6 @@
   "https://cointelegraph-tr.com/markets/bitcoin-etf-137-million-october-back-green": 1793260899.599226
  },
  "tries": {
-  "https://www.coindesk.com/markets/2026/10/29/the-chart-bitcoin-traders-should-be-paying-attention-to": 1
+  "https://www.coindesk.com/markets/2026/10/29/the-chart-bitcoin-traders-should-be-paying-attention-to": 2
  }
 }
