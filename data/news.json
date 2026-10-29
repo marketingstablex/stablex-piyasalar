@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-29T18:50:50Z",
+ "updated": "2026-10-29T19:51:05Z",
  "sources": [
   "coindesk.com",
   "cointelegraph-tr.com",
@@ -182,7 +182,6 @@
   ]
  },
  "seen": {
-  "https://www.theblock.co/news/business/2026-10-25-coindcx-confirms-16-million-loss-from-retired-wallets-days-after-ceo-called-breach-reports-a-false-alarm-431617": 1792955233.940427,
   "https://cointelegraph-tr.com/news/hong-kong-names-nasdaq-listed-solana-company-a-strategic-enterprise": 1792985816.151512,
   "https://www.coindesk.com/markets/2026/10/26/elon-musk-confirms-usd40-billion-spacex-debt-deal-for-ai-chips-warns-of-neocloud-shakeout": 1792985816.151512,
   "https://cointelegraph-tr.com/news/keystone-says-website-breach-exposed-hardware-wallet-buyers-addresses": 1792985816.151512,
@@ -366,7 +365,9 @@
   "https://www.coindesk.com/policy/2026/10/29/crypto-exchange-htx-exits-the-uk-after-settling-with-the-fca": 1793292886.4721253,
   "https://cointelegraph-tr.com/markets/hype-price-all-time-high-ice-us-hyperliquid-perps": 1793296238.37336,
   "https://cointelegraph-tr.com/news/kucoin-services-russia-belarus-suspended": 1793296238.37336,
-  "https://www.coindesk.com/business/2026/10/29/stanley-druckenmiller-s-first-x-post-backs-hyperliquid-venture-after-usd23-million-indirect-investment": 1793296238.37336
+  "https://www.coindesk.com/business/2026/10/29/stanley-druckenmiller-s-first-x-post-backs-hyperliquid-venture-after-usd23-million-indirect-investment": 1793296238.37336,
+  "https://www.theblock.co/news/defi/2026-10-29-polymarket-exploit-2-5-million-cancel-only-mode-432158": 1793303465.3031526,
+  "https://www.coindesk.com/markets/2026/10/29/polymarket-suspends-trading-after-third-party-breach-leads-to-user-losses": 1793303465.3031526
  },
  "tries": {
   "https://www.coindesk.com/markets/2026/10/29/the-chart-bitcoin-traders-should-be-paying-attention-to": 3,
