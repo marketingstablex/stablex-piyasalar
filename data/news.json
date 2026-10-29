@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-29T06:54:35Z",
+ "updated": "2026-10-29T08:01:39Z",
  "sources": [
   "coindesk.com",
   "cointelegraph-tr.com",
@@ -7,6 +7,13 @@
  ],
  "bySymbol": {
   "BTC": [
+   {
+    "title": "Bitcoin ETF’leri 137 milyon dolar ekleyerek ekim ayını yeniden artıya taşıdı",
+    "summary": "Bitcoin ETF’leri üç günde 424 milyon dolar çekerek, Federal Reserve kararı ve zayıflayan kripto piyasası duyarlılığından etkilenmeyerek ekim ayındaki net girişleri 111 milyon dolara yükseltti.",
+    "url": "https://cointelegraph-tr.com/markets/bitcoin-etf-137-million-october-back-green",
+    "published": "2026-10-29T07:32:20Z",
+    "importance": 4
+   },
    {
     "title": "Fed’in şahin faiz kararı Bitcoin üzerindeki baskıyı sürdürüyor: Analistler",
     "summary": "Yatırımcılar aralık ayında faiz artırımı olasılığını yüzde 78 olarak fiyatlıyor. Analistler, Hazine tahvil getirileri, ABD doları ve yaklaşan enflasyon verilerinin Bitcoin’in bir sonraki hamlesini belirleyebileceğini belirtiyor.",
@@ -55,13 +62,6 @@
     "url": "https://cointelegraph-tr.com/news/strategy-shareholders-approve-daily-dividends-for-four-preferred-stocks",
     "published": "2026-10-28T18:00:54Z",
     "importance": 3
-   },
-   {
-    "title": "Bitcoin fiyatındaki sıçrama, FOMC ve bilançolar öncesinde 50 günlük trend çizgisinde reddedildi",
-    "summary": "Piyasa katılımcıları FOMC toplantısının sonucunu ve önemli teknoloji şirketlerinin bilançolarını beklerken Bitcoin, 50 günlük basit hareketli ortalamasını aşmayı başaramadı.",
-    "url": "https://cointelegraph-tr.com/markets/bitcoin-price-bounce-rejected-at-50-day-trend-line-ahead-of-fomc-earnings",
-    "published": "2026-10-28T16:53:26Z",
-    "importance": 3
    }
   ],
   "ETH": [
@@ -104,13 +104,6 @@
     "summary": "XRP Ledger geliştiricileri, stablecoin ödemeleri için sıfır XRP ile cüzdan oluşturulmasını öneriyor.",
     "url": "https://www.coindesk.com/tech/2026/10/28/xrp-ledger-developers-propose-creating-wallets-with-zero-xrp-for-stablecoin-payments",
     "published": "2026-10-28T11:52:14Z",
-    "importance": 3
-   },
-   {
-    "title": "Ripple, RLUSD’yi bireysel ve kurumsal piyasalara sunmak için Robinhood ile ortaklığını genişletiyor",
-    "summary": "Ripple, RLUSD'yi bireysel ve kurumsal piyasalara sunmak amacıyla Robinhood ile ortaklığını genişletti. Ayrıca dijital varlık saklama alanında BNY ile iş birliğini genişleten şirket, ticaret finansmanı mutabakatını XRP Ledger’a taşımak için C2FO ile ortaklık kurdu.",
-    "url": "https://cointelegraph-tr.com/news/ripple-robinhood-expand-partnership-rlusd-retail-institutional-markets",
-    "published": "2026-10-27T19:54:05Z",
     "importance": 3
    }
   ]
@@ -261,7 +254,10 @@
   "https://www.coindesk.com/tech/2026/10/29/ethereum-clients-patch-flaw-that-could-let-attackers-redirect-eth-rewards": 1793252719.9391155,
   "https://www.coindesk.com/policy/2026/10/29/utah-charges-predictions-platform-kalshi-with-illegal-gambling": 1793252719.9391155,
   "https://www.theblock.co/news/business/2026-10-29-utah-criminal-charges-kalshi-432104": 1793256875.3446696,
-  "https://www.coindesk.com/tech/2026/10/29/ai-found-a-way-to-crash-bitcoin-nodes-on-windows-and-macs-it-s-now-public": 1793256875.3446696
+  "https://www.coindesk.com/tech/2026/10/29/ai-found-a-way-to-crash-bitcoin-nodes-on-windows-and-macs-it-s-now-public": 1793256875.3446696,
+  "https://cointelegraph-tr.com/markets/bitcoin-etf-137-million-october-back-green": 1793260899.599226
  },
- "tries": {}
+ "tries": {
+  "https://www.coindesk.com/markets/2026/10/29/the-chart-bitcoin-traders-should-be-paying-attention-to": 1
+ }
 }
