@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-29T02:48:59Z",
+ "updated": "2026-10-29T03:47:33Z",
  "sources": [
   "coindesk.com",
   "cointelegraph-tr.com",
@@ -113,13 +113,6 @@
     "summary": "Ripple, RLUSD'yi bireysel ve kurumsal piyasalara sunmak amacıyla Robinhood ile ortaklığını genişletti. Ayrıca dijital varlık saklama alanında BNY ile iş birliğini genişleten şirket, ticaret finansmanı mutabakatını XRP Ledger’a taşımak için C2FO ile ortaklık kurdu.",
     "url": "https://cointelegraph-tr.com/news/ripple-robinhood-expand-partnership-rlusd-retail-institutional-markets",
     "published": "2026-10-27T19:54:05Z",
-    "importance": 3
-   },
-   {
-    "title": "Ripple, BNY, onaylı faturaları finanse etmek için XRP Ledger'ın kullanımını araştırıyor",
-    "summary": "BNY, saklama platformuna XRP ve RLUSD'yi eklerken Ripple ve C2FO, XRP Ledger üzerinde fatura ödemelerinin mutabakatını test ediyor.",
-    "url": "https://www.theblock.co/news/business/2026-10-27-ripple-bny-explore-using-xrp-ledger-finance-approved-invoices-431891",
-    "published": "2026-10-27T15:01:12Z",
     "importance": 3
    }
   ]
@@ -262,7 +255,10 @@
   "https://www.coindesk.com/policy/2026/10/28/cftc-chief-poses-questions-about-policing-ai-but-calls-it-a-road-to-autonomous-trading": 1793216903.87593,
   "https://cointelegraph-tr.com/news/canada-crypto-king-jury-criminal-trial-closing": 1793223711.8866024,
   "https://www.coindesk.com/markets/2026/10/28/bitcoin-backed-mortgages-are-coming-to-canada-but-borrowers-are-still-unaware-of-the-cost": 1793223711.8866024,
-  "https://cointelegraph-tr.com/markets/bitcoin-faces-fresh-pressure-after-feds-hawkish-rate-hold-analysts": 1793238995.4877136
+  "https://cointelegraph-tr.com/markets/bitcoin-faces-fresh-pressure-after-feds-hawkish-rate-hold-analysts": 1793238995.4877136,
+  "https://www.coindesk.com/markets/2026/10/29/bitcoin-dips-below-usd80-000-as-samsung-led-risk-aversion-in-tech-and-a-hawkish-fed-weigh-on-crypto": 1793245653.2733634,
+  "https://www.coindesk.com/policy/2026/10/28/mystery-wall-street-journal-ad-sparks-new-fight-over-tokenized-stocks": 1793245653.2733634,
+  "https://cointelegraph-tr.com/news/tampered-ledger-wallets-cost-singapore-users-27m-police": 1793245653.2733634
  },
  "tries": {}
 }
