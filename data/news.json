@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-29T09:52:06Z",
+ "updated": "2026-10-29T10:49:23Z",
  "sources": [
   "coindesk.com",
   "cointelegraph-tr.com",
@@ -36,6 +36,20 @@
     "importance": 4
    },
    {
+    "title": "Canlı güncellemeler: Bitcoin, kazançlar öncesinde Strategy'nin tamponu incelirken 80.000 dolara tutunuyor",
+    "summary": "Bitcoin, şirket kazançları öncesinde 80.000 dolar seviyesinde tutunmaya devam ediyor.",
+    "url": "https://www.coindesk.com/business/2026/10/29/live-updates-bitcoin-clings-to-usd80-000-as-strategy-s-cushion-thins-before-earnings",
+    "published": "2026-10-29T10:41:39Z",
+    "importance": 3
+   },
+   {
+    "title": "Tayland Yüksek Mahkemesi, bir hırsızın mahkumiyete itiraz etmesinin ardından Bitcoin'in mülk olduğuna hükmetti",
+    "summary": "Tayland Yüksek Mahkemesi, bir hırsızın mahkumiyetine itiraz etmesi sonrasında Bitcoin'in mülk olduğuna karar verdi.",
+    "url": "https://www.coindesk.com/policy/2026/10/29/thai-supreme-court-rules-bitcoin-is-property-after-thief-challenges-conviction",
+    "published": "2026-10-29T10:04:36Z",
+    "importance": 3
+   },
+   {
     "title": "Yapay Zeka, Windows ve Mac'lerde Bitcoin Düğümlerini Çökertmenin Bir Yolunu Buldu ve Bu Bilgi Artık Halka Açık",
     "summary": "Yapay Zeka, Windows ve Mac'lerde Bitcoin Düğümlerini Çökertmenin Bir Yolunu Buldu ve Bu Bilgi Artık Halka Açık",
     "url": "https://www.coindesk.com/tech/2026/10/29/ai-found-a-way-to-crash-bitcoin-nodes-on-windows-and-macs-it-s-now-public",
@@ -47,13 +61,6 @@
     "summary": "Kanada'da Bitcoin destekli mortgage'lar geliyor ancak borçlular hala maliyetin farkında değil.",
     "url": "https://www.coindesk.com/markets/2026/10/28/bitcoin-backed-mortgages-are-coming-to-canada-but-borrowers-are-still-unaware-of-the-cost",
     "published": "2026-10-28T21:13:44Z",
-    "importance": 3
-   },
-   {
-    "title": "Strategy hissedarları dört ayrıcalıklı hisse için günlük temettüleri onayladı",
-    "summary": "En büyük Bitcoin hazinesine sahip şirket, STRC için günlük temettü ödemelerine kasım ayında başlayacak. Diğer üç ayrıcalıklı menkul kıymet ise bu ödemeleri ocak 2027'de izleyecek.",
-    "url": "https://cointelegraph-tr.com/news/strategy-shareholders-approve-daily-dividends-for-four-preferred-stocks",
-    "published": "2026-10-28T18:00:54Z",
     "importance": 3
    }
   ],
@@ -79,6 +86,15 @@
     "summary": "Bitcoin 81.000 doların üzerine toparlanırken, pepe %9 oranında artış gösterdi.",
     "url": "https://www.coindesk.com/markets/2026/10/28/bitcoin-rebounds-above-usd81-000-as-asian-chip-rally-spills-into-crypto-pepe-jumps-9",
     "published": "2026-10-28T11:32:31Z",
+    "importance": 3
+   }
+  ],
+  "SOL": [
+   {
+    "title": "Solana cüzdanı Solflare, doğrulayıcının çevrimdışı kalmasının ardından 160 milyon dolarlık stake ödüllerini ödemeyi taahhüt etti",
+    "summary": "Solana cüzdanı Solflare, bir doğrulayıcının çevrimdışı kalması nedeniyle ödenmeyen 160 milyon dolar değerindeki stake ödüllerini ödeyeceğini taahhüt etti.",
+    "url": "https://www.coindesk.com/markets/2026/10/29/solana-wallet-solflare-pledges-to-pay-missed-rewards-on-staked-usd160-million-after-validator-goes-offline",
+    "published": "2026-10-29T10:44:48Z",
     "importance": 3
    }
   ],
@@ -241,7 +257,12 @@
   "https://www.coindesk.com/tech/2026/10/29/ai-found-a-way-to-crash-bitcoin-nodes-on-windows-and-macs-it-s-now-public": 1793256875.3446696,
   "https://cointelegraph-tr.com/markets/bitcoin-etf-137-million-october-back-green": 1793260899.599226,
   "https://www.coindesk.com/business/2026/10/29/former-swift-ceo-joins-stablecoin-firm-opentrade-as-chairman-after-a-usd17-million-raise": 1793267526.2813654,
-  "https://www.coindesk.com/markets/2026/10/29/the-chart-bitcoin-traders-should-be-paying-attention-to": 1793267526.2813654
+  "https://www.coindesk.com/markets/2026/10/29/the-chart-bitcoin-traders-should-be-paying-attention-to": 1793267526.2813654,
+  "https://www.coindesk.com/markets/2026/10/29/solana-wallet-solflare-pledges-to-pay-missed-rewards-on-staked-usd160-million-after-validator-goes-offline": 1793270963.1496544,
+  "https://www.coindesk.com/business/2026/10/29/live-updates-bitcoin-clings-to-usd80-000-as-strategy-s-cushion-thins-before-earnings": 1793270963.1496544,
+  "https://cointelegraph-tr.com/news/ecb-president-lagarde-step-down-february-2027": 1793270963.1496544,
+  "https://www.coindesk.com/policy/2026/10/29/thai-supreme-court-rules-bitcoin-is-property-after-thief-challenges-conviction": 1793270963.1496544,
+  "https://www.coindesk.com/business/2026/10/29/bermuda-taps-walletconnect-to-advance-its-onchain-economy-plan": 1793270963.1496544
  },
  "tries": {
   "https://www.coindesk.com/markets/2026/10/29/the-chart-bitcoin-traders-should-be-paying-attention-to": 3
