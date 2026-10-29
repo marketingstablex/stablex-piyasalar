@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-29T05:45:19Z",
+ "updated": "2026-10-29T06:54:35Z",
  "sources": [
   "coindesk.com",
   "cointelegraph-tr.com",
@@ -36,6 +36,13 @@
     "importance": 4
    },
    {
+    "title": "Yapay Zeka, Windows ve Mac'lerde Bitcoin Düğümlerini Çökertmenin Bir Yolunu Buldu ve Bu Bilgi Artık Halka Açık",
+    "summary": "Yapay Zeka, Windows ve Mac'lerde Bitcoin Düğümlerini Çökertmenin Bir Yolunu Buldu ve Bu Bilgi Artık Halka Açık",
+    "url": "https://www.coindesk.com/tech/2026/10/29/ai-found-a-way-to-crash-bitcoin-nodes-on-windows-and-macs-it-s-now-public",
+    "published": "2026-10-29T05:54:39Z",
+    "importance": 3
+   },
+   {
     "title": "Kanada'da Bitcoin destekli mortgage'lar geliyor ancak borçlular hala maliyetin farkında değil",
     "summary": "Kanada'da Bitcoin destekli mortgage'lar geliyor ancak borçlular hala maliyetin farkında değil.",
     "url": "https://www.coindesk.com/markets/2026/10/28/bitcoin-backed-mortgages-are-coming-to-canada-but-borrowers-are-still-unaware-of-the-cost",
@@ -54,13 +61,6 @@
     "summary": "Piyasa katılımcıları FOMC toplantısının sonucunu ve önemli teknoloji şirketlerinin bilançolarını beklerken Bitcoin, 50 günlük basit hareketli ortalamasını aşmayı başaramadı.",
     "url": "https://cointelegraph-tr.com/markets/bitcoin-price-bounce-rejected-at-50-day-trend-line-ahead-of-fomc-earnings",
     "published": "2026-10-28T16:53:26Z",
-    "importance": 3
-   },
-   {
-    "title": "Bitwise Bitcoin fiyat hedefini 2036 yılına kadar 1,6 milyon dolara yükseltti, yıllık %34 getiri öngörüyor",
-    "summary": "Bitwise'ın düşüş senaryosu 2036 yılına kadar bitcoin'i 130.686 dolara koyarken, yükseliş senaryosu önümüzdeki on yılda 3,67 milyon dolara ulaşıyor.",
-    "url": "https://www.theblock.co/news/markets/2026-10-28-bitwise-raises-bitcoin-price-target-to-1-6-million-by-2036-projects-34-annualized-returns-432010",
-    "published": "2026-10-28T16:07:08Z",
     "importance": 3
    }
   ],
@@ -259,7 +259,9 @@
   "https://cointelegraph-tr.com/news/tampered-ledger-wallets-cost-singapore-users-27m-police": 1793245653.2733634,
   "https://cointelegraph-tr.com/news/a-fridge-that-launches-memecoins-cftc-floats-ai-crypto-future": 1793249300.5460787,
   "https://www.coindesk.com/tech/2026/10/29/ethereum-clients-patch-flaw-that-could-let-attackers-redirect-eth-rewards": 1793252719.9391155,
-  "https://www.coindesk.com/policy/2026/10/29/utah-charges-predictions-platform-kalshi-with-illegal-gambling": 1793252719.9391155
+  "https://www.coindesk.com/policy/2026/10/29/utah-charges-predictions-platform-kalshi-with-illegal-gambling": 1793252719.9391155,
+  "https://www.theblock.co/news/business/2026-10-29-utah-criminal-charges-kalshi-432104": 1793256875.3446696,
+  "https://www.coindesk.com/tech/2026/10/29/ai-found-a-way-to-crash-bitcoin-nodes-on-windows-and-macs-it-s-now-public": 1793256875.3446696
  },
  "tries": {}
 }
