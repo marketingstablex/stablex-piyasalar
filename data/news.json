@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-29T04:48:20Z",
+ "updated": "2026-10-29T05:45:19Z",
  "sources": [
   "coindesk.com",
   "cointelegraph-tr.com",
@@ -65,6 +65,13 @@
    }
   ],
   "ETH": [
+   {
+    "title": "Hint sertifika firmasındaki güvenlik açığı Ethereum'u etkiledi, geliştiriciler düzeltmeler için yarışıyor",
+    "summary": "Hint sertifika firmasındaki güvenlik açığı Ethereum'u etkiledi, geliştiriciler düzeltmeler için yarışıyor",
+    "url": "https://www.coindesk.com/tech/2026/10/29/ethereum-clients-patch-flaw-that-could-let-attackers-redirect-eth-rewards",
+    "published": "2026-10-29T05:30:34Z",
+    "importance": 4
+   },
    {
     "title": "Buzdolabınız bir gün Ether stake edip memecoin çıkarabilir: CFTC Başkanı",
     "summary": "CFTC Başkanı Mike Selig, otonom yapay zeka ajanlarının insan yatırımcılar etrafında oluşturulan finansal kurallara meydan okuyabileceğini ve düzenleyicilerin buna uyum sağlaması gerektiğini belirtiyor.",
@@ -250,7 +257,9 @@
   "https://www.coindesk.com/markets/2026/10/29/bitcoin-dips-below-usd80-000-as-samsung-led-risk-aversion-in-tech-and-a-hawkish-fed-weigh-on-crypto": 1793245653.2733634,
   "https://www.coindesk.com/policy/2026/10/28/mystery-wall-street-journal-ad-sparks-new-fight-over-tokenized-stocks": 1793245653.2733634,
   "https://cointelegraph-tr.com/news/tampered-ledger-wallets-cost-singapore-users-27m-police": 1793245653.2733634,
-  "https://cointelegraph-tr.com/news/a-fridge-that-launches-memecoins-cftc-floats-ai-crypto-future": 1793249300.5460787
+  "https://cointelegraph-tr.com/news/a-fridge-that-launches-memecoins-cftc-floats-ai-crypto-future": 1793249300.5460787,
+  "https://www.coindesk.com/tech/2026/10/29/ethereum-clients-patch-flaw-that-could-let-attackers-redirect-eth-rewards": 1793252719.9391155,
+  "https://www.coindesk.com/policy/2026/10/29/utah-charges-predictions-platform-kalshi-with-illegal-gambling": 1793252719.9391155
  },
  "tries": {}
 }
