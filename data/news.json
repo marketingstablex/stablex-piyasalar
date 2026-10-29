@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-29T16:54:46Z",
+ "updated": "2026-10-29T17:50:38Z",
  "sources": [
   "coindesk.com",
   "cointelegraph-tr.com",
@@ -363,7 +363,10 @@
   "https://www.coindesk.com/policy/2026/10/29/kucoin-exits-russia-and-belarus-as-crypto-exchanges-withdraw-from-western-sanctioned-markets": 1793292886.4721253,
   "https://www.coindesk.com/business/2026/10/29/from-rivals-to-partners-polygon-and-solana-team-to-bring-stablecoin-payments-to-banks": 1793292886.4721253,
   "https://cointelegraph-tr.com/news/canton-strategic-holdings-tokenized-stock-trading-november-2026": 1793292886.4721253,
-  "https://www.coindesk.com/policy/2026/10/29/crypto-exchange-htx-exits-the-uk-after-settling-with-the-fca": 1793292886.4721253
+  "https://www.coindesk.com/policy/2026/10/29/crypto-exchange-htx-exits-the-uk-after-settling-with-the-fca": 1793292886.4721253,
+  "https://cointelegraph-tr.com/markets/hype-price-all-time-high-ice-us-hyperliquid-perps": 1793296238.37336,
+  "https://cointelegraph-tr.com/news/kucoin-services-russia-belarus-suspended": 1793296238.37336,
+  "https://www.coindesk.com/business/2026/10/29/stanley-druckenmiller-s-first-x-post-backs-hyperliquid-venture-after-usd23-million-indirect-investment": 1793296238.37336
  },
  "tries": {
   "https://www.coindesk.com/markets/2026/10/29/the-chart-bitcoin-traders-should-be-paying-attention-to": 3,
