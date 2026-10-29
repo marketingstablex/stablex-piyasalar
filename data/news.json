@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-29T14:58:08Z",
+ "updated": "2026-10-29T15:55:07Z",
  "sources": [
   "coindesk.com",
   "cointelegraph-tr.com",
@@ -116,6 +116,13 @@
   ],
   "SOL": [
    {
+    "title": "Polygon, Tron’un kullanıma sunulmasının ardından Açık Para Yığını’nı Solana’ya genişletiyor",
+    "summary": "Bu hamle, Tron desteğinin eklenmesi ve Polygon’un Coinme’yi satın almasının ardından geldi.",
+    "url": "https://cointelegraph-tr.com/news/polygon-brings-open-money-stack-payments-services-to-solana",
+    "published": "2026-10-29T13:00:00Z",
+    "importance": 3
+   },
+   {
     "title": "Solana cüzdanı Solflare, doğrulayıcının çevrimdışı kalmasının ardından 160 milyon dolarlık stake ödüllerini ödemeyi taahhüt etti",
     "summary": "Solana cüzdanı Solflare, bir doğrulayıcının çevrimdışı kalması nedeniyle ödenmeyen 160 milyon dolar değerindeki stake ödüllerini ödeyeceğini taahhüt etti.",
     "url": "https://www.coindesk.com/markets/2026/10/29/solana-wallet-solflare-pledges-to-pay-missed-rewards-on-staked-usd160-million-after-validator-goes-offline",
@@ -130,6 +137,13 @@
     "url": "https://cointelegraph-tr.com/magazine/private-fast-usdt-is-coming-to-bitcoin-can-it-compete-with-ethereum-and-tron",
     "published": "2026-10-29T13:30:00Z",
     "importance": 4
+   },
+   {
+    "title": "Polygon, Tron’un kullanıma sunulmasının ardından Açık Para Yığını’nı Solana’ya genişletiyor",
+    "summary": "Bu hamle, Tron desteğinin eklenmesi ve Polygon’un Coinme’yi satın almasının ardından geldi.",
+    "url": "https://cointelegraph-tr.com/news/polygon-brings-open-money-stack-payments-services-to-solana",
+    "published": "2026-10-29T13:00:00Z",
+    "importance": 3
    }
   ],
   "USDT": [
@@ -152,8 +166,6 @@
   ]
  },
  "seen": {
-  "https://www.coindesk.com/business/2026/10/25/latvia-targets-tokenization-rules-in-2027-with-commercial-property-in-focus": 1792940477.9817636,
-  "https://cointelegraph-tr.com/news/ecb-official-sees-digital-euro-tool-to-protect-eu-sovereignty": 1792942306.1287563,
   "https://www.theblock.co/news/business/2026-10-25-keystone-customers-say-breach-exposed-data-the-hardware-wallet-maker-promised-to-delete-431613": 1792944142.670254,
   "https://www.theblock.co/news/business/2026-10-25-coindcx-confirms-16-million-loss-from-retired-wallets-days-after-ceo-called-breach-reports-a-false-alarm-431617": 1792955233.940427,
   "https://cointelegraph-tr.com/news/hong-kong-names-nasdaq-listed-solana-company-a-strategic-enterprise": 1792985816.151512,
@@ -324,7 +336,15 @@
   "https://www.coindesk.com/tech/2026/10/29/new-quantum-model-slashes-hardware-needed-to-break-bitcoin-keys-by-17-times": 1793285888.7372477,
   "https://www.coindesk.com/business/2026/10/29/walmart-eli-lilly-join-growing-pushback-against-okx-ice-tokenized-stock-plans": 1793285888.7372477,
   "https://cointelegraph-tr.com/news/brazil-crypto-license-filing-deadline-hurdles-uncertainty": 1793285888.7372477,
-  "https://cointelegraph-tr.com/magazine/private-fast-usdt-is-coming-to-bitcoin-can-it-compete-with-ethereum-and-tron": 1793285888.7372477
+  "https://cointelegraph-tr.com/magazine/private-fast-usdt-is-coming-to-bitcoin-can-it-compete-with-ethereum-and-tron": 1793285888.7372477,
+  "https://cointelegraph-tr.com/markets/bitcoin-reaction-to-pce-data": 1793289307.9107125,
+  "https://cointelegraph-tr.com/news/french-senate-adopts-bill-automatic-crypto-tax-data": 1793289307.9107125,
+  "https://www.coindesk.com/markets/2026/10/29/polymarket-brings-ultra-short-crypto-prediction-markets-to-u-s-platform": 1793289307.9107125,
+  "https://www.coindesk.com/coindesk-indices/2026/10/29/crypto-for-advisors-only-1-in-5-americans-say-the-financial-system-is-secure": 1793289307.9107125,
+  "https://www.theblock.co/news/defi/2026-10-29-uniswap-token-jar-tjar-robinhood-432131": 1793289307.9107125,
+  "https://www.theblock.co/news/defi/2026-10-29-polygon-adds-solana-payment-stack-432115": 1793289307.9107125,
+  "https://cointelegraph-tr.com/news/polygon-brings-open-money-stack-payments-services-to-solana": 1793289307.9107125,
+  "https://www.coindesk.com/opinion/2026/10/28/a-new-framework-for-tokenized-asset-tracking": 1793289307.9107125
  },
  "tries": {
   "https://www.coindesk.com/markets/2026/10/29/the-chart-bitcoin-traders-should-be-paying-attention-to": 3,
