@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-29T00:54:09Z",
+ "updated": "2026-10-29T01:56:35Z",
  "sources": [
   "coindesk.com",
   "cointelegraph-tr.com",
@@ -7,6 +7,13 @@
  ],
  "bySymbol": {
   "BTC": [
+   {
+    "title": "Fed’in şahin faiz kararı Bitcoin üzerindeki baskıyı sürdürüyor: Analistler",
+    "summary": "Yatırımcılar aralık ayında faiz artırımı olasılığını yüzde 78 olarak fiyatlıyor. Analistler, Hazine tahvil getirileri, ABD doları ve yaklaşan enflasyon verilerinin Bitcoin’in bir sonraki hamlesini belirleyebileceğini belirtiyor.",
+    "url": "https://cointelegraph-tr.com/markets/bitcoin-faces-fresh-pressure-after-feds-hawkish-rate-hold-analysts",
+    "published": "2026-10-29T01:12:01Z",
+    "importance": 4
+   },
    {
     "title": "Bitcoin fiyatı 82.000 doları hedefliyor; Morgan Stanley stratejisti düzeltmenin büyük bölümünün sona erdiğini söylüyor",
     "summary": "Bitcoin, Asya ve ABD teknoloji hisseleri önemli şirket bilançolarının açıklanmasına doğru toparlanmayı sürdürürken 80.000 dolar seviyesindeki desteği yeniden oluşturmaya çalıştı.",
@@ -57,30 +64,12 @@
     "importance": 3
    }
   ],
-  "ETH": [
-   {
-    "title": "Kripto, yapay zeka hisselerinden daha iyi performans gösterebilir: Wall Street emektarı Jordi Visser",
-    "summary": "Morgan Stanley ve Weiss’in eski yöneticisi Jordi Visser, yapay zeka ajanlarının kripto talebini artırdığını ve Bitcoin, Ether ile Solana’nın ötesine geçerek varlıklarını çeşitlendirdiğini belirtiyor.",
-    "url": "https://cointelegraph-tr.com/magazine/crypto-could-outperform-ai-stocks-wall-street-veteran-jordi-visser",
-    "published": "2026-10-27T13:30:00Z",
-    "importance": 3
-   }
-  ],
   "PEPE": [
    {
     "title": "Bitcoin 81.000 doların üzerine yükselirken Pepe %9 artış yaşadı",
     "summary": "Bitcoin 81.000 doların üzerine toparlanırken, pepe %9 oranında artış gösterdi.",
     "url": "https://www.coindesk.com/markets/2026/10/28/bitcoin-rebounds-above-usd81-000-as-asian-chip-rally-spills-into-crypto-pepe-jumps-9",
     "published": "2026-10-28T11:32:31Z",
-    "importance": 3
-   }
-  ],
-  "SOL": [
-   {
-    "title": "Kripto, yapay zeka hisselerinden daha iyi performans gösterebilir: Wall Street emektarı Jordi Visser",
-    "summary": "Morgan Stanley ve Weiss’in eski yöneticisi Jordi Visser, yapay zeka ajanlarının kripto talebini artırdığını ve Bitcoin, Ether ile Solana’nın ötesine geçerek varlıklarını çeşitlendirdiğini belirtiyor.",
-    "url": "https://cointelegraph-tr.com/magazine/crypto-could-outperform-ai-stocks-wall-street-veteran-jordi-visser",
-    "published": "2026-10-27T13:30:00Z",
     "importance": 3
    }
   ],
@@ -272,7 +261,8 @@
   "https://cointelegraph-tr.com/news/sam-bankman-fried-actor-anthony-boyle-netflix": 1793216903.87593,
   "https://www.coindesk.com/policy/2026/10/28/cftc-chief-poses-questions-about-policing-ai-but-calls-it-a-road-to-autonomous-trading": 1793216903.87593,
   "https://cointelegraph-tr.com/news/canada-crypto-king-jury-criminal-trial-closing": 1793223711.8866024,
-  "https://www.coindesk.com/markets/2026/10/28/bitcoin-backed-mortgages-are-coming-to-canada-but-borrowers-are-still-unaware-of-the-cost": 1793223711.8866024
+  "https://www.coindesk.com/markets/2026/10/28/bitcoin-backed-mortgages-are-coming-to-canada-but-borrowers-are-still-unaware-of-the-cost": 1793223711.8866024,
+  "https://cointelegraph-tr.com/markets/bitcoin-faces-fresh-pressure-after-feds-hawkish-rate-hold-analysts": 1793238995.4877136
  },
  "tries": {}
 }
