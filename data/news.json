@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-29T10:49:23Z",
+ "updated": "2026-10-29T11:44:46Z",
  "sources": [
   "coindesk.com",
   "cointelegraph-tr.com",
@@ -7,6 +7,20 @@
  ],
  "bySymbol": {
   "BTC": [
+   {
+    "title": "Bitcoin, Fed muhalefeti, Samsung ve Alphabet kazançları ile 80.000 dolara geriledi; yapay zeka token'ları düştü",
+    "summary": "Bitcoin, Fed muhalefeti, Samsung ve Alphabet kazançları etkisiyle 80.000 dolara gerilerken yapay zeka token'ları düşüş yaşadı.",
+    "url": "https://www.coindesk.com/markets/2026/10/29/bitcoin-drops-to-usd80-000-on-fed-dissent-samsung-alphabet-earnings-ai-tokens-slump",
+    "published": "2026-10-29T11:11:48Z",
+    "importance": 4
+   },
+   {
+    "title": "Bitcoin’da uzun vadeli direnç odağa alınırken analiz, 85 bin dolar üzerindeki satış riskine işaret ediyor",
+    "summary": "Glassnode'un Bitcoin analizinde, uzun vadeli yatırımcılar için maliyet tabanlı bölgenin alt sınırı olarak 85.000 dolarlık seviyeye dikkat çekilerek bu seviye üzerindeki olası satış risklerine vurgu yapıldı.",
+    "url": "https://cointelegraph-tr.com/markets/bitcoin-long-term-resistance-in-focus-as-analysis-sees-selling-risk-above-85k",
+    "published": "2026-10-29T10:46:43Z",
+    "importance": 4
+   },
    {
     "title": "Bitcoin ETF’leri 137 milyon dolar ekleyerek ekim ayını yeniden artıya taşıdı",
     "summary": "Bitcoin ETF’leri üç günde 424 milyon dolar çekerek, Federal Reserve kararı ve zayıflayan kripto piyasası duyarlılığından etkilenmeyerek ekim ayındaki net girişleri 111 milyon dolara yükseltti.",
@@ -47,20 +61,6 @@
     "summary": "Tayland Yüksek Mahkemesi, bir hırsızın mahkumiyetine itiraz etmesi sonrasında Bitcoin'in mülk olduğuna karar verdi.",
     "url": "https://www.coindesk.com/policy/2026/10/29/thai-supreme-court-rules-bitcoin-is-property-after-thief-challenges-conviction",
     "published": "2026-10-29T10:04:36Z",
-    "importance": 3
-   },
-   {
-    "title": "Yapay Zeka, Windows ve Mac'lerde Bitcoin Düğümlerini Çökertmenin Bir Yolunu Buldu ve Bu Bilgi Artık Halka Açık",
-    "summary": "Yapay Zeka, Windows ve Mac'lerde Bitcoin Düğümlerini Çökertmenin Bir Yolunu Buldu ve Bu Bilgi Artık Halka Açık",
-    "url": "https://www.coindesk.com/tech/2026/10/29/ai-found-a-way-to-crash-bitcoin-nodes-on-windows-and-macs-it-s-now-public",
-    "published": "2026-10-29T05:54:39Z",
-    "importance": 3
-   },
-   {
-    "title": "Kanada'da Bitcoin destekli mortgage'lar geliyor ancak borçlular hala maliyetin farkında değil",
-    "summary": "Kanada'da Bitcoin destekli mortgage'lar geliyor ancak borçlular hala maliyetin farkında değil.",
-    "url": "https://www.coindesk.com/markets/2026/10/28/bitcoin-backed-mortgages-are-coming-to-canada-but-borrowers-are-still-unaware-of-the-cost",
-    "published": "2026-10-28T21:13:44Z",
     "importance": 3
    }
   ],
@@ -262,7 +262,12 @@
   "https://www.coindesk.com/business/2026/10/29/live-updates-bitcoin-clings-to-usd80-000-as-strategy-s-cushion-thins-before-earnings": 1793270963.1496544,
   "https://cointelegraph-tr.com/news/ecb-president-lagarde-step-down-february-2027": 1793270963.1496544,
   "https://www.coindesk.com/policy/2026/10/29/thai-supreme-court-rules-bitcoin-is-property-after-thief-challenges-conviction": 1793270963.1496544,
-  "https://www.coindesk.com/business/2026/10/29/bermuda-taps-walletconnect-to-advance-its-onchain-economy-plan": 1793270963.1496544
+  "https://www.coindesk.com/business/2026/10/29/bermuda-taps-walletconnect-to-advance-its-onchain-economy-plan": 1793270963.1496544,
+  "https://www.coindesk.com/markets/2026/10/29/bitcoin-drops-to-usd80-000-on-fed-dissent-samsung-alphabet-earnings-ai-tokens-slump": 1793274286.2623038,
+  "https://www.coindesk.com/markets/2026/10/29/nyse-owner-takes-steps-to-bring-hyperliquid-perpetual-futures-to-u-s": 1793274286.2623038,
+  "https://www.theblock.co/news/defi/2026-10-29-curve-finance-stellar-432121": 1793274286.2623038,
+  "https://www.coindesk.com/markets/2026/10/29/cathie-wood-s-ark-buys-the-dip-on-robinhood-in-its-largest-purchase-in-6-months-after-23-slump": 1793274286.2623038,
+  "https://cointelegraph-tr.com/markets/bitcoin-long-term-resistance-in-focus-as-analysis-sees-selling-risk-above-85k": 1793274286.2623038
  },
  "tries": {
   "https://www.coindesk.com/markets/2026/10/29/the-chart-bitcoin-traders-should-be-paying-attention-to": 3
