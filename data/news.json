@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-30T22:40:20Z",
+ "updated": "2026-10-30T23:37:50Z",
  "sources": [
   "coindesk.com",
   "cointelegraph-tr.com",
@@ -114,13 +114,6 @@
     "url": "https://www.coindesk.com/business/2026/10/29/from-rivals-to-partners-polygon-and-solana-team-to-bring-stablecoin-payments-to-banks",
     "published": "2026-10-29T16:35:43Z",
     "importance": 4
-   },
-   {
-    "title": "Solana cüzdanı Solflare, doğrulayıcının çevrimdışı kalmasının ardından 160 milyon dolarlık stake ödüllerini ödemeyi taahhüt etti",
-    "summary": "Solana cüzdanı Solflare, bir doğrulayıcının çevrimdışı kalması nedeniyle ödenmeyen 160 milyon dolar değerindeki stake ödüllerini ödeyeceğini taahhüt etti.",
-    "url": "https://www.coindesk.com/markets/2026/10/29/solana-wallet-solflare-pledges-to-pay-missed-rewards-on-staked-usd160-million-after-validator-goes-offline",
-    "published": "2026-10-29T10:44:48Z",
-    "importance": 3
    }
   ],
   "TRX": [
