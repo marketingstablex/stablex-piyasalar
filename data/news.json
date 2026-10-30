@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-30T06:54:50Z",
+ "updated": "2026-10-30T08:01:32Z",
  "sources": [
   "coindesk.com",
   "cointelegraph-tr.com",
@@ -374,7 +374,9 @@
   "https://www.coindesk.com/markets/2026/10/30/binance-hacker-splits-usd1-4-billion-of-bitcoin-into-19-wallets-that-no-one-can-freeze": 1793339174.963921,
   "https://www.coindesk.com/markets/2026/10/30/bitcoin-ether-and-xrp-selloff-wipes-out-usd1-5-billion-in-leveraged-crypto-bets": 1793343290.5910947,
   "https://cointelegraph-tr.com/news/what-happened-in-crypto-today": 1793343290.5910947,
-  "https://www.coindesk.com/tech/2026/10/30/xrp-ledger-developers-tighten-the-rules-for-who-can-hold-restricted-tokens": 1793343290.5910947
+  "https://www.coindesk.com/tech/2026/10/30/xrp-ledger-developers-tighten-the-rules-for-who-can-hold-restricted-tokens": 1793343290.5910947,
+  "https://www.coindesk.com/markets/2026/10/30/binance-hacker-dumps-a-little-known-2017-token-and-it-crashes-90": 1793347292.9849253,
+  "https://cointelegraph-tr.com/news/north-korea-linked-to-63b-binance-hack-by-crypto-investigators": 1793347292.9849253
  },
  "tries": {
   "https://www.coindesk.com/markets/2026/10/29/the-chart-bitcoin-traders-should-be-paying-attention-to": 3,
