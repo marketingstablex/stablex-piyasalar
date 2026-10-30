@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-30T08:01:32Z",
+ "updated": "2026-10-30T08:54:41Z",
  "sources": [
   "coindesk.com",
   "cointelegraph-tr.com",
@@ -28,6 +28,13 @@
     "summary": "Bitcoin, ether ve XRP'deki satış dalgası 1.5 milyar dolarlık kaldıraçlı kripto pozisyonunu tasfiye etti.",
     "url": "https://www.coindesk.com/markets/2026/10/30/bitcoin-ether-and-xrp-selloff-wipes-out-usd1-5-billion-in-leveraged-crypto-bets",
     "published": "2026-10-30T06:22:00Z",
+    "importance": 4
+   },
+   {
+    "title": "Strategy, Saylor’ın 30 milyar dolarlık kredi kapasitesini öne çıkarmasıyla daha fazla Bitcoin alımını değerlendiriyor",
+    "summary": "Michael Saylor, Strategy’nin yeni adi hisse senedi toplaması veya Bitcoin fiyatının artması gerekmeden 30 milyar dolara kadar dijital kredi oluşturabileceğini belirtti. Şirket bu doğrultuda daha fazla Bitcoin alımı yapmayı planlıyor.",
+    "url": "https://cointelegraph-tr.com/news/strategy-30-billion-digital-credit-capacity-bitcoin-buys",
+    "published": "2026-10-30T05:53:07Z",
     "importance": 4
    },
    {
@@ -63,13 +70,6 @@
     "summary": "Bitcoin, Fed muhalefeti, Samsung ve Alphabet kazançları etkisiyle 80.000 dolara gerilerken yapay zeka token'ları düşüş yaşadı.",
     "url": "https://www.coindesk.com/markets/2026/10/29/bitcoin-drops-to-usd80-000-on-fed-dissent-samsung-alphabet-earnings-ai-tokens-slump",
     "published": "2026-10-29T11:11:48Z",
-    "importance": 4
-   },
-   {
-    "title": "Bitcoin’da uzun vadeli direnç odağa alınırken analiz, 85 bin dolar üzerindeki satış riskine işaret ediyor",
-    "summary": "Glassnode'un Bitcoin analizinde, uzun vadeli yatırımcılar için maliyet tabanlı bölgenin alt sınırı olarak 85.000 dolarlık seviyeye dikkat çekilerek bu seviye üzerindeki olası satış risklerine vurgu yapıldı.",
-    "url": "https://cointelegraph-tr.com/markets/bitcoin-long-term-resistance-in-focus-as-analysis-sees-selling-risk-above-85k",
-    "published": "2026-10-29T10:46:43Z",
     "importance": 4
    }
   ],
@@ -180,7 +180,6 @@
   ]
  },
  "seen": {
-  "https://www.coindesk.com/markets/2026/10/26/over-11-million-btc-can-t-be-linked-to-any-known-owner-even-after-wall-street-buying": 1793002940.6504593,
   "https://www.coindesk.com/markets/2026/10/26/fed-ecb-and-boj-interest-rate-decisions-coinbase-earnings-crypto-week-ahead": 1793006429.825543,
   "https://cointelegraph-tr.com/markets/bitcoin-etfs-rebound-weekly-inflow-301-million": 1793006429.825543,
   "https://www.theblock.co/news/regulation/2026-10-26-south-korea-weighs-fourth-delay-crypto-tax-431649": 1793009950.2161338,
@@ -376,7 +375,9 @@
   "https://cointelegraph-tr.com/news/what-happened-in-crypto-today": 1793343290.5910947,
   "https://www.coindesk.com/tech/2026/10/30/xrp-ledger-developers-tighten-the-rules-for-who-can-hold-restricted-tokens": 1793343290.5910947,
   "https://www.coindesk.com/markets/2026/10/30/binance-hacker-dumps-a-little-known-2017-token-and-it-crashes-90": 1793347292.9849253,
-  "https://cointelegraph-tr.com/news/north-korea-linked-to-63b-binance-hack-by-crypto-investigators": 1793347292.9849253
+  "https://cointelegraph-tr.com/news/north-korea-linked-to-63b-binance-hack-by-crypto-investigators": 1793347292.9849253,
+  "https://www.coindesk.com/markets/2026/10/30/live-news-binance-hack-rattles-crypto-as-intel-plunges-and-ai-spending-fears-hit-tech": 1793350481.6272113,
+  "https://cointelegraph-tr.com/news/strategy-30-billion-digital-credit-capacity-bitcoin-buys": 1793350481.6272113
  },
  "tries": {
   "https://www.coindesk.com/markets/2026/10/29/the-chart-bitcoin-traders-should-be-paying-attention-to": 3,
