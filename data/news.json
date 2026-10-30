@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-30T17:43:26Z",
+ "updated": "2026-10-30T18:46:58Z",
  "sources": [
   "coindesk.com",
   "cointelegraph-tr.com",
@@ -22,6 +22,13 @@
     "url": "https://www.coindesk.com/tech/2026/10/29/new-quantum-model-slashes-hardware-needed-to-break-bitcoin-keys-by-17-times",
     "published": "2026-10-29T13:55:42Z",
     "importance": 5
+   },
+   {
+    "title": "Bitcoin, teknoloji satış dalgasının altına yayılmasıyla 12 yılın en kötü ekim ayı riskini taşıyor",
+    "summary": "Kripto piyasaları ABD borsalarındaki düşüşü yönlendirirken Bitcoin 77.000 dolar civarında seyretti; altın fiyatı ise bir yılın en düşük seviyesine geriledi.",
+    "url": "https://cointelegraph-tr.com/markets/bitcoin-risks-worst-october-in-12-years-as-tech-sell-off-spreads-to-gold",
+    "published": "2026-10-30T16:06:28Z",
+    "importance": 4
    },
    {
     "title": "Bitcoin, ether ve XRP satışları 1.5 milyar dolarlık kaldıraçlı kripto pozisyonunu sildi",
@@ -63,13 +70,6 @@
     "summary": "10 milyar dolarlık bitcoin opsiyonunun vadesi yaklaşırken, fiyatlamalardaki sinyaller dikkat çekiyor.",
     "url": "https://www.coindesk.com/daybook-us/2026/10/29/as-usd10-billion-in-bitcoin-options-near-expiry-the-tell-is-in-the-pricing",
     "published": "2026-10-29T12:04:50Z",
-    "importance": 4
-   },
-   {
-    "title": "Bitcoin, Fed muhalefeti, Samsung ve Alphabet kazançları ile 80.000 dolara geriledi; yapay zeka token'ları düştü",
-    "summary": "Bitcoin, Fed muhalefeti, Samsung ve Alphabet kazançları etkisiyle 80.000 dolara gerilerken yapay zeka token'ları düşüş yaşadı.",
-    "url": "https://www.coindesk.com/markets/2026/10/29/bitcoin-drops-to-usd80-000-on-fed-dissent-samsung-alphabet-earnings-ai-tokens-slump",
-    "published": "2026-10-29T11:11:48Z",
     "importance": 4
    }
   ],
@@ -137,6 +137,15 @@
     "url": "https://cointelegraph-tr.com/magazine/private-fast-usdt-is-coming-to-bitcoin-can-it-compete-with-ethereum-and-tron",
     "published": "2026-10-29T13:30:00Z",
     "importance": 4
+   }
+  ],
+  "USDC": [
+   {
+    "title": "Crypto Biz: Bitcoin’ın kuantum tehdidi ekonomik bir soruna dönüşüyor",
+    "summary": "Bitcoin, Ripple’ın ABD bankacılık lisansı alması, USDC’nin Avrupa’da zemin kazanması ve VanEck’in yeni bir ETF’ye BTC eklemesiyle birlikte artan kuantum güvenliği endişeleriyle karşı karşıya.",
+    "url": "https://cointelegraph-tr.com/news/bitcoin-quantum-threat-ripple-bank-usdc-vaneck-crypto-biz",
+    "published": "2026-10-30T17:09:31Z",
+    "importance": 3
    }
   ],
   "USDT": [
@@ -359,7 +368,10 @@
   "https://www.coindesk.com/tech/2026/10/30/binance-uncovers-wider-breach-in-usd6-3-billion-exploit-targets-sunday-withdrawal-restart": 1793378947.4342976,
   "https://www.theblock.co/news/regulation/2026-10-30-texas-brothers-sentenced-15-years-8-million-crypto-robbery-minnesota-432221": 1793378947.4342976,
   "https://cointelegraph-tr.com/news/binance-hack-security-ethereum-eip-7702-role": 1793378947.4342976,
-  "https://cointelegraph-tr.com/news/recap-binances-record-63b-hack-unfolded": 1793382206.2326686
+  "https://cointelegraph-tr.com/news/recap-binances-record-63b-hack-unfolded": 1793382206.2326686,
+  "https://cointelegraph-tr.com/markets/coinbase-leads-crypto-stock-selloff-shares-tumble": 1793386018.081552,
+  "https://cointelegraph-tr.com/news/bitcoin-quantum-threat-ripple-bank-usdc-vaneck-crypto-biz": 1793386018.081552,
+  "https://cointelegraph-tr.com/markets/bitcoin-risks-worst-october-in-12-years-as-tech-sell-off-spreads-to-gold": 1793386018.081552
  },
  "tries": {
   "https://www.coindesk.com/markets/2026/10/29/the-chart-bitcoin-traders-should-be-paying-attention-to": 3,
