@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-30T19:47:42Z",
+ "updated": "2026-10-30T20:41:05Z",
  "sources": [
   "coindesk.com",
   "cointelegraph-tr.com",
@@ -175,8 +175,6 @@
   ]
  },
  "seen": {
-  "https://cointelegraph-tr.com/news/canada-consultation-stablecoins-genius-act": 1793046988.1944656,
-  "https://www.theblock.co/news/ecosystems/2026-10-26-cz-pitches-bnb-chains-role-ai-bnb-standard-rings-nasdaq-bell-431790": 1793046988.1944656,
   "https://cointelegraph-tr.com/news/occ-community-banks-stablecoin-issuers-genius-act": 1793052479.1052089,
   "https://cointelegraph-tr.com/news/injective-launches-onchain-futures-market-tracking-nvidia-gpu-rental-costs": 1793052479.1052089,
   "https://cointelegraph-tr.com/news/ripple-wins-final-us-approval-for-national-trust-bank": 1793061947.6986217,
@@ -367,7 +365,8 @@
   "https://cointelegraph-tr.com/news/recap-binances-record-63b-hack-unfolded": 1793382206.2326686,
   "https://cointelegraph-tr.com/markets/coinbase-leads-crypto-stock-selloff-shares-tumble": 1793386018.081552,
   "https://cointelegraph-tr.com/news/bitcoin-quantum-threat-ripple-bank-usdc-vaneck-crypto-biz": 1793386018.081552,
-  "https://cointelegraph-tr.com/markets/bitcoin-risks-worst-october-in-12-years-as-tech-sell-off-spreads-to-gold": 1793386018.081552
+  "https://cointelegraph-tr.com/markets/bitcoin-risks-worst-october-in-12-years-as-tech-sell-off-spreads-to-gold": 1793386018.081552,
+  "https://www.coindesk.com/business/2026/10/30/experts-divided-over-binance-hack-asset-freezes-warn-recovery-is-another-matter": 1793392865.7619345
  },
  "tries": {
   "https://www.coindesk.com/markets/2026/10/29/the-chart-bitcoin-traders-should-be-paying-attention-to": 3,
