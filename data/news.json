@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-30T18:46:58Z",
+ "updated": "2026-10-30T19:47:42Z",
  "sources": [
   "coindesk.com",
   "cointelegraph-tr.com",
@@ -175,10 +175,6 @@
   ]
  },
  "seen": {
-  "https://www.theblock.co/news/markets/2026-10-26-hyperliquid-payward-kraken-cftc-regulated-hip-3-deployer-431787": 1793040490.571356,
-  "https://www.theblock.co/news/deals/2026-10-26-y-combinator-mochatrade-funding-crypto-431775": 1793040490.571356,
-  "https://cointelegraph-tr.com/news/nba-names-kalshi-polymarket-preferred-exchanges-signs-cftc-deal": 1793040490.571356,
-  "https://cointelegraph-tr.com/news/anthropic-artificial-intelligence-ipo": 1793043815.7597587,
   "https://cointelegraph-tr.com/news/canada-consultation-stablecoins-genius-act": 1793046988.1944656,
   "https://www.theblock.co/news/ecosystems/2026-10-26-cz-pitches-bnb-chains-role-ai-bnb-standard-rings-nasdaq-bell-431790": 1793046988.1944656,
   "https://cointelegraph-tr.com/news/occ-community-banks-stablecoin-issuers-genius-act": 1793052479.1052089,
