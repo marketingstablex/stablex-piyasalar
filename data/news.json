@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-30T03:48:30Z",
+ "updated": "2026-10-30T04:48:20Z",
  "sources": [
   "coindesk.com",
   "cointelegraph-tr.com",
@@ -355,7 +355,9 @@
   "https://cointelegraph-tr.com/news/binance-hack-may-involve-private-key-misuse-not-theft-blockaid-ceo": 1793321765.048036,
   "https://cointelegraph-tr.com/markets/binance-hack-rattles-crypto-markets-bnb-bitcoin-slide": 1793325463.4783928,
   "https://www.theblock.co/news/markets/2026-10-29-bitcoin-slides-below-77000-binance-hack-432183": 1793328551.5838187,
-  "https://www.coindesk.com/policy/2026/10/29/crypto-s-longtime-foe-north-korea-s-lazarus-group-likely-behind-binance-hack-blockchain-sleuths": 1793332110.4070258
+  "https://www.coindesk.com/policy/2026/10/29/crypto-s-longtime-foe-north-korea-s-lazarus-group-likely-behind-binance-hack-blockchain-sleuths": 1793332110.4070258,
+  "https://www.coindesk.com/markets/2026/10/30/usd6-billion-binance-hack-sends-bitcoin-ether-tumbling-standard-chartered-sees-more-losses-ahead": 1793335700.177996,
+  "https://www.coindesk.com/markets/2026/10/30/institutional-crypto-investors-rush-to-pull-funds-from-exchanges-after-binance-hack": 1793335700.177996
  },
  "tries": {
   "https://www.coindesk.com/markets/2026/10/29/the-chart-bitcoin-traders-should-be-paying-attention-to": 3,
