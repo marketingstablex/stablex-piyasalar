@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-30T11:41:17Z",
+ "updated": "2026-10-30T12:54:34Z",
  "sources": [
   "coindesk.com",
   "cointelegraph-tr.com",
@@ -380,7 +380,9 @@
   "https://cointelegraph-tr.com/news/binance-hack-could-accelerate-shift-to-dexs-standard-chartered": 1793353945.0688567,
   "https://cointelegraph-tr.com/markets/rune-token-surges-binance-hack": 1793357325.3534172,
   "https://www.coindesk.com/tech/2026/10/30/here-s-how-one-ethereum-permission-let-an-attacker-drain-usd2-5-billion-from-binance": 1793360477.922017,
-  "https://www.coindesk.com/markets/2026/10/30/crypto-liquidations-jump-to-usd1-57-billion-as-binance-hack-sends-bitcoin-ether-lower": 1793360477.922017
+  "https://www.coindesk.com/markets/2026/10/30/crypto-liquidations-jump-to-usd1-57-billion-as-binance-hack-sends-bitcoin-ether-lower": 1793360477.922017,
+  "https://www.coindesk.com/business/2026/10/30/binance-arranges-usd6-34-billion-to-cover-losses-from-record-crypto-hack": 1793364874.6688,
+  "https://www.coindesk.com/daybook-us/2026/10/30/here-s-how-big-bitcoin-traders-responded-after-the-binance-hack-hit": 1793364874.6688
  },
  "tries": {
   "https://www.coindesk.com/markets/2026/10/29/the-chart-bitcoin-traders-should-be-paying-attention-to": 3,
