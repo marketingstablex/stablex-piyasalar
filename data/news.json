@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-29T23:39:13Z",
+ "updated": "2026-10-30T00:56:05Z",
  "sources": [
   "coindesk.com",
   "cointelegraph-tr.com",
@@ -160,15 +160,6 @@
     "url": "https://cointelegraph-tr.com/magazine/private-fast-usdt-is-coming-to-bitcoin-can-it-compete-with-ethereum-and-tron",
     "published": "2026-10-29T13:30:00Z",
     "importance": 4
-   }
-  ],
-  "XRP": [
-   {
-    "title": "XRP Ledger geliştiricileri, stablecoin ödemeleri için sıfır XRP ile cüzdan oluşturulmasını öneriyor",
-    "summary": "XRP Ledger geliştiricileri, stablecoin ödemeleri için sıfır XRP ile cüzdan oluşturulmasını öneriyor.",
-    "url": "https://www.coindesk.com/tech/2026/10/28/xrp-ledger-developers-propose-creating-wallets-with-zero-xrp-for-stablecoin-payments",
-    "published": "2026-10-28T11:52:14Z",
-    "importance": 3
    }
   ]
  },
@@ -362,7 +353,9 @@
   "https://www.coindesk.com/business/2026/10/29/potential-multi-billion-binance-hack-hitting-crypto-markets": 1793310201.1083174,
   "https://www.theblock.co/news/business/2026-10-29-strategy-q3-net-income-preferred-daily-dividends-432141": 1793310201.1083174,
   "https://www.theblock.co/news/markets/2026-10-29-binance-investigating-hack-suspicious-outflows-5-billion-432171": 1793313792.8779838,
-  "https://cointelegraph-tr.com/news/binance-linked-wallet-faces-possible-exploit-blockchain-researcher-warns": 1793313792.8779838
+  "https://cointelegraph-tr.com/news/binance-linked-wallet-faces-possible-exploit-blockchain-researcher-warns": 1793313792.8779838,
+  "https://www.coindesk.com/business/2026/10/30/binance-hack-drained-wallets-backing-customer-assets-reserve-data-shows": 1793321765.048036,
+  "https://cointelegraph-tr.com/news/binance-hack-may-involve-private-key-misuse-not-theft-blockaid-ceo": 1793321765.048036
  },
  "tries": {
   "https://www.coindesk.com/markets/2026/10/29/the-chart-bitcoin-traders-should-be-paying-attention-to": 3,
