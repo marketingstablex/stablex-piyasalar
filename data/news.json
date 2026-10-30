@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-30T15:51:54Z",
+ "updated": "2026-10-30T16:49:07Z",
  "sources": [
   "coindesk.com",
   "cointelegraph-tr.com",
@@ -94,13 +94,6 @@
     "url": "https://www.coindesk.com/tech/2026/10/29/ethereum-clients-patch-flaw-that-could-let-attackers-redirect-eth-rewards",
     "published": "2026-10-29T05:30:34Z",
     "importance": 4
-   },
-   {
-    "title": "Buzdolabınız bir gün Ether stake edip memecoin çıkarabilir: CFTC Başkanı",
-    "summary": "CFTC Başkanı Mike Selig, otonom yapay zeka ajanlarının insan yatırımcılar etrafında oluşturulan finansal kurallara meydan okuyabileceğini ve düzenleyicilerin buna uyum sağlaması gerektiğini belirtiyor.",
-    "url": "https://cointelegraph-tr.com/news/a-fridge-that-launches-memecoins-cftc-floats-ai-crypto-future",
-    "published": "2026-10-29T04:39:49Z",
-    "importance": 3
    }
   ],
   "LINK": [
@@ -180,12 +173,6 @@
   ]
  },
  "seen": {
-  "https://www.theblock.co/news/markets/2026-10-26-prediction-markets-derivatives-drive-bernstein-crypto-stock-outlook-coinbase-robinhood-circle-431750": 1793033221.82044,
-  "https://www.theblock.co/news/regulation/2026-10-26-nba-cftc-memorandum-of-understanding-prediction-markets-kalshi-polymarket-431764": 1793033221.82044,
-  "https://www.coindesk.com/business/2026/10/26/tom-lee-s-bitmine-favors-share-buybacks-to-ether-purchases-as-crypto-declines": 1793033221.82044,
-  "https://www.coindesk.com/policy/2026/10/26/nba-joins-pro-sports-leagues-on-cftc-prediction-markets-bandwagon-while-nfl-balks": 1793033221.82044,
-  "https://cointelegraph-tr.com/news/sp-dow-jones-partners-with-kalshi-to-bring-financial-benchmarks-to-prediction-markets": 1793033221.82044,
-  "https://www.coindesk.com/policy/2026/10/26/occ-calls-on-community-banks-to-enter-the-stablecoin-payments-market": 1793033221.82044,
   "https://www.theblock.co/news/markets/2026-10-26-hyperliquid-payward-kraken-cftc-regulated-hip-3-deployer-431787": 1793040490.571356,
   "https://www.theblock.co/news/deals/2026-10-26-y-combinator-mochatrade-funding-crypto-431775": 1793040490.571356,
   "https://cointelegraph-tr.com/news/nba-names-kalshi-polymarket-preferred-exchanges-signs-cftc-deal": 1793040490.571356,
@@ -375,7 +362,10 @@
   "https://www.theblock.co/news/ecosystems/2026-10-30-binance-says-it-has-6-34-billion-ready-to-cover-hack-losses-432208": 1793368821.8949564,
   "https://www.theblock.co/news/business/2026-10-30-strategy-mstr-preferred-stock-bitcoin-buying-analysts-432214": 1793372248.998124,
   "https://www.coindesk.com/markets/2026/10/30/wall-street-analysts-urge-investors-to-buy-crypto-stocks-on-weakness-after-usd6-3-billion-binance-hack": 1793372248.998124,
-  "https://cointelegraph-tr.com/news/binance-hacker-bitcoin-holdings-exceed-coinbase-btc-treasury": 1793372248.998124
+  "https://cointelegraph-tr.com/news/binance-hacker-bitcoin-holdings-exceed-coinbase-btc-treasury": 1793372248.998124,
+  "https://www.coindesk.com/tech/2026/10/30/binance-uncovers-wider-breach-in-usd6-3-billion-exploit-targets-sunday-withdrawal-restart": 1793378947.4342976,
+  "https://www.theblock.co/news/regulation/2026-10-30-texas-brothers-sentenced-15-years-8-million-crypto-robbery-minnesota-432221": 1793378947.4342976,
+  "https://cointelegraph-tr.com/news/binance-hack-security-ethereum-eip-7702-role": 1793378947.4342976
  },
  "tries": {
   "https://www.coindesk.com/markets/2026/10/29/the-chart-bitcoin-traders-should-be-paying-attention-to": 3,
