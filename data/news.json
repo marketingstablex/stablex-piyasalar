@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-30T16:49:07Z",
+ "updated": "2026-10-30T17:43:26Z",
  "sources": [
   "coindesk.com",
   "cointelegraph-tr.com",
@@ -86,13 +86,6 @@
     "summary": "USDT, gizlilik ve Lightning hızında ödemeler sunarak Bitcoin'e dönüyor. Tether'ın yenilenen Bitcoin versiyonunun ETH ve TRON'daki stablecoin'lerle rekabet edip edemeyeceği merak ediliyor.",
     "url": "https://cointelegraph-tr.com/magazine/private-fast-usdt-is-coming-to-bitcoin-can-it-compete-with-ethereum-and-tron",
     "published": "2026-10-29T13:30:00Z",
-    "importance": 4
-   },
-   {
-    "title": "Hint sertifika firmasındaki güvenlik açığı Ethereum'u etkiledi, geliştiriciler düzeltmeler için yarışıyor",
-    "summary": "Hint sertifika firmasındaki güvenlik açığı Ethereum'u etkiledi, geliştiriciler düzeltmeler için yarışıyor",
-    "url": "https://www.coindesk.com/tech/2026/10/29/ethereum-clients-patch-flaw-that-could-let-attackers-redirect-eth-rewards",
-    "published": "2026-10-29T05:30:34Z",
     "importance": 4
    }
   ],
@@ -365,7 +358,8 @@
   "https://cointelegraph-tr.com/news/binance-hacker-bitcoin-holdings-exceed-coinbase-btc-treasury": 1793372248.998124,
   "https://www.coindesk.com/tech/2026/10/30/binance-uncovers-wider-breach-in-usd6-3-billion-exploit-targets-sunday-withdrawal-restart": 1793378947.4342976,
   "https://www.theblock.co/news/regulation/2026-10-30-texas-brothers-sentenced-15-years-8-million-crypto-robbery-minnesota-432221": 1793378947.4342976,
-  "https://cointelegraph-tr.com/news/binance-hack-security-ethereum-eip-7702-role": 1793378947.4342976
+  "https://cointelegraph-tr.com/news/binance-hack-security-ethereum-eip-7702-role": 1793378947.4342976,
+  "https://cointelegraph-tr.com/news/recap-binances-record-63b-hack-unfolded": 1793382206.2326686
  },
  "tries": {
   "https://www.coindesk.com/markets/2026/10/29/the-chart-bitcoin-traders-should-be-paying-attention-to": 3,
