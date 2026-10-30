@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-30T02:49:11Z",
+ "updated": "2026-10-30T03:48:30Z",
  "sources": [
   "coindesk.com",
   "cointelegraph-tr.com",
@@ -164,9 +164,6 @@
   ]
  },
  "seen": {
-  "https://cointelegraph-tr.com/news/hong-kong-names-nasdaq-listed-solana-company-a-strategic-enterprise": 1792985816.151512,
-  "https://www.coindesk.com/markets/2026/10/26/elon-musk-confirms-usd40-billion-spacex-debt-deal-for-ai-chips-warns-of-neocloud-shakeout": 1792985816.151512,
-  "https://cointelegraph-tr.com/news/keystone-says-website-breach-exposed-hardware-wallet-buyers-addresses": 1792985816.151512,
   "https://www.coindesk.com/markets/2026/10/26/bitcoin-slips-under-usd80-000-as-traders-de-risk-ahead-of-fed-meeting": 1792991574.4010763,
   "https://cointelegraph-tr.com/news/what-happened-in-crypto-today": 1792995017.2292035,
   "https://www.coindesk.com/markets/2026/10/26/coindcx-absorbs-usd16-million-loss-from-internal-process-failure-tied-to-retired-wallet": 1792995017.2292035,
@@ -357,7 +354,8 @@
   "https://www.coindesk.com/business/2026/10/30/binance-hack-drained-wallets-backing-customer-assets-reserve-data-shows": 1793321765.048036,
   "https://cointelegraph-tr.com/news/binance-hack-may-involve-private-key-misuse-not-theft-blockaid-ceo": 1793321765.048036,
   "https://cointelegraph-tr.com/markets/binance-hack-rattles-crypto-markets-bnb-bitcoin-slide": 1793325463.4783928,
-  "https://www.theblock.co/news/markets/2026-10-29-bitcoin-slides-below-77000-binance-hack-432183": 1793328551.5838187
+  "https://www.theblock.co/news/markets/2026-10-29-bitcoin-slides-below-77000-binance-hack-432183": 1793328551.5838187,
+  "https://www.coindesk.com/policy/2026/10/29/crypto-s-longtime-foe-north-korea-s-lazarus-group-likely-behind-binance-hack-blockchain-sleuths": 1793332110.4070258
  },
  "tries": {
   "https://www.coindesk.com/markets/2026/10/29/the-chart-bitcoin-traders-should-be-paying-attention-to": 3,
