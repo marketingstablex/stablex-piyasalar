@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-30T10:48:45Z",
+ "updated": "2026-10-30T11:41:17Z",
  "sources": [
   "coindesk.com",
   "cointelegraph-tr.com",
@@ -180,8 +180,6 @@
   ]
  },
  "seen": {
-  "https://www.coindesk.com/tech/2026/10/26/live-news-brent-crude-slides-below-usd110-as-iran-deal-hopes-grow-and-brazil-stocks-sink": 1793013309.4070272,
-  "https://www.coindesk.com/markets/2026/10/26/calpers-pulls-back-from-big-tech-as-ai-jitters-deepen-neocloud-sell-off": 1793013309.4070272,
   "https://www.theblock.co/news/business/2026-10-26-strategy-pauses-bitcoin-buys-repurchases-205-million-of-strc-preferred-shares-431699": 1793023074.7824097,
   "https://www.coindesk.com/business/2026/10/26/ai-giant-anthropic-files-for-blockbuster-ipo": 1793023074.7824097,
   "https://www.theblock.co/news/business/2026-10-26-strive-closes-in-second-largest-corporate-bitcoin-treasury-511-million-purchase-431729": 1793023074.7824097,
@@ -380,7 +378,9 @@
   "https://www.theblock.co/news/business/2026-10-30-coinbase-q3-net-income-jumps-432189": 1793353945.0688567,
   "https://www.theblock.co/news/ecosystems/2026-10-30-trezor-reports-suspected-hardware-implant-432196": 1793353945.0688567,
   "https://cointelegraph-tr.com/news/binance-hack-could-accelerate-shift-to-dexs-standard-chartered": 1793353945.0688567,
-  "https://cointelegraph-tr.com/markets/rune-token-surges-binance-hack": 1793357325.3534172
+  "https://cointelegraph-tr.com/markets/rune-token-surges-binance-hack": 1793357325.3534172,
+  "https://www.coindesk.com/tech/2026/10/30/here-s-how-one-ethereum-permission-let-an-attacker-drain-usd2-5-billion-from-binance": 1793360477.922017,
+  "https://www.coindesk.com/markets/2026/10/30/crypto-liquidations-jump-to-usd1-57-billion-as-binance-hack-sends-bitcoin-ether-lower": 1793360477.922017
  },
  "tries": {
   "https://www.coindesk.com/markets/2026/10/29/the-chart-bitcoin-traders-should-be-paying-attention-to": 3,
