@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-30T23:37:50Z",
+ "updated": "2026-10-31T00:57:26Z",
  "sources": [
   "coindesk.com",
   "cointelegraph-tr.com",
@@ -63,13 +63,6 @@
     "summary": "USDT, gizlilik ve Lightning hızında ödemeler sunarak Bitcoin'e dönüyor. Tether'ın yenilenen Bitcoin versiyonunun ETH ve TRON'daki stablecoin'lerle rekabet edip edemeyeceği merak ediliyor.",
     "url": "https://cointelegraph-tr.com/magazine/private-fast-usdt-is-coming-to-bitcoin-can-it-compete-with-ethereum-and-tron",
     "published": "2026-10-29T13:30:00Z",
-    "importance": 4
-   },
-   {
-    "title": "10 milyar dolarlık bitcoin opsiyonunun vadesi yaklaşırken, fiyatlamalardaki sinyaller dikkat çekiyor",
-    "summary": "10 milyar dolarlık bitcoin opsiyonunun vadesi yaklaşırken, fiyatlamalardaki sinyaller dikkat çekiyor.",
-    "url": "https://www.coindesk.com/daybook-us/2026/10/29/as-usd10-billion-in-bitcoin-options-near-expiry-the-tell-is-in-the-pricing",
-    "published": "2026-10-29T12:04:50Z",
     "importance": 4
    }
   ],
@@ -168,7 +161,6 @@
   ]
  },
  "seen": {
-  "https://cointelegraph-tr.com/news/ripple-wins-final-us-approval-for-national-trust-bank": 1793061947.6986217,
   "https://www.theblock.co/news/business/2026-10-26-blackrock-sbi-startale-mou-431642": 1793065481.0546534,
   "https://www.theblock.co/news/regulation/2026-10-26-ripple-gains-final-occ-approval-rlusd-431810": 1793068488.5453763,
   "https://www.theblock.co/news/business/2026-10-26-stonex-lifts-strive-price-target-431818": 1793074296.7106216,
@@ -359,7 +351,8 @@
   "https://cointelegraph-tr.com/markets/bitcoin-risks-worst-october-in-12-years-as-tech-sell-off-spreads-to-gold": 1793386018.081552,
   "https://www.coindesk.com/business/2026/10/30/experts-divided-over-binance-hack-asset-freezes-warn-recovery-is-another-matter": 1793392865.7619345,
   "https://www.theblock.co/news/business/2026-10-30-binance-hack-largest-crypto-hack-north-korea-432225": 1793396402.2257304,
-  "https://www.theblock.co/news/regulation/2026-10-30-trump-looking-into-binance-hack-calls-grow-for-crypto-rules-432236": 1793396402.2257304
+  "https://www.theblock.co/news/regulation/2026-10-30-trump-looking-into-binance-hack-calls-grow-for-crypto-rules-432236": 1793396402.2257304,
+  "https://www.coindesk.com/business/2026/10/30/openai-reportedly-cuts-fundraising-target-amid-ai-jitters": 1793408246.526326
  },
  "tries": {
   "https://www.coindesk.com/markets/2026/10/29/the-chart-bitcoin-traders-should-be-paying-attention-to": 3,
