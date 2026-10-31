@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-31T08:45:00Z",
+ "updated": "2026-10-31T09:40:38Z",
  "sources": [
   "coindesk.com",
   "cointelegraph-tr.com",
@@ -26,13 +26,6 @@
     "summary": "Michael Saylor, Strategy’nin yeni adi hisse senedi toplaması veya Bitcoin fiyatının artması gerekmeden 30 milyar dolara kadar dijital kredi oluşturabileceğini belirtti. Şirket bu doğrultuda daha fazla Bitcoin alımı yapmayı planlıyor.",
     "url": "https://cointelegraph-tr.com/news/strategy-30-billion-digital-credit-capacity-bitcoin-buys",
     "published": "2026-10-30T05:53:07Z",
-    "importance": 4
-   },
-   {
-    "title": "Strategy, imtiyazlı hissedarların günlük temettüleri onaylamasıyla 3. çeyrekte 19,5 milyar dolar net gelir bildirdi",
-    "summary": "Strategy, 20,91 milyar dolarlık Bitcoin kazancına dayalı olarak 3. çeyrekte 19,53 milyar dolar net gelir bildirdi. Şirket 848.517 BTC tutmaktadır ve imtiyazlı hisse senetleri için günlük temettü ödemelerine geçmiştir.",
-    "url": "https://www.theblock.co/news/business/2026-10-29-strategy-q3-net-income-preferred-daily-dividends-432141",
-    "published": "2026-10-29T20:58:35Z",
     "importance": 4
    }
   ],
@@ -72,7 +65,6 @@
   ]
  },
  "seen": {
-  "https://www.coindesk.com/markets/2026/10/27/an-ai-label-alone-no-longer-wins-lenders-jpmorgan-says": 1793092609.0583353,
   "https://cointelegraph-tr.com/news/zcash-co-founder-ending-zcg-funding-125m": 1793096176.775684,
   "https://www.coindesk.com/markets/2026/10/27/now-is-the-time-to-accumulate-bitcoin-galaxy-says": 1793096176.775684,
   "https://www.coindesk.com/markets/2026/10/27/investor-who-called-for-ai-pivot-in-2023-says-bitcoin-is-going-to-usd57-000": 1793099631.152238,
