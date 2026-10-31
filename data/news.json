@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-31T00:57:26Z",
+ "updated": "2026-10-31T01:56:39Z",
  "sources": [
   "coindesk.com",
   "cointelegraph-tr.com",
@@ -16,13 +16,6 @@
    }
   ],
   "BTC": [
-   {
-    "title": "Yeni kuantum modeli, bitcoin anahtarlarını kırmak için gereken donanımı 17 kat azaltıyor",
-    "summary": "Yeni bir kuantum modeli, bitcoin anahtarlarını kırmak için ihtiyaç duyulan donanım gereksinimini 17 kat oranında düşürüyor.",
-    "url": "https://www.coindesk.com/tech/2026/10/29/new-quantum-model-slashes-hardware-needed-to-break-bitcoin-keys-by-17-times",
-    "published": "2026-10-29T13:55:42Z",
-    "importance": 5
-   },
    {
     "title": "Bitcoin, teknoloji satış dalgasının altına yayılmasıyla 12 yılın en kötü ekim ayı riskini taşıyor",
     "summary": "Kripto piyasaları ABD borsalarındaki düşüşü yönlendirirken Bitcoin 77.000 dolar civarında seyretti; altın fiyatı ise bir yılın en düşük seviyesine geriledi.",
@@ -57,13 +50,6 @@
     "url": "https://www.coindesk.com/business/2026/10/29/switzerland-s-first-bitcoin-etf-gets-rare-exemption-will-open-to-overseas-brokers",
     "published": "2026-10-29T14:15:46Z",
     "importance": 4
-   },
-   {
-    "title": "Özel ve hızlı USDT Bitcoin’e geliyor. Ethereum ve Tron’la rekabet edebilir mi?",
-    "summary": "USDT, gizlilik ve Lightning hızında ödemeler sunarak Bitcoin'e dönüyor. Tether'ın yenilenen Bitcoin versiyonunun ETH ve TRON'daki stablecoin'lerle rekabet edip edemeyeceği merak ediliyor.",
-    "url": "https://cointelegraph-tr.com/magazine/private-fast-usdt-is-coming-to-bitcoin-can-it-compete-with-ethereum-and-tron",
-    "published": "2026-10-29T13:30:00Z",
-    "importance": 4
    }
   ],
   "ETH": [
@@ -72,13 +58,6 @@
     "summary": "Bitcoin, ether ve XRP'deki satış dalgası 1.5 milyar dolarlık kaldıraçlı kripto pozisyonunu tasfiye etti.",
     "url": "https://www.coindesk.com/markets/2026/10/30/bitcoin-ether-and-xrp-selloff-wipes-out-usd1-5-billion-in-leveraged-crypto-bets",
     "published": "2026-10-30T06:22:00Z",
-    "importance": 4
-   },
-   {
-    "title": "Özel ve hızlı USDT Bitcoin’e geliyor. Ethereum ve Tron’la rekabet edebilir mi?",
-    "summary": "USDT, gizlilik ve Lightning hızında ödemeler sunarak Bitcoin'e dönüyor. Tether'ın yenilenen Bitcoin versiyonunun ETH ve TRON'daki stablecoin'lerle rekabet edip edemeyeceği merak ediliyor.",
-    "url": "https://cointelegraph-tr.com/magazine/private-fast-usdt-is-coming-to-bitcoin-can-it-compete-with-ethereum-and-tron",
-    "published": "2026-10-29T13:30:00Z",
     "importance": 4
    }
   ],
@@ -116,13 +95,6 @@
     "url": "https://www.coindesk.com/business/2026/10/29/from-rivals-to-partners-polygon-and-solana-team-to-bring-stablecoin-payments-to-banks",
     "published": "2026-10-29T16:35:43Z",
     "importance": 4
-   },
-   {
-    "title": "Özel ve hızlı USDT Bitcoin’e geliyor. Ethereum ve Tron’la rekabet edebilir mi?",
-    "summary": "USDT, gizlilik ve Lightning hızında ödemeler sunarak Bitcoin'e dönüyor. Tether'ın yenilenen Bitcoin versiyonunun ETH ve TRON'daki stablecoin'lerle rekabet edip edemeyeceği merak ediliyor.",
-    "url": "https://cointelegraph-tr.com/magazine/private-fast-usdt-is-coming-to-bitcoin-can-it-compete-with-ethereum-and-tron",
-    "published": "2026-10-29T13:30:00Z",
-    "importance": 4
    }
   ],
   "USDC": [
@@ -132,15 +104,6 @@
     "url": "https://cointelegraph-tr.com/news/bitcoin-quantum-threat-ripple-bank-usdc-vaneck-crypto-biz",
     "published": "2026-10-30T17:09:31Z",
     "importance": 3
-   }
-  ],
-  "USDT": [
-   {
-    "title": "Özel ve hızlı USDT Bitcoin’e geliyor. Ethereum ve Tron’la rekabet edebilir mi?",
-    "summary": "USDT, gizlilik ve Lightning hızında ödemeler sunarak Bitcoin'e dönüyor. Tether'ın yenilenen Bitcoin versiyonunun ETH ve TRON'daki stablecoin'lerle rekabet edip edemeyeceği merak ediliyor.",
-    "url": "https://cointelegraph-tr.com/magazine/private-fast-usdt-is-coming-to-bitcoin-can-it-compete-with-ethereum-and-tron",
-    "published": "2026-10-29T13:30:00Z",
-    "importance": 4
    }
   ],
   "XRP": [
@@ -161,7 +124,6 @@
   ]
  },
  "seen": {
-  "https://www.theblock.co/news/business/2026-10-26-blackrock-sbi-startale-mou-431642": 1793065481.0546534,
   "https://www.theblock.co/news/regulation/2026-10-26-ripple-gains-final-occ-approval-rlusd-431810": 1793068488.5453763,
   "https://www.theblock.co/news/business/2026-10-26-stonex-lifts-strive-price-target-431818": 1793074296.7106216,
   "https://www.coindesk.com/markets/2026/10/27/ripple-gets-a-final-go-ahead-to-launch-its-own-u-s-national-trust-bank": 1793077820.0441372,
