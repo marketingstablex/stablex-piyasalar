@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-31T04:44:23Z",
+ "updated": "2026-10-31T05:41:14Z",
  "sources": [
   "coindesk.com",
   "cointelegraph-tr.com",
@@ -72,7 +72,6 @@
   ]
  },
  "seen": {
-  "https://www.coindesk.com/markets/2026/10/27/ripple-gets-a-final-go-ahead-to-launch-its-own-u-s-national-trust-bank": 1793077820.0441372,
   "https://www.coindesk.com/tech/2026/10/27/ethereum-fixes-glamsterdam-bug-that-could-have-sent-staking-deposits-to-builders": 1793085965.1347504,
   "https://www.theblock.co/news/business/2026-10-27-mizuho-cuts-circle-price-target-431826": 1793085965.1347504,
   "https://www.coindesk.com/markets/2026/10/27/zcash-co-founder-proposes-ending-grants-funding-citing-usd125-million-treasury": 1793085965.1347504,
@@ -260,7 +259,8 @@
   "https://www.coindesk.com/business/2026/10/30/experts-divided-over-binance-hack-asset-freezes-warn-recovery-is-another-matter": 1793392865.7619345,
   "https://www.theblock.co/news/business/2026-10-30-binance-hack-largest-crypto-hack-north-korea-432225": 1793396402.2257304,
   "https://www.theblock.co/news/regulation/2026-10-30-trump-looking-into-binance-hack-calls-grow-for-crypto-rules-432236": 1793396402.2257304,
-  "https://www.coindesk.com/business/2026/10/30/openai-reportedly-cuts-fundraising-target-amid-ai-jitters": 1793408246.526326
+  "https://www.coindesk.com/business/2026/10/30/openai-reportedly-cuts-fundraising-target-amid-ai-jitters": 1793408246.526326,
+  "https://www.coindesk.com/markets/2026/10/31/bitcoin-stolen-from-binance-tops-tesla-s-holdings-and-is-over-twice-el-salvador-s-reserve": 1793425274.4437332
  },
  "tries": {
   "https://www.coindesk.com/markets/2026/10/29/the-chart-bitcoin-traders-should-be-paying-attention-to": 3,
