@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-01T13:12:08Z",
+ "updated": "2026-11-01T18:31:51Z",
  "sources": [
   "coindesk.com",
   "cointelegraph-tr.com",
@@ -31,21 +31,6 @@
   ]
  },
  "seen": {
-  "https://cointelegraph-tr.com/news/google-cloud-mpc-service-bitcoin-custody": 1793195965.8099918,
-  "https://cointelegraph-tr.com/magazine/cybersecuritys-black-october-how-to-protect-yourself": 1793195965.8099918,
-  "https://cointelegraph-tr.com/news/dtcc-subsidiary-launches-tokenization-services": 1793195965.8099918,
-  "https://www.coindesk.com/business/2026/10/28/wall-street-backbone-dtcc-brings-usd30-trillion-securities-closer-to-blockchain-with-major-banks": 1793195965.8099918,
-  "https://www.theblock.co/news/business/2026-10-28-ripple-900-million-revenue-run-rate-rlusd-431920": 1793195965.8099918,
-  "https://www.coindesk.com/business/2026/10/28/jpmorgan-coca-cola-dell-also-say-no-to-okx-ice-tokenized-tock-trading-plan": 1793195965.8099918,
-  "https://www.theblock.co/news/regulation/2026-10-28-crypto-braces-for-potential-shift-in-congressional-oversight-after-midterms-431949": 1793199338.2973864,
-  "https://www.theblock.co/news/defi/2026-10-28-avail-launches-shieldtx-privacy-tool-targeting-copy-trading-bots-on-hyperliquid-431977": 1793202799.7234278,
-  "https://cointelegraph-tr.com/news/phantom-launches-kalshi-powered-prediction-markets-for-us-users": 1793206341.648012,
-  "https://www.theblock.co/news/markets/2026-10-28-bitwise-raises-bitcoin-price-target-to-1-6-million-by-2036-projects-34-annualized-returns-432010": 1793206341.648012,
-  "https://www.coindesk.com/coindesk-indices/2026/10/28/crypto-long-and-short-what-happens-when-an-ai-agent-pays-for-the-wrong-thing": 1793206341.648012,
-  "https://www.theblock.co/news/business/2026-10-28-coinbase-adds-ripple-rlusd-stablecoin-432009": 1793206341.648012,
-  "https://www.theblock.co/news/business/2026-10-28-robinhood-earnings-miss-crypto-weakness-wall-street-bullish-outlook-432011": 1793209631.533251,
-  "https://www.coindesk.com/markets/2026/10/28/coinbase-earnings-wall-street-divided-on-trading-rebound-as-robinhood-crypto-revenue-sinks-55": 1793209631.533251,
-  "https://cointelegraph-tr.com/markets/bitcoin-price-bounce-rejected-at-50-day-trend-line-ahead-of-fomc-earnings": 1793209631.533251,
   "https://www.coindesk.com/opinion/2026/10/28/crypto-isn-t-a-partisan-fight-proven-by-data": 1793213338.3156362,
   "https://cointelegraph-tr.com/news/strategy-shareholders-approve-daily-dividends-for-four-preferred-stocks": 1793213338.3156362,
   "https://www.coindesk.com/markets/2026/10/28/fed-leaves-interest-rates-unchanged-as-expected": 1793213338.3156362,
@@ -174,7 +159,14 @@
   "https://www.coindesk.com/news-analysis/2026/11/01/sherrod-brown-s-ohio-edge-threatens-a-rough-go-for-crypto-next-year": 1793538728.3359575,
   "https://www.coindesk.com/markets/2026/11/01/binance-opens-crypto-withdrawals-in-phases-starting-with-bitcoin-following-usd6-3-billion-hack": 1793538728.3359575,
   "https://cointelegraph-tr.com/news/binance-says-phase-one-of-withdrawals-opens-after-63b-hack": 1793538728.3359575,
-  "https://cointelegraph-tr.com/news/fbi-blames-north-korea-for-record-63b-binance-hack": 1793538728.3359575
+  "https://cointelegraph-tr.com/news/fbi-blames-north-korea-for-record-63b-binance-hack": 1793538728.3359575,
+  "https://www.theblock.co/news/defi/2026-11-01-north-korean-hackers-launder-242-million-of-binance-loot-via-tron-as-fbi-presses-thorchain-analyst-432257": 1793557911.2587817,
+  "https://www.coindesk.com/tech/2026/11/01/ai-agents-bypassed-crypto-spending-limits-without-human-approval-researchers-find-in-a-new-test": 1793557911.2587817,
+  "https://www.theblock.co/news/business/2026-11-01-binance-sees-3-64-billion-in-net-outflows-after-reopening-withdrawals-following-record-hack-432259": 1793557911.2587817,
+  "https://www.coindesk.com/policy/2026/11/01/the-key-races-to-watch-for-the-2026-election": 1793557911.2587817,
+  "https://www.coindesk.com/business/2026/11/01/crypto-card-startups-are-racking-up-losses-just-to-buy-your-loyalty-with-big-rewards": 1793557911.2587817,
+  "https://www.coindesk.com/policy/2026/11/01/crypto-pacs-made-big-republican-push-in-final-weeks-before-november-3-election": 1793557911.2587817,
+  "https://cointelegraph-tr.com/news/deepseek-developing-ai-agent-requiring-less-human-input-report": 1793557911.2587817
  },
  "tries": {
   "https://www.coindesk.com/markets/2026/10/29/the-chart-bitcoin-traders-should-be-paying-attention-to": 3,
