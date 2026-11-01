@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-01T05:53:25Z",
+ "updated": "2026-11-01T13:12:08Z",
  "sources": [
   "coindesk.com",
   "cointelegraph-tr.com",
@@ -31,20 +31,6 @@
   ]
  },
  "seen": {
-  "https://cointelegraph-tr.com/news/coinbase-analytics-provider-customer-data": 1793174337.4237728,
-  "https://cointelegraph-tr.com/markets/bitcoin-etf-176-million-inflow-sentiment-rebounds": 1793177559.0774345,
-  "https://www.coindesk.com/markets/2026/10/28/bitcoin-averages-over-50-in-the-12-months-after-midterms-s-and-p-500-gains-15": 1793181031.8693404,
-  "https://www.theblock.co/news/web3/2026-10-28-moodys-ripple-rlusd-stablecoin-431969": 1793181031.8693404,
-  "https://www.coindesk.com/business/2026/10/28/securitize-adds-stellar-blockchain-as-institutional-tokenization-gathers-steam": 1793181031.8693404,
-  "https://www.coindesk.com/business/2026/10/28/nearly-90-of-large-businesses-are-embracing-tokenized-cash-to-speed-up-payments-dbs": 1793184439.8703692,
-  "https://www.coindesk.com/policy/2026/10/28/brazil-s-largest-lender-becomes-first-bank-to-formalize-crypto-brokerage-under-new-rules": 1793184439.8703692,
-  "https://www.coindesk.com/markets/2026/10/28/kospi-surges-7-as-sk-hynix-earnings-fuel-ai-stock-rebound": 1793184439.8703692,
-  "https://cointelegraph-tr.com/markets/bitcoin-price-eyes-82k-as-morgan-stanley-strategist-says-most-of-correction-is-over": 1793184439.8703692,
-  "https://www.coindesk.com/markets/2026/10/28/bitcoin-rebounds-above-usd81-000-as-asian-chip-rally-spills-into-crypto-pepe-jumps-9": 1793187832.0342815,
-  "https://www.coindesk.com/business/2026/10/28/live-updates-bitcoin-climbs-above-usd81-000-as-majors-rally-ahead-of-fed-decision": 1793187832.0342815,
-  "https://www.coindesk.com/tech/2026/10/28/google-to-preview-crypto-custody-security-system-as-ai-threats-grow": 1793187832.0342815,
-  "https://www.coindesk.com/daybook-us/2026/10/28/dissent-and-more-3-things-to-watch-for-at-the-fed-meeting": 1793192038.508918,
-  "https://www.coindesk.com/tech/2026/10/28/xrp-ledger-developers-propose-creating-wallets-with-zero-xrp-for-stablecoin-payments": 1793192038.508918,
   "https://cointelegraph-tr.com/news/google-cloud-mpc-service-bitcoin-custody": 1793195965.8099918,
   "https://cointelegraph-tr.com/magazine/cybersecuritys-black-october-how-to-protect-yourself": 1793195965.8099918,
   "https://cointelegraph-tr.com/news/dtcc-subsidiary-launches-tokenization-services": 1793195965.8099918,
@@ -184,7 +170,11 @@
   "https://www.coindesk.com/business/2026/10/31/the-usd6-3-billion-binance-hack-paradox-centralization-made-the-hack-possible-but-also-saved-usd3-billion": 1793466826.53645,
   "https://cointelegraph-tr.com/news/blockchain-investigator-chainalysis-hit-by-cybersecurity-incident": 1793466826.53645,
   "https://www.coindesk.com/opinion/2026/10/31/bitcoin-s-white-paper-turns-18-and-small-businesses-are-still-paying-for-the-bailouts-it-answered": 1793479121.8440673,
-  "https://www.coindesk.com/policy/2026/10/31/fbi-confirms-north-korea-s-role-in-usd6-billion-binance-hack-asks-defi-community-to-block-btc-eth-sol-addresses": 1793512405.3572023
+  "https://www.coindesk.com/policy/2026/10/31/fbi-confirms-north-korea-s-role-in-usd6-billion-binance-hack-asks-defi-community-to-block-btc-eth-sol-addresses": 1793512405.3572023,
+  "https://www.coindesk.com/news-analysis/2026/11/01/sherrod-brown-s-ohio-edge-threatens-a-rough-go-for-crypto-next-year": 1793538728.3359575,
+  "https://www.coindesk.com/markets/2026/11/01/binance-opens-crypto-withdrawals-in-phases-starting-with-bitcoin-following-usd6-3-billion-hack": 1793538728.3359575,
+  "https://cointelegraph-tr.com/news/binance-says-phase-one-of-withdrawals-opens-after-63b-hack": 1793538728.3359575,
+  "https://cointelegraph-tr.com/news/fbi-blames-north-korea-for-record-63b-binance-hack": 1793538728.3359575
  },
  "tries": {
   "https://www.coindesk.com/markets/2026/10/29/the-chart-bitcoin-traders-should-be-paying-attention-to": 3,
