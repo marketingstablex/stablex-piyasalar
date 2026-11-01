@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-01T00:02:47Z",
+ "updated": "2026-11-01T05:53:25Z",
  "sources": [
   "coindesk.com",
   "cointelegraph-tr.com",
@@ -7,13 +7,6 @@
  ],
  "bySymbol": {
   "BTC": [
-   {
-    "title": "Bitcoin, teknoloji satış dalgasının altına yayılmasıyla 12 yılın en kötü ekim ayı riskini taşıyor",
-    "summary": "Kripto piyasaları ABD borsalarındaki düşüşü yönlendirirken Bitcoin 77.000 dolar civarında seyretti; altın fiyatı ise bir yılın en düşük seviyesine geriledi.",
-    "url": "https://cointelegraph-tr.com/markets/bitcoin-risks-worst-october-in-12-years-as-tech-sell-off-spreads-to-gold",
-    "published": "2026-10-30T16:06:28Z",
-    "importance": 4
-   },
    {
     "title": "Büyük Bitcoin madencileri yapay zeka karlarının peşine düşerken, bireyler ödüllere bir kez daha ortak oluyor",
     "summary": "Büyük Bitcoin madencileri yapay zeka karlarının peşine düşerken, bireyler ödüllere bir kez daha ortak oluyor.",
@@ -35,25 +28,9 @@
     "published": "2026-10-31T13:00:00Z",
     "importance": 2
    }
-  ],
-  "USDC": [
-   {
-    "title": "Crypto Biz: Bitcoin’ın kuantum tehdidi ekonomik bir soruna dönüşüyor",
-    "summary": "Bitcoin, Ripple’ın ABD bankacılık lisansı alması, USDC’nin Avrupa’da zemin kazanması ve VanEck’in yeni bir ETF’ye BTC eklemesiyle birlikte artan kuantum güvenliği endişeleriyle karşı karşıya.",
-    "url": "https://cointelegraph-tr.com/news/bitcoin-quantum-threat-ripple-bank-usdc-vaneck-crypto-biz",
-    "published": "2026-10-30T17:09:31Z",
-    "importance": 3
-   }
   ]
  },
  "seen": {
-  "https://cointelegraph-tr.com/news/bithumb-discloses-data-leak-after-internal-system-breach-report": 1793155680.5671952,
-  "https://www.coindesk.com/tech/2026/10/28/coinbase-says-customer-funds-are-safe-after-third-party-vendor-exposes-customer-contact-info": 1793159160.4610362,
-  "https://www.theblock.co/news/business/2026-10-27-datavault-ai-stock-plummets-bitcoin-deal-431962": 1793159160.4610362,
-  "https://www.coindesk.com/markets/2026/10/28/bitcoin-nears-usd81-000-ahead-of-fed-decision-as-zec-jumps-8": 1793162748.3015704,
-  "https://cointelegraph-tr.com/news/robinhoods-tenev-warns-us-tokenization-uncertainty-deters-serious-assets": 1793162748.3015704,
-  "https://www.coindesk.com/markets/2026/10/28/bitcoin-treasury-datavault-ai-plunges-50-after-firm-says-it-can-t-access-its-btc": 1793166266.5231442,
-  "https://www.coindesk.com/tech/2026/10/28/bithumb-hacked-through-employee-system-as-south-korean-financial-firms-face-cyberattacks": 1793166266.5231442,
   "https://cointelegraph-tr.com/news/coinbase-analytics-provider-customer-data": 1793174337.4237728,
   "https://cointelegraph-tr.com/markets/bitcoin-etf-176-million-inflow-sentiment-rebounds": 1793177559.0774345,
   "https://www.coindesk.com/markets/2026/10/28/bitcoin-averages-over-50-in-the-12-months-after-midterms-s-and-p-500-gains-15": 1793181031.8693404,
@@ -206,7 +183,8 @@
   "https://www.coindesk.com/markets/2026/10/31/a-nasdaq-listed-company-may-sell-usd450-million-bitcoin-citing-binance-hack-and-quantum-fears": 1793466826.53645,
   "https://www.coindesk.com/business/2026/10/31/the-usd6-3-billion-binance-hack-paradox-centralization-made-the-hack-possible-but-also-saved-usd3-billion": 1793466826.53645,
   "https://cointelegraph-tr.com/news/blockchain-investigator-chainalysis-hit-by-cybersecurity-incident": 1793466826.53645,
-  "https://www.coindesk.com/opinion/2026/10/31/bitcoin-s-white-paper-turns-18-and-small-businesses-are-still-paying-for-the-bailouts-it-answered": 1793479121.8440673
+  "https://www.coindesk.com/opinion/2026/10/31/bitcoin-s-white-paper-turns-18-and-small-businesses-are-still-paying-for-the-bailouts-it-answered": 1793479121.8440673,
+  "https://www.coindesk.com/policy/2026/10/31/fbi-confirms-north-korea-s-role-in-usd6-billion-binance-hack-asks-defi-community-to-block-btc-eth-sol-addresses": 1793512405.3572023
  },
  "tries": {
   "https://www.coindesk.com/markets/2026/10/29/the-chart-bitcoin-traders-should-be-paying-attention-to": 3,
