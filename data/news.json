@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-01T18:31:51Z",
+ "updated": "2026-11-01T22:21:18Z",
  "sources": [
   "coindesk.com",
   "cointelegraph-tr.com",
@@ -31,13 +31,6 @@
   ]
  },
  "seen": {
-  "https://www.coindesk.com/opinion/2026/10/28/crypto-isn-t-a-partisan-fight-proven-by-data": 1793213338.3156362,
-  "https://cointelegraph-tr.com/news/strategy-shareholders-approve-daily-dividends-for-four-preferred-stocks": 1793213338.3156362,
-  "https://www.coindesk.com/markets/2026/10/28/fed-leaves-interest-rates-unchanged-as-expected": 1793213338.3156362,
-  "https://cointelegraph-tr.com/news/sam-bankman-fried-actor-anthony-boyle-netflix": 1793216903.87593,
-  "https://www.coindesk.com/policy/2026/10/28/cftc-chief-poses-questions-about-policing-ai-but-calls-it-a-road-to-autonomous-trading": 1793216903.87593,
-  "https://cointelegraph-tr.com/news/canada-crypto-king-jury-criminal-trial-closing": 1793223711.8866024,
-  "https://www.coindesk.com/markets/2026/10/28/bitcoin-backed-mortgages-are-coming-to-canada-but-borrowers-are-still-unaware-of-the-cost": 1793223711.8866024,
   "https://cointelegraph-tr.com/markets/bitcoin-faces-fresh-pressure-after-feds-hawkish-rate-hold-analysts": 1793238995.4877136,
   "https://www.coindesk.com/markets/2026/10/29/bitcoin-dips-below-usd80-000-as-samsung-led-risk-aversion-in-tech-and-a-hawkish-fed-weigh-on-crypto": 1793245653.2733634,
   "https://www.coindesk.com/policy/2026/10/28/mystery-wall-street-journal-ad-sparks-new-fight-over-tokenized-stocks": 1793245653.2733634,
@@ -166,7 +159,8 @@
   "https://www.coindesk.com/policy/2026/11/01/the-key-races-to-watch-for-the-2026-election": 1793557911.2587817,
   "https://www.coindesk.com/business/2026/11/01/crypto-card-startups-are-racking-up-losses-just-to-buy-your-loyalty-with-big-rewards": 1793557911.2587817,
   "https://www.coindesk.com/policy/2026/11/01/crypto-pacs-made-big-republican-push-in-final-weeks-before-november-3-election": 1793557911.2587817,
-  "https://cointelegraph-tr.com/news/deepseek-developing-ai-agent-requiring-less-human-input-report": 1793557911.2587817
+  "https://cointelegraph-tr.com/news/deepseek-developing-ai-agent-requiring-less-human-input-report": 1793557911.2587817,
+  "https://www.coindesk.com/policy/2026/11/01/the-crypto-reader-s-guide-to-the-2026-midterm-election-state-of-crypto": 1793571678.4742777
  },
  "tries": {
   "https://www.coindesk.com/markets/2026/10/29/the-chart-bitcoin-traders-should-be-paying-attention-to": 3,
