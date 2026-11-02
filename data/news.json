@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-02T01:46:12Z",
+ "updated": "2026-11-02T09:20:56Z",
  "sources": [
   "coindesk.com",
   "cointelegraph-tr.com",
@@ -8,32 +8,29 @@
  "bySymbol": {
   "BTC": [
    {
-    "title": "Büyük Bitcoin madencileri yapay zeka karlarının peşine düşerken, bireyler ödüllere bir kez daha ortak oluyor",
-    "summary": "Büyük Bitcoin madencileri yapay zeka karlarının peşine düşerken, bireyler ödüllere bir kez daha ortak oluyor.",
-    "url": "https://www.coindesk.com/tech/2026/10/31/as-big-bitcoin-miners-chase-ai-profits-individuals-get-another-shot-at-the-rewards",
-    "published": "2026-10-31T14:00:00Z",
-    "importance": 3
+    "title": "Bitcoin ETF'leri Cuma günü 643 milyon dolarlık çıkış yaşadı ve 2026 yılı şu anda anca yeşil bölgede",
+    "summary": "Bitcoin ETF'leri Cuma günü 643 milyon dolarlık çıkış yaşadı ve 2026 yılı şu anda anca yeşil bölgede",
+    "url": "https://www.coindesk.com/markets/2026/11/02/bitcoin-etfs-lost-usd643-million-in-outflows-friday-and-2026-is-barely-green-now",
+    "published": "2026-11-02T06:46:41Z",
+    "importance": 4
    },
    {
-    "title": "Bitcoin'in teknik incelemesi 18 yaşına girdi ve küçük işletmeler hala cevap verdiği kurtarma paketlerinin bedelini ödüyor",
-    "summary": "Bitcoin'in teknik incelemesi 18 yaşına girdi.",
-    "url": "https://www.coindesk.com/opinion/2026/10/31/bitcoin-s-white-paper-turns-18-and-small-businesses-are-still-paying-for-the-bailouts-it-answered",
-    "published": "2026-10-31T18:00:00Z",
-    "importance": 2
+    "title": "Bir Bitcoin ödeme aracı olan BTCPay, cüzdanların boşaltıldığına dair raporların ardından kullanıcılara sunucularını kapatmalarını söyledi",
+    "summary": "Bir Bitcoin ödeme aracı olan BTCPay, cüzdanların boşaltıldığına dair raporların ardından kullanıcılara sunucularını kapatmalarını söyledi",
+    "url": "https://www.coindesk.com/tech/2026/11/02/btcpay-a-bitcoin-payment-tool-tells-users-to-switch-off-their-servers-after-reports-of-drained-wallets",
+    "published": "2026-11-02T04:41:16Z",
+    "importance": 4
+   },
+   {
+    "title": "Piyasalar kriptonun en büyük hack olayını atlatırken Bitcoin 79.000 dolara doğru tırmanıyor",
+    "summary": "Piyasalar kriptonun en büyük hack olayını atlatırken Bitcoin 79.000 dolara doğru tırmanıyor",
+    "url": "https://www.coindesk.com/markets/2026/11/02/bitcoin-claws-back-toward-usd79-000-as-markets-shake-off-crypto-s-biggest-hack",
+    "published": "2026-11-02T04:42:22Z",
+    "importance": 3
    }
   ]
  },
  "seen": {
-  "https://cointelegraph-tr.com/markets/bitcoin-faces-fresh-pressure-after-feds-hawkish-rate-hold-analysts": 1793238995.4877136,
-  "https://www.coindesk.com/markets/2026/10/29/bitcoin-dips-below-usd80-000-as-samsung-led-risk-aversion-in-tech-and-a-hawkish-fed-weigh-on-crypto": 1793245653.2733634,
-  "https://www.coindesk.com/policy/2026/10/28/mystery-wall-street-journal-ad-sparks-new-fight-over-tokenized-stocks": 1793245653.2733634,
-  "https://cointelegraph-tr.com/news/tampered-ledger-wallets-cost-singapore-users-27m-police": 1793245653.2733634,
-  "https://cointelegraph-tr.com/news/a-fridge-that-launches-memecoins-cftc-floats-ai-crypto-future": 1793249300.5460787,
-  "https://www.coindesk.com/tech/2026/10/29/ethereum-clients-patch-flaw-that-could-let-attackers-redirect-eth-rewards": 1793252719.9391155,
-  "https://www.coindesk.com/policy/2026/10/29/utah-charges-predictions-platform-kalshi-with-illegal-gambling": 1793252719.9391155,
-  "https://www.theblock.co/news/business/2026-10-29-utah-criminal-charges-kalshi-432104": 1793256875.3446696,
-  "https://www.coindesk.com/tech/2026/10/29/ai-found-a-way-to-crash-bitcoin-nodes-on-windows-and-macs-it-s-now-public": 1793256875.3446696,
-  "https://cointelegraph-tr.com/markets/bitcoin-etf-137-million-october-back-green": 1793260899.599226,
   "https://www.coindesk.com/business/2026/10/29/former-swift-ceo-joins-stablecoin-firm-opentrade-as-chairman-after-a-usd17-million-raise": 1793267526.2813654,
   "https://www.coindesk.com/markets/2026/10/29/the-chart-bitcoin-traders-should-be-paying-attention-to": 1793267526.2813654,
   "https://www.coindesk.com/markets/2026/10/29/solana-wallet-solflare-pledges-to-pay-missed-rewards-on-staked-usd160-million-after-validator-goes-offline": 1793270963.1496544,
@@ -153,7 +150,19 @@
   "https://www.coindesk.com/business/2026/11/01/crypto-card-startups-are-racking-up-losses-just-to-buy-your-loyalty-with-big-rewards": 1793557911.2587817,
   "https://www.coindesk.com/policy/2026/11/01/crypto-pacs-made-big-republican-push-in-final-weeks-before-november-3-election": 1793557911.2587817,
   "https://cointelegraph-tr.com/news/deepseek-developing-ai-agent-requiring-less-human-input-report": 1793557911.2587817,
-  "https://www.coindesk.com/policy/2026/11/01/the-crypto-reader-s-guide-to-the-2026-midterm-election-state-of-crypto": 1793571678.4742777
+  "https://www.coindesk.com/policy/2026/11/01/the-crypto-reader-s-guide-to-the-2026-midterm-election-state-of-crypto": 1793571678.4742777,
+  "https://www.coindesk.com/markets/2026/11/02/binance-hack-fallout-u-s-midterms-and-jobs-report-crypto-week-ahead": 1793611256.7705524,
+  "https://www.coindesk.com/markets/2026/11/02/live-updates-binance-records-usd6-billion-outflows-after-starting-withdrawals-less-then-4-of-total-holdings": 1793611256.7705524,
+  "https://www.coindesk.com/markets/2026/11/02/china-s-communist-party-calls-for-a-crackdown-on-corruption-that-uses-crypto-and-blockchain": 1793611256.7705524,
+  "https://www.coindesk.com/business/2026/11/02/why-crypto-exchange-hacks-can-be-harder-to-contain-versus-global-banks": 1793611256.7705524,
+  "https://cointelegraph-tr.com/markets/bitcoin-etfs-october-red-binance-hack-outflows": 1793611256.7705524,
+  "https://www.coindesk.com/markets/2026/11/02/bitcoin-etfs-lost-usd643-million-in-outflows-friday-and-2026-is-barely-green-now": 1793611256.7705524,
+  "https://cointelegraph-tr.com/news/btcpay-server-hot-wallet-thefts-older-versions": 1793611256.7705524,
+  "https://www.coindesk.com/tech/2026/11/02/strangers-are-begging-the-binance-hacker-for-bitcoin-one-help-me-bro-at-a-time": 1793611256.7705524,
+  "https://www.coindesk.com/markets/2026/11/02/bitcoin-claws-back-toward-usd79-000-as-markets-shake-off-crypto-s-biggest-hack": 1793611256.7705524,
+  "https://www.coindesk.com/tech/2026/11/02/btcpay-a-bitcoin-payment-tool-tells-users-to-switch-off-their-servers-after-reports-of-drained-wallets": 1793611256.7705524,
+  "https://www.theblock.co/news/markets/2026-11-01-spot-bitcoin-etfs-largest-four-months-following-binance-hack-432270": 1793611256.7705524,
+  "https://cointelegraph-tr.com/news/bank-of-korea-probes-financial-firms-exposure-to-crypto-risks": 1793611256.7705524
  },
  "tries": {
   "https://www.coindesk.com/markets/2026/10/29/the-chart-bitcoin-traders-should-be-paying-attention-to": 3,
