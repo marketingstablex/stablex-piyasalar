@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-03T17:45:30Z",
+ "updated": "2026-11-03T23:14:44Z",
  "sources": [
   "coindesk.com",
   "cointelegraph-tr.com",
@@ -100,12 +100,6 @@
   ]
  },
  "seen": {
-  "https://cointelegraph-tr.com/markets/coinbase-leads-crypto-stock-selloff-shares-tumble": 1793386018.081552,
-  "https://cointelegraph-tr.com/news/bitcoin-quantum-threat-ripple-bank-usdc-vaneck-crypto-biz": 1793386018.081552,
-  "https://cointelegraph-tr.com/markets/bitcoin-risks-worst-october-in-12-years-as-tech-sell-off-spreads-to-gold": 1793386018.081552,
-  "https://www.coindesk.com/business/2026/10/30/experts-divided-over-binance-hack-asset-freezes-warn-recovery-is-another-matter": 1793392865.7619345,
-  "https://www.theblock.co/news/business/2026-10-30-binance-hack-largest-crypto-hack-north-korea-432225": 1793396402.2257304,
-  "https://www.theblock.co/news/regulation/2026-10-30-trump-looking-into-binance-hack-calls-grow-for-crypto-rules-432236": 1793396402.2257304,
   "https://www.coindesk.com/business/2026/10/30/openai-reportedly-cuts-fundraising-target-amid-ai-jitters": 1793408246.526326,
   "https://www.coindesk.com/markets/2026/10/31/bitcoin-stolen-from-binance-tops-tesla-s-holdings-and-is-over-twice-el-salvador-s-reserve": 1793425274.4437332,
   "https://cointelegraph-tr.com/news/binance-63b-record-hack-sparks-pre-election-political-chatter": 1793443093.0252745,
@@ -231,7 +225,12 @@
   "https://cointelegraph-tr.com/news/france-postpones-2027-budget-vote-reject-crypto-exit-tax": 1793727930.5031488,
   "https://www.coindesk.com/business/2026/11/03/tether-holds-150-000-bitcoin-worth-usd11-5-billion-ceo-paolo-ardoino-says": 1793727930.5031488,
   "https://cointelegraph-tr.com/markets/bitcoin-price-support-loss-recent-buyers-underwater": 1793727930.5031488,
-  "https://cointelegraph-tr.com/news/zachxbt-eu-crypto-theft-133m-alleged-cover-up": 1793727930.5031488
+  "https://cointelegraph-tr.com/news/zachxbt-eu-crypto-theft-133m-alleged-cover-up": 1793727930.5031488,
+  "https://www.coindesk.com/business/2026/11/03/what-happens-if-north-korea-steals-wall-street-s-tokenized-assets-next": 1793747684.3296504,
+  "https://www.coindesk.com/policy/2026/11/03/cftc-gets-into-legal-clash-over-stock-perps-after-having-cleared-path-for-crypto-version": 1793747684.3296504,
+  "https://www.theblock.co/news/regulation/2026-11-03-sec-no-action-letter-canton-coin-digital-commodity-432492": 1793747684.3296504,
+  "https://www.theblock.co/news/regulation/2026-11-03-cz-calls-for-crypto-security-alliance-ai-driven-attacks-accelerate-binance-hack-432458": 1793747684.3296504,
+  "https://www.theblock.co/news/regulation/2026-11-03-midterm-election-odds-polymarket-kalshi-democrats-432461": 1793747684.3296504
  },
  "tries": {
   "https://www.theblock.co/news/defi/2026-10-29-uniswap-token-jar-tjar-robinhood-432131": 1
