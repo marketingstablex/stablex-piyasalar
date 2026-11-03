@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-03T09:59:26Z",
+ "updated": "2026-11-03T17:45:30Z",
  "sources": [
   "coindesk.com",
   "cointelegraph-tr.com",
@@ -7,6 +7,13 @@
  ],
  "bySymbol": {
   "BTC": [
+   {
+    "title": "Liquid Network, 320 milyon dolarlık istismarın ardından tam Bitcoin desteğini yeniden sağladı",
+    "summary": "Liquid Network, Eylül ayındaki saldırının ardından Blockstream'in sağladığı fonlarla Bitcoin rezervlerinin tam desteğe kavuştuğunu açıkladı.",
+    "url": "https://www.theblock.co/news/ecosystems/2026-11-03-liquid-network-restores-full-bitcoin-backing-following-exploit-432387",
+    "published": "2026-11-03T11:49:20Z",
+    "importance": 4
+   },
    {
     "title": "BlackRock’ın IBIT’i haziran ayından bu yana en büyük Bitcoin ETF çıkışını gördü",
     "summary": "BlackRock’ın Bitcoin ETF’si pazartesi günü 405,3 milyon dolar kaybederken ABD spot Bitcoin fonları kasım ayına yaklaşık 399 milyon dolarlık net çıkışla başladı.",
@@ -22,45 +29,54 @@
     "importance": 4
    },
    {
-    "title": "Bir Bitcoin ödeme aracı olan BTCPay, cüzdanların boşaltıldığına dair raporların ardından kullanıcılara sunucularını kapatmalarını söyledi",
-    "summary": "Bir Bitcoin ödeme aracı olan BTCPay, cüzdanların boşaltıldığına dair raporların ardından kullanıcılara sunucularını kapatmalarını söyledi",
-    "url": "https://www.coindesk.com/tech/2026/11/02/btcpay-a-bitcoin-payment-tool-tells-users-to-switch-off-their-servers-after-reports-of-drained-wallets",
-    "published": "2026-11-02T04:41:16Z",
-    "importance": 4
-   },
-   {
-    "title": "Canlı haber: Ara seçimler piyasaları etkilerken Bitcoin beşinci haftalık kayıp ile karşı karşıya",
-    "summary": "Canlı haber: Ara seçimler piyasaları etkilerken Bitcoin beşinci haftalık kayıp ile karşı karşıya",
-    "url": "https://www.coindesk.com/markets/2026/11/03/live-news-bitcoin-faces-fifth-weekly-loss-as-midterm-uncertainty-and-apple-warning-weigh-on-markets",
-    "published": "2026-11-03T09:50:16Z",
+    "title": "Bitcoin fiyatı 76 bin dolarlık dipleri korurken analistler hisselerin 'siyasi kilitlenmeyi' fiyatladığını düşünüyor",
+    "summary": "Piyasalar ABD ara seçimlerinden gelecek sinyalleri beklerken Bitcoin, salı günü Wall Street işlemlerinin başlangıcında mütevazı kazanımlar elde etti.",
+    "url": "https://cointelegraph-tr.com/markets/bitcoin-price-defends-76k-lows-as-analysis-sees-stocks-pricing-in-political-gridlock",
+    "published": "2026-11-03T15:44:42Z",
     "importance": 3
    },
    {
-    "title": "Bitcoin'in son grafik sinyali, büyük çöküşlerden öncekilere çok benziyor",
-    "summary": "Bitcoin'in son grafik sinyali, büyük çöküşlerden öncekilere çok benziyor",
-    "url": "https://www.coindesk.com/markets/2026/11/03/bitcoin-s-price-chart-is-flashing-a-red-signal",
-    "published": "2026-11-03T08:50:56Z",
+    "title": "Bitcoin, 2014'e kadar uzanan bir ara seçim modelini kırıyor",
+    "summary": "Bitcoin, 2014'e kadar uzanan bir ara seçim modelini kırıyor",
+    "url": "https://www.coindesk.com/daybook-us/2026/11/03/bitcoin-is-breaking-a-midterm-election-pattern-going-back-to-2014",
+    "published": "2026-11-03T12:30:09Z",
     "importance": 3
    },
    {
-    "title": "Bitcoin madencisi Cipher, yapay zeka dönüşümü başlarken 31 milyon dolar kar açıkladı",
-    "summary": "Bitcoin madencisi Cipher, yapay zeka dönüşümü başlarken 31 milyon dolar kar açıkladı",
-    "url": "https://www.coindesk.com/markets/2026/11/03/bitcoin-miner-cipher-posts-usd31-million-profit-as-ai-pivot-begins",
-    "published": "2026-11-03T05:29:48Z",
+    "title": "ETF çıkışları ve ara seçimler kripto üzerindeki baskıyı artırırken Bitcoin 76.300 dolara gerilemesinin ardından istikrar kazanıyor",
+    "summary": "ETF çıkışları ve ara seçimler kripto üzerindeki baskıyı artırırken Bitcoin 76.300 dolara gerilemesinin ardından istikrar kazanıyor",
+    "url": "https://www.coindesk.com/markets/2026/11/03/bitcoin-steadies-after-dip-to-usd76-300-as-etf-outflows-and-midterm-elections-weigh-on-crypto",
+    "published": "2026-11-03T11:28:00Z",
     "importance": 3
    },
    {
-    "title": "Yapay zeka, kuantum bilgisayarlarından daha büyük bir tehdit oluşturuyor, diyor Swan kurucusu",
-    "summary": "Swan Bitcoin'in kurucusu, bilgisayar korsanlarının güvenlik açıklarından yararlanmak için büyük dil modellerini kullandığı konusunda uyarıda bulunmuştur.",
-    "url": "https://cointelegraph-tr.com/news/ai-hackers-threat-bitcoin-quantum-computing-swan",
-    "published": "2026-11-02T21:54:41Z",
+    "title": "Tether CEO'su Paolo Ardoino, 11,5 milyar dolar değerinde 150.000 bitcoin tuttuğunu belirtti",
+    "summary": "Tether CEO'su Paolo Ardoino, şirketin 11,5 milyar dolar değerinde 150.000 bitcoin tuttuğunu açıkladı.",
+    "url": "https://www.coindesk.com/business/2026/11/03/tether-holds-150-000-bitcoin-worth-usd11-5-billion-ceo-paolo-ardoino-says",
+    "published": "2026-11-03T10:15:53Z",
     "importance": 3
    },
    {
-    "title": "Strive, son 10 milyon dolarlık alımının ardından en büyük ikinci halka açık Bitcoin tutimcisi olmaya yaklaştı",
-    "summary": "Strive, 124 BTC daha satın alarak Strategy'nin ardından en büyük ikinci halka açık şirket Bitcoin tutimcisi olmaya bir adım daha yaklaştı.",
-    "url": "https://www.theblock.co/news/business/2026-11-02-strive-inches-closer-second-largest-public-bitcoin-holder-10-million-buy-432312",
-    "published": "2026-11-02T15:01:36Z",
+    "title": "Bitcoin fiyatı son alıcılar zarardayken 77.700 dolarlık desteği kaybetme riski taşıyor",
+    "summary": "Bitcoin, bir ila üç ay önce alım yapan yatırımcı grubunun gerçekleşen fiyatının altına gerileyerek bu seviyenin yeni dirence dönüşmesi riskini artırdı.",
+    "url": "https://cointelegraph-tr.com/markets/bitcoin-price-support-loss-recent-buyers-underwater",
+    "published": "2026-11-03T10:04:05Z",
+    "importance": 3
+   }
+  ],
+  "ETH": [
+   {
+    "title": "Ethereum Katman 2 ağı Aztec, daha hızlı gizli uygulamaları desteklemek için Tierra V6 güncellemesini aldı",
+    "summary": "Aztec Vakfı, daha önceki güvenlik sorunlarını düzelttiğini ve özel işlem kanıtı oluşturma hızını iki katına çıkardığını belirterek Tierra V6'yı kullanıma sundu.",
+    "url": "https://www.theblock.co/news/defi/2026-11-03-ethereum-l2-aztec-tierra-v6-upgrade-private-apps-432399",
+    "published": "2026-11-03T14:00:00Z",
+    "importance": 3
+   },
+   {
+    "title": "ETHGas, önceden blok rezervasyonları satarak Wall Street'i halka açık Ethereum'a getirmek istiyor",
+    "summary": "ETHGas, önceden blok rezervasyonları satarak Wall Street'i halka açık Ethereum'a getirmek istiyor",
+    "url": "https://www.coindesk.com/business/2026/11/03/ethgas-courts-wall-street-with-ethereum-blockspace-but-compensation-for-missed-trades-is-zero",
+    "published": "2026-11-03T12:01:05Z",
     "importance": 3
    }
   ],
@@ -84,19 +100,6 @@
   ]
  },
  "seen": {
-  "https://cointelegraph-tr.com/markets/rune-token-surges-binance-hack": 1793357325.3534172,
-  "https://www.coindesk.com/tech/2026/10/30/here-s-how-one-ethereum-permission-let-an-attacker-drain-usd2-5-billion-from-binance": 1793360477.922017,
-  "https://www.coindesk.com/markets/2026/10/30/crypto-liquidations-jump-to-usd1-57-billion-as-binance-hack-sends-bitcoin-ether-lower": 1793360477.922017,
-  "https://www.coindesk.com/business/2026/10/30/binance-arranges-usd6-34-billion-to-cover-losses-from-record-crypto-hack": 1793364874.6688,
-  "https://www.coindesk.com/daybook-us/2026/10/30/here-s-how-big-bitcoin-traders-responded-after-the-binance-hack-hit": 1793364874.6688,
-  "https://www.theblock.co/news/ecosystems/2026-10-30-binance-says-it-has-6-34-billion-ready-to-cover-hack-losses-432208": 1793368821.8949564,
-  "https://www.theblock.co/news/business/2026-10-30-strategy-mstr-preferred-stock-bitcoin-buying-analysts-432214": 1793372248.998124,
-  "https://www.coindesk.com/markets/2026/10/30/wall-street-analysts-urge-investors-to-buy-crypto-stocks-on-weakness-after-usd6-3-billion-binance-hack": 1793372248.998124,
-  "https://cointelegraph-tr.com/news/binance-hacker-bitcoin-holdings-exceed-coinbase-btc-treasury": 1793372248.998124,
-  "https://www.coindesk.com/tech/2026/10/30/binance-uncovers-wider-breach-in-usd6-3-billion-exploit-targets-sunday-withdrawal-restart": 1793378947.4342976,
-  "https://www.theblock.co/news/regulation/2026-10-30-texas-brothers-sentenced-15-years-8-million-crypto-robbery-minnesota-432221": 1793378947.4342976,
-  "https://cointelegraph-tr.com/news/binance-hack-security-ethereum-eip-7702-role": 1793378947.4342976,
-  "https://cointelegraph-tr.com/news/recap-binances-record-63b-hack-unfolded": 1793382206.2326686,
   "https://cointelegraph-tr.com/markets/coinbase-leads-crypto-stock-selloff-shares-tumble": 1793386018.081552,
   "https://cointelegraph-tr.com/news/bitcoin-quantum-threat-ripple-bank-usdc-vaneck-crypto-biz": 1793386018.081552,
   "https://cointelegraph-tr.com/markets/bitcoin-risks-worst-october-in-12-years-as-tech-sell-off-spreads-to-gold": 1793386018.081552,
@@ -201,7 +204,34 @@
   "https://www.coindesk.com/markets/2026/11/03/bitcoin-drops-below-usd77-000-as-chip-rout-deepens-ahead-of-u-s-midterm-vote": 1793699966.6541696,
   "https://cointelegraph-tr.com/markets/australia-lifts-rates-as-ai-boom-energy-costs-fuel-inflation": 1793699966.6541696,
   "https://cointelegraph-tr.com/news/uk-warns-ai-ransomware-attack-on-infrastructure-highly-likely-by-2028": 1793699966.6541696,
-  "https://www.theblock.co/news/business/2026-11-02-ark-invest-buys-coinbase-circle-robinhood-432352": 1793699966.6541696
+  "https://www.theblock.co/news/business/2026-11-02-ark-invest-buys-coinbase-circle-robinhood-432352": 1793699966.6541696,
+  "https://www.coindesk.com/policy/2026/11/03/justin-sun-seeks-sanctions-against-trump-linked-world-liberty-financial-over-uae-ties": 1793727930.5031488,
+  "https://www.coindesk.com/tech/2026/11/03/south-korea-s-president-says-country-needs-a-cybersecurity-czar-following-usd6-3-billion-binance-hack": 1793727930.5031488,
+  "https://cointelegraph-tr.com/news/binance-fake-job-interviews-compromised-ai-tool-hack": 1793727930.5031488,
+  "https://www.coindesk.com/business/2026/11/03/amazon-tesla-and-spacex-join-okx-ice-tokenized-stock-objections-as-deadline-looms": 1793727930.5031488,
+  "https://www.coindesk.com/business/2026/11/03/stablecoin-governance-group-behind-ousd-sets-out-management-fee-offers-equity-earning-pool": 1793727930.5031488,
+  "https://www.theblock.co/news/regulation/2026-11-03-justin-sun-sanctions-world-liberty-uae-ties-wlfi-432439": 1793727930.5031488,
+  "https://cointelegraph-tr.com/markets/bitcoin-price-defends-76k-lows-as-analysis-sees-stocks-pricing-in-political-gridlock": 1793727930.5031488,
+  "https://www.theblock.co/news/regulation/2026-11-03-cftc-approves-individual-stock-perpetual-futures-trading-in-us-for-first-time-432422": 1793727930.5031488,
+  "https://www.theblock.co/news/business/2026-11-03-binance-hack-incident-report-north-korea-fake-job-interview-ai-tool-432406": 1793727930.5031488,
+  "https://www.coindesk.com/policy/2026/11/03/cftc-clears-perpetual-futures-on-stocks-bringing-crypto-trading-model-to-wall-street": 1793727930.5031488,
+  "https://www.coindesk.com/business/2026/11/03/binance-s-usd6-3-billion-hack-began-with-a-fake-job-interview-exchange-says": 1793727930.5031488,
+  "https://www.coindesk.com/business/2026/11/03/south-korea-asks-its-biggest-banks-how-a-major-crypto-hack-would-hit-them": 1793727930.5031488,
+  "https://www.coindesk.com/business/2026/11/03/cz-warns-of-more-ai-driven-hacks-following-binance-s-historic-usd6-4-billion-heist": 1793727930.5031488,
+  "https://www.theblock.co/news/defi/2026-11-03-ethereum-l2-aztec-tierra-v6-upgrade-private-apps-432399": 1793727930.5031488,
+  "https://www.coindesk.com/business/2026/11/03/lo-tech-raises-usd12-million-to-expand-crypto-trading-into-u-s-and-asia": 1793727930.5031488,
+  "https://cointelegraph-tr.com/news/us-midterms-2026-stake-crypto-election-day": 1793727930.5031488,
+  "https://cointelegraph-tr.com/news/moscow-exchange-bitcoin-ether-usdt-trading-december": 1793727930.5031488,
+  "https://www.coindesk.com/business/2026/11/03/binance-net-outflows-reach-usd5-3b-after-record-hack-though-ceo-cites-recovery": 1793727930.5031488,
+  "https://www.coindesk.com/daybook-us/2026/11/03/bitcoin-is-breaking-a-midterm-election-pattern-going-back-to-2014": 1793727930.5031488,
+  "https://www.coindesk.com/business/2026/11/03/ethgas-courts-wall-street-with-ethereum-blockspace-but-compensation-for-missed-trades-is-zero": 1793727930.5031488,
+  "https://www.theblock.co/news/ecosystems/2026-11-03-liquid-network-restores-full-bitcoin-backing-following-exploit-432387": 1793727930.5031488,
+  "https://www.coindesk.com/markets/2026/11/03/bitcoin-steadies-after-dip-to-usd76-300-as-etf-outflows-and-midterm-elections-weigh-on-crypto": 1793727930.5031488,
+  "https://www.coindesk.com/markets/2026/11/03/liquid-s-bitcoin-ious-are-fully-backed-again-after-a-usd320-million-exploit": 1793727930.5031488,
+  "https://cointelegraph-tr.com/news/france-postpones-2027-budget-vote-reject-crypto-exit-tax": 1793727930.5031488,
+  "https://www.coindesk.com/business/2026/11/03/tether-holds-150-000-bitcoin-worth-usd11-5-billion-ceo-paolo-ardoino-says": 1793727930.5031488,
+  "https://cointelegraph-tr.com/markets/bitcoin-price-support-loss-recent-buyers-underwater": 1793727930.5031488,
+  "https://cointelegraph-tr.com/news/zachxbt-eu-crypto-theft-133m-alleged-cover-up": 1793727930.5031488
  },
  "tries": {
   "https://www.theblock.co/news/defi/2026-10-29-uniswap-token-jar-tjar-robinhood-432131": 1
