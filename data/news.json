@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-03T02:13:07Z",
+ "updated": "2026-11-03T09:59:26Z",
  "sources": [
   "coindesk.com",
   "cointelegraph-tr.com",
@@ -8,10 +8,17 @@
  "bySymbol": {
   "BTC": [
    {
-    "title": "Bitcoin ETF'leri Cuma günü 643 milyon dolarlık çıkış yaşadı ve 2026 yılı şu anda anca yeşil bölgede",
-    "summary": "Bitcoin ETF'leri Cuma günü 643 milyon dolarlık çıkış yaşadı ve 2026 yılı şu anda anca yeşil bölgede",
-    "url": "https://www.coindesk.com/markets/2026/11/02/bitcoin-etfs-lost-usd643-million-in-outflows-friday-and-2026-is-barely-green-now",
-    "published": "2026-11-02T06:46:41Z",
+    "title": "BlackRock’ın IBIT’i haziran ayından bu yana en büyük Bitcoin ETF çıkışını gördü",
+    "summary": "BlackRock’ın Bitcoin ETF’si pazartesi günü 405,3 milyon dolar kaybederken ABD spot Bitcoin fonları kasım ayına yaklaşık 399 milyon dolarlık net çıkışla başladı.",
+    "url": "https://cointelegraph-tr.com/markets/blackrocks-ibit-biggest-bitcoin-etf-outflow-june",
+    "published": "2026-11-03T07:49:51Z",
+    "importance": 4
+   },
+   {
+    "title": "ABD ara seçimleri öncesinde çip düşüşü derinleşirken Bitcoin 77.000 doların altına geriledi",
+    "summary": "ABD ara seçimleri öncesinde çip düşüşü derinleşirken Bitcoin 77.000 doların altına geriledi",
+    "url": "https://www.coindesk.com/markets/2026/11/03/bitcoin-drops-below-usd77-000-as-chip-rout-deepens-ahead-of-u-s-midterm-vote",
+    "published": "2026-11-03T04:48:17Z",
     "importance": 4
    },
    {
@@ -22,6 +29,27 @@
     "importance": 4
    },
    {
+    "title": "Canlı haber: Ara seçimler piyasaları etkilerken Bitcoin beşinci haftalık kayıp ile karşı karşıya",
+    "summary": "Canlı haber: Ara seçimler piyasaları etkilerken Bitcoin beşinci haftalık kayıp ile karşı karşıya",
+    "url": "https://www.coindesk.com/markets/2026/11/03/live-news-bitcoin-faces-fifth-weekly-loss-as-midterm-uncertainty-and-apple-warning-weigh-on-markets",
+    "published": "2026-11-03T09:50:16Z",
+    "importance": 3
+   },
+   {
+    "title": "Bitcoin'in son grafik sinyali, büyük çöküşlerden öncekilere çok benziyor",
+    "summary": "Bitcoin'in son grafik sinyali, büyük çöküşlerden öncekilere çok benziyor",
+    "url": "https://www.coindesk.com/markets/2026/11/03/bitcoin-s-price-chart-is-flashing-a-red-signal",
+    "published": "2026-11-03T08:50:56Z",
+    "importance": 3
+   },
+   {
+    "title": "Bitcoin madencisi Cipher, yapay zeka dönüşümü başlarken 31 milyon dolar kar açıkladı",
+    "summary": "Bitcoin madencisi Cipher, yapay zeka dönüşümü başlarken 31 milyon dolar kar açıkladı",
+    "url": "https://www.coindesk.com/markets/2026/11/03/bitcoin-miner-cipher-posts-usd31-million-profit-as-ai-pivot-begins",
+    "published": "2026-11-03T05:29:48Z",
+    "importance": 3
+   },
+   {
     "title": "Yapay zeka, kuantum bilgisayarlarından daha büyük bir tehdit oluşturuyor, diyor Swan kurucusu",
     "summary": "Swan Bitcoin'in kurucusu, bilgisayar korsanlarının güvenlik açıklarından yararlanmak için büyük dil modellerini kullandığı konusunda uyarıda bulunmuştur.",
     "url": "https://cointelegraph-tr.com/news/ai-hackers-threat-bitcoin-quantum-computing-swan",
@@ -29,38 +57,10 @@
     "importance": 3
    },
    {
-    "title": "Petroldeki %7’lik düşüş BTC fiyat rallisini tetikleyemeyince Bitcoin 76 bin doların altına gerileme riskiyle karşı karşıya",
-    "summary": "Bitcoin, ABD-İran savaşına diplomatik çözüm bulunacağı umutlarıyla artan hisse kazanımlarının geri verilmesiyle pazartesi günü yaklaşık %1,7 oranında düştü.",
-    "url": "https://cointelegraph-tr.com/markets/bitcoin-risks-sub-76k-drop-as-7-fall-in-oil-fails-to-spark-btc-price-rally",
-    "published": "2026-11-02T19:27:58Z",
-    "importance": 3
-   },
-   {
     "title": "Strive, son 10 milyon dolarlık alımının ardından en büyük ikinci halka açık Bitcoin tutimcisi olmaya yaklaştı",
     "summary": "Strive, 124 BTC daha satın alarak Strategy'nin ardından en büyük ikinci halka açık şirket Bitcoin tutimcisi olmaya bir adım daha yaklaştı.",
     "url": "https://www.theblock.co/news/business/2026-11-02-strive-inches-closer-second-largest-public-bitcoin-holder-10-million-buy-432312",
     "published": "2026-11-02T15:01:36Z",
-    "importance": 3
-   },
-   {
-    "title": "Strategy haftalık Bitcoin harcamasının üç katından fazlasını STRC geri alımlarına ayırdı",
-    "summary": "Strategy, STRC imtiyazlı hisselerini geri almak için 208,2 milyon dolar harcarken, Bitcoin için yaklaşık 65,5 milyon dolar harcadı ve USD Cash bakiyesine 98,5 milyon dolar ayırdı.",
-    "url": "https://cointelegraph-tr.com/news/strategy-repurchases-208m-strc-65m-bitcoin",
-    "published": "2026-11-02T13:48:28Z",
-    "importance": 3
-   },
-   {
-    "title": "Michael Saylor’ın Strategy şirketi 65,5 milyon dolar karşılığında 811 bitcoin daha satın aldı",
-    "summary": "En son bitcoin alım açıklaması, Strategy'nin perşembe günü üçüncü çeyrekte 19,5 milyar dolar net gelir bildirmesinin ardından geldi.",
-    "url": "https://www.theblock.co/news/business/2026-11-02-we-found-room-for-even-more-orange-michael-saylor-strategy-bitcoin-btc-432275",
-    "published": "2026-11-02T13:09:43Z",
-    "importance": 3
-   },
-   {
-    "title": "Uptober’dan Hacktober’a: Bitcoin’ın mevsimsel kalıpları geçerliliğini mi yitiriyor?",
-    "summary": "Bitcoin, ekim ayının tarihsel olarak güçlü getirilerine rağmen, önceki yılki düşüşün ardından Ekim 2026’da yüzde 7,3 değer kaybetti; analistler mevsimsel sinyalleri yeniden değerlendiriyor.",
-    "url": "https://cointelegraph-tr.com/markets/uptober-hacktober-bitcoin-seasonal-pattern",
-    "published": "2026-11-02T11:19:18Z",
     "importance": 3
    }
   ],
@@ -84,24 +84,6 @@
   ]
  },
  "seen": {
-  "https://www.theblock.co/news/markets/2026-10-29-bitcoin-slides-below-77000-binance-hack-432183": 1793328551.5838187,
-  "https://www.coindesk.com/policy/2026/10/29/crypto-s-longtime-foe-north-korea-s-lazarus-group-likely-behind-binance-hack-blockchain-sleuths": 1793332110.4070258,
-  "https://www.coindesk.com/markets/2026/10/30/usd6-billion-binance-hack-sends-bitcoin-ether-tumbling-standard-chartered-sees-more-losses-ahead": 1793335700.177996,
-  "https://www.coindesk.com/markets/2026/10/30/institutional-crypto-investors-rush-to-pull-funds-from-exchanges-after-binance-hack": 1793335700.177996,
-  "https://www.coindesk.com/markets/2026/10/30/coindcx-halts-new-crypto-futures-bets-as-binance-incident-disrupts-liquidity": 1793339174.963921,
-  "https://www.coindesk.com/markets/2026/10/30/binance-hacker-splits-usd1-4-billion-of-bitcoin-into-19-wallets-that-no-one-can-freeze": 1793339174.963921,
-  "https://www.coindesk.com/markets/2026/10/30/bitcoin-ether-and-xrp-selloff-wipes-out-usd1-5-billion-in-leveraged-crypto-bets": 1793343290.5910947,
-  "https://cointelegraph-tr.com/news/what-happened-in-crypto-today": 1793343290.5910947,
-  "https://www.coindesk.com/tech/2026/10/30/xrp-ledger-developers-tighten-the-rules-for-who-can-hold-restricted-tokens": 1793343290.5910947,
-  "https://www.coindesk.com/markets/2026/10/30/binance-hacker-dumps-a-little-known-2017-token-and-it-crashes-90": 1793347292.9849253,
-  "https://cointelegraph-tr.com/news/north-korea-linked-to-63b-binance-hack-by-crypto-investigators": 1793347292.9849253,
-  "https://www.coindesk.com/markets/2026/10/30/live-news-binance-hack-rattles-crypto-as-intel-plunges-and-ai-spending-fears-hit-tech": 1793350481.6272113,
-  "https://cointelegraph-tr.com/news/strategy-30-billion-digital-credit-capacity-bitcoin-buys": 1793350481.6272113,
-  "https://www.coindesk.com/markets/2026/10/30/strategy-cfo-resigns-as-company-posts-record-quarterly-profit-mstr-stock-falls-6": 1793353945.0688567,
-  "https://cointelegraph-tr.com/news/trezor-cryptobilis-wallet-implant-funds-warning": 1793353945.0688567,
-  "https://www.theblock.co/news/business/2026-10-30-coinbase-q3-net-income-jumps-432189": 1793353945.0688567,
-  "https://www.theblock.co/news/ecosystems/2026-10-30-trezor-reports-suspected-hardware-implant-432196": 1793353945.0688567,
-  "https://cointelegraph-tr.com/news/binance-hack-could-accelerate-shift-to-dexs-standard-chartered": 1793353945.0688567,
   "https://cointelegraph-tr.com/markets/rune-token-surges-binance-hack": 1793357325.3534172,
   "https://www.coindesk.com/tech/2026/10/30/here-s-how-one-ethereum-permission-let-an-attacker-drain-usd2-5-billion-from-binance": 1793360477.922017,
   "https://www.coindesk.com/markets/2026/10/30/crypto-liquidations-jump-to-usd1-57-billion-as-binance-hack-sends-bitcoin-ether-lower": 1793360477.922017,
@@ -202,7 +184,24 @@
   "https://www.coindesk.com/opinion/2026/11/02/big-crypto-wants-the-one-thing-it-can-t-buy-your-vote": 1793671987.4390044,
   "https://cointelegraph-tr.com/news/zachxbt-flags-suspected-106m-crypto-theft-as-solana-bot-faces-possible-786k-drain": 1793671987.4390044,
   "https://cointelegraph-tr.com/news/morgan-stanley-cuts-coinbase-target-to-120-as-earnings-recovery-outlook-weakens": 1793671987.4390044,
-  "https://www.theblock.co/news/defi/2026-11-02-mercado-bitcoin-hack-46-million-brazil-exchange-432333": 1793671987.4390044
+  "https://www.theblock.co/news/defi/2026-11-02-mercado-bitcoin-hack-46-million-brazil-exchange-432333": 1793671987.4390044,
+  "https://www.coindesk.com/markets/2026/11/03/live-news-bitcoin-faces-fifth-weekly-loss-as-midterm-uncertainty-and-apple-warning-weigh-on-markets": 1793699966.6541696,
+  "https://www.coindesk.com/business/2026/11/03/north-korea-denies-role-in-usd6-4-billion-binance-hack-after-fbi-points-to-tradertraitor": 1793699966.6541696,
+  "https://www.theblock.co/news/defi/2026-11-03-near-governance-approves-proposal-to-cut-token-issuance-432378": 1793699966.6541696,
+  "https://www.coindesk.com/business/2026/11/03/mercado-bitcoin-pledges-to-cover-all-user-losses-after-near-usd40-million-hack": 1793699966.6541696,
+  "https://www.theblock.co/news/ecosystems/2026-11-03-consensys-cross-ledger-settlement-routing-stack-432375": 1793699966.6541696,
+  "https://www.coindesk.com/markets/2026/11/03/bitcoin-s-price-chart-is-flashing-a-red-signal": 1793699966.6541696,
+  "https://cointelegraph-tr.com/news/ark-buys-coinbase-circle-trims-bullish": 1793699966.6541696,
+  "https://cointelegraph-tr.com/markets/blackrocks-ibit-biggest-bitcoin-etf-outflow-june": 1793699966.6541696,
+  "https://cointelegraph-tr.com/news/what-happened-in-crypto-today": 1793699966.6541696,
+  "https://www.coindesk.com/markets/2026/11/03/binance-has-spent-half-its-safu-bitcoin-about-usd580-million-worth-data-shows": 1793699966.6541696,
+  "https://www.coindesk.com/markets/2026/11/03/bitcoin-miner-cipher-posts-usd31-million-profit-as-ai-pivot-begins": 1793699966.6541696,
+  "https://www.coindesk.com/tech/2026/11/03/arbitrum-s-council-moved-usd30-million-of-binance-hack-funds-without-the-hacker-s-key": 1793699966.6541696,
+  "https://cointelegraph-tr.com/news/crypto-com-hong-kong-app-shutdown-license-pending": 1793699966.6541696,
+  "https://www.coindesk.com/markets/2026/11/03/bitcoin-drops-below-usd77-000-as-chip-rout-deepens-ahead-of-u-s-midterm-vote": 1793699966.6541696,
+  "https://cointelegraph-tr.com/markets/australia-lifts-rates-as-ai-boom-energy-costs-fuel-inflation": 1793699966.6541696,
+  "https://cointelegraph-tr.com/news/uk-warns-ai-ransomware-attack-on-infrastructure-highly-likely-by-2028": 1793699966.6541696,
+  "https://www.theblock.co/news/business/2026-11-02-ark-invest-buys-coinbase-circle-robinhood-432352": 1793699966.6541696
  },
  "tries": {
   "https://www.theblock.co/news/defi/2026-10-29-uniswap-token-jar-tjar-robinhood-432131": 1
