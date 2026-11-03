@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-02T19:45:02Z",
+ "updated": "2026-11-03T02:13:07Z",
  "sources": [
   "coindesk.com",
   "cointelegraph-tr.com",
@@ -20,6 +20,13 @@
     "url": "https://www.coindesk.com/tech/2026/11/02/btcpay-a-bitcoin-payment-tool-tells-users-to-switch-off-their-servers-after-reports-of-drained-wallets",
     "published": "2026-11-02T04:41:16Z",
     "importance": 4
+   },
+   {
+    "title": "Yapay zeka, kuantum bilgisayarlarından daha büyük bir tehdit oluşturuyor, diyor Swan kurucusu",
+    "summary": "Swan Bitcoin'in kurucusu, bilgisayar korsanlarının güvenlik açıklarından yararlanmak için büyük dil modellerini kullandığı konusunda uyarıda bulunmuştur.",
+    "url": "https://cointelegraph-tr.com/news/ai-hackers-threat-bitcoin-quantum-computing-swan",
+    "published": "2026-11-02T21:54:41Z",
+    "importance": 3
    },
    {
     "title": "Petroldeki %7’lik düşüş BTC fiyat rallisini tetikleyemeyince Bitcoin 76 bin doların altına gerileme riskiyle karşı karşıya",
@@ -55,13 +62,15 @@
     "url": "https://cointelegraph-tr.com/markets/uptober-hacktober-bitcoin-seasonal-pattern",
     "published": "2026-11-02T11:19:18Z",
     "importance": 3
-   },
+   }
+  ],
+  "SOL": [
    {
-    "title": "BTC, ABD ara seçim hesaplaşmasına giriyor: Bu hafta Bitcoin’de bilinmesi gereken üç şey",
-    "summary": "Bitcoin fiyat hareketi, kripto piyasaları ABD ara seçimleri ve teknoloji şirketlerinin bilançolarındaki oynaklığa hazırlanırken aylık kapanışa kadar 100 günlük hareketli ortalamasını korudu.",
-    "url": "https://cointelegraph-tr.com/markets/btc-price-script-midterms-three-things-bitcoin-week",
-    "published": "2026-11-02T09:41:36Z",
-    "importance": 3
+    "title": "Kripto araştırmacıları şüpheli 106 milyon dolarlık hırsızlığa ve Solana botunun 786 bin dolarlık boşaltılmasına dikkat çekti",
+    "summary": "Avrupalı bir kuruluş borsa hesaplarından 106 milyon dolar kaybetmiş olabilir. Ayrıca Solana arbitraj botuyla ilişkili bir cüzdan da 786 bin dolar kaybetmiş olabilir.",
+    "url": "https://cointelegraph-tr.com/news/zachxbt-flags-suspected-106m-crypto-theft-as-solana-bot-faces-possible-786k-drain",
+    "published": "2026-11-02T21:16:24Z",
+    "importance": 4
    }
   ],
   "XRP": [
@@ -75,15 +84,6 @@
   ]
  },
  "seen": {
-  "https://www.theblock.co/news/defi/2026-10-29-polymarket-exploit-2-5-million-cancel-only-mode-432158": 1793303465.3031526,
-  "https://www.coindesk.com/markets/2026/10/29/polymarket-suspends-trading-after-third-party-breach-leads-to-user-losses": 1793303465.3031526,
-  "https://www.coindesk.com/business/2026/10/29/potential-multi-billion-binance-hack-hitting-crypto-markets": 1793310201.1083174,
-  "https://www.theblock.co/news/business/2026-10-29-strategy-q3-net-income-preferred-daily-dividends-432141": 1793310201.1083174,
-  "https://www.theblock.co/news/markets/2026-10-29-binance-investigating-hack-suspicious-outflows-5-billion-432171": 1793313792.8779838,
-  "https://cointelegraph-tr.com/news/binance-linked-wallet-faces-possible-exploit-blockchain-researcher-warns": 1793313792.8779838,
-  "https://www.coindesk.com/business/2026/10/30/binance-hack-drained-wallets-backing-customer-assets-reserve-data-shows": 1793321765.048036,
-  "https://cointelegraph-tr.com/news/binance-hack-may-involve-private-key-misuse-not-theft-blockaid-ceo": 1793321765.048036,
-  "https://cointelegraph-tr.com/markets/binance-hack-rattles-crypto-markets-bnb-bitcoin-slide": 1793325463.4783928,
   "https://www.theblock.co/news/markets/2026-10-29-bitcoin-slides-below-77000-binance-hack-432183": 1793328551.5838187,
   "https://www.coindesk.com/policy/2026/10/29/crypto-s-longtime-foe-north-korea-s-lazarus-group-likely-behind-binance-hack-blockchain-sleuths": 1793332110.4070258,
   "https://www.coindesk.com/markets/2026/10/30/usd6-billion-binance-hack-sends-bitcoin-ether-tumbling-standard-chartered-sees-more-losses-ahead": 1793335700.177996,
@@ -193,7 +193,16 @@
   "https://cointelegraph-tr.com/markets/uptober-hacktober-bitcoin-seasonal-pattern": 1793648702.533111,
   "https://cointelegraph-tr.com/news/trezor-wallet-passphrase-limit-128-characters-coldcard-attacks": 1793648702.533111,
   "https://cointelegraph-tr.com/markets/btc-price-script-midterms-three-things-bitcoin-week": 1793648702.533111,
-  "https://www.coindesk.com/markets/2026/11/02/metals-io-issues-tokens-backed-by-25-tonnes-of-physical-copper-stored-in-germany": 1793648702.533111
+  "https://www.coindesk.com/markets/2026/11/02/metals-io-issues-tokens-backed-by-25-tonnes-of-physical-copper-stored-in-germany": 1793648702.533111,
+  "https://cointelegraph-tr.com/news/south-korea-urges-exchanges-to-boost-cold-storage-after-binance-hack": 1793671987.4390044,
+  "https://cointelegraph-tr.com/news/north-korea-denies-role-in-63b-binance-hack-points-finger-at-us": 1793671987.4390044,
+  "https://www.theblock.co/news/regulation/2026-11-02-kim-jong-un-sister-rejects-fbi-claims-linking-north-korea-binance-hack-432344": 1793671987.4390044,
+  "https://cointelegraph-tr.com/news/new-jersey-coinbase-staking": 1793671987.4390044,
+  "https://cointelegraph-tr.com/news/ai-hackers-threat-bitcoin-quantum-computing-swan": 1793671987.4390044,
+  "https://www.coindesk.com/opinion/2026/11/02/big-crypto-wants-the-one-thing-it-can-t-buy-your-vote": 1793671987.4390044,
+  "https://cointelegraph-tr.com/news/zachxbt-flags-suspected-106m-crypto-theft-as-solana-bot-faces-possible-786k-drain": 1793671987.4390044,
+  "https://cointelegraph-tr.com/news/morgan-stanley-cuts-coinbase-target-to-120-as-earnings-recovery-outlook-weakens": 1793671987.4390044,
+  "https://www.theblock.co/news/defi/2026-11-02-mercado-bitcoin-hack-46-million-brazil-exchange-432333": 1793671987.4390044
  },
  "tries": {
   "https://www.theblock.co/news/defi/2026-10-29-uniswap-token-jar-tjar-robinhood-432131": 1
