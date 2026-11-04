@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-03T23:14:44Z",
+ "updated": "2026-11-04T03:11:10Z",
  "sources": [
   "coindesk.com",
   "cointelegraph-tr.com",
@@ -29,10 +29,10 @@
     "importance": 4
    },
    {
-    "title": "Bitcoin fiyatı 76 bin dolarlık dipleri korurken analistler hisselerin 'siyasi kilitlenmeyi' fiyatladığını düşünüyor",
-    "summary": "Piyasalar ABD ara seçimlerinden gelecek sinyalleri beklerken Bitcoin, salı günü Wall Street işlemlerinin başlangıcında mütevazı kazanımlar elde etti.",
-    "url": "https://cointelegraph-tr.com/markets/bitcoin-price-defends-76k-lows-as-analysis-sees-stocks-pricing-in-political-gridlock",
-    "published": "2026-11-03T15:44:42Z",
+    "title": "RUNE, THORChain’in çoğu takası duraklatmasının ardından yeniden başlatmasıyla yüzde 15 yükseldi",
+    "summary": "THORChain, geri ödeme hatasının ardından Bitcoin, Ethereum ve diğer bazı ağlarda işlemleri yeniden başlattı; üç ağda ise duraklatma sürüyor.",
+    "url": "https://cointelegraph-tr.com/markets/rune-rallies-15-as-thorchain-restarts-most-swaps-after-outage",
+    "published": "2026-11-03T23:56:09Z",
     "importance": 3
    },
    {
@@ -43,28 +43,21 @@
     "importance": 3
    },
    {
-    "title": "ETF çıkışları ve ara seçimler kripto üzerindeki baskıyı artırırken Bitcoin 76.300 dolara gerilemesinin ardından istikrar kazanıyor",
-    "summary": "ETF çıkışları ve ara seçimler kripto üzerindeki baskıyı artırırken Bitcoin 76.300 dolara gerilemesinin ardından istikrar kazanıyor",
-    "url": "https://www.coindesk.com/markets/2026/11/03/bitcoin-steadies-after-dip-to-usd76-300-as-etf-outflows-and-midterm-elections-weigh-on-crypto",
-    "published": "2026-11-03T11:28:00Z",
-    "importance": 3
-   },
-   {
     "title": "Tether CEO'su Paolo Ardoino, 11,5 milyar dolar değerinde 150.000 bitcoin tuttuğunu belirtti",
     "summary": "Tether CEO'su Paolo Ardoino, şirketin 11,5 milyar dolar değerinde 150.000 bitcoin tuttuğunu açıkladı.",
     "url": "https://www.coindesk.com/business/2026/11/03/tether-holds-150-000-bitcoin-worth-usd11-5-billion-ceo-paolo-ardoino-says",
     "published": "2026-11-03T10:15:53Z",
     "importance": 3
-   },
-   {
-    "title": "Bitcoin fiyatı son alıcılar zarardayken 77.700 dolarlık desteği kaybetme riski taşıyor",
-    "summary": "Bitcoin, bir ila üç ay önce alım yapan yatırımcı grubunun gerçekleşen fiyatının altına gerileyerek bu seviyenin yeni dirence dönüşmesi riskini artırdı.",
-    "url": "https://cointelegraph-tr.com/markets/bitcoin-price-support-loss-recent-buyers-underwater",
-    "published": "2026-11-03T10:04:05Z",
-    "importance": 3
    }
   ],
   "ETH": [
+   {
+    "title": "RUNE, THORChain’in çoğu takası duraklatmasının ardından yeniden başlatmasıyla yüzde 15 yükseldi",
+    "summary": "THORChain, geri ödeme hatasının ardından Bitcoin, Ethereum ve diğer bazı ağlarda işlemleri yeniden başlattı; üç ağda ise duraklatma sürüyor.",
+    "url": "https://cointelegraph-tr.com/markets/rune-rallies-15-as-thorchain-restarts-most-swaps-after-outage",
+    "published": "2026-11-03T23:56:09Z",
+    "importance": 3
+   },
    {
     "title": "Ethereum Katman 2 ağı Aztec, daha hızlı gizli uygulamaları desteklemek için Tierra V6 güncellemesini aldı",
     "summary": "Aztec Vakfı, daha önceki güvenlik sorunlarını düzelttiğini ve özel işlem kanıtı oluşturma hızını iki katına çıkardığını belirterek Tierra V6'yı kullanıma sundu.",
@@ -88,19 +81,9 @@
     "published": "2026-11-02T21:16:24Z",
     "importance": 4
    }
-  ],
-  "XRP": [
-   {
-    "title": "XRP Ledger, stablecoin ortaklarının yeni token basmasına izin verebilecek bir hatayı düzeltmeye hazırlanıyor",
-    "summary": "XRP Ledger, stablecoin ortaklarının yeni token basmasına izin verebilecek bir hatayı düzeltmeye hazırlanıyor.",
-    "url": "https://www.coindesk.com/tech/2026/11/02/xrp-ledger-set-to-fix-flaw-that-could-let-stablecoin-partners-print-new-tokens",
-    "published": "2026-11-02T12:37:24Z",
-    "importance": 3
-   }
   ]
  },
  "seen": {
-  "https://www.coindesk.com/business/2026/10/30/openai-reportedly-cuts-fundraising-target-amid-ai-jitters": 1793408246.526326,
   "https://www.coindesk.com/markets/2026/10/31/bitcoin-stolen-from-binance-tops-tesla-s-holdings-and-is-over-twice-el-salvador-s-reserve": 1793425274.4437332,
   "https://cointelegraph-tr.com/news/binance-63b-record-hack-sparks-pre-election-political-chatter": 1793443093.0252745,
   "https://www.coindesk.com/business/2026/11/01/a-stolen-iphone-usd14-000-in-losses-and-london-s-crypto-theft-problem": 1793466826.53645,
@@ -230,7 +213,13 @@
   "https://www.coindesk.com/policy/2026/11/03/cftc-gets-into-legal-clash-over-stock-perps-after-having-cleared-path-for-crypto-version": 1793747684.3296504,
   "https://www.theblock.co/news/regulation/2026-11-03-sec-no-action-letter-canton-coin-digital-commodity-432492": 1793747684.3296504,
   "https://www.theblock.co/news/regulation/2026-11-03-cz-calls-for-crypto-security-alliance-ai-driven-attacks-accelerate-binance-hack-432458": 1793747684.3296504,
-  "https://www.theblock.co/news/regulation/2026-11-03-midterm-election-odds-polymarket-kalshi-democrats-432461": 1793747684.3296504
+  "https://www.theblock.co/news/regulation/2026-11-03-midterm-election-odds-polymarket-kalshi-democrats-432461": 1793747684.3296504,
+  "https://cointelegraph-tr.com/news/us-midterms-2026-live-results-and-what-they-mean-for-crypto": 1793761870.811453,
+  "https://www.theblock.co/news/regulation/2026-11-03-south-koreas-ruling-party-proposes-deferral-crypto-income-tax-432580": 1793761870.811453,
+  "https://cointelegraph-tr.com/news/1inch-lawyer-sees-agencies-driving-us-crypto-regulation-as-midterms-unfold": 1793761870.811453,
+  "https://www.coindesk.com/tech/2026/11/03/election-2026-coindesk-live-blog": 1793761870.811453,
+  "https://cointelegraph-tr.com/markets/rune-rallies-15-as-thorchain-restarts-most-swaps-after-outage": 1793761870.811453,
+  "https://www.coindesk.com/policy/2026/11/03/what-voters-said-about-their-views-on-crypto": 1793761870.811453
  },
  "tries": {
   "https://www.theblock.co/news/defi/2026-10-29-uniswap-token-jar-tjar-robinhood-432131": 1
