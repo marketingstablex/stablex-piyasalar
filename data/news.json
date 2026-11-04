@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-04T03:11:10Z",
+ "updated": "2026-11-04T11:30:21Z",
  "sources": [
   "coindesk.com",
   "cointelegraph-tr.com",
@@ -7,6 +7,27 @@
  ],
  "bySymbol": {
   "BTC": [
+   {
+    "title": "Ara seçim belirsizliği ortadan kalkarken Bitcoin V şeklinde geri dönüşle 78.300 dolara yükseldi",
+    "summary": "Ara seçim belirsizliği ortadan kalkarken Bitcoin V şeklinde geri dönüşle 78.300 dolara yükseldi.",
+    "url": "https://www.coindesk.com/markets/2026/11/04/bitcoin-knocks-on-usd78-000-in-v-shaped-comeback-as-midterm-uncertainty-fades",
+    "published": "2026-11-04T06:16:40Z",
+    "importance": 4
+   },
+   {
+    "title": "Jack Dorsey'nin Block şirketi, bitcoin kârı %50 düşerken 764 milyon dolarlık Adalet Bakanlığı uzlaşmasıyla karşı karşıya",
+    "summary": "Jack Dorsey'nin Block şirketi, bitcoin kârı %50 düşerken 764 milyon dolarlık Adalet Bakanlığı uzlaşmasıyla karşı karşıya.",
+    "url": "https://www.coindesk.com/markets/2026/11/04/jack-dorsey-s-block-faces-usd764-million-doj-settlement-as-bitcoin-profit-plunges-50",
+    "published": "2026-11-04T06:06:04Z",
+    "importance": 4
+   },
+   {
+    "title": "Demokratların zafer ihtimali piyasaları sarsarken Bitcoin kısa süreliğine 75.700 dolara geriledi",
+    "summary": "Demokratların zaferine yönelik beklentiler piyasaları sarsarken Bitcoin kısa süreliğine 75.700 dolara geriledi.",
+    "url": "https://www.coindesk.com/markets/2026/11/04/bitcoin-briefly-sinks-to-usd75-700-as-bets-on-a-democratic-sweep-rattle-markets",
+    "published": "2026-11-04T04:48:16Z",
+    "importance": 4
+   },
    {
     "title": "Liquid Network, 320 milyon dolarlık istismarın ardından tam Bitcoin desteğini yeniden sağladı",
     "summary": "Liquid Network, Eylül ayındaki saldırının ardından Blockstream'in sağladığı fonlarla Bitcoin rezervlerinin tam desteğe kavuştuğunu açıkladı.",
@@ -41,13 +62,6 @@
     "url": "https://www.coindesk.com/daybook-us/2026/11/03/bitcoin-is-breaking-a-midterm-election-pattern-going-back-to-2014",
     "published": "2026-11-03T12:30:09Z",
     "importance": 3
-   },
-   {
-    "title": "Tether CEO'su Paolo Ardoino, 11,5 milyar dolar değerinde 150.000 bitcoin tuttuğunu belirtti",
-    "summary": "Tether CEO'su Paolo Ardoino, şirketin 11,5 milyar dolar değerinde 150.000 bitcoin tuttuğunu açıkladı.",
-    "url": "https://www.coindesk.com/business/2026/11/03/tether-holds-150-000-bitcoin-worth-usd11-5-billion-ceo-paolo-ardoino-says",
-    "published": "2026-11-03T10:15:53Z",
-    "importance": 3
    }
   ],
   "ETH": [
@@ -72,20 +86,9 @@
     "published": "2026-11-03T12:01:05Z",
     "importance": 3
    }
-  ],
-  "SOL": [
-   {
-    "title": "Kripto araştırmacıları şüpheli 106 milyon dolarlık hırsızlığa ve Solana botunun 786 bin dolarlık boşaltılmasına dikkat çekti",
-    "summary": "Avrupalı bir kuruluş borsa hesaplarından 106 milyon dolar kaybetmiş olabilir. Ayrıca Solana arbitraj botuyla ilişkili bir cüzdan da 786 bin dolar kaybetmiş olabilir.",
-    "url": "https://cointelegraph-tr.com/news/zachxbt-flags-suspected-106m-crypto-theft-as-solana-bot-faces-possible-786k-drain",
-    "published": "2026-11-02T21:16:24Z",
-    "importance": 4
-   }
   ]
  },
  "seen": {
-  "https://www.coindesk.com/markets/2026/10/31/bitcoin-stolen-from-binance-tops-tesla-s-holdings-and-is-over-twice-el-salvador-s-reserve": 1793425274.4437332,
-  "https://cointelegraph-tr.com/news/binance-63b-record-hack-sparks-pre-election-political-chatter": 1793443093.0252745,
   "https://www.coindesk.com/business/2026/11/01/a-stolen-iphone-usd14-000-in-losses-and-london-s-crypto-theft-problem": 1793466826.53645,
   "https://www.coindesk.com/business/2026/10/31/traders-are-already-placing-leveraged-bets-on-anthropic-s-ipo-using-crypto-contracts": 1793466826.53645,
   "https://cointelegraph-tr.com/news/binance-hack-90-percent-replenished": 1793466826.53645,
@@ -219,7 +222,22 @@
   "https://cointelegraph-tr.com/news/1inch-lawyer-sees-agencies-driving-us-crypto-regulation-as-midterms-unfold": 1793761870.811453,
   "https://www.coindesk.com/tech/2026/11/03/election-2026-coindesk-live-blog": 1793761870.811453,
   "https://cointelegraph-tr.com/markets/rune-rallies-15-as-thorchain-restarts-most-swaps-after-outage": 1793761870.811453,
-  "https://www.coindesk.com/policy/2026/11/03/what-voters-said-about-their-views-on-crypto": 1793761870.811453
+  "https://www.coindesk.com/policy/2026/11/03/what-voters-said-about-their-views-on-crypto": 1793761870.811453,
+  "https://www.theblock.co/learn/defi/defi-explained-432391": 1793791821.480984,
+  "https://www.coindesk.com/business/2026/11/04/zachxbt-names-french-bank-credit-mutuel-arkea-as-suspected-victim-of-usd133-million-crypto-theft": 1793791821.480984,
+  "https://www.coindesk.com/markets/2026/11/04/elon-musk-floats-space-data-centers-as-democratic-sweep-puts-pressure-on-ai-trade": 1793791821.480984,
+  "https://www.theblock.co/news/markets/2026-11-04-morgan-stanley-among-first-banks-to-tokenize-us-equities-treasurys-through-dtccs-service-432633": 1793791821.480984,
+  "https://www.coindesk.com/markets/2026/11/04/morgan-stanley-says-it-is-among-the-first-banks-to-put-u-s-stocks-and-treasuries-on-a-blockchain": 1793791821.480984,
+  "https://www.coindesk.com/markets/2026/11/04/zcash-grants-committee-drops-plan-to-redirect-98-000-zec-to-future-mining-rewards": 1793791821.480984,
+  "https://www.coindesk.com/markets/2026/11/04/bitcoin-knocks-on-usd78-000-in-v-shaped-comeback-as-midterm-uncertainty-fades": 1793791821.480984,
+  "https://www.coindesk.com/markets/2026/11/04/jack-dorsey-s-block-faces-usd764-million-doj-settlement-as-bitcoin-profit-plunges-50": 1793791821.480984,
+  "https://www.coindesk.com/markets/2026/11/04/u-s-sanctioned-moscow-exchange-to-list-bitcoin-and-tether-s-usdt-in-december": 1793791821.480984,
+  "https://www.coindesk.com/policy/2026/11/04/south-korea-s-ruling-party-wants-to-put-off-its-crypto-tax-again": 1793791821.480984,
+  "https://www.theblock.co/news/web3/2026-11-03-french-bank-credit-mutuel-arkea-exploited-zachxbt-432607": 1793791821.480984,
+  "https://www.coindesk.com/policy/2026/11/03/democrats-surge-toward-senate-house-majorities-with-crypto-braced-for-new-direction": 1793791821.480984,
+  "https://www.coindesk.com/markets/2026/11/04/bitcoin-briefly-sinks-to-usd75-700-as-bets-on-a-democratic-sweep-rattle-markets": 1793791821.480984,
+  "https://www.theblock.co/news/regulation/2026-11-03-sherrod-brown-defeats-jon-husted-432495": 1793791821.480984,
+  "https://www.theblock.co/news/business/2026-11-03-block-q3-earnings-shares-rise-432585": 1793791821.480984
  },
  "tries": {
   "https://www.theblock.co/news/defi/2026-10-29-uniswap-token-jar-tjar-robinhood-432131": 1
