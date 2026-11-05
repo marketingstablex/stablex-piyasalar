@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-04T18:50:32Z",
+ "updated": "2026-11-05T00:19:24Z",
  "sources": [
   "coindesk.com",
   "cointelegraph-tr.com",
@@ -26,20 +26,6 @@
     "summary": "Demokratların zaferine yönelik beklentiler piyasaları sarsarken Bitcoin kısa süreliğine 75.700 dolara geriledi.",
     "url": "https://www.coindesk.com/markets/2026/11/04/bitcoin-briefly-sinks-to-usd75-700-as-bets-on-a-democratic-sweep-rattle-markets",
     "published": "2026-11-04T04:48:16Z",
-    "importance": 4
-   },
-   {
-    "title": "Liquid Network, 320 milyon dolarlık istismarın ardından tam Bitcoin desteğini yeniden sağladı",
-    "summary": "Liquid Network, Eylül ayındaki saldırının ardından Blockstream'in sağladığı fonlarla Bitcoin rezervlerinin tam desteğe kavuştuğunu açıkladı.",
-    "url": "https://www.theblock.co/news/ecosystems/2026-11-03-liquid-network-restores-full-bitcoin-backing-following-exploit-432387",
-    "published": "2026-11-03T11:49:20Z",
-    "importance": 4
-   },
-   {
-    "title": "BlackRock’ın IBIT’i haziran ayından bu yana en büyük Bitcoin ETF çıkışını gördü",
-    "summary": "BlackRock’ın Bitcoin ETF’si pazartesi günü 405,3 milyon dolar kaybederken ABD spot Bitcoin fonları kasım ayına yaklaşık 399 milyon dolarlık net çıkışla başladı.",
-    "url": "https://cointelegraph-tr.com/markets/blackrocks-ibit-biggest-bitcoin-etf-outflow-june",
-    "published": "2026-11-03T07:49:51Z",
     "importance": 4
    },
    {
@@ -71,13 +57,6 @@
     "url": "https://www.theblock.co/news/defi/2026-11-03-ethereum-l2-aztec-tierra-v6-upgrade-private-apps-432399",
     "published": "2026-11-03T14:00:00Z",
     "importance": 3
-   },
-   {
-    "title": "ETHGas, önceden blok rezervasyonları satarak Wall Street'i halka açık Ethereum'a getirmek istiyor",
-    "summary": "ETHGas, önceden blok rezervasyonları satarak Wall Street'i halka açık Ethereum'a getirmek istiyor",
-    "url": "https://www.coindesk.com/business/2026/11/03/ethgas-courts-wall-street-with-ethereum-blockspace-but-compensation-for-missed-trades-is-zero",
-    "published": "2026-11-03T12:01:05Z",
-    "importance": 3
    }
   ],
   "SOL": [
@@ -91,7 +70,6 @@
   ]
  },
  "seen": {
-  "https://www.coindesk.com/opinion/2026/10/31/bitcoin-s-white-paper-turns-18-and-small-businesses-are-still-paying-for-the-bailouts-it-answered": 1793479121.8440673,
   "https://www.coindesk.com/policy/2026/10/31/fbi-confirms-north-korea-s-role-in-usd6-billion-binance-hack-asks-defi-community-to-block-btc-eth-sol-addresses": 1793512405.3572023,
   "https://www.coindesk.com/news-analysis/2026/11/01/sherrod-brown-s-ohio-edge-threatens-a-rough-go-for-crypto-next-year": 1793538728.3359575,
   "https://www.coindesk.com/markets/2026/11/01/binance-opens-crypto-withdrawals-in-phases-starting-with-bitcoin-following-usd6-3-billion-hack": 1793538728.3359575,
@@ -240,7 +218,13 @@
   "https://www.coindesk.com/daybook-us/2026/11/04/here-s-how-analysts-are-reacting-to-the-new-blue-congress": 1793818232.3031735,
   "https://www.theblock.co/news/business/2026-11-04-bitgo-launches-institutional-trading-and-financial-solutions-business-led-by-former-nydig-executive-432646": 1793818232.3031735,
   "https://www.coindesk.com/markets/2026/11/04/bitcoin-rebounds-from-midterm-dip-as-defi-leads-gains": 1793818232.3031735,
-  "https://cointelegraph-tr.com/news/democrats-flip-us-senate-as-crypto-industry-faces-policy-reset": 1793818232.3031735
+  "https://cointelegraph-tr.com/news/democrats-flip-us-senate-as-crypto-industry-faces-policy-reset": 1793818232.3031735,
+  "https://www.coindesk.com/policy/2026/11/04/tokenization-and-stablecoins-may-weather-democrats-sweep-as-broader-crypto-rules-face-uncertainty": 1793837964.906931,
+  "https://www.coindesk.com/business/2026/11/04/crypto-s-washington-hopes-fade-but-grayscale-and-blackrock-see-growth-ahead": 1793837964.906931,
+  "https://www.theblock.co/news/regulation/2026-11-04-democratic-sweep-congress-forces-crypto-industry-rethink-washington-strategy-434362": 1793837964.906931,
+  "https://www.coindesk.com/news-analysis/2026/11/04/crypto-s-powerhouse-super-pac-fairshake-found-its-kryptonite": 1793837964.906931,
+  "https://www.theblock.co/news/markets/2026-11-04-bitcoin-price-midterm-elections-binance-hack-recovery-433030": 1793837964.906931,
+  "https://www.theblock.co/news/regulation/2026-11-04-french-hill-too-close-to-call-house-flips-changing-crypto-legislation-432572": 1793837964.906931
  },
  "tries": {
   "https://www.theblock.co/news/defi/2026-10-29-uniswap-token-jar-tjar-robinhood-432131": 1
