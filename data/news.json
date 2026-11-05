@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-05T00:19:24Z",
+ "updated": "2026-11-05T07:19:50Z",
  "sources": [
   "coindesk.com",
   "cointelegraph-tr.com",
@@ -7,6 +7,13 @@
  ],
  "bySymbol": {
   "BTC": [
+   {
+    "title": "Seçim sonrası kripto toparlanmasında Zcash %12 yükselirken Bitcoin 80.000 doların üzerinde tutunuyor",
+    "summary": "Seçim sonrası kripto para piyasasındaki toparlanma sürecinde Bitcoin 80.000 dolar seviyesinin üzerinde kalırken, Zcash %12 oranında artış gösterdi.",
+    "url": "https://www.coindesk.com/markets/2026/11/05/bitcoin-holds-above-usd80-000-as-zcash-jumps-12-in-post-election-crypto-rebound",
+    "published": "2026-11-05T05:13:45Z",
+    "importance": 4
+   },
    {
     "title": "Canlı güncellemeler: Mavi Dalga heyelanı sonrasında Bitcoin ve hisse senetleri gece yarısı düşüşünü tersine çevirerek büyük kazançlar elde etti",
     "summary": "Canlı güncellemeler: Mavi Dalga heyelanı sonrasında Bitcoin ve hisse senetleri gece yarısı düşüşünü tersine çevirerek büyük kazançlar elde etti",
@@ -29,17 +36,17 @@
     "importance": 4
    },
    {
+    "title": "Riot hisseleri 28 milyar dolarlık yapay zeka kirasıyla yükselirken Hut 8 gelir beklentisini karşılayamayınca geriledi",
+    "summary": "Bitcoin madencisi Riot, yapay zeka genişlemesini finanse etmek amacıyla BTC sattı. Hut 8 ise büyük veri merkezi kiralamaları gelir üretmeye başlamadan önce düşen gelir ve artan maliyetler açıkladı.",
+    "url": "https://cointelegraph-tr.com/news/riots-28b-ai-deal-lifts-shares-as-hut-8-faces-transition-costs",
+    "published": "2026-11-04T18:47:56Z",
+    "importance": 3
+   },
+   {
     "title": "RUNE, THORChain’in çoğu takası duraklatmasının ardından yeniden başlatmasıyla yüzde 15 yükseldi",
     "summary": "THORChain, geri ödeme hatasının ardından Bitcoin, Ethereum ve diğer bazı ağlarda işlemleri yeniden başlattı; üç ağda ise duraklatma sürüyor.",
     "url": "https://cointelegraph-tr.com/markets/rune-rallies-15-as-thorchain-restarts-most-swaps-after-outage",
     "published": "2026-11-03T23:56:09Z",
-    "importance": 3
-   },
-   {
-    "title": "Bitcoin, 2014'e kadar uzanan bir ara seçim modelini kırıyor",
-    "summary": "Bitcoin, 2014'e kadar uzanan bir ara seçim modelini kırıyor",
-    "url": "https://www.coindesk.com/daybook-us/2026/11/03/bitcoin-is-breaking-a-midterm-election-pattern-going-back-to-2014",
-    "published": "2026-11-03T12:30:09Z",
     "importance": 3
    }
   ],
@@ -49,13 +56,6 @@
     "summary": "THORChain, geri ödeme hatasının ardından Bitcoin, Ethereum ve diğer bazı ağlarda işlemleri yeniden başlattı; üç ağda ise duraklatma sürüyor.",
     "url": "https://cointelegraph-tr.com/markets/rune-rallies-15-as-thorchain-restarts-most-swaps-after-outage",
     "published": "2026-11-03T23:56:09Z",
-    "importance": 3
-   },
-   {
-    "title": "Ethereum Katman 2 ağı Aztec, daha hızlı gizli uygulamaları desteklemek için Tierra V6 güncellemesini aldı",
-    "summary": "Aztec Vakfı, daha önceki güvenlik sorunlarını düzelttiğini ve özel işlem kanıtı oluşturma hızını iki katına çıkardığını belirterek Tierra V6'yı kullanıma sundu.",
-    "url": "https://www.theblock.co/news/defi/2026-11-03-ethereum-l2-aztec-tierra-v6-upgrade-private-apps-432399",
-    "published": "2026-11-03T14:00:00Z",
     "importance": 3
    }
   ],
@@ -67,10 +67,18 @@
     "published": "2026-11-04T16:27:49Z",
     "importance": 4
    }
+  ],
+  "XRP": [
+   {
+    "title": "XRP Ledger, yeni token'ların oluşturulmasına yol açabilecek bir açığı düzeltti",
+    "summary": "XRP Ledger, yeni token'ların yaratılmasına neden olabilecek açığa çıkarılmış bir hatayı giderdi.",
+    "url": "https://www.coindesk.com/markets/2026/11/05/xrp-ledger-closes-bug-that-let-approved-token-burners-create-new-tokens",
+    "published": "2026-11-05T05:25:06Z",
+    "importance": 3
+   }
   ]
  },
  "seen": {
-  "https://www.coindesk.com/policy/2026/10/31/fbi-confirms-north-korea-s-role-in-usd6-billion-binance-hack-asks-defi-community-to-block-btc-eth-sol-addresses": 1793512405.3572023,
   "https://www.coindesk.com/news-analysis/2026/11/01/sherrod-brown-s-ohio-edge-threatens-a-rough-go-for-crypto-next-year": 1793538728.3359575,
   "https://www.coindesk.com/markets/2026/11/01/binance-opens-crypto-withdrawals-in-phases-starting-with-bitcoin-following-usd6-3-billion-hack": 1793538728.3359575,
   "https://cointelegraph-tr.com/news/binance-says-phase-one-of-withdrawals-opens-after-63b-hack": 1793538728.3359575,
@@ -224,7 +232,15 @@
   "https://www.theblock.co/news/regulation/2026-11-04-democratic-sweep-congress-forces-crypto-industry-rethink-washington-strategy-434362": 1793837964.906931,
   "https://www.coindesk.com/news-analysis/2026/11/04/crypto-s-powerhouse-super-pac-fairshake-found-its-kryptonite": 1793837964.906931,
   "https://www.theblock.co/news/markets/2026-11-04-bitcoin-price-midterm-elections-binance-hack-recovery-433030": 1793837964.906931,
-  "https://www.theblock.co/news/regulation/2026-11-04-french-hill-too-close-to-call-house-flips-changing-crypto-legislation-432572": 1793837964.906931
+  "https://www.theblock.co/news/regulation/2026-11-04-french-hill-too-close-to-call-house-flips-changing-crypto-legislation-432572": 1793837964.906931,
+  "https://www.coindesk.com/tech/2026/11/05/zcash-is-about-to-freeze-usd16-million-in-its-oldest-privacy-pool": 1793863190.8875563,
+  "https://www.coindesk.com/policy/2026/11/05/the-pile-of-lawsuits-against-kalshi-just-grew-by-one": 1793863190.8875563,
+  "https://www.coindesk.com/markets/2026/11/05/xrp-ledger-closes-bug-that-let-approved-token-burners-create-new-tokens": 1793863190.8875563,
+  "https://www.coindesk.com/markets/2026/11/05/bitcoin-holds-above-usd80-000-as-zcash-jumps-12-in-post-election-crypto-rebound": 1793863190.8875563,
+  "https://www.theblock.co/news/regulation/2026-11-04-digital-chamber-sherrod-brown-win-434371": 1793863190.8875563,
+  "https://www.coindesk.com/markets/2026/11/05/trump-media-moves-usd434-million-in-bitcoin-to-crypto-com-blockchain-data-show": 1793863190.8875563,
+  "https://www.theblock.co/news/business/2026-11-04-french-bank-confirms-cyberattack-434372": 1793863190.8875563,
+  "https://cointelegraph-tr.com/news/riots-28b-ai-deal-lifts-shares-as-hut-8-faces-transition-costs": 1793863190.8875563
  },
  "tries": {
   "https://www.theblock.co/news/defi/2026-10-29-uniswap-token-jar-tjar-robinhood-432131": 1
