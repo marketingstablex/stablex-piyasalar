@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-05T07:19:50Z",
+ "updated": "2026-11-05T15:48:10Z",
  "sources": [
   "coindesk.com",
   "cointelegraph-tr.com",
@@ -41,22 +41,6 @@
     "url": "https://cointelegraph-tr.com/news/riots-28b-ai-deal-lifts-shares-as-hut-8-faces-transition-costs",
     "published": "2026-11-04T18:47:56Z",
     "importance": 3
-   },
-   {
-    "title": "RUNE, THORChain’in çoğu takası duraklatmasının ardından yeniden başlatmasıyla yüzde 15 yükseldi",
-    "summary": "THORChain, geri ödeme hatasının ardından Bitcoin, Ethereum ve diğer bazı ağlarda işlemleri yeniden başlattı; üç ağda ise duraklatma sürüyor.",
-    "url": "https://cointelegraph-tr.com/markets/rune-rallies-15-as-thorchain-restarts-most-swaps-after-outage",
-    "published": "2026-11-03T23:56:09Z",
-    "importance": 3
-   }
-  ],
-  "ETH": [
-   {
-    "title": "RUNE, THORChain’in çoğu takası duraklatmasının ardından yeniden başlatmasıyla yüzde 15 yükseldi",
-    "summary": "THORChain, geri ödeme hatasının ardından Bitcoin, Ethereum ve diğer bazı ağlarda işlemleri yeniden başlattı; üç ağda ise duraklatma sürüyor.",
-    "url": "https://cointelegraph-tr.com/markets/rune-rallies-15-as-thorchain-restarts-most-swaps-after-outage",
-    "published": "2026-11-03T23:56:09Z",
-    "importance": 3
    }
   ],
   "SOL": [
@@ -79,10 +63,6 @@
   ]
  },
  "seen": {
-  "https://www.coindesk.com/news-analysis/2026/11/01/sherrod-brown-s-ohio-edge-threatens-a-rough-go-for-crypto-next-year": 1793538728.3359575,
-  "https://www.coindesk.com/markets/2026/11/01/binance-opens-crypto-withdrawals-in-phases-starting-with-bitcoin-following-usd6-3-billion-hack": 1793538728.3359575,
-  "https://cointelegraph-tr.com/news/binance-says-phase-one-of-withdrawals-opens-after-63b-hack": 1793538728.3359575,
-  "https://cointelegraph-tr.com/news/fbi-blames-north-korea-for-record-63b-binance-hack": 1793538728.3359575,
   "https://www.theblock.co/news/defi/2026-11-01-north-korean-hackers-launder-242-million-of-binance-loot-via-tron-as-fbi-presses-thorchain-analyst-432257": 1793557911.2587817,
   "https://www.coindesk.com/tech/2026/11/01/ai-agents-bypassed-crypto-spending-limits-without-human-approval-researchers-find-in-a-new-test": 1793557911.2587817,
   "https://www.theblock.co/news/business/2026-11-01-binance-sees-3-64-billion-in-net-outflows-after-reopening-withdrawals-following-record-hack-432259": 1793557911.2587817,
