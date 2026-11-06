@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-06T17:25:59Z",
+ "updated": "2026-11-06T22:20:53Z",
  "sources": [
   "coindesk.com",
   "cointelegraph-tr.com",
@@ -24,18 +24,18 @@
     "importance": 4
    },
    {
-    "title": "Bitcoin, ABD hisseleri seçim kazanımlarını silerken 7 haftanın en düşük seviyesine gerileyerek %6 düştü",
-    "summary": "Wall Street açılışında Bitcoin aniden aşağı yönlü hareket ederken, hisselerde ani bir satış dalgası yaşandı ve seçim sonrası kazanımlar tersine döndü.",
-    "url": "https://cointelegraph-tr.com/markets/bitcoin-price-crashes-7-week-low-stocks-election-gains",
-    "published": "2026-11-05T16:48:41Z",
-    "importance": 4
-   },
-   {
     "title": "Çarşamba Günkü Yükselişin Ardından Bitcoin 80.000 Doların Üzerinde Tutunurken, Injective Stake Edilmiş ETF Listelemesiyle Yükseliyor",
     "summary": "Çarşamba Günkü Yükselişin Ardından Bitcoin 80.000 Doların Üzerinde Tutunurken, Injective Stake Edilmiş ETF Listelemesiyle Yükseliyor",
     "url": "https://www.coindesk.com/markets/2026/11/05/bitcoin-holds-above-usd80-000-after-wednesday-s-jump-as-injective-rallies-on-staked-etf-listing",
     "published": "2026-11-05T11:30:00Z",
     "importance": 4
+   },
+   {
+    "title": "Bitcoin fiyatı 75 bin doların altına gerilerken kripto piyasaları teknoloji hisselerindeki toparlanmayı kaçırdı",
+    "summary": "ABD tarım dışı istihdam verilerinin tahminleri önemli ölçüde aşmasının ardından Bitcoin fiyat hareketi zayıf kalmayı sürdürdü. Bu gelişmeyle birlikte aralık ayında faiz artırımı yapılacağına dair beklentiler de arttı.",
+    "url": "https://cointelegraph-tr.com/markets/bitcoin-price-under-75k-crypto-markets-tech-stock",
+    "published": "2026-11-06T17:49:33Z",
+    "importance": 3
    },
    {
     "title": "Strive'ın Bitcoin kazançları, BTC alımlarının artmasıyla 509 milyon dolarlık 3. çeyrek kârını tetikledi",
@@ -89,13 +89,6 @@
     "importance": 4
    },
    {
-    "title": "Bitcoin, ABD hisseleri seçim kazanımlarını silerken 7 haftanın en düşük seviyesine gerileyerek %6 düştü",
-    "summary": "Wall Street açılışında Bitcoin aniden aşağı yönlü hareket ederken, hisselerde ani bir satış dalgası yaşandı ve seçim sonrası kazanımlar tersine döndü.",
-    "url": "https://cointelegraph-tr.com/markets/bitcoin-price-crashes-7-week-low-stocks-election-gains",
-    "published": "2026-11-05T16:48:41Z",
-    "importance": 4
-   },
-   {
     "title": "Ethereum geliştiricileri, akıllı sözleşme riskleri çözülene kadar Glamsterdam’ı Hoodi’de çatallamayacak",
     "summary": "Ethereum geliştiricileri, Glamsterdam’ın EIP-8037 ve EIP-8038’ine bağlı sekiz akıllı sözleşme değişmezine ilişkin endişeleri inceliyor.",
     "url": "https://cointelegraph-tr.com/news/ethereum-devs-fork-glamsterdam-hoodi-smart-contract-risks",
@@ -139,36 +132,6 @@
   ]
  },
  "seen": {
-  "https://cointelegraph-tr.com/markets/bitcoin-risks-sub-76k-drop-as-7-fall-in-oil-fails-to-spark-btc-price-rally": 1793648702.533111,
-  "https://www.theblock.co/news/markets/2026-11-02-stonex-dtcc-tokenization-validates-securitize-secz-432331": 1793648702.533111,
-  "https://cointelegraph-tr.com/news/mercado-bitcoin-hack": 1793648702.533111,
-  "https://www.coindesk.com/markets/2026/11/02/bitcoin-traders-eye-post-election-rally-as-exchange-outflows-point-to-supply-squeeze": 1793648702.533111,
-  "https://cointelegraph-tr.com/news/animoca-brands-expands-asset-management-business-with-abu-dhabi-approval": 1793648702.533111,
-  "https://www.coindesk.com/tech/2026/11/02/eu-entity-suspected-of-losing-usd106-million-from-crypto-exchange-accounts-zachxbt-says": 1793648702.533111,
-  "https://www.theblock.co/news/business/2026-11-02-binance-zero-knowledge-proof-of-reserves-snapshot-hack-recovery-432321": 1793648702.533111,
-  "https://www.coindesk.com/business/2026/11/02/nyse-taps-wall-street-giant-broadridge-to-bring-shareholder-voting-onto-blockchain-rails": 1793648702.533111,
-  "https://www.coindesk.com/business/2026/11/02/brazil-s-mercado-bitcoin-halts-withdrawals-after-usd40-million-drained-across-10-chains": 1793648702.533111,
-  "https://www.coindesk.com/business/2026/11/02/nvidia-costco-and-nike-join-pushback-against-okx-ice-tokenized-stock-plans": 1793648702.533111,
-  "https://www.coindesk.com/markets/2026/11/02/anthropic-swings-to-third-quarter-operating-loss-as-compute-costs-surge-ahead-of-ipo": 1793648702.533111,
-  "https://www.coindesk.com/business/2026/11/02/standard-chartered-debuts-tokenized-deposits-in-hong-kong-for-corporate-clients": 1793648702.533111,
-  "https://www.theblock.co/news/business/2026-11-02-strive-inches-closer-second-largest-public-bitcoin-holder-10-million-buy-432312": 1793648702.533111,
-  "https://www.coindesk.com/opinion/2026/11/02/crypto-s-washington-playbook-is-working-don-t-abandon-it-now": 1793648702.533111,
-  "https://www.theblock.co/news/business/2026-11-02-bitmine-adds-8573-eth-tom-lee-flags-muted-binance-hack-reaction-432307": 1793648702.533111,
-  "https://www.coindesk.com/markets/2026/11/02/morgan-stanley-downgrades-coinbase-slashes-price-target-53-on-weak-earnings-outlook": 1793648702.533111,
-  "https://www.coindesk.com/business/2026/11/01/tokenization-firm-tzero-plans-to-go-public-in-usd350-million-spac-deal": 1793648702.533111,
-  "https://cointelegraph-tr.com/news/strategy-repurchases-208m-strc-65m-bitcoin": 1793648702.533111,
-  "https://cointelegraph-tr.com/news/binance-safu-btc-balance-halves-recovery-unclear": 1793648702.533111,
-  "https://www.theblock.co/news/business/2026-11-02-we-found-room-for-even-more-orange-michael-saylor-strategy-bitcoin-btc-432275": 1793648702.533111,
-  "https://cointelegraph-tr.com/news/fatf-targeted-crypto-compliance-jurisdiction-reviews": 1793648702.533111,
-  "https://cointelegraph-tr.com/news/binance-hackers-solana-new-phase-laundering-chainalysis": 1793648702.533111,
-  "https://www.coindesk.com/tech/2026/11/02/xrp-ledger-set-to-fix-flaw-that-could-let-stablecoin-partners-print-new-tokens": 1793648702.533111,
-  "https://www.coindesk.com/daybook-us/2026/11/02/bitcoin-s-volatility-curve-has-a-midterm-bump": 1793648702.533111,
-  "https://www.coindesk.com/tech/2026/11/02/no-proof-of-ai-in-north-korean-hackers-move-of-stolen-binance-funds-through-thousands-of-wallets": 1793648702.533111,
-  "https://www.coindesk.com/markets/2026/11/02/bitcoin-eases-to-usd77-900-as-binance-customers-pull-usd3-6-billion-after-withdrawals-reopen": 1793648702.533111,
-  "https://cointelegraph-tr.com/markets/uptober-hacktober-bitcoin-seasonal-pattern": 1793648702.533111,
-  "https://cointelegraph-tr.com/news/trezor-wallet-passphrase-limit-128-characters-coldcard-attacks": 1793648702.533111,
-  "https://cointelegraph-tr.com/markets/btc-price-script-midterms-three-things-bitcoin-week": 1793648702.533111,
-  "https://www.coindesk.com/markets/2026/11/02/metals-io-issues-tokens-backed-by-25-tonnes-of-physical-copper-stored-in-germany": 1793648702.533111,
   "https://cointelegraph-tr.com/news/south-korea-urges-exchanges-to-boost-cold-storage-after-binance-hack": 1793671987.4390044,
   "https://cointelegraph-tr.com/news/north-korea-denies-role-in-63b-binance-hack-points-finger-at-us": 1793671987.4390044,
   "https://www.theblock.co/news/regulation/2026-11-02-kim-jong-un-sister-rejects-fbi-claims-linking-north-korea-binance-hack-432344": 1793671987.4390044,
@@ -348,7 +311,17 @@
   "https://www.coindesk.com/markets/2026/11/06/bitcoin-recovers-usd76-000-level-as-etfs-shed-usd430-million-after-tech-rout": 1793985959.021537,
   "https://cointelegraph-tr.com/news/nasdaq-hyperliquid-strategies-futures-broker-license-onchain-perps": 1793985959.021537,
   "https://cointelegraph-tr.com/news/crypto-ally-french-hill-wins-reelection-arkansas": 1793985959.021537,
-  "https://cointelegraph-tr.com/news/paraguay-president-resigns-after-collapse-ueno-digital-bank": 1793985959.021537
+  "https://cointelegraph-tr.com/news/paraguay-president-resigns-after-collapse-ueno-digital-bank": 1793985959.021537,
+  "https://cointelegraph-tr.com/news/us-treasury-bans-mexc-over-alleged-16b-illicit-transactions": 1794003653.3259742,
+  "https://www.theblock.co/news/regulation/2026-11-06-treasury-cuts-off-mexc-global-over-alleged-16-billion-in-transactions-linked-to-iran-north-korea-and-russia-435957": 1794003653.3259742,
+  "https://cointelegraph-tr.com/news/gnosis-pay-breach-exposes-card-details-personal-data-crypto-wallet-information": 1794003653.3259742,
+  "https://www.theblock.co/news/regulation/2026-11-06-us-treasury-walks-back-crypto-surveillance-travel-rule-proposal-435951": 1794003653.3259742,
+  "https://www.coindesk.com/policy/2026/11/06/apple-meta-reject-okx-ice-tokenized-stock-plans-leaving-crypto-firms-as-the-ones-to-watch": 1794003653.3259742,
+  "https://www.theblock.co/news/defi/2026-11-06-gnosis-pay-data-breach-legacy-debit-card-system-435934": 1794003653.3259742,
+  "https://www.theblock.co/news/regulation/2026-11-06-trump-administration-moves-closer-allowing-crypto-401k-retirement-plans-435939": 1794003653.3259742,
+  "https://www.theblock.co/news/markets/2026-11-06-binance-hackers-swap-stolen-tokens-124-million-bitcoin-exchange-plans-withdrawal-reopenings-435930": 1794003653.3259742,
+  "https://cointelegraph-tr.com/markets/bitcoin-price-under-75k-crypto-markets-tech-stock": 1794003653.3259742,
+  "https://www.coindesk.com/policy/2026/11/06/u-s-prediction-markets-regulator-issues-demand-that-clashes-directly-with-courts": 1794003653.3259742
  },
  "tries": {
   "https://www.theblock.co/news/defi/2026-10-29-uniswap-token-jar-tjar-robinhood-432131": 1
