@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-06T02:18:37Z",
+ "updated": "2026-11-06T09:48:03Z",
  "sources": [
   "coindesk.com",
   "cointelegraph-tr.com",
@@ -7,6 +7,13 @@
  ],
  "bySymbol": {
   "BTC": [
+   {
+    "title": "Seçim kazanımlarının erimesiyle Bitcoin ve Ether ETF’lerinden 530 milyon dolarlık net çıkış",
+    "summary": "Bitcoin’in 76.000 doların altına gerilemesi ve ABD hisselerinin sert düşmesiyle ABD’deki spot Bitcoin ve Ether ETF’lerinden perşembe günü toplam 530 milyon dolar çıktı.",
+    "url": "https://cointelegraph-tr.com/markets/bitcoin-ether-etfs-lose-post-election-gains-erased",
+    "published": "2026-11-06T08:19:18Z",
+    "importance": 4
+   },
    {
     "title": "Bitcoin, ABD hisseleri seçim kazanımlarını silerken 7 haftanın en düşük seviyesine gerileyerek %6 düştü",
     "summary": "Wall Street açılışında Bitcoin aniden aşağı yönlü hareket ederken, hisselerde ani bir satış dalgası yaşandı ve seçim sonrası kazanımlar tersine döndü.",
@@ -29,6 +36,13 @@
     "importance": 4
    },
    {
+    "title": "Core Scientific, yapay zeka işlerinin hız kazanmasıyla yıl sonuna kadar Bitcoin madenciliğinden çıkacak",
+    "summary": "Eski Bitcoin madenciliği devi, madenciliğin üç aylık gelirin yalnızca yüzde 7,5’ini oluşturması nedeniyle 2027’de yalnızca veri merkezi sağlayıcısı olmayı planlıyor.",
+    "url": "https://cointelegraph-tr.com/news/core-scientific-to-quit-bitcoin-mining-by-year-end-as-ai-business-surges",
+    "published": "2026-11-06T00:19:49Z",
+    "importance": 3
+   },
+   {
     "title": "Anthropic temerrüde düşerse Google, bitcoin madencisi TeraWulf'un 19 milyar dolarlık yapay zeka projektinde pay alabilir",
     "summary": "Anthropic temerrüde düşerse Google, bitcoin madencisi TeraWulf'un 19 milyar dolarlık yapay zeka projektinde pay alabilir",
     "url": "https://www.coindesk.com/tech/2026/11/05/google-could-take-ownership-stake-in-bitcoin-miner-terawulf-s-ai-project-if-anthropic-defaults",
@@ -48,23 +62,23 @@
     "url": "https://www.coindesk.com/markets/2026/11/05/bitcoin-miners-are-oversold-following-35-october-rout-says-vaneck",
     "published": "2026-11-05T11:49:23Z",
     "importance": 3
-   },
-   {
-    "title": "Trump Bağlantılı American Bitcoin 126 Milyon Dolar Kára Ulaştı Ancak Gelir Tahminlerinin Gerisinde Kaldı",
-    "summary": "Trump Bağlantılı American Bitcoin 126 Milyon Dolar Kára Ulaştı Ancak Gelir Tahminlerinin Gerisinde Kaldı",
-    "url": "https://www.coindesk.com/business/2026/11/05/trump-linked-american-bitcoin-swings-to-usd126-million-profit-in-q3-2026",
-    "published": "2026-11-05T11:45:54Z",
-    "importance": 3
-   },
-   {
-    "title": "Bitcoin’ın S&P 500 karşısındaki kazanma oranı toparlanıyor; ara seçim sonrası tarih hisseleri destekliyor",
-    "summary": "Bitcoin, son 90 ABD işlem seansının yarısında S&P 500’den daha iyi performans gösterirken, tarihsel ara seçim verileri hisselerdeki kazanımlara işaret ediyor.",
-    "url": "https://cointelegraph-tr.com/markets/bitcoin-win-rate-sp-500-us-midterms-stocks-gains",
-    "published": "2026-11-05T10:28:26Z",
-    "importance": 3
    }
   ],
   "ETH": [
+   {
+    "title": "Seçim kazanımlarının erimesiyle Bitcoin ve Ether ETF’lerinden 530 milyon dolarlık net çıkış",
+    "summary": "Bitcoin’in 76.000 doların altına gerilemesi ve ABD hisselerinin sert düşmesiyle ABD’deki spot Bitcoin ve Ether ETF’lerinden perşembe günü toplam 530 milyon dolar çıktı.",
+    "url": "https://cointelegraph-tr.com/markets/bitcoin-ether-etfs-lose-post-election-gains-erased",
+    "published": "2026-11-06T08:19:18Z",
+    "importance": 4
+   },
+   {
+    "title": "Avrupa’nın en büyük varlık yöneticisi Amundi, Ethereum’da hisse senedi endeks fonunu tokenleştiriyor",
+    "summary": "Yeni pay sınıfı, Avrupa piyasalarındaki 600 şirketi izleyen bir endekse blockchain tabanlı erişim imkanı sunuyor.",
+    "url": "https://cointelegraph-tr.com/news/amundi-tokenizes-european-equity-index-fund-ethereum",
+    "published": "2026-11-05T18:09:38Z",
+    "importance": 4
+   },
    {
     "title": "Bitcoin, ABD hisseleri seçim kazanımlarını silerken 7 haftanın en düşük seviyesine gerileyerek %6 düştü",
     "summary": "Wall Street açılışında Bitcoin aniden aşağı yönlü hareket ederken, hisselerde ani bir satış dalgası yaşandı ve seçim sonrası kazanımlar tersine döndü.",
@@ -74,13 +88,6 @@
    }
   ],
   "SOL": [
-   {
-    "title": "Schroders, Centrifuge ile Solana üzerinde tokenleştirilmiş gelişen piyasalar borç fonunu başlattı",
-    "summary": "Trilyon dolarlık varlık yöneticisi, gelişmen piyasalar tahvil stratejisini Solana'ya taşıyarak zincir üzerindeki aktif yönetilen fon yelpazesini genişletti.",
-    "url": "https://www.theblock.co/news/business/2026-11-04-schroders-centrifuge-tokenized-emerging-markets-debt-fund-solana-432878",
-    "published": "2026-11-04T16:27:49Z",
-    "importance": 4
-   },
    {
     "title": "Samsung Wallet, ABD'li Galaxy kullanıcıları için Solana üzerinde USDC hesaplarını başlattı",
     "summary": "Samsung Wallet'ın Sabitcoin Hesabı, uygun ABD'li Galaxy kullanıcıları için canlı duruma gelerek Solana üzerinde USDC kullanmalarına olanak tanıdı.",
@@ -107,6 +114,15 @@
     "importance": 3
    }
   ],
+  "WLFI": [
+   {
+    "title": "Trump destekli World Liberty Financial, yıl başından bu yana yüzde 66'lık düşüşün ardından token geri alımı planlıyor",
+    "summary": "Trump destekli World Liberty Financial, yıl başından bu yana yaşanan yüzde 66'lık düşüşün ardından token geri alımı planlıyor.",
+    "url": "https://www.coindesk.com/business/2026/11/06/trump-backed-world-liberty-financial-plans-token-buyback-after-66-year-to-date-slide",
+    "published": "2026-11-06T08:04:52Z",
+    "importance": 3
+   }
+  ],
   "XRP": [
    {
     "title": "XRP Ledger, yeni token'ların oluşturulmasına yol açabilecek bir açığı düzeltti",
@@ -118,18 +134,6 @@
   ]
  },
  "seen": {
-  "https://www.coindesk.com/markets/2026/11/02/binance-hack-fallout-u-s-midterms-and-jobs-report-crypto-week-ahead": 1793611256.7705524,
-  "https://www.coindesk.com/markets/2026/11/02/live-updates-binance-records-usd6-billion-outflows-after-starting-withdrawals-less-then-4-of-total-holdings": 1793611256.7705524,
-  "https://www.coindesk.com/markets/2026/11/02/china-s-communist-party-calls-for-a-crackdown-on-corruption-that-uses-crypto-and-blockchain": 1793611256.7705524,
-  "https://www.coindesk.com/business/2026/11/02/why-crypto-exchange-hacks-can-be-harder-to-contain-versus-global-banks": 1793611256.7705524,
-  "https://cointelegraph-tr.com/markets/bitcoin-etfs-october-red-binance-hack-outflows": 1793611256.7705524,
-  "https://www.coindesk.com/markets/2026/11/02/bitcoin-etfs-lost-usd643-million-in-outflows-friday-and-2026-is-barely-green-now": 1793611256.7705524,
-  "https://cointelegraph-tr.com/news/btcpay-server-hot-wallet-thefts-older-versions": 1793611256.7705524,
-  "https://www.coindesk.com/tech/2026/11/02/strangers-are-begging-the-binance-hacker-for-bitcoin-one-help-me-bro-at-a-time": 1793611256.7705524,
-  "https://www.coindesk.com/markets/2026/11/02/bitcoin-claws-back-toward-usd79-000-as-markets-shake-off-crypto-s-biggest-hack": 1793611256.7705524,
-  "https://www.coindesk.com/tech/2026/11/02/btcpay-a-bitcoin-payment-tool-tells-users-to-switch-off-their-servers-after-reports-of-drained-wallets": 1793611256.7705524,
-  "https://www.theblock.co/news/markets/2026-11-01-spot-bitcoin-etfs-largest-four-months-following-binance-hack-432270": 1793611256.7705524,
-  "https://cointelegraph-tr.com/news/bank-of-korea-probes-financial-firms-exposure-to-crypto-risks": 1793611256.7705524,
   "https://cointelegraph-tr.com/markets/bitcoin-risks-sub-76k-drop-as-7-fall-in-oil-fails-to-spark-btc-price-rally": 1793648702.533111,
   "https://www.theblock.co/news/markets/2026-11-02-stonex-dtcc-tokenization-validates-securitize-secz-432331": 1793648702.533111,
   "https://cointelegraph-tr.com/news/mercado-bitcoin-hack": 1793648702.533111,
@@ -301,7 +305,22 @@
   "https://www.coindesk.com/business/2026/11/05/trump-linked-american-bitcoin-swings-to-usd126-million-profit-in-q3-2026": 1793931517.2541316,
   "https://www.coindesk.com/markets/2026/11/05/bitcoin-holds-above-usd80-000-after-wednesday-s-jump-as-injective-rallies-on-staked-etf-listing": 1793931517.2541316,
   "https://www.coindesk.com/business/2026/11/05/live-updates-bitcoin-steady-around-usd80-000-as-markets-rally-after-democratic-sweep": 1793931517.2541316,
-  "https://www.coindesk.com/business/2026/11/05/mercado-bitcoin-hack-continued-hours-after-exchange-said-attack-was-contained-report-finds": 1793931517.2541316
+  "https://www.coindesk.com/business/2026/11/05/mercado-bitcoin-hack-continued-hours-after-exchange-said-attack-was-contained-report-finds": 1793931517.2541316,
+  "https://www.coindesk.com/policy/2026/11/06/greece-approves-10-tax-on-crypto-gains-and-15-levy-on-defi-income": 1793958483.5016112,
+  "https://www.theblock.co/news/business/2026-11-06-kalshi-injunction-california-tribal-lands-435813": 1793958483.5016112,
+  "https://cointelegraph-tr.com/markets/bitcoin-ether-etfs-lose-post-election-gains-erased": 1793958483.5016112,
+  "https://www.coindesk.com/business/2026/11/06/trump-backed-world-liberty-financial-plans-token-buyback-after-66-year-to-date-slide": 1793958483.5016112,
+  "https://www.theblock.co/news/defi/2026-11-06-zcashs-nu7-goes-live-435807": 1793958483.5016112,
+  "https://cointelegraph-tr.com/news/chainalysis-cyberattack-password-hashes-live-tokens-exposed": 1793958483.5016112,
+  "https://www.coindesk.com/tech/2026/11/06/zcash-s-landmark-nu7-upgrade-goes-live-speeding-up-private-payments": 1793958483.5016112,
+  "https://cointelegraph-tr.com/news/binance-hack-puts-crypto-exchanges-cold-wallet-ratio-under-spotlight": 1793958483.5016112,
+  "https://www.theblock.co/news/business/2026-11-05-irens-mining-revenue-drops-435783": 1793958483.5016112,
+  "https://www.theblock.co/news/markets/2026-11-05-ark-invest-buys-coinbase-trims-bullish-bitmine-435769": 1793958483.5016112,
+  "https://www.coindesk.com/policy/2026/11/05/hyperliquid-treasury-firm-seeking-u-s-regulatory-nod-as-a-domestic-futures-platform": 1793958483.5016112,
+  "https://cointelegraph-tr.com/news/core-scientific-to-quit-bitcoin-mining-by-year-end-as-ai-business-surges": 1793958483.5016112,
+  "https://cointelegraph-tr.com/news/binance-deribit-revoke-signalplus-api-fake-teams-attack": 1793958483.5016112,
+  "https://cointelegraph-tr.com/news/fed-occ-check-us-banks-binance-hack-security-risks": 1793958483.5016112,
+  "https://cointelegraph-tr.com/news/amundi-tokenizes-european-equity-index-fund-ethereum": 1793958483.5016112
  },
  "tries": {
   "https://www.theblock.co/news/defi/2026-10-29-uniswap-token-jar-tjar-robinhood-432131": 1
