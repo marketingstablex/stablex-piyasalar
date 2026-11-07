@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-07T02:19:32Z",
+ "updated": "2026-11-07T09:11:45Z",
  "sources": [
   "coindesk.com",
   "cointelegraph-tr.com",
@@ -68,13 +68,6 @@
     "importance": 4
    },
    {
-    "title": "Avrupa’nın en büyük varlık yöneticisi Amundi, Ethereum’da hisse senedi endeks fonunu tokenleştiriyor",
-    "summary": "Yeni pay sınıfı, Avrupa piyasalarındaki 600 şirketi izleyen bir endekse blockchain tabanlı erişim imkanı sunuyor.",
-    "url": "https://cointelegraph-tr.com/news/amundi-tokenizes-european-equity-index-fund-ethereum",
-    "published": "2026-11-05T18:09:38Z",
-    "importance": 4
-   },
-   {
     "title": "Ethereum geliştiricileri, akıllı sözleşme riskleri çözülene kadar Glamsterdam’ı Hoodi’de çatallamayacak",
     "summary": "Ethereum geliştiricileri, Glamsterdam’ın EIP-8037 ve EIP-8038’ine bağlı sekiz akıllı sözleşme değişmezine ilişkin endişeleri inceliyor.",
     "url": "https://cointelegraph-tr.com/news/ethereum-devs-fork-glamsterdam-hoodi-smart-contract-risks",
@@ -88,22 +81,6 @@
     "summary": "Çin Merkez Bankası’ndan bir yetkili, Solana’nın yerel kuruluşlar aracılığıyla yürüttüğü tanıtım kampanyalarının ülkenin kripto kısıtlamalarını ihlal ettiğini aktardı.",
     "url": "https://cointelegraph-tr.com/news/solana-shanghai-event-halted-unauthorized-promotion",
     "published": "2026-11-06T12:15:28Z",
-    "importance": 3
-   },
-   {
-    "title": "Samsung Wallet, ABD'li Galaxy kullanıcıları için Solana üzerinde USDC hesaplarını başlattı",
-    "summary": "Samsung Wallet'ın Sabitcoin Hesabı, uygun ABD'li Galaxy kullanıcıları için canlı duruma gelerek Solana üzerinde USDC kullanmalarına olanak tanıdı.",
-    "url": "https://www.theblock.co/news/business/2026-11-05-samsung-wallet-launches-usdc-accounts-solana-us-galaxy-users-434523",
-    "published": "2026-11-05T14:19:51Z",
-    "importance": 3
-   }
-  ],
-  "USDC": [
-   {
-    "title": "Samsung Wallet, ABD'li Galaxy kullanıcıları için Solana üzerinde USDC hesaplarını başlattı",
-    "summary": "Samsung Wallet'ın Sabitcoin Hesabı, uygun ABD'li Galaxy kullanıcıları için canlı duruma gelerek Solana üzerinde USDC kullanmalarına olanak tanıdı.",
-    "url": "https://www.theblock.co/news/business/2026-11-05-samsung-wallet-launches-usdc-accounts-solana-us-galaxy-users-434523",
-    "published": "2026-11-05T14:19:51Z",
     "importance": 3
    }
   ],
@@ -298,7 +275,8 @@
   "https://www.theblock.co/news/regulation/2026-11-06-trump-administration-moves-closer-allowing-crypto-401k-retirement-plans-435939": 1794003653.3259742,
   "https://www.theblock.co/news/markets/2026-11-06-binance-hackers-swap-stolen-tokens-124-million-bitcoin-exchange-plans-withdrawal-reopenings-435930": 1794003653.3259742,
   "https://cointelegraph-tr.com/markets/bitcoin-price-under-75k-crypto-markets-tech-stock": 1794003653.3259742,
-  "https://www.coindesk.com/policy/2026/11/06/u-s-prediction-markets-regulator-issues-demand-that-clashes-directly-with-courts": 1794003653.3259742
+  "https://www.coindesk.com/policy/2026/11/06/u-s-prediction-markets-regulator-issues-demand-that-clashes-directly-with-courts": 1794003653.3259742,
+  "https://cointelegraph-tr.com/news/nvidia-may-be-facing-a-more-hostile-post-election-washington-report": 1794042705.4366825
  },
  "tries": {
   "https://www.theblock.co/news/defi/2026-10-29-uniswap-token-jar-tjar-robinhood-432131": 1
