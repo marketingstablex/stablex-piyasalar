@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-07T15:53:42Z",
+ "updated": "2026-11-07T20:10:04Z",
  "sources": [
   "coindesk.com",
   "cointelegraph-tr.com",
@@ -16,6 +16,13 @@
    }
   ],
   "BTC": [
+   {
+    "title": "Bitcoin ETF'leri, 1.28 milyar dolarlık haftalık çıkışın ardından 2026 yılı için negatife döndü, Haziran'dan bu yana en kötüsü",
+    "summary": "1.28 milyar dolarlık haftalık çıkışın ardından Bitcoin ETF'leri 2026 yılı genelinde negatife döndü ve bu durum Haziran ayından bu yana görülen en kötü performans olarak kaydedildi. Cuma günkü çıkışların %98'ini BlackRock'ın IBIT fonu oluştururken, endüstri lideri fonumuzdan 403 milyon dolar çıktı.",
+    "url": "https://www.theblock.co/news/markets/2026-11-07-bitcoin-etfs-flip-negative-for-2026-after-1-28-billion-outflow-week-worst-since-june-435984",
+    "published": "2026-11-07T16:46:02Z",
+    "importance": 5
+   },
    {
     "title": "Seçim kazanımlarının erimesiyle Bitcoin ve Ether ETF’lerinden 530 milyon dolarlık net çıkış",
     "summary": "Bitcoin’in 76.000 doların altına gerilemesi ve ABD hisselerinin sert düşmesiyle ABD’deki spot Bitcoin ve Ether ETF’lerinden perşembe günü toplam 530 milyon dolar çıktı.",
@@ -90,45 +97,9 @@
     "published": "2026-11-06T12:15:28Z",
     "importance": 3
    }
-  ],
-  "WLFI": [
-   {
-    "title": "Trump destekli World Liberty Financial, yıl başından bu yana yüzde 66'lık düşüşün ardından token geri alımı planlıyor",
-    "summary": "Trump destekli World Liberty Financial, yıl başından bu yana yaşanan yüzde 66'lık düşüşün ardından token geri alımı planlıyor.",
-    "url": "https://www.coindesk.com/business/2026/11/06/trump-backed-world-liberty-financial-plans-token-buyback-after-66-year-to-date-slide",
-    "published": "2026-11-06T08:04:52Z",
-    "importance": 3
-   }
   ]
  },
  "seen": {
-  "https://www.coindesk.com/policy/2026/11/03/justin-sun-seeks-sanctions-against-trump-linked-world-liberty-financial-over-uae-ties": 1793727930.5031488,
-  "https://www.coindesk.com/tech/2026/11/03/south-korea-s-president-says-country-needs-a-cybersecurity-czar-following-usd6-3-billion-binance-hack": 1793727930.5031488,
-  "https://cointelegraph-tr.com/news/binance-fake-job-interviews-compromised-ai-tool-hack": 1793727930.5031488,
-  "https://www.coindesk.com/business/2026/11/03/amazon-tesla-and-spacex-join-okx-ice-tokenized-stock-objections-as-deadline-looms": 1793727930.5031488,
-  "https://www.coindesk.com/business/2026/11/03/stablecoin-governance-group-behind-ousd-sets-out-management-fee-offers-equity-earning-pool": 1793727930.5031488,
-  "https://www.theblock.co/news/regulation/2026-11-03-justin-sun-sanctions-world-liberty-uae-ties-wlfi-432439": 1793727930.5031488,
-  "https://cointelegraph-tr.com/markets/bitcoin-price-defends-76k-lows-as-analysis-sees-stocks-pricing-in-political-gridlock": 1793727930.5031488,
-  "https://www.theblock.co/news/regulation/2026-11-03-cftc-approves-individual-stock-perpetual-futures-trading-in-us-for-first-time-432422": 1793727930.5031488,
-  "https://www.theblock.co/news/business/2026-11-03-binance-hack-incident-report-north-korea-fake-job-interview-ai-tool-432406": 1793727930.5031488,
-  "https://www.coindesk.com/policy/2026/11/03/cftc-clears-perpetual-futures-on-stocks-bringing-crypto-trading-model-to-wall-street": 1793727930.5031488,
-  "https://www.coindesk.com/business/2026/11/03/binance-s-usd6-3-billion-hack-began-with-a-fake-job-interview-exchange-says": 1793727930.5031488,
-  "https://www.coindesk.com/business/2026/11/03/south-korea-asks-its-biggest-banks-how-a-major-crypto-hack-would-hit-them": 1793727930.5031488,
-  "https://www.coindesk.com/business/2026/11/03/cz-warns-of-more-ai-driven-hacks-following-binance-s-historic-usd6-4-billion-heist": 1793727930.5031488,
-  "https://www.theblock.co/news/defi/2026-11-03-ethereum-l2-aztec-tierra-v6-upgrade-private-apps-432399": 1793727930.5031488,
-  "https://www.coindesk.com/business/2026/11/03/lo-tech-raises-usd12-million-to-expand-crypto-trading-into-u-s-and-asia": 1793727930.5031488,
-  "https://cointelegraph-tr.com/news/us-midterms-2026-stake-crypto-election-day": 1793727930.5031488,
-  "https://cointelegraph-tr.com/news/moscow-exchange-bitcoin-ether-usdt-trading-december": 1793727930.5031488,
-  "https://www.coindesk.com/business/2026/11/03/binance-net-outflows-reach-usd5-3b-after-record-hack-though-ceo-cites-recovery": 1793727930.5031488,
-  "https://www.coindesk.com/daybook-us/2026/11/03/bitcoin-is-breaking-a-midterm-election-pattern-going-back-to-2014": 1793727930.5031488,
-  "https://www.coindesk.com/business/2026/11/03/ethgas-courts-wall-street-with-ethereum-blockspace-but-compensation-for-missed-trades-is-zero": 1793727930.5031488,
-  "https://www.theblock.co/news/ecosystems/2026-11-03-liquid-network-restores-full-bitcoin-backing-following-exploit-432387": 1793727930.5031488,
-  "https://www.coindesk.com/markets/2026/11/03/bitcoin-steadies-after-dip-to-usd76-300-as-etf-outflows-and-midterm-elections-weigh-on-crypto": 1793727930.5031488,
-  "https://www.coindesk.com/markets/2026/11/03/liquid-s-bitcoin-ious-are-fully-backed-again-after-a-usd320-million-exploit": 1793727930.5031488,
-  "https://cointelegraph-tr.com/news/france-postpones-2027-budget-vote-reject-crypto-exit-tax": 1793727930.5031488,
-  "https://www.coindesk.com/business/2026/11/03/tether-holds-150-000-bitcoin-worth-usd11-5-billion-ceo-paolo-ardoino-says": 1793727930.5031488,
-  "https://cointelegraph-tr.com/markets/bitcoin-price-support-loss-recent-buyers-underwater": 1793727930.5031488,
-  "https://cointelegraph-tr.com/news/zachxbt-eu-crypto-theft-133m-alleged-cover-up": 1793727930.5031488,
   "https://www.coindesk.com/business/2026/11/03/what-happens-if-north-korea-steals-wall-street-s-tokenized-assets-next": 1793747684.3296504,
   "https://www.coindesk.com/policy/2026/11/03/cftc-gets-into-legal-clash-over-stock-perps-after-having-cleared-path-for-crypto-version": 1793747684.3296504,
   "https://www.theblock.co/news/regulation/2026-11-03-sec-no-action-letter-canton-coin-digital-commodity-432492": 1793747684.3296504,
@@ -270,7 +241,11 @@
   "https://cointelegraph-tr.com/news/what-happened-in-crypto-today": 1794066822.1218655,
   "https://cointelegraph-tr.com/news/ex-fbi-counterintelligence-agent-stole-almost-25m-in-crypto": 1794066822.1218655,
   "https://cointelegraph-tr.com/magazine/bitcoin-holders-have-received-ecash-what-can-you-with-it": 1794066822.1218655,
-  "https://cointelegraph-tr.com/news/us-sanctions-canadian-money-exchange-firms-over-iran-ties": 1794066822.1218655
+  "https://cointelegraph-tr.com/news/us-sanctions-canadian-money-exchange-firms-over-iran-ties": 1794066822.1218655,
+  "https://www.coindesk.com/business/2026/11/07/binance-users-in-some-european-countries-told-to-pull-crypto-before-fees-kick-in-with-accounts-closing-by-year-end": 1794082204.803936,
+  "https://www.coindesk.com/business/2026/11/07/u-s-treasury-moves-to-cut-off-crypto-exchange-mexc-over-usd16-billion-in-alleged-illicit-flows": 1794082204.803936,
+  "https://www.coindesk.com/business/2026/11/07/gnosis-pay-breach-exposes-card-numbers-home-addresses-and-linked-crypto-wallets": 1794082204.803936,
+  "https://www.theblock.co/news/markets/2026-11-07-bitcoin-etfs-flip-negative-for-2026-after-1-28-billion-outflow-week-worst-since-june-435984": 1794082204.803936
  },
  "tries": {
   "https://www.theblock.co/news/defi/2026-10-29-uniswap-token-jar-tjar-robinhood-432131": 1
