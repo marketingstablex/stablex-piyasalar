@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-06T22:20:53Z",
+ "updated": "2026-11-07T02:19:32Z",
  "sources": [
   "coindesk.com",
   "cointelegraph-tr.com",
@@ -21,13 +21,6 @@
     "summary": "Bitcoin’in 76.000 doların altına gerilemesi ve ABD hisselerinin sert düşmesiyle ABD’deki spot Bitcoin ve Ether ETF’lerinden perşembe günü toplam 530 milyon dolar çıktı.",
     "url": "https://cointelegraph-tr.com/markets/bitcoin-ether-etfs-lose-post-election-gains-erased",
     "published": "2026-11-06T08:19:18Z",
-    "importance": 4
-   },
-   {
-    "title": "Çarşamba Günkü Yükselişin Ardından Bitcoin 80.000 Doların Üzerinde Tutunurken, Injective Stake Edilmiş ETF Listelemesiyle Yükseliyor",
-    "summary": "Çarşamba Günkü Yükselişin Ardından Bitcoin 80.000 Doların Üzerinde Tutunurken, Injective Stake Edilmiş ETF Listelemesiyle Yükseliyor",
-    "url": "https://www.coindesk.com/markets/2026/11/05/bitcoin-holds-above-usd80-000-after-wednesday-s-jump-as-injective-rallies-on-staked-etf-listing",
-    "published": "2026-11-05T11:30:00Z",
     "importance": 4
    },
    {
@@ -63,13 +56,6 @@
     "summary": "Eski Bitcoin madenciliği devi, madenciliğin üç aylık gelirin yalnızca yüzde 7,5’ini oluşturması nedeniyle 2027’de yalnızca veri merkezi sağlayıcısı olmayı planlıyor.",
     "url": "https://cointelegraph-tr.com/news/core-scientific-to-quit-bitcoin-mining-by-year-end-as-ai-business-surges",
     "published": "2026-11-06T00:19:49Z",
-    "importance": 3
-   },
-   {
-    "title": "Anthropic temerrüde düşerse Google, bitcoin madencisi TeraWulf'un 19 milyar dolarlık yapay zeka projektinde pay alabilir",
-    "summary": "Anthropic temerrüde düşerse Google, bitcoin madencisi TeraWulf'un 19 milyar dolarlık yapay zeka projektinde pay alabilir",
-    "url": "https://www.coindesk.com/tech/2026/11/05/google-could-take-ownership-stake-in-bitcoin-miner-terawulf-s-ai-project-if-anthropic-defaults",
-    "published": "2026-11-05T13:29:40Z",
     "importance": 3
    }
   ],
@@ -132,15 +118,6 @@
   ]
  },
  "seen": {
-  "https://cointelegraph-tr.com/news/south-korea-urges-exchanges-to-boost-cold-storage-after-binance-hack": 1793671987.4390044,
-  "https://cointelegraph-tr.com/news/north-korea-denies-role-in-63b-binance-hack-points-finger-at-us": 1793671987.4390044,
-  "https://www.theblock.co/news/regulation/2026-11-02-kim-jong-un-sister-rejects-fbi-claims-linking-north-korea-binance-hack-432344": 1793671987.4390044,
-  "https://cointelegraph-tr.com/news/new-jersey-coinbase-staking": 1793671987.4390044,
-  "https://cointelegraph-tr.com/news/ai-hackers-threat-bitcoin-quantum-computing-swan": 1793671987.4390044,
-  "https://www.coindesk.com/opinion/2026/11/02/big-crypto-wants-the-one-thing-it-can-t-buy-your-vote": 1793671987.4390044,
-  "https://cointelegraph-tr.com/news/zachxbt-flags-suspected-106m-crypto-theft-as-solana-bot-faces-possible-786k-drain": 1793671987.4390044,
-  "https://cointelegraph-tr.com/news/morgan-stanley-cuts-coinbase-target-to-120-as-earnings-recovery-outlook-weakens": 1793671987.4390044,
-  "https://www.theblock.co/news/defi/2026-11-02-mercado-bitcoin-hack-46-million-brazil-exchange-432333": 1793671987.4390044,
   "https://www.coindesk.com/markets/2026/11/03/live-news-bitcoin-faces-fifth-weekly-loss-as-midterm-uncertainty-and-apple-warning-weigh-on-markets": 1793699966.6541696,
   "https://www.coindesk.com/business/2026/11/03/north-korea-denies-role-in-usd6-4-billion-binance-hack-after-fbi-points-to-tradertraitor": 1793699966.6541696,
   "https://www.theblock.co/news/defi/2026-11-03-near-governance-approves-proposal-to-cut-token-issuance-432378": 1793699966.6541696,
