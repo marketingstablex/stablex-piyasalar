@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-08T13:14:10Z",
+ "updated": "2026-11-08T18:28:34Z",
  "sources": [
   "coindesk.com",
   "cointelegraph-tr.com",
@@ -34,6 +34,15 @@
     "url": "https://cointelegraph-tr.com/news/what-happened-in-crypto-today",
     "published": "2026-11-07T14:22:00Z",
     "importance": 2
+   }
+  ],
+  "ETH": [
+   {
+    "title": "Vitalik Buterin ETH'nin Değer Saklama Aracı Olarak Değerlendirilmesi Gerektiğini Söyledi",
+    "summary": "Vitalik Buterin, Ethereum'un ücret yakan bir token yerine bir değer saklama aracı olarak değerlendirilmesi gerektiğini belirtti. Daha fazla ETH stake edildikçe doğrulayıcı ödüllerinin artan bir payını yakmaya yönelik tartışmalı bir teklif, gelen tepkiler üzerine geçen ay geri çekilmişti.",
+    "url": "https://www.theblock.co/news/ecosystems/2026-11-08-vitalik-buterin-says-eth-should-be-valued-as-a-store-of-value-not-a-fee-burning-token-436022",
+    "published": "2026-11-08T15:52:17Z",
+    "importance": 3
    }
   ]
  },
@@ -162,7 +171,8 @@
   "https://www.theblock.co/news/regulation/2026-11-07-ex-fbi-agent-pleads-guilty-to-stealing-2-47-million-in-crypto-from-wallets-tied-to-35-investigations-435988": 1794095697.4315612,
   "https://www.coindesk.com/markets/2026/11/08/these-finland-homes-get-free-heat-from-bitcoin-miners-as-long-as-btc-stays-above-usd70-000": 1794143650.1887853,
   "https://cointelegraph-tr.com/news/amsterdam-data-center-protesters-break-into-construction-site-report": 1794143650.1887853,
-  "https://cointelegraph-tr.com/news/binances-finance-chief-kaiser-ng-to-leave-company-report-says": 1794143650.1887853
+  "https://cointelegraph-tr.com/news/binances-finance-chief-kaiser-ng-to-leave-company-report-says": 1794143650.1887853,
+  "https://www.theblock.co/news/ecosystems/2026-11-08-vitalik-buterin-says-eth-should-be-valued-as-a-store-of-value-not-a-fee-burning-token-436022": 1794162514.0384436
  },
  "tries": {
   "https://www.theblock.co/news/defi/2026-10-29-uniswap-token-jar-tjar-robinhood-432131": 1
