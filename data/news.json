@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-08T05:52:24Z",
+ "updated": "2026-11-08T13:14:10Z",
  "sources": [
   "coindesk.com",
   "cointelegraph-tr.com",
@@ -22,6 +22,13 @@
     "importance": 3
    },
    {
+    "title": "Bu Finlandiya evleri bitcoin madencilerinden ücretsiz ısı alıyor (BTC 70.000 doların üzerinde kaldığı sürece)",
+    "summary": "Bu Finlandiya evleri bitcoin madencilerinden ücretsiz ısı alıyor (BTC 70.000 doların üzerinde kaldığı sürece)",
+    "url": "https://www.coindesk.com/markets/2026/11/08/these-finland-homes-get-free-heat-from-bitcoin-miners-as-long-as-btc-stays-above-usd70-000",
+    "published": "2026-11-08T12:55:59Z",
+    "importance": 2
+   },
+   {
     "title": "Bugün kriptoda yaşananlar",
     "summary": "Bitcoin fiyatını, blockchain'i, DeFi'yi, Web3'ü ve kripto düzenlemelerini etkileyen günlük trendler ve gelişmeler aktarılmaktadır.",
     "url": "https://cointelegraph-tr.com/news/what-happened-in-crypto-today",
@@ -31,21 +38,6 @@
   ]
  },
  "seen": {
-  "https://www.theblock.co/learn/defi/defi-explained-432391": 1793791821.480984,
-  "https://www.coindesk.com/business/2026/11/04/zachxbt-names-french-bank-credit-mutuel-arkea-as-suspected-victim-of-usd133-million-crypto-theft": 1793791821.480984,
-  "https://www.coindesk.com/markets/2026/11/04/elon-musk-floats-space-data-centers-as-democratic-sweep-puts-pressure-on-ai-trade": 1793791821.480984,
-  "https://www.theblock.co/news/markets/2026-11-04-morgan-stanley-among-first-banks-to-tokenize-us-equities-treasurys-through-dtccs-service-432633": 1793791821.480984,
-  "https://www.coindesk.com/markets/2026/11/04/morgan-stanley-says-it-is-among-the-first-banks-to-put-u-s-stocks-and-treasuries-on-a-blockchain": 1793791821.480984,
-  "https://www.coindesk.com/markets/2026/11/04/zcash-grants-committee-drops-plan-to-redirect-98-000-zec-to-future-mining-rewards": 1793791821.480984,
-  "https://www.coindesk.com/markets/2026/11/04/bitcoin-knocks-on-usd78-000-in-v-shaped-comeback-as-midterm-uncertainty-fades": 1793791821.480984,
-  "https://www.coindesk.com/markets/2026/11/04/jack-dorsey-s-block-faces-usd764-million-doj-settlement-as-bitcoin-profit-plunges-50": 1793791821.480984,
-  "https://www.coindesk.com/markets/2026/11/04/u-s-sanctioned-moscow-exchange-to-list-bitcoin-and-tether-s-usdt-in-december": 1793791821.480984,
-  "https://www.coindesk.com/policy/2026/11/04/south-korea-s-ruling-party-wants-to-put-off-its-crypto-tax-again": 1793791821.480984,
-  "https://www.theblock.co/news/web3/2026-11-03-french-bank-credit-mutuel-arkea-exploited-zachxbt-432607": 1793791821.480984,
-  "https://www.coindesk.com/policy/2026/11/03/democrats-surge-toward-senate-house-majorities-with-crypto-braced-for-new-direction": 1793791821.480984,
-  "https://www.coindesk.com/markets/2026/11/04/bitcoin-briefly-sinks-to-usd75-700-as-bets-on-a-democratic-sweep-rattle-markets": 1793791821.480984,
-  "https://www.theblock.co/news/regulation/2026-11-03-sherrod-brown-defeats-jon-husted-432495": 1793791821.480984,
-  "https://www.theblock.co/news/business/2026-11-03-block-q3-earnings-shares-rise-432585": 1793791821.480984,
   "https://www.theblock.co/news/ecosystems/2026-11-04-coinbase-security-cold-storage-binance-hack-432880": 1793818232.3031735,
   "https://www.theblock.co/news/business/2026-11-04-schroders-centrifuge-tokenized-emerging-markets-debt-fund-solana-432878": 1793818232.3031735,
   "https://www.coindesk.com/policy/2026/11/04/u-s-democratic-sweep-could-be-the-final-nail-in-the-clarity-act-s-coffin": 1793818232.3031735,
@@ -167,7 +159,10 @@
   "https://www.coindesk.com/business/2026/11/07/gnosis-pay-breach-exposes-card-numbers-home-addresses-and-linked-crypto-wallets": 1794082204.803936,
   "https://www.theblock.co/news/markets/2026-11-07-bitcoin-etfs-flip-negative-for-2026-after-1-28-billion-outflow-week-worst-since-june-435984": 1794082204.803936,
   "https://www.theblock.co/news/business/2026-11-07-binance-cfo-steps-down-nine-days-after-record-hack-co-ceo-says-transition-was-planned-six-months-ago-435992": 1794095697.4315612,
-  "https://www.theblock.co/news/regulation/2026-11-07-ex-fbi-agent-pleads-guilty-to-stealing-2-47-million-in-crypto-from-wallets-tied-to-35-investigations-435988": 1794095697.4315612
+  "https://www.theblock.co/news/regulation/2026-11-07-ex-fbi-agent-pleads-guilty-to-stealing-2-47-million-in-crypto-from-wallets-tied-to-35-investigations-435988": 1794095697.4315612,
+  "https://www.coindesk.com/markets/2026/11/08/these-finland-homes-get-free-heat-from-bitcoin-miners-as-long-as-btc-stays-above-usd70-000": 1794143650.1887853,
+  "https://cointelegraph-tr.com/news/amsterdam-data-center-protesters-break-into-construction-site-report": 1794143650.1887853,
+  "https://cointelegraph-tr.com/news/binances-finance-chief-kaiser-ng-to-leave-company-report-says": 1794143650.1887853
  },
  "tries": {
   "https://www.theblock.co/news/defi/2026-10-29-uniswap-token-jar-tjar-robinhood-432131": 1
