@@ -1,20 +1,11 @@
 {
- "updated": "2026-11-07T23:54:57Z",
+ "updated": "2026-11-08T05:52:24Z",
  "sources": [
   "coindesk.com",
   "cointelegraph-tr.com",
   "theblock.co"
  ],
  "bySymbol": {
-  "AAVE": [
-   {
-    "title": "Aave Labs, sabit oranlı borç verme hamlesi kapsamında Avon ekibini satın aldı",
-    "summary": "Aave Labs, zincir üstü sabit ve değişken oranlı bir kredi protokolü olan Avon'un ekibini ve teknolojisini satın aldı.",
-    "url": "https://www.theblock.co/news/business/2026-11-06-aave-labs-buys-avon-team-in-fixed-rate-lending-push-435901",
-    "published": "2026-11-06T15:00:00Z",
-    "importance": 3
-   }
-  ],
   "BTC": [
    {
     "title": "Bitcoin ETF'leri, 1.28 milyar dolarlık haftalık çıkışın ardından 2026 yılı için negatife döndü, Haziran'dan bu yana en kötüsü",
@@ -31,67 +22,15 @@
     "importance": 3
    },
    {
-    "title": "Bitcoin fiyatı 75 bin doların altına gerilerken kripto piyasaları teknoloji hisselerindeki toparlanmayı kaçırdı",
-    "summary": "ABD tarım dışı istihdam verilerinin tahminleri önemli ölçüde aşmasının ardından Bitcoin fiyat hareketi zayıf kalmayı sürdürdü. Bu gelişmeyle birlikte aralık ayında faiz artırımı yapılacağına dair beklentiler de arttı.",
-    "url": "https://cointelegraph-tr.com/markets/bitcoin-price-under-75k-crypto-markets-tech-stock",
-    "published": "2026-11-06T17:49:33Z",
-    "importance": 3
-   },
-   {
-    "title": "Strive'ın Bitcoin kazançları, BTC alımlarının artmasıyla 509 milyon dolarlık 3. çeyrek kârını tetikledi",
-    "summary": "Strive'ın üçüncü çeyrek kârı, Bitcoin alımlarının artmasıyla 509 milyon dolara ulaştı. Şirketin Bitcoin varlığı 43.124 BTC'ye yükselirken, kârlı geçen üçüncü çeyreğe rağmen hisseleri düşüş yaşamaya devam etti.",
-    "url": "https://www.theblock.co/news/business/2026-11-06-strives-bitcoin-gains-509-million-q3-profit-btc-buying-ramps-up-435907",
-    "published": "2026-11-06T16:07:24Z",
-    "importance": 3
-   },
-   {
-    "title": "Anthropic yapılanması ortasında YİK kiralama işlemleri artarken TeraWulf'un Bitcoin madenciliği geliri %69 düştü",
-    "summary": "TeraWulf, yapay zeka bağlantılı üç aylık YİK kiralama gelirinin yıllık bazda yüzde 774 artarak 63 milyon dolara ulaştığını bildirdi.",
-    "url": "https://www.theblock.co/news/business/2026-11-06-terawulfs-bitcoin-mining-revenue-falls-69-as-hpc-leasing-surges-amid-anthropic-buildout-435885",
-    "published": "2026-11-06T13:40:22Z",
-    "importance": 3
-   },
-   {
-    "title": "Canlı güncellemeler: Bitcoin dar bir aralıkta tutunuyor, güçlü Ekim istihdam raporunun ardından hisse senetleri toparlandı",
-    "summary": "Canlı güncellemeler: Bitcoin dar bir aralıkta tutunuyor, güçlü Ekim istihdam raporunun ardından hisse senetleri toparlandı.",
-    "url": "https://www.coindesk.com/tech/2026/11/06/live-updates-nasdaq-100-futures-rally-points-to-stock-market-respite",
-    "published": "2026-11-06T11:58:40Z",
-    "importance": 3
-   },
-   {
     "title": "Bugün kriptoda yaşananlar",
     "summary": "Bitcoin fiyatını, blockchain'i, DeFi'yi, Web3'ü ve kripto düzenlemelerini etkileyen günlük trendler ve gelişmeler aktarılmaktadır.",
     "url": "https://cointelegraph-tr.com/news/what-happened-in-crypto-today",
     "published": "2026-11-07T14:22:00Z",
     "importance": 2
    }
-  ],
-  "ETH": [
-   {
-    "title": "Ethereum geliştiricileri, akıllı sözleşme riskleri çözülene kadar Glamsterdam’ı Hoodi’de çatallamayacak",
-    "summary": "Ethereum geliştiricileri, Glamsterdam’ın EIP-8037 ve EIP-8038’ine bağlı sekiz akıllı sözleşme değişmezine ilişkin endişeleri inceliyor.",
-    "url": "https://cointelegraph-tr.com/news/ethereum-devs-fork-glamsterdam-hoodi-smart-contract-risks",
-    "published": "2026-11-06T13:23:08Z",
-    "importance": 3
-   }
-  ],
-  "SOL": [
-   {
-    "title": "Solana’nın Şanghay etkinliği, izinsiz tanıtım nedeniyle durduruldu: Rapor",
-    "summary": "Çin Merkez Bankası’ndan bir yetkili, Solana’nın yerel kuruluşlar aracılığıyla yürüttüğü tanıtım kampanyalarının ülkenin kripto kısıtlamalarını ihlal ettiğini aktardı.",
-    "url": "https://cointelegraph-tr.com/news/solana-shanghai-event-halted-unauthorized-promotion",
-    "published": "2026-11-06T12:15:28Z",
-    "importance": 3
-   }
   ]
  },
  "seen": {
-  "https://cointelegraph-tr.com/news/us-midterms-2026-live-results-and-what-they-mean-for-crypto": 1793761870.811453,
-  "https://www.theblock.co/news/regulation/2026-11-03-south-koreas-ruling-party-proposes-deferral-crypto-income-tax-432580": 1793761870.811453,
-  "https://cointelegraph-tr.com/news/1inch-lawyer-sees-agencies-driving-us-crypto-regulation-as-midterms-unfold": 1793761870.811453,
-  "https://www.coindesk.com/tech/2026/11/03/election-2026-coindesk-live-blog": 1793761870.811453,
-  "https://cointelegraph-tr.com/markets/rune-rallies-15-as-thorchain-restarts-most-swaps-after-outage": 1793761870.811453,
-  "https://www.coindesk.com/policy/2026/11/03/what-voters-said-about-their-views-on-crypto": 1793761870.811453,
   "https://www.theblock.co/learn/defi/defi-explained-432391": 1793791821.480984,
   "https://www.coindesk.com/business/2026/11/04/zachxbt-names-french-bank-credit-mutuel-arkea-as-suspected-victim-of-usd133-million-crypto-theft": 1793791821.480984,
   "https://www.coindesk.com/markets/2026/11/04/elon-musk-floats-space-data-centers-as-democratic-sweep-puts-pressure-on-ai-trade": 1793791821.480984,
