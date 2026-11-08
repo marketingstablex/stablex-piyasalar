@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-08T18:28:34Z",
+ "updated": "2026-11-08T22:26:10Z",
  "sources": [
   "coindesk.com",
   "cointelegraph-tr.com",
@@ -47,21 +47,6 @@
   ]
  },
  "seen": {
-  "https://www.theblock.co/news/ecosystems/2026-11-04-coinbase-security-cold-storage-binance-hack-432880": 1793818232.3031735,
-  "https://www.theblock.co/news/business/2026-11-04-schroders-centrifuge-tokenized-emerging-markets-debt-fund-solana-432878": 1793818232.3031735,
-  "https://www.coindesk.com/policy/2026/11/04/u-s-democratic-sweep-could-be-the-final-nail-in-the-clarity-act-s-coffin": 1793818232.3031735,
-  "https://www.coindesk.com/markets/2026/11/04/wall-street-cuts-bitcoin-miner-price-targets-after-democrats-texas-win-threatens-ai-data-center-boom": 1793818232.3031735,
-  "https://www.coindesk.com/coindesk-indices/2026/11/04/crypto-long-and-short-ice-is-betting-on-retail-s-appetite-for-quick-outcomes": 1793818232.3031735,
-  "https://www.coindesk.com/opinion/2026/11/04/the-election-changes-washington-the-work-on-crypto-continues": 1793818232.3031735,
-  "https://www.coindesk.com/tech/2026/11/04/live-updates-bitcoin-and-stocks-reverse-overnight-plunge-following-blue-wave-landslide": 1793818232.3031735,
-  "https://www.theblock.co/news/business/2026-11-04-circle-reports-865-million-in-q3-revenue-and-reserve-income-discloses-5-workforce-reduction-432671": 1793818232.3031735,
-  "https://www.coindesk.com/business/2026/11/04/global-asset-manager-schroders-brings-emerging-market-bond-fund-to-solana": 1793818232.3031735,
-  "https://www.coindesk.com/markets/2026/11/04/thorchain-s-rune-jumps-10-as-north-korean-hackers-resume-laundering-binance-loot": 1793818232.3031735,
-  "https://www.coindesk.com/business/2026/11/04/circle-beats-earnings-and-revenue-estimates-on-soaring-usdc-transaction-volume": 1793818232.3031735,
-  "https://www.coindesk.com/daybook-us/2026/11/04/here-s-how-analysts-are-reacting-to-the-new-blue-congress": 1793818232.3031735,
-  "https://www.theblock.co/news/business/2026-11-04-bitgo-launches-institutional-trading-and-financial-solutions-business-led-by-former-nydig-executive-432646": 1793818232.3031735,
-  "https://www.coindesk.com/markets/2026/11/04/bitcoin-rebounds-from-midterm-dip-as-defi-leads-gains": 1793818232.3031735,
-  "https://cointelegraph-tr.com/news/democrats-flip-us-senate-as-crypto-industry-faces-policy-reset": 1793818232.3031735,
   "https://www.coindesk.com/policy/2026/11/04/tokenization-and-stablecoins-may-weather-democrats-sweep-as-broader-crypto-rules-face-uncertainty": 1793837964.906931,
   "https://www.coindesk.com/business/2026/11/04/crypto-s-washington-hopes-fade-but-grayscale-and-blackrock-see-growth-ahead": 1793837964.906931,
   "https://www.theblock.co/news/regulation/2026-11-04-democratic-sweep-congress-forces-crypto-industry-rethink-washington-strategy-434362": 1793837964.906931,
@@ -172,7 +157,10 @@
   "https://www.coindesk.com/markets/2026/11/08/these-finland-homes-get-free-heat-from-bitcoin-miners-as-long-as-btc-stays-above-usd70-000": 1794143650.1887853,
   "https://cointelegraph-tr.com/news/amsterdam-data-center-protesters-break-into-construction-site-report": 1794143650.1887853,
   "https://cointelegraph-tr.com/news/binances-finance-chief-kaiser-ng-to-leave-company-report-says": 1794143650.1887853,
-  "https://www.theblock.co/news/ecosystems/2026-11-08-vitalik-buterin-says-eth-should-be-valued-as-a-store-of-value-not-a-fee-burning-token-436022": 1794162514.0384436
+  "https://www.theblock.co/news/ecosystems/2026-11-08-vitalik-buterin-says-eth-should-be-valued-as-a-store-of-value-not-a-fee-burning-token-436022": 1794162514.0384436,
+  "https://www.coindesk.com/policy/2026/11/08/what-the-election-results-mean-for-crypto-state-of-crypto": 1794176770.2520938,
+  "https://www.coindesk.com/business/2026/11/08/stablecoin-growth-has-stalled-the-payments-boom-hasn-t": 1794176770.2520938,
+  "https://www.theblock.co/news/defi/2026-11-08-web3auth-says-it-frontran-hackers-by-moving-5-6-million-out-of-exposed-keplr-wallets-436029": 1794176770.2520938
  },
  "tries": {
   "https://www.theblock.co/news/defi/2026-10-29-uniswap-token-jar-tjar-robinhood-432131": 1
