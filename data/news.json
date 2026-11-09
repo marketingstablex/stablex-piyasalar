@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-09T09:39:12Z",
+ "updated": "2026-11-09T20:39:29Z",
  "sources": [
   "coindesk.com",
   "cointelegraph-tr.com",
@@ -15,6 +15,15 @@
     "importance": 3
    }
   ],
+  "AVAX": [
+   {
+    "title": "NYSE, planlanan 7/24 piyasada tokenleştirilmiş hisse senetlerini Avalanche üzerinde takas edecek",
+    "summary": "NYSE, tokenleştirilmiş hisse senetlerini Avalanche üzerinde takas etmeye hazırlanıyor.",
+    "url": "https://www.theblock.co/news/business/2026-11-09-nyse-settle-tokenized-stocks-avalanche-planned-24-7-market-436208",
+    "published": "2026-11-09T14:07:27Z",
+    "importance": 4
+   }
+  ],
   "BTC": [
    {
     "title": "Bitcoin ETF’leri, haziran sonundan bu yana en büyük haftalık net çıkışta 1,3 milyar dolar kaybetti",
@@ -22,6 +31,34 @@
     "url": "https://cointelegraph-tr.com/markets/bitcoin-etfs-13b-biggest-weekly-outflow-late-june",
     "published": "2026-11-09T08:17:35Z",
     "importance": 5
+   },
+   {
+    "title": "'Parçaları birleştirmek': Michael Saylor’ın Strategy şirketi, varlıkları 850.000 BTC'yi aşarken 82 milyon dolara 1.036 bitcoin daha satın aldı",
+    "summary": "Strategy, 82 milyon dolar karşılığında 1.036 bitcoin daha satın alarak toplam varlıklarını 850.000 BTC'nin üzerine çıkardı. Şirketin toplam varlıkları bitcoin arz sınırının yüzde 4'ünden fazlasını oluşturuyor.",
+    "url": "https://www.theblock.co/news/business/2026-11-09-connecting-the-dots-michael-saylor-strategy-bitcoin-436094",
+    "published": "2026-11-09T13:10:42Z",
+    "importance": 4
+   },
+   {
+    "title": "24 saatlik kripto uzun pozisyon tasfiyeleri 1 milyar doları aşarken Bitcoin 50 haftalık hareketli ortalamasını kaybetti",
+    "summary": "Bitcoin, 50 haftalık hareketli ortalamasının altında kapanış yaptı. Bu süreçte 1 milyar doların üzerinde kripto uzun pozisyonu tasfiye edildi.",
+    "url": "https://www.theblock.co/news/markets/2026-11-09-bitcoin-loses-50-week-moving-average-as-24-hour-crypto-long-liquidations-top-1-billion-436102",
+    "published": "2026-11-09T13:04:21Z",
+    "importance": 4
+   },
+   {
+    "title": "Bitcoin boğaları ETF akışlarına güvenemez",
+    "summary": "Bitcoin boğaları piyasa hareketlerinde yalnızca ETF akışlarına güvenemez.",
+    "url": "https://www.coindesk.com/daybook-us/2026/11/09/bitcoin-bulls-can-t-rely-on-etf-flows",
+    "published": "2026-11-09T12:30:00Z",
+    "importance": 3
+   },
+   {
+    "title": "Canlı haberler: Hisse senetleri yükselirken ve ham petrol düşerken Bitcoin düşük seyrini sürdürüyor",
+    "summary": "Canlı haberler: Hisse senetleri yükselirken ve ham petrol düşerken Bitcoin düşük seyrini sürdürüyor",
+    "url": "https://www.coindesk.com/tech/2026/11/09/live-news-nvidia-slides-on-ceo-allegations-as-bitcoin-hovers-just-above-its-200-day-average",
+    "published": "2026-11-09T10:51:48Z",
+    "importance": 3
    },
    {
     "title": "tBTC köprüsü kısmen yeniden faaliyete geçti, 120 milyon dolarlık Aave rezervi donmuş durumda",
@@ -38,21 +75,35 @@
     "importance": 3
    },
    {
-    "title": "SpaceX, bitcoin varlıklarının 17 katı değerinde 24 milyar dolarlık Teksas süper bilgisayarı öneriyor",
-    "summary": "SpaceX, bitcoin varlıklarının 17 katı değerinde 24 milyar dolarlık Teksas süper bilgisayarı öneriyor.",
-    "url": "https://www.coindesk.com/markets/2026/11/09/spacex-proposes-a-usd24-billion-texas-supercomputer-worth-17-times-its-bitcoin-pile",
-    "published": "2026-11-09T06:54:41Z",
-    "importance": 2
-   },
-   {
-    "title": "Bu Finlandiya evleri bitcoin madencilerinden ücretsiz ısı alıyor (BTC 70.000 doların üzerinde kaldığı sürece)",
-    "summary": "Bu Finlandiya evleri bitcoin madencilerinden ücretsiz ısı alıyor (BTC 70.000 doların üzerinde kaldığı sürece)",
-    "url": "https://www.coindesk.com/markets/2026/11/08/these-finland-homes-get-free-heat-from-bitcoin-miners-as-long-as-btc-stays-above-usd70-000",
-    "published": "2026-11-08T12:55:59Z",
+    "title": "Bir Bitcoin bloğu 2015 işlem rekoruna yaklaştı ancak yalnızca 180 dolar işlem ücreti ödedi",
+    "summary": "Bir Bitcoin bloğu 2015 işlem rekoruna yaklaştı ancak yalnızca 180 dolar işlem ücreti ödedi.",
+    "url": "https://www.coindesk.com/tech/2026/11/09/a-bitcoin-block-just-neared-a-2015-transaction-record-but-paid-only-usd180-in-fees",
+    "published": "2026-11-09T16:19:45Z",
     "importance": 2
    }
   ],
   "ETH": [
+   {
+    "title": "Ethereum Vakfı ve Vitalik Buterin, 'intihar taahhüdü' anlaşmazlığı sonrası işten çıkarma nedeniyle dava edildi",
+    "summary": "Fulton’ın şikayetinde kaydedilmiş bir Buterin görüşmesine yer veriliyor ve ayrımcılık ile misilleme iddialarında bulunuluyor.",
+    "url": "https://www.theblock.co/news/regulation/2026-11-09-ethereum-foundation-vitalik-buterin-sued-over-firing-suicide-pledge-dispute-436739",
+    "published": "2026-11-09T18:30:22Z",
+    "importance": 3
+   },
+   {
+    "title": "Ethereum hazine şirketi Sharplink'in 3. çeyrek net kârı, gerçekleşmemiş ether kazançlarıyla 751 milyon dolara ulaştı",
+    "summary": "Sharplink, gerçekleşmemiş Ethereum kazançlarının etkisiyle üçüncü çeyrekte 13,5 milyon dolar gelir ve 751,4 milyon dolar net kâr açıkladı.",
+    "url": "https://www.theblock.co/news/markets/2026-11-09-sharplink-q3-2026-earnings-net-income-eth-holdings-436459",
+    "published": "2026-11-09T15:40:30Z",
+    "importance": 3
+   },
+   {
+    "title": "Tom Lee'nin Bitmine şirketi, tokenizasyon ve yapay zeka 'süper döngüsü' öngörüsüyle 20 milyon dolarlık ETH alımı yaparak %5 Ethereum arzı hedefine yaklaşıyor",
+    "summary": "Bitmine, dolaşımdaki Ethereum arzının yüzde 5'lik hedefine yaklaşarak geçen hafta 20 milyon dolar değerinde 9.587 ETH daha satın aldı.",
+    "url": "https://www.theblock.co/news/business/2026-11-09-tom-lee-bitmine-nears-ethereum-supply-target-20-million-eth-tokenization-ai-supercycle-436219",
+    "published": "2026-11-09T14:32:40Z",
+    "importance": 3
+   },
    {
     "title": "Zama spin-off'u Raycash, Ethereum üzerinde gizli stablecoin ödemelerini ve özel verimi başlattı",
     "summary": "Raycash, Ethereum üzerinde uygulamasını hayata geçirerek gizli stablecoin ödemelerini ve boşta kalan bakiyeler için Morpho verimini mümkün kıldı.",
@@ -91,6 +142,31 @@
     "url": "https://www.coindesk.com/tech/2026/11/09/solana-moves-to-scrap-the-transaction-feature-used-in-the-usd270-million-drift-hack",
     "published": "2026-11-09T06:36:45Z",
     "importance": 4
+   },
+   {
+    "title": "Formation Securities, SEC muafiyeti kapsamında Solana’da hisse senedi işlem platformu planlıyor",
+    "summary": "Önerilen platform, Galaxy Digital, Exodus ve Forward Industries’in tokenlaştırılmış hisselerinde 7/24 işlem sunmayı amaçlıyor ve 2027’nin başlarında hizmete girmesi planlanıyor.",
+    "url": "https://cointelegraph-tr.com/news/formation-securities-solana-stock-trading-venue-sec-exemption",
+    "published": "2026-11-09T19:52:34Z",
+    "importance": 3
+   }
+  ],
+  "TRUMP": [
+   {
+    "title": "Justin Sun başvurulara itiraz ederken Trump, World Liberty'nin BAE bağlantıları hakkında 'hiçbir şey' bilmediğini söylüyor",
+    "summary": "Justin Sun başvurulara itiraz ederken Trump, World Liberty'nin BAE bağlantıları hakkında hiçbir şey bilmediğini belirtiyor.",
+    "url": "https://www.coindesk.com/business/2026/11/09/trump-says-he-knows-nothing-about-world-liberty-s-uae-ties-as-justin-sun-challenges-filings",
+    "published": "2026-11-09T12:37:13Z",
+    "importance": 3
+   }
+  ],
+  "WLFI": [
+   {
+    "title": "Justin Sun başvurulara itiraz ederken Trump, World Liberty'nin BAE bağlantıları hakkında 'hiçbir şey' bilmediğini söylüyor",
+    "summary": "Justin Sun başvurulara itiraz ederken Trump, World Liberty'nin BAE bağlantıları hakkında hiçbir şey bilmediğini belirtiyor.",
+    "url": "https://www.coindesk.com/business/2026/11/09/trump-says-he-knows-nothing-about-world-liberty-s-uae-ties-as-justin-sun-challenges-filings",
+    "published": "2026-11-09T12:37:13Z",
+    "importance": 3
    }
   ]
  },
@@ -207,7 +283,37 @@
   "https://cointelegraph-tr.com/news/tbtc-bridge-resumes-aave-120m-reserve-frozen": 1794217152.3708844,
   "https://www.theblock.co/news/defi/2026-11-08-nvidia-perps-slide-jensen-huang-436047": 1794217152.3708844,
   "https://www.coindesk.com/markets/2026/11/09/bitcoin-drops-then-pops-as-nvidia-cheating-scandal-and-failed-iran-talks-trigger-volatility": 1794217152.3708844,
-  "https://www.theblock.co/learn/ecosystems/what-is-zcash-zec-435779": 1794217152.3708844
+  "https://www.theblock.co/learn/ecosystems/what-is-zcash-zec-435779": 1794217152.3708844,
+  "https://www.theblock.co/news/regulation/2026-11-09-senate-banking-elizabeth-warren-scrutiny-prediction-markets-trump-crypto-ventures-436898": 1794256769.2197964,
+  "https://cointelegraph-tr.com/news/formation-securities-solana-stock-trading-venue-sec-exemption": 1794256769.2197964,
+  "https://www.coindesk.com/business/2026/11/09/robinhood-backs-tokenization-of-its-stock-on-okx-ice-platform-even-as-most-companies-opt-out": 1794256769.2197964,
+  "https://www.theblock.co/news/regulation/2026-11-09-ethereum-foundation-vitalik-buterin-sued-over-firing-suicide-pledge-dispute-436739": 1794256769.2197964,
+  "https://www.coindesk.com/tech/2026/11/09/a-bitcoin-block-just-neared-a-2015-transaction-record-but-paid-only-usd180-in-fees": 1794256769.2197964,
+  "https://www.theblock.co/news/markets/2026-11-09-stonex-sees-upside-bullish-equiniti-deal-opens-tokenization-market-436464": 1794256769.2197964,
+  "https://www.theblock.co/news/business/2026-11-09-coinbase-pnc-bank-expand-partnership-with-usdc-payments-corporate-clients-436466": 1794256769.2197964,
+  "https://www.theblock.co/news/ecosystems/2026-11-09-binance-hack-launderers-mint-homemade-elon-musk-animal-memecoins-move-stolen-funds-elliptic-436440": 1794256769.2197964,
+  "https://www.theblock.co/news/markets/2026-11-09-sharplink-q3-2026-earnings-net-income-eth-holdings-436459": 1794256769.2197964,
+  "https://www.coindesk.com/markets/2026/11/09/google-s-ai-chip-push-adds-more-pressure-on-nvidia": 1794256769.2197964,
+  "https://www.theblock.co/news/regulation/2026-11-09-river-markets-prediction-market-prime-brokerage-cftc-fcm-registration-436266": 1794256769.2197964,
+  "https://www.coindesk.com/business/2026/11/09/north-korean-hackers-are-creating-memecoins-to-wash-loot-from-usd6-3-billion-binance-hack": 1794256769.2197964,
+  "https://www.theblock.co/news/business/2026-11-09-tom-lee-bitmine-nears-ethereum-supply-target-20-million-eth-tokenization-ai-supercycle-436219": 1794256769.2197964,
+  "https://www.theblock.co/news/business/2026-11-09-nyse-settle-tokenized-stocks-avalanche-planned-24-7-market-436208": 1794256769.2197964,
+  "https://www.coindesk.com/business/2026/11/09/nyse-picks-avalanche-to-settle-tokenized-stocks-amid-wall-street-s-blockchain-race": 1794256769.2197964,
+  "https://www.theblock.co/news/business/2026-11-09-connecting-the-dots-michael-saylor-strategy-bitcoin-436094": 1794256769.2197964,
+  "https://www.theblock.co/news/markets/2026-11-09-bitcoin-loses-50-week-moving-average-as-24-hour-crypto-long-liquidations-top-1-billion-436102": 1794256769.2197964,
+  "https://www.coindesk.com/business/2026/11/06/solana-lset-for-its-first-tokenized-stock-venue-under-sec-framework-listing-galaxy": 1794256769.2197964,
+  "https://www.coindesk.com/business/2026/11/09/trump-says-he-knows-nothing-about-world-liberty-s-uae-ties-as-justin-sun-challenges-filings": 1794256769.2197964,
+  "https://www.theblock.co/news/defi/2026-11-09-formation-tokenized-securities-solana-436060": 1794256769.2197964,
+  "https://www.coindesk.com/daybook-us/2026/11/09/bitcoin-bulls-can-t-rely-on-etf-flows": 1794256769.2197964,
+  "https://cointelegraph-tr.com/news/eu-nominations-tokenization-standards-group": 1794256769.2197964,
+  "https://www.coindesk.com/markets/2026/11/09/tech-selloff-weighs-on-crypto-majors": 1794256769.2197964,
+  "https://cointelegraph-tr.com/news/coinbase-occ-approval-national-trust-bank-charter": 1794256769.2197964,
+  "https://cointelegraph-tr.com/news/robinhood-us-ipo-access-uk-retail-investors": 1794256769.2197964,
+  "https://www.coindesk.com/tech/2026/11/09/zcash-developers-want-20-second-blocks-just-days-after-major-speed-upgrade": 1794256769.2197964,
+  "https://www.coindesk.com/tech/2026/11/09/live-news-nvidia-slides-on-ceo-allegations-as-bitcoin-hovers-just-above-its-200-day-average": 1794256769.2197964,
+  "https://www.theblock.co/news/business/2026-11-09-crypto-friendly-robinhood-brings-us-ipo-access-to-uk-retail-investors-436089": 1794256769.2197964,
+  "https://www.theblock.co/news/business/2026-11-09-trump-says-he-knows-nothing-about-uae-linked-investment-in-his-crypto-firm-436079": 1794256769.2197964,
+  "https://www.coindesk.com/policy/2026/11/09/coinbase-gets-full-u-s-trust-charter-from-federal-banking-regulator": 1794256769.2197964
  },
  "tries": {
   "https://www.theblock.co/news/defi/2026-10-29-uniswap-token-jar-tjar-robinhood-432131": 1
