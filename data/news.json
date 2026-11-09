@@ -1,18 +1,48 @@
 {
- "updated": "2026-11-09T01:55:46Z",
+ "updated": "2026-11-09T09:39:12Z",
  "sources": [
   "coindesk.com",
   "cointelegraph-tr.com",
   "theblock.co"
  ],
  "bySymbol": {
+  "AAVE": [
+   {
+    "title": "tBTC köprüsü kısmen yeniden faaliyete geçti, 120 milyon dolarlık Aave rezervi donmuş durumda",
+    "summary": "Threshold, operatörlerin kritik bir Linux çekirdeği güvenlik açığını ele almasıyla 30 Ekim'de tBTC köprüsünü durdurdu. Söz konusu güvenlik açığı, yama uygulanmamış sunucularda saldırganların kod çalıştırmasına olanak tanıyabilir.",
+    "url": "https://cointelegraph-tr.com/news/tbtc-bridge-resumes-aave-120m-reserve-frozen",
+    "published": "2026-11-09T04:03:08Z",
+    "importance": 3
+   }
+  ],
   "BTC": [
    {
-    "title": "Bitcoin ETF'leri, 1.28 milyar dolarlık haftalık çıkışın ardından 2026 yılı için negatife döndü, Haziran'dan bu yana en kötüsü",
-    "summary": "1.28 milyar dolarlık haftalık çıkışın ardından Bitcoin ETF'leri 2026 yılı genelinde negatife döndü ve bu durum Haziran ayından bu yana görülen en kötü performans olarak kaydedildi. Cuma günkü çıkışların %98'ini BlackRock'ın IBIT fonu oluştururken, endüstri lideri fonumuzdan 403 milyon dolar çıktı.",
-    "url": "https://www.theblock.co/news/markets/2026-11-07-bitcoin-etfs-flip-negative-for-2026-after-1-28-billion-outflow-week-worst-since-june-435984",
-    "published": "2026-11-07T16:46:02Z",
+    "title": "Bitcoin ETF’leri, haziran sonundan bu yana en büyük haftalık net çıkışta 1,3 milyar dolar kaybetti",
+    "summary": "Bitcoin 76.000 doların altına gerilerken ve ABD teknoloji hisselerinde satışlar yaşanırken, yatırımcılar geçen hafta BlackRock’ın IBIT fonundan net 1,21 milyar dolar çekti.",
+    "url": "https://cointelegraph-tr.com/markets/bitcoin-etfs-13b-biggest-weekly-outflow-late-june",
+    "published": "2026-11-09T08:17:35Z",
     "importance": 5
+   },
+   {
+    "title": "tBTC köprüsü kısmen yeniden faaliyete geçti, 120 milyon dolarlık Aave rezervi donmuş durumda",
+    "summary": "Threshold, operatörlerin kritik bir Linux çekirdeği güvenlik açığını ele almasıyla 30 Ekim'de tBTC köprüsünü durdurdu. Söz konusu güvenlik açığı, yama uygulanmamış sunucularda saldırganların kod çalıştırmasına olanak tanıyabilir.",
+    "url": "https://cointelegraph-tr.com/news/tbtc-bridge-resumes-aave-120m-reserve-frozen",
+    "published": "2026-11-09T04:03:08Z",
+    "importance": 3
+   },
+   {
+    "title": "Bitcoin düşüyor, ardından Nvidia hile skandalı ve başarısız İran görüşmelerinin oynaklığı tetiklemesiyle yükseliyor",
+    "summary": "Bitcoin düşüyor, ardından Nvidia hile skandalı ve başarısız İran görüşmelerinin oynaklığı tetiklemesiyle yükseliyor.",
+    "url": "https://www.coindesk.com/markets/2026/11/09/bitcoin-drops-then-pops-as-nvidia-cheating-scandal-and-failed-iran-talks-trigger-volatility",
+    "published": "2026-11-09T03:21:49Z",
+    "importance": 3
+   },
+   {
+    "title": "SpaceX, bitcoin varlıklarının 17 katı değerinde 24 milyar dolarlık Teksas süper bilgisayarı öneriyor",
+    "summary": "SpaceX, bitcoin varlıklarının 17 katı değerinde 24 milyar dolarlık Teksas süper bilgisayarı öneriyor.",
+    "url": "https://www.coindesk.com/markets/2026/11/09/spacex-proposes-a-usd24-billion-texas-supercomputer-worth-17-times-its-bitcoin-pile",
+    "published": "2026-11-09T06:54:41Z",
+    "importance": 2
    },
    {
     "title": "Bu Finlandiya evleri bitcoin madencilerinden ücretsiz ısı alıyor (BTC 70.000 doların üzerinde kaldığı sürece)",
@@ -20,16 +50,23 @@
     "url": "https://www.coindesk.com/markets/2026/11/08/these-finland-homes-get-free-heat-from-bitcoin-miners-as-long-as-btc-stays-above-usd70-000",
     "published": "2026-11-08T12:55:59Z",
     "importance": 2
-   },
-   {
-    "title": "Bugün kriptoda yaşananlar",
-    "summary": "Bitcoin fiyatını, blockchain'i, DeFi'yi, Web3'ü ve kripto düzenlemelerini etkileyen günlük trendler ve gelişmeler aktarılmaktadır.",
-    "url": "https://cointelegraph-tr.com/news/what-happened-in-crypto-today",
-    "published": "2026-11-07T14:22:00Z",
-    "importance": 2
    }
   ],
   "ETH": [
+   {
+    "title": "Zama spin-off'u Raycash, Ethereum üzerinde gizli stablecoin ödemelerini ve özel verimi başlattı",
+    "summary": "Raycash, Ethereum üzerinde uygulamasını hayata geçirerek gizli stablecoin ödemelerini ve boşta kalan bakiyeler için Morpho verimini mümkün kıldı.",
+    "url": "https://www.theblock.co/news/defi/2026-11-09-zama-spin-off-raycash-launches-confidential-stablecoin-payments-private-yield-ethereum-435909",
+    "published": "2026-11-09T09:05:02Z",
+    "importance": 3
+   },
+   {
+    "title": "İki rakip Ethereum teklifi, Glamsterdam'ın eski sözleşmeleri bozmasını engellemeyi amaçlıyor",
+    "summary": "İki rakip Ethereum teklifi, Glamsterdam'ın eski sözleşmeleri bozmasını engellemeyi amaçlıyor.",
+    "url": "https://www.coindesk.com/tech/2026/11/09/two-rival-ethereum-proposals-aim-to-stop-glamsterdam-breaking-old-contracts",
+    "published": "2026-11-09T05:16:54Z",
+    "importance": 3
+   },
    {
     "title": "Vitalik Buterin ETH'nin Değer Saklama Aracı Olarak Değerlendirilmesi Gerektiğini Söyledi",
     "summary": "Vitalik Buterin, Ethereum'un ücret yakan bir token yerine bir değer saklama aracı olarak değerlendirilmesi gerektiğini belirtti. Daha fazla ETH stake edildikçe doğrulayıcı ödüllerinin artan bir payını yakmaya yönelik tartışmalı bir teklif, gelen tepkiler üzerine geçen ay geri çekilmişti.",
@@ -37,17 +74,27 @@
     "published": "2026-11-08T15:52:17Z",
     "importance": 3
    }
+  ],
+  "MORPHO": [
+   {
+    "title": "Zama spin-off'u Raycash, Ethereum üzerinde gizli stablecoin ödemelerini ve özel verimi başlattı",
+    "summary": "Raycash, Ethereum üzerinde uygulamasını hayata geçirerek gizli stablecoin ödemelerini ve boşta kalan bakiyeler için Morpho verimini mümkün kıldı.",
+    "url": "https://www.theblock.co/news/defi/2026-11-09-zama-spin-off-raycash-launches-confidential-stablecoin-payments-private-yield-ethereum-435909",
+    "published": "2026-11-09T09:05:02Z",
+    "importance": 3
+   }
+  ],
+  "SOL": [
+   {
+    "title": "Solana, 270 milyon dolarlık Drift hack'inde kullanılan işlem özelliğini kaldırmaya hazırlanıyor",
+    "summary": "Solana, 270 milyon dolarlık Drift hack'inde kullanılan işlem özelliğini kaldırmaya hazırlanıyor.",
+    "url": "https://www.coindesk.com/tech/2026/11/09/solana-moves-to-scrap-the-transaction-feature-used-in-the-usd270-million-drift-hack",
+    "published": "2026-11-09T06:36:45Z",
+    "importance": 4
+   }
   ]
  },
  "seen": {
-  "https://www.coindesk.com/tech/2026/11/05/zcash-is-about-to-freeze-usd16-million-in-its-oldest-privacy-pool": 1793863190.8875563,
-  "https://www.coindesk.com/policy/2026/11/05/the-pile-of-lawsuits-against-kalshi-just-grew-by-one": 1793863190.8875563,
-  "https://www.coindesk.com/markets/2026/11/05/xrp-ledger-closes-bug-that-let-approved-token-burners-create-new-tokens": 1793863190.8875563,
-  "https://www.coindesk.com/markets/2026/11/05/bitcoin-holds-above-usd80-000-as-zcash-jumps-12-in-post-election-crypto-rebound": 1793863190.8875563,
-  "https://www.theblock.co/news/regulation/2026-11-04-digital-chamber-sherrod-brown-win-434371": 1793863190.8875563,
-  "https://www.coindesk.com/markets/2026/11/05/trump-media-moves-usd434-million-in-bitcoin-to-crypto-com-blockchain-data-show": 1793863190.8875563,
-  "https://www.theblock.co/news/business/2026-11-04-french-bank-confirms-cyberattack-434372": 1793863190.8875563,
-  "https://cointelegraph-tr.com/news/riots-28b-ai-deal-lifts-shares-as-hut-8-faces-transition-costs": 1793863190.8875563,
   "https://www.theblock.co/news/markets/2026-11-05-bitcoin-erases-post-election-gains-wall-street-selloff-liquidations-435434": 1793915785.3026059,
   "https://www.theblock.co/news/ecosystems/2026-11-05-base-deploys-denim-upgrade-on-mainnet-replacing-flashblocks-with-200ms-block-times-434433": 1793915785.3026059,
   "https://www.coindesk.com/policy/2026/11/05/u-s-justice-department-assembles-force-to-shield-against-foreign-ai-threats": 1793915785.3026059,
@@ -148,7 +195,19 @@
   "https://www.coindesk.com/policy/2026/11/08/what-the-election-results-mean-for-crypto-state-of-crypto": 1794176770.2520938,
   "https://www.coindesk.com/business/2026/11/08/stablecoin-growth-has-stalled-the-payments-boom-hasn-t": 1794176770.2520938,
   "https://www.theblock.co/news/defi/2026-11-08-web3auth-says-it-frontran-hackers-by-moving-5-6-million-out-of-exposed-keplr-wallets-436029": 1794176770.2520938,
-  "https://www.theblock.co/news/defi/2026-11-08-onchain-data-casts-doubt-on-insider-trading-theory-in-nyts-suspicious-election-betting-story-436034": 1794189346.2324555
+  "https://www.theblock.co/news/defi/2026-11-08-onchain-data-casts-doubt-on-insider-trading-theory-in-nyts-suspicious-election-betting-story-436034": 1794189346.2324555,
+  "https://www.coindesk.com/markets/2026/11/09/u-s-inflation-corporate-earnings-crypto-week-ahead": 1794217152.3708844,
+  "https://www.theblock.co/news/defi/2026-11-09-zama-spin-off-raycash-launches-confidential-stablecoin-payments-private-yield-ethereum-435909": 1794217152.3708844,
+  "https://cointelegraph-tr.com/news/binance-tether-wlfi-senate-crypto-investigation-records-deadline": 1794217152.3708844,
+  "https://cointelegraph-tr.com/markets/bitcoin-etfs-13b-biggest-weekly-outflow-late-june": 1794217152.3708844,
+  "https://www.coindesk.com/markets/2026/11/09/spacex-proposes-a-usd24-billion-texas-supercomputer-worth-17-times-its-bitcoin-pile": 1794217152.3708844,
+  "https://www.coindesk.com/tech/2026/11/09/solana-moves-to-scrap-the-transaction-feature-used-in-the-usd270-million-drift-hack": 1794217152.3708844,
+  "https://www.coindesk.com/tech/2026/11/09/two-rival-ethereum-proposals-aim-to-stop-glamsterdam-breaking-old-contracts": 1794217152.3708844,
+  "https://www.coindesk.com/tech/2026/11/09/binance-s-bitcoin-mining-pool-finds-just-one-block-in-a-week-as-shutdown-nears": 1794217152.3708844,
+  "https://cointelegraph-tr.com/news/tbtc-bridge-resumes-aave-120m-reserve-frozen": 1794217152.3708844,
+  "https://www.theblock.co/news/defi/2026-11-08-nvidia-perps-slide-jensen-huang-436047": 1794217152.3708844,
+  "https://www.coindesk.com/markets/2026/11/09/bitcoin-drops-then-pops-as-nvidia-cheating-scandal-and-failed-iran-talks-trigger-volatility": 1794217152.3708844,
+  "https://www.theblock.co/learn/ecosystems/what-is-zcash-zec-435779": 1794217152.3708844
  },
  "tries": {
   "https://www.theblock.co/news/defi/2026-10-29-uniswap-token-jar-tjar-robinhood-432131": 1
