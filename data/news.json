@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-08T22:26:10Z",
+ "updated": "2026-11-09T01:55:46Z",
  "sources": [
   "coindesk.com",
   "cointelegraph-tr.com",
@@ -13,13 +13,6 @@
     "url": "https://www.theblock.co/news/markets/2026-11-07-bitcoin-etfs-flip-negative-for-2026-after-1-28-billion-outflow-week-worst-since-june-435984",
     "published": "2026-11-07T16:46:02Z",
     "importance": 5
-   },
-   {
-    "title": "Bitcoin sahipleri eCash aldı — Bununle ne yapabilirsiniz?",
-    "summary": "Bitcoin'in eCash çatalı (fork), uygun sahiplerine eşdeğer miktarda ECX bakiyesi sağlamaktadır. Ancak token'ların nerede alınıp satılabileceği ve bu token'larla nelerin yapılabileceği belirsizliğini korumaktadır.",
-    "url": "https://cointelegraph-tr.com/magazine/bitcoin-holders-have-received-ecash-what-can-you-with-it",
-    "published": "2026-11-07T13:30:00Z",
-    "importance": 3
    },
    {
     "title": "Bu Finlandiya evleri bitcoin madencilerinden ücretsiz ısı alıyor (BTC 70.000 doların üzerinde kaldığı sürece)",
@@ -47,12 +40,6 @@
   ]
  },
  "seen": {
-  "https://www.coindesk.com/policy/2026/11/04/tokenization-and-stablecoins-may-weather-democrats-sweep-as-broader-crypto-rules-face-uncertainty": 1793837964.906931,
-  "https://www.coindesk.com/business/2026/11/04/crypto-s-washington-hopes-fade-but-grayscale-and-blackrock-see-growth-ahead": 1793837964.906931,
-  "https://www.theblock.co/news/regulation/2026-11-04-democratic-sweep-congress-forces-crypto-industry-rethink-washington-strategy-434362": 1793837964.906931,
-  "https://www.coindesk.com/news-analysis/2026/11/04/crypto-s-powerhouse-super-pac-fairshake-found-its-kryptonite": 1793837964.906931,
-  "https://www.theblock.co/news/markets/2026-11-04-bitcoin-price-midterm-elections-binance-hack-recovery-433030": 1793837964.906931,
-  "https://www.theblock.co/news/regulation/2026-11-04-french-hill-too-close-to-call-house-flips-changing-crypto-legislation-432572": 1793837964.906931,
   "https://www.coindesk.com/tech/2026/11/05/zcash-is-about-to-freeze-usd16-million-in-its-oldest-privacy-pool": 1793863190.8875563,
   "https://www.coindesk.com/policy/2026/11/05/the-pile-of-lawsuits-against-kalshi-just-grew-by-one": 1793863190.8875563,
   "https://www.coindesk.com/markets/2026/11/05/xrp-ledger-closes-bug-that-let-approved-token-burners-create-new-tokens": 1793863190.8875563,
@@ -160,7 +147,8 @@
   "https://www.theblock.co/news/ecosystems/2026-11-08-vitalik-buterin-says-eth-should-be-valued-as-a-store-of-value-not-a-fee-burning-token-436022": 1794162514.0384436,
   "https://www.coindesk.com/policy/2026/11/08/what-the-election-results-mean-for-crypto-state-of-crypto": 1794176770.2520938,
   "https://www.coindesk.com/business/2026/11/08/stablecoin-growth-has-stalled-the-payments-boom-hasn-t": 1794176770.2520938,
-  "https://www.theblock.co/news/defi/2026-11-08-web3auth-says-it-frontran-hackers-by-moving-5-6-million-out-of-exposed-keplr-wallets-436029": 1794176770.2520938
+  "https://www.theblock.co/news/defi/2026-11-08-web3auth-says-it-frontran-hackers-by-moving-5-6-million-out-of-exposed-keplr-wallets-436029": 1794176770.2520938,
+  "https://www.theblock.co/news/defi/2026-11-08-onchain-data-casts-doubt-on-insider-trading-theory-in-nyts-suspicious-election-betting-story-436034": 1794189346.2324555
  },
  "tries": {
   "https://www.theblock.co/news/defi/2026-10-29-uniswap-token-jar-tjar-robinhood-432131": 1
