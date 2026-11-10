@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-10T03:27:58Z",
+ "updated": "2026-11-10T11:41:55Z",
  "sources": [
   "coindesk.com",
   "cointelegraph-tr.com",
@@ -33,17 +33,17 @@
     "importance": 5
    },
    {
+    "title": "Bitcoin madencisi MARA altı haftada 1,1 milyar dolar karşılığında 13.597 BTC sattı, daha fazlasını satmayı planlıyor",
+    "summary": "Bitcoin madencisi MARA altı haftada 1,1 milyar dolar karşılığında 13.597 BTC sattı, daha fazlasını satmayı planlıyor.",
+    "url": "https://www.coindesk.com/markets/2026/11/10/bitcoin-miner-mara-sold-13-597-btc-for-usd1-1-billion-in-six-weeks-plans-to-sell-more",
+    "published": "2026-11-10T05:18:31Z",
+    "importance": 4
+   },
+   {
     "title": "Bitcoin, analistlerin enflasyon rahatlamasının yetmeyebileceği uyarısıyla ABD TÜFE testiyle karşı karşıya",
     "summary": "Bitcoin, analistlerin enflasyon rahatlamasının yetmeyebileceği uyarısı arasında ABD TÜFE testi ile karşı karşıya bulunuyor.",
     "url": "https://www.coindesk.com/markets/2026/11/10/bitcoin-faces-u-s-cpi-test-as-analysts-warn-inflation-relief-may-not-be-enough",
     "published": "2026-11-10T03:22:26Z",
-    "importance": 4
-   },
-   {
-    "title": "MARA, bitcoin kazançlarıyla 3. çeyrekte 634 milyon dolar net kâr açıkladı, kredileri ödemek için 13.597 BTC sattı",
-    "summary": "MARA, 3. çeyrekte 634,4 milyon dolar net kâr açıkladı ve yapay zekaya yönelirken 750 milyon dolarlık krediyi geri ödemek için 13.597 BTC sattı.",
-    "url": "https://www.theblock.co/news/business/2026-11-09-mara-q3-earnings-net-profit-bitcoin-sale-ai-pivot-436950",
-    "published": "2026-11-09T22:07:00Z",
     "importance": 4
    },
    {
@@ -61,33 +61,40 @@
     "importance": 4
    },
    {
-    "title": "HIVE ve MARA, kripto fiyatları düşerken daha fazla Bitcoin çıkardı ancak daha az kazandı",
-    "summary": "Her iki madenci de daha yüksek Bitcoin üretimi bildirdi, ancak yapay zeka altyapısı işletmelerini genişletirken madencilik gelirleri düştü ve elektrik maliyetleri arttı.",
-    "url": "https://cointelegraph-tr.com/markets/hives-bitcoin-output-jumps-49-but-mining-revenue-falls",
-    "published": "2026-11-10T00:42:39Z",
+    "title": "Bitcoin, ABD enflasyon raporu öncesinde hisse senedi toparlanmasının gerisinde kalıyor",
+    "summary": "Bitcoin, ABD enflasyon raporu öncesinde hisse senedi toparlanmasının gerisinde kalıyor.",
+    "url": "https://www.coindesk.com/markets/2026/11/10/bitcoin-lags-stock-rebound-in-advance-of-u-s-inflation-report",
+    "published": "2026-11-10T11:24:10Z",
     "importance": 3
    },
    {
-    "title": "Bitcoin boğaları ETF akışlarına güvenemez",
-    "summary": "Bitcoin boğaları piyasa hareketlerinde yalnızca ETF akışlarına güvenemez.",
-    "url": "https://www.coindesk.com/daybook-us/2026/11/09/bitcoin-bulls-can-t-rely-on-etf-flows",
-    "published": "2026-11-09T12:30:00Z",
+    "title": "Yatırımcılar Fed'in faiz artırımını fiyatlarken Bitcoin, ABD enflasyon raporu öncesinde geriledi",
+    "summary": "Yatırımcılar Fed'in faiz artırımını fiyatlarken Bitcoin, ABD enflasyon raporu öncesinde geriledi.",
+    "url": "https://www.coindesk.com/markets/2026/11/10/bitcoin-slips-before-u-s-inflation-report-as-traders-price-in-fed-rate-increase",
+    "published": "2026-11-10T10:48:37Z",
     "importance": 3
    },
    {
-    "title": "Canlı haberler: Hisse senetleri yükselirken ve ham petrol düşerken Bitcoin düşük seyrini sürdürüyor",
-    "summary": "Canlı haberler: Hisse senetleri yükselirken ve ham petrol düşerken Bitcoin düşük seyrini sürdürüyor",
-    "url": "https://www.coindesk.com/tech/2026/11/09/live-news-nvidia-slides-on-ceo-allegations-as-bitcoin-hovers-just-above-its-200-day-average",
-    "published": "2026-11-09T10:51:48Z",
+    "title": "Canlı haberler: Bitcoin ve altın gerilerken, yatırımcılar aralık ayı için Fed faiz artırımını fiyatlıyor",
+    "summary": "Canlı haberler: Bitcoin ve altın gerilerken, yatırımcılar aralık ayı için Fed faiz artırımını fiyatlıyor.",
+    "url": "https://www.coindesk.com/markets/2026/11/10/live-news-traders-price-in-fed-rate-hike-for-december-as-bitcoin-and-gold-retreat",
+    "published": "2026-11-10T10:41:45Z",
     "importance": 3
    }
   ],
   "ETH": [
    {
-    "title": "Ethereum Vakfı ve Vitalik Buterin, 'intihar taahhüdü' anlaşmazlığı sonrası işten çıkarma nedeniyle dava edildi",
-    "summary": "Fulton’ın şikayetinde kaydedilmiş bir Buterin görüşmesine yer veriliyor ve ayrımcılık ile misilleme iddialarında bulunuluyor.",
-    "url": "https://www.theblock.co/news/regulation/2026-11-09-ethereum-foundation-vitalik-buterin-sued-over-firing-suicide-pledge-dispute-436739",
-    "published": "2026-11-09T18:30:22Z",
+    "title": "Eski çalışan, işten çıkarılması nedeniyle Ethereum Vakfı ve Vitalik Buterin’e dava açtı",
+    "summary": "Kayleen Fulton, kanser teşhisini açıklamasından ve vakfın yeni görev tanımını destekleme zorunluluğuna itiraz eden bir çalışan mektubunu düzenlemesine yardım etmesinden iki haftadan kısa süre sonra işten çıkarıldığını iddia ediyor.",
+    "url": "https://cointelegraph-tr.com/news/ex-employee-sues-ethereum-foundation-vitalik-buterin-over-firing",
+    "published": "2026-11-10T10:56:51Z",
+    "importance": 3
+   },
+   {
+    "title": "11 yıllık bir Ethereum cüzdanı 4,6 milyon dolar taşıdı ve dakikalar içinde kurulan bir dolandırıcılıktan kurtuldu",
+    "summary": "11 yıllık bir Ethereum cüzdanı 4,6 milyon dolar taşıdı ve dakikalar içinde kurulan bir dolandırıcılıktan kurtuldu.",
+    "url": "https://www.coindesk.com/tech/2026/11/10/an-11-year-old-ethereum-wallet-moved-usd4-6-million-and-dodged-a-scam-set-up-in-minutes",
+    "published": "2026-11-10T07:01:06Z",
     "importance": 3
    },
    {
@@ -116,13 +123,6 @@
     "summary": "İki rakip Ethereum teklifi, Glamsterdam'ın eski sözleşmeleri bozmasını engellemeyi amaçlıyor.",
     "url": "https://www.coindesk.com/tech/2026/11/09/two-rival-ethereum-proposals-aim-to-stop-glamsterdam-breaking-old-contracts",
     "published": "2026-11-09T05:16:54Z",
-    "importance": 3
-   },
-   {
-    "title": "Vitalik Buterin ETH'nin Değer Saklama Aracı Olarak Değerlendirilmesi Gerektiğini Söyledi",
-    "summary": "Vitalik Buterin, Ethereum'un ücret yakan bir token yerine bir değer saklama aracı olarak değerlendirilmesi gerektiğini belirtti. Daha fazla ETH stake edildikçe doğrulayıcı ödüllerinin artan bir payını yakmaya yönelik tartışmalı bir teklif, gelen tepkiler üzerine geçen ay geri çekilmişti.",
-    "url": "https://www.theblock.co/news/ecosystems/2026-11-08-vitalik-buterin-says-eth-should-be-valued-as-a-store-of-value-not-a-fee-burning-token-436022",
-    "published": "2026-11-08T15:52:17Z",
     "importance": 3
    }
   ],
@@ -168,24 +168,18 @@
     "published": "2026-11-09T12:37:13Z",
     "importance": 3
    }
+  ],
+  "XRP": [
+   {
+    "title": "XRP Ledger, kullanıcılar için ek ücret olmaksızın kuantum korumalı hesaplar planlıyor",
+    "summary": "XRP Ledger, kullanıcılar için ek ücret olmaksızın kuantum korumalı hesaplar planlıyor.",
+    "url": "https://www.coindesk.com/tech/2026/11/10/xrp-ledger-maps-out-quantum-proof-accounts-with-no-extra-fees-for-users",
+    "published": "2026-11-10T04:51:20Z",
+    "importance": 3
+   }
   ]
  },
  "seen": {
-  "https://www.coindesk.com/policy/2026/11/06/greece-approves-10-tax-on-crypto-gains-and-15-levy-on-defi-income": 1793958483.5016112,
-  "https://www.theblock.co/news/business/2026-11-06-kalshi-injunction-california-tribal-lands-435813": 1793958483.5016112,
-  "https://cointelegraph-tr.com/markets/bitcoin-ether-etfs-lose-post-election-gains-erased": 1793958483.5016112,
-  "https://www.coindesk.com/business/2026/11/06/trump-backed-world-liberty-financial-plans-token-buyback-after-66-year-to-date-slide": 1793958483.5016112,
-  "https://www.theblock.co/news/defi/2026-11-06-zcashs-nu7-goes-live-435807": 1793958483.5016112,
-  "https://cointelegraph-tr.com/news/chainalysis-cyberattack-password-hashes-live-tokens-exposed": 1793958483.5016112,
-  "https://www.coindesk.com/tech/2026/11/06/zcash-s-landmark-nu7-upgrade-goes-live-speeding-up-private-payments": 1793958483.5016112,
-  "https://cointelegraph-tr.com/news/binance-hack-puts-crypto-exchanges-cold-wallet-ratio-under-spotlight": 1793958483.5016112,
-  "https://www.theblock.co/news/business/2026-11-05-irens-mining-revenue-drops-435783": 1793958483.5016112,
-  "https://www.theblock.co/news/markets/2026-11-05-ark-invest-buys-coinbase-trims-bullish-bitmine-435769": 1793958483.5016112,
-  "https://www.coindesk.com/policy/2026/11/05/hyperliquid-treasury-firm-seeking-u-s-regulatory-nod-as-a-domestic-futures-platform": 1793958483.5016112,
-  "https://cointelegraph-tr.com/news/core-scientific-to-quit-bitcoin-mining-by-year-end-as-ai-business-surges": 1793958483.5016112,
-  "https://cointelegraph-tr.com/news/binance-deribit-revoke-signalplus-api-fake-teams-attack": 1793958483.5016112,
-  "https://cointelegraph-tr.com/news/fed-occ-check-us-banks-binance-hack-security-risks": 1793958483.5016112,
-  "https://cointelegraph-tr.com/news/amundi-tokenizes-european-equity-index-fund-ethereum": 1793958483.5016112,
   "https://www.theblock.co/news/business/2026-11-06-strives-bitcoin-gains-509-million-q3-profit-btc-buying-ramps-up-435907": 1793985959.021537,
   "https://www.coindesk.com/markets/2026/11/05/the-crypto-industry-has-found-new-ways-to-grow-making-money-from-them-is-another-story": 1793985959.021537,
   "https://www.theblock.co/news/business/2026-11-06-aave-labs-buys-avon-team-in-fixed-rate-lending-push-435901": 1793985959.021537,
@@ -285,7 +279,25 @@
   "https://cointelegraph-tr.com/markets/hives-bitcoin-output-jumps-49-but-mining-revenue-falls": 1794281278.3011003,
   "https://www.coindesk.com/business/2026/11/09/securitize-pushes-into-usd6-trillion-asset-backed-finance-market-with-river-one-acquisition": 1794281278.3011003,
   "https://www.theblock.co/news/business/2026-11-09-mara-q3-earnings-net-profit-bitcoin-sale-ai-pivot-436950": 1794281278.3011003,
-  "https://cointelegraph-tr.com/news/north-korean-hackers-memecoins-launder-binance-hack-elliptic": 1794281278.3011003
+  "https://cointelegraph-tr.com/news/north-korean-hackers-memecoins-launder-binance-hack-elliptic": 1794281278.3011003,
+  "https://www.coindesk.com/markets/2026/11/10/bitcoin-lags-stock-rebound-in-advance-of-u-s-inflation-report": 1794310915.7963502,
+  "https://cointelegraph-tr.com/news/ex-employee-sues-ethereum-foundation-vitalik-buterin-over-firing": 1794310915.7963502,
+  "https://www.theblock.co/news/business/2026-11-10-exodus-shares-rise-10-ahead-of-q3-earnings-showing-7-revenue-growth-8-3-million-loss-437012": 1794310915.7963502,
+  "https://www.coindesk.com/markets/2026/11/10/bitcoin-slips-before-u-s-inflation-report-as-traders-price-in-fed-rate-increase": 1794310915.7963502,
+  "https://www.coindesk.com/markets/2026/11/10/live-news-traders-price-in-fed-rate-hike-for-december-as-bitcoin-and-gold-retreat": 1794310915.7963502,
+  "https://www.theblock.co/news/business/2026-11-10-ark-invest-trims-block-bullish-holdings-437003": 1794310915.7963502,
+  "https://www.theblock.co/news/defi/2026-11-10-near-ai-security-breach-437002": 1794310915.7963502,
+  "https://www.coindesk.com/business/2026/11/10/the-crypto-wallet-that-grew-up-inside-telegram-is-striking-out-on-its-own": 1794310915.7963502,
+  "https://www.theblock.co/news/ecosystems/2026-11-10-walt-standalone-crypto-trading-app-436981": 1794310915.7963502,
+  "https://www.coindesk.com/policy/2026/11/10/coinbase-kalshi-kraken-parent-back-cftc-in-legal-fight-over-stock-perpetual-futures": 1794310915.7963502,
+  "https://cointelegraph-tr.com/news/bitgo-q3-2026-earnings-crypto-treasury-gains": 1794310915.7963502,
+  "https://www.theblock.co/news/business/2026-11-10-bitgo-revenue-falls-q3-436986": 1794310915.7963502,
+  "https://www.coindesk.com/tech/2026/11/10/an-11-year-old-ethereum-wallet-moved-usd4-6-million-and-dodged-a-scam-set-up-in-minutes": 1794310915.7963502,
+  "https://www.theblock.co/news/regulation/2026-11-10-coinbase-kalshi-payward-back-cftc-perps-436971": 1794310915.7963502,
+  "https://www.coindesk.com/markets/2026/11/10/bitcoin-miner-mara-sold-13-597-btc-for-usd1-1-billion-in-six-weeks-plans-to-sell-more": 1794310915.7963502,
+  "https://cointelegraph-tr.com/news/crypto-exchanges-need-dollar-caps-on-hot-wallets-certik": 1794310915.7963502,
+  "https://www.coindesk.com/tech/2026/11/10/xrp-ledger-maps-out-quantum-proof-accounts-with-no-extra-fees-for-users": 1794310915.7963502,
+  "https://www.theblock.co/news/business/2026-11-09-trump-media-q3-profit-436964": 1794310915.7963502
  },
  "tries": {
   "https://www.theblock.co/news/defi/2026-10-29-uniswap-token-jar-tjar-robinhood-432131": 1
