@@ -1,20 +1,11 @@
 {
- "updated": "2026-11-10T11:41:55Z",
+ "updated": "2026-11-10T19:39:13Z",
  "sources": [
   "coindesk.com",
   "cointelegraph-tr.com",
   "theblock.co"
  ],
  "bySymbol": {
-  "AAVE": [
-   {
-    "title": "tBTC köprüsü kısmen yeniden faaliyete geçti, 120 milyon dolarlık Aave rezervi donmuş durumda",
-    "summary": "Threshold, operatörlerin kritik bir Linux çekirdeği güvenlik açığını ele almasıyla 30 Ekim'de tBTC köprüsünü durdurdu. Söz konusu güvenlik açığı, yama uygulanmamış sunucularda saldırganların kod çalıştırmasına olanak tanıyabilir.",
-    "url": "https://cointelegraph-tr.com/news/tbtc-bridge-resumes-aave-120m-reserve-frozen",
-    "published": "2026-11-09T04:03:08Z",
-    "importance": 3
-   }
-  ],
   "AVAX": [
    {
     "title": "NYSE, planlanan 7/24 piyasada tokenleştirilmiş hisse senetlerini Avalanche üzerinde takas edecek",
@@ -33,17 +24,24 @@
     "importance": 5
    },
    {
+    "title": "Bitcoin, “cesaret kırıcı” ABD TÜFE verisinin ardından 11 haftanın en düşük seviyesine yaklaşıyor",
+    "summary": "Ekim ayında enflasyonun tahminleri aşmasının ardından Bitcoin ve ABD hisse senetleri başlangıçta geriledi. Yatırımcılar Fed'in aralık ayında çeyrek puanlık faiz artışı yapmasını bekliyor.",
+    "url": "https://cointelegraph-tr.com/markets/bitcoin-11-week-low-discouraging-us-cpi-inflation",
+    "published": "2026-11-10T16:25:03Z",
+    "importance": 4
+   },
+   {
+    "title": "Bitcoin hisse senetlerinden ayrıştı, ETF çıkışları artarken ve MARA varlıklarını azaltırken geriledi",
+    "summary": "Bitcoin hisse senetlerinden ayrışarak ETF çıkışlarının artması ve MARA'nın varlıklarını azaltmasıyla birlikte düşüş yaşadı.",
+    "url": "https://www.coindesk.com/daybook-us/2026/11/10/bitcoin-breaks-with-stocks-declines-as-etf-outflows-mount-mara-sells-holdings",
+    "published": "2026-11-10T12:15:00Z",
+    "importance": 4
+   },
+   {
     "title": "Bitcoin madencisi MARA altı haftada 1,1 milyar dolar karşılığında 13.597 BTC sattı, daha fazlasını satmayı planlıyor",
     "summary": "Bitcoin madencisi MARA altı haftada 1,1 milyar dolar karşılığında 13.597 BTC sattı, daha fazlasını satmayı planlıyor.",
     "url": "https://www.coindesk.com/markets/2026/11/10/bitcoin-miner-mara-sold-13-597-btc-for-usd1-1-billion-in-six-weeks-plans-to-sell-more",
     "published": "2026-11-10T05:18:31Z",
-    "importance": 4
-   },
-   {
-    "title": "Bitcoin, analistlerin enflasyon rahatlamasının yetmeyebileceği uyarısıyla ABD TÜFE testiyle karşı karşıya",
-    "summary": "Bitcoin, analistlerin enflasyon rahatlamasının yetmeyebileceği uyarısı arasında ABD TÜFE testi ile karşı karşıya bulunuyor.",
-    "url": "https://www.coindesk.com/markets/2026/11/10/bitcoin-faces-u-s-cpi-test-as-analysts-warn-inflation-relief-may-not-be-enough",
-    "published": "2026-11-10T03:22:26Z",
     "importance": 4
    },
    {
@@ -61,24 +59,17 @@
     "importance": 4
    },
    {
-    "title": "Bitcoin, ABD enflasyon raporu öncesinde hisse senedi toparlanmasının gerisinde kalıyor",
-    "summary": "Bitcoin, ABD enflasyon raporu öncesinde hisse senedi toparlanmasının gerisinde kalıyor.",
-    "url": "https://www.coindesk.com/markets/2026/11/10/bitcoin-lags-stock-rebound-in-advance-of-u-s-inflation-report",
-    "published": "2026-11-10T11:24:10Z",
+    "title": "Canaan'ın 3. Çeyrek Geliri Bitcoin Madenciliği Donanım Satışlarındaki Düşüşle %90 Azalarak 14,5 Milyon Dolara Geriledi",
+    "summary": "Canaan'ın üçüncü çeyrek geliri %90 düşüşle 14,5 milyon dolara geriledi. Kripto para ve türev kazançları ise 8 milyon dolarlık kârı destekledi.",
+    "url": "https://www.theblock.co/news/business/2026-11-10-canaans-q3-revenue-plunges-90-to-14-5-million-as-bitcoin-mining-hardware-sales-slump-437252",
+    "published": "2026-11-10T16:02:02Z",
     "importance": 3
    },
    {
-    "title": "Yatırımcılar Fed'in faiz artırımını fiyatlarken Bitcoin, ABD enflasyon raporu öncesinde geriledi",
-    "summary": "Yatırımcılar Fed'in faiz artırımını fiyatlarken Bitcoin, ABD enflasyon raporu öncesinde geriledi.",
-    "url": "https://www.coindesk.com/markets/2026/11/10/bitcoin-slips-before-u-s-inflation-report-as-traders-price-in-fed-rate-increase",
-    "published": "2026-11-10T10:48:37Z",
-    "importance": 3
-   },
-   {
-    "title": "Canlı haberler: Bitcoin ve altın gerilerken, yatırımcılar aralık ayı için Fed faiz artırımını fiyatlıyor",
-    "summary": "Canlı haberler: Bitcoin ve altın gerilerken, yatırımcılar aralık ayı için Fed faiz artırımını fiyatlıyor.",
-    "url": "https://www.coindesk.com/markets/2026/11/10/live-news-traders-price-in-fed-rate-hike-for-december-as-bitcoin-and-gold-retreat",
-    "published": "2026-11-10T10:41:45Z",
+    "title": "Bitdeer, Net Zararı 125,5 Milyon Dolara Yükselirken Rekor 3. Çeyrek Geliri Bildirdi",
+    "summary": "Bitdeer, bitcoin üretiminin %248 artarak 3.855 BTC'ye ulaştığı üçüncü çeyrekte 320,7 milyon dolarlık rekor gelir bildirdi.",
+    "url": "https://www.theblock.co/news/business/2026-11-10-bitdeer-reports-record-q3-revenue-as-net-loss-widens-to-125-5-million-437217",
+    "published": "2026-11-10T14:26:02Z",
     "importance": 3
    }
   ],
@@ -117,13 +108,6 @@
     "url": "https://www.theblock.co/news/defi/2026-11-09-zama-spin-off-raycash-launches-confidential-stablecoin-payments-private-yield-ethereum-435909",
     "published": "2026-11-09T09:05:02Z",
     "importance": 3
-   },
-   {
-    "title": "İki rakip Ethereum teklifi, Glamsterdam'ın eski sözleşmeleri bozmasını engellemeyi amaçlıyor",
-    "summary": "İki rakip Ethereum teklifi, Glamsterdam'ın eski sözleşmeleri bozmasını engellemeyi amaçlıyor.",
-    "url": "https://www.coindesk.com/tech/2026/11/09/two-rival-ethereum-proposals-aim-to-stop-glamsterdam-breaking-old-contracts",
-    "published": "2026-11-09T05:16:54Z",
-    "importance": 3
    }
   ],
   "MORPHO": [
@@ -136,13 +120,6 @@
    }
   ],
   "SOL": [
-   {
-    "title": "Solana, 270 milyon dolarlık Drift hack'inde kullanılan işlem özelliğini kaldırmaya hazırlanıyor",
-    "summary": "Solana, 270 milyon dolarlık Drift hack'inde kullanılan işlem özelliğini kaldırmaya hazırlanıyor.",
-    "url": "https://www.coindesk.com/tech/2026/11/09/solana-moves-to-scrap-the-transaction-feature-used-in-the-usd270-million-drift-hack",
-    "published": "2026-11-09T06:36:45Z",
-    "importance": 4
-   },
    {
     "title": "Formation Securities, SEC muafiyeti kapsamında Solana’da hisse senedi işlem platformu planlıyor",
     "summary": "Önerilen platform, Galaxy Digital, Exodus ve Forward Industries’in tokenlaştırılmış hisselerinde 7/24 işlem sunmayı amaçlıyor ve 2027’nin başlarında hizmete girmesi planlanıyor.",
@@ -180,29 +157,6 @@
   ]
  },
  "seen": {
-  "https://www.theblock.co/news/business/2026-11-06-strives-bitcoin-gains-509-million-q3-profit-btc-buying-ramps-up-435907": 1793985959.021537,
-  "https://www.coindesk.com/markets/2026/11/05/the-crypto-industry-has-found-new-ways-to-grow-making-money-from-them-is-another-story": 1793985959.021537,
-  "https://www.theblock.co/news/business/2026-11-06-aave-labs-buys-avon-team-in-fixed-rate-lending-push-435901": 1793985959.021537,
-  "https://www.coindesk.com/business/2026/11/05/thailand-moves-to-block-bitget-as-crypto-exchange-s-local-acquisition-faces-uncertainty": 1793985959.021537,
-  "https://cointelegraph-tr.com/magazine/clarity-act-faces-new-test-under-democratic-congress": 1793985959.021537,
-  "https://cointelegraph-tr.com/news/nigeria-algorithmic-stablecoin-ban-crypto-licensing": 1793985959.021537,
-  "https://www.theblock.co/news/business/2026-11-06-terawulfs-bitcoin-mining-revenue-falls-69-as-hpc-leasing-surges-amid-anthropic-buildout-435885": 1793985959.021537,
-  "https://www.coindesk.com/markets/2026/11/06/u-s-added-165-000-jobs-in-october-blowing-past-65-000-estimate": 1793985959.021537,
-  "https://cointelegraph-tr.com/news/ethereum-devs-fork-glamsterdam-hoodi-smart-contract-risks": 1793985959.021537,
-  "https://www.theblock.co/news/markets/2026-11-06-hypercall-anthropic-linked-pre-ipo-options-market-435453": 1793985959.021537,
-  "https://www.theblock.co/news/markets/2026-11-06-crypto-etfs-see-over-half-a-billion-dollars-in-outflows-amid-post-midterm-market-slide-435873": 1793985959.021537,
-  "https://www.coindesk.com/daybook-us/2026/11/06/over-usd1-billion-in-bullish-bets-liquidated-while-etf-flows-suggest-no-help-in-spot-market": 1793985959.021537,
-  "https://cointelegraph-tr.com/news/solana-shanghai-event-halted-unauthorized-promotion": 1793985959.021537,
-  "https://www.coindesk.com/tech/2026/11/06/live-updates-nasdaq-100-futures-rally-points-to-stock-market-respite": 1793985959.021537,
-  "https://www.coindesk.com/markets/2026/11/06/bitcoin-steadies-near-usd76-000-after-ai-led-selloff": 1793985959.021537,
-  "https://www.theblock.co/news/regulation/2026-11-06-nigerias-central-bank-introduces-stablecoin-licensing-rules-bans-algorithmic-versions-435867": 1793985959.021537,
-  "https://cointelegraph-tr.com/news/binance-hackers-8-weeks-access-63b-exploit-security-alliance": 1793985959.021537,
-  "https://cointelegraph-tr.com/news/greece-approves-10-tax-crypto-gains-2027": 1793985959.021537,
-  "https://cointelegraph-tr.com/news/binances-hack-questions-hot-wallet-risk-controls": 1793985959.021537,
-  "https://www.coindesk.com/markets/2026/11/06/bitcoin-recovers-usd76-000-level-as-etfs-shed-usd430-million-after-tech-rout": 1793985959.021537,
-  "https://cointelegraph-tr.com/news/nasdaq-hyperliquid-strategies-futures-broker-license-onchain-perps": 1793985959.021537,
-  "https://cointelegraph-tr.com/news/crypto-ally-french-hill-wins-reelection-arkansas": 1793985959.021537,
-  "https://cointelegraph-tr.com/news/paraguay-president-resigns-after-collapse-ueno-digital-bank": 1793985959.021537,
   "https://cointelegraph-tr.com/news/us-treasury-bans-mexc-over-alleged-16b-illicit-transactions": 1794003653.3259742,
   "https://www.theblock.co/news/regulation/2026-11-06-treasury-cuts-off-mexc-global-over-alleged-16-billion-in-transactions-linked-to-iran-north-korea-and-russia-435957": 1794003653.3259742,
   "https://cointelegraph-tr.com/news/gnosis-pay-breach-exposes-card-details-personal-data-crypto-wallet-information": 1794003653.3259742,
@@ -297,7 +251,30 @@
   "https://www.coindesk.com/markets/2026/11/10/bitcoin-miner-mara-sold-13-597-btc-for-usd1-1-billion-in-six-weeks-plans-to-sell-more": 1794310915.7963502,
   "https://cointelegraph-tr.com/news/crypto-exchanges-need-dollar-caps-on-hot-wallets-certik": 1794310915.7963502,
   "https://www.coindesk.com/tech/2026/11/10/xrp-ledger-maps-out-quantum-proof-accounts-with-no-extra-fees-for-users": 1794310915.7963502,
-  "https://www.theblock.co/news/business/2026-11-09-trump-media-q3-profit-436964": 1794310915.7963502
+  "https://www.theblock.co/news/business/2026-11-09-trump-media-q3-profit-436964": 1794310915.7963502,
+  "https://www.theblock.co/news/markets/2026-11-10-bitcoin-price-cpi-inflation-73000-support-437301": 1794339553.214799,
+  "https://cointelegraph-tr.com/news/pix-withdrawals-resume-mercado-bitcoin-hack": 1794339553.214799,
+  "https://www.theblock.co/news/markets/2026-11-10-grayscale-pledges-1-million-alongside-zcash-ad-blitz-as-token-and-etf-fall-12-437277": 1794339553.214799,
+  "https://www.coindesk.com/business/2026/11/10/goldman-sachs-citi-among-banks-said-to-commit-usd270-million-to-stablecoin-venture": 1794339553.214799,
+  "https://www.theblock.co/news/markets/2026-11-10-ton-strategy-tonx-q3-2026-earnings-gram-staking-437278": 1794339553.214799,
+  "https://www.coindesk.com/news-analysis/2026/11/10/crypto-teams-up-with-u-s-government-to-defend-stock-perps-in-legal-fight": 1794339553.214799,
+  "https://cointelegraph-tr.com/markets/bitcoin-11-week-low-discouraging-us-cpi-inflation": 1794339553.214799,
+  "https://www.theblock.co/news/business/2026-11-10-alta-raises-80-million-build-blockchain-banks-payment-firms-437244": 1794339553.214799,
+  "https://www.theblock.co/news/business/2026-11-10-canaans-q3-revenue-plunges-90-to-14-5-million-as-bitcoin-mining-hardware-sales-slump-437252": 1794339553.214799,
+  "https://www.theblock.co/news/ecosystems/2026-11-10-megaeth-rebrand-30-million-new-products-ai-inference-437249": 1794339553.214799,
+  "https://www.coindesk.com/markets/2026/11/10/emb-10-am-et-plume-affiliate-gets-the-legal-green-light-to-trade-regulated-security-entitlements-onchain": 1794339553.214799,
+  "https://www.theblock.co/news/ecosystems/2026-11-10-moodys-chainlink-ccip-cross-chain-credit-ratings-pilot-437245": 1794339553.214799,
+  "https://www.theblock.co/news/business/2026-11-10-bitdeer-reports-record-q3-revenue-as-net-loss-widens-to-125-5-million-437217": 1794339553.214799,
+  "https://www.theblock.co/news/ecosystems/2026-11-10-visa-monad-stablecoin-settlement-network-437201": 1794339553.214799,
+  "https://www.coindesk.com/opinion/2026/11/10/will-stablecoins-survive-once-the-banks-catch-up": 1794339553.214799,
+  "https://www.theblock.co/news/business/2026-11-10-etoros-q3-profit-plunges-74-as-weaker-crypto-trading-weighs-on-earnings-437192": 1794339553.214799,
+  "https://cointelegraph-tr.com/news/poland-bill-freeze-sanctions-crypto-assets": 1794339553.214799,
+  "https://www.coindesk.com/markets/2026/11/10/u-s-cpi-rose-stronger-than-expected-0-4-in-october-core-rate-rose-0-3": 1794339553.214799,
+  "https://cointelegraph-tr.com/magazine/bitcoins-best-buying-opportunity-ever-has-arrived-mark-moss": 1794339553.214799,
+  "https://www.coindesk.com/business/2026/11/09/ripple-prime-head-marc-asch-to-step-down-noel-kimmel-named-successor": 1794339553.214799,
+  "https://www.coindesk.com/daybook-us/2026/11/10/bitcoin-breaks-with-stocks-declines-as-etf-outflows-mount-mara-sells-holdings": 1794339553.214799,
+  "https://www.theblock.co/news/business/2026-11-10-hive-reports-79-million-quarterly-net-loss-as-bitcoin-mining-revenue-falls-and-ai-business-grows-437177": 1794339553.214799,
+  "https://cointelegraph-tr.com/news/coinbase-kalshi-cftc-stock-perpetual-futures-lawsuit": 1794339553.214799
  },
  "tries": {
   "https://www.theblock.co/news/defi/2026-10-29-uniswap-token-jar-tjar-robinhood-432131": 1
