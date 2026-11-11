@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-11T15:07:34Z",
+ "updated": "2026-11-11T22:13:49Z",
  "sources": [
   "coindesk.com",
   "cointelegraph-tr.com",
@@ -22,6 +22,20 @@
     "importance": 4
    },
    {
+    "title": "Hisse senedi ETF alıcıları düşüşe saldırırken Bitcoin fonları 1,6 milyar dolar kaybetti",
+    "summary": "ABD spot Bitcoin ETF'leri kasım ayında 1,6 milyar dolar kaybederken, düşüşten alım yapan yatırımcılar hisse senedi fonlarına milyarlarca dolar aktardı.",
+    "url": "https://cointelegraph-tr.com/markets/bitcoin-etf-outflows-persist-while-equity-investors-buy-the-dip",
+    "published": "2026-11-11T08:55:31Z",
+    "importance": 4
+   },
+   {
+    "title": "SEC icra eylemleri yüzde 24 geriledi, kripto davaları gündemde",
+    "summary": "SEC, mali 2026'da 348 eylem başlattı ve bu sayı bir önceki yılki 456 eylemden daha düşük gerçekleşti. Başlatılan davalar arasında iddia edilen Bitcoin madenciliği dolandırıcılığı ve FTX denetimlerine ilişkin eksiklikler yer aldı.",
+    "url": "https://cointelegraph-tr.com/news/sec-crypto-cases-enforcement-actions-fall-23-2025",
+    "published": "2026-11-11T08:43:30Z",
+    "importance": 4
+   },
+   {
     "title": "Bitcoin, “cesaret kırıcı” ABD TÜFE verisinin ardından 11 haftanın en düşük seviyesine yaklaşıyor",
     "summary": "Ekim ayında enflasyonun tahminleri aşmasının ardından Bitcoin ve ABD hisse senetleri başlangıçta geriledi. Yatırımcılar Fed'in aralık ayında çeyrek puanlık faiz artışı yapmasını bekliyor.",
     "url": "https://cointelegraph-tr.com/markets/bitcoin-11-week-low-discouraging-us-cpi-inflation",
@@ -36,11 +50,11 @@
     "importance": 4
    },
    {
-    "title": "Bitcoin madencisi MARA altı haftada 1,1 milyar dolar karşılığında 13.597 BTC sattı, daha fazlasını satmayı planlıyor",
-    "summary": "Bitcoin madencisi MARA altı haftada 1,1 milyar dolar karşılığında 13.597 BTC sattı, daha fazlasını satmayı planlıyor.",
-    "url": "https://www.coindesk.com/markets/2026/11/10/bitcoin-miner-mara-sold-13-597-btc-for-usd1-1-billion-in-six-weeks-plans-to-sell-more",
-    "published": "2026-11-10T05:18:31Z",
-    "importance": 4
+    "title": "ABD veri merkezi kısıtlamaları, Bitcoin madencilerine yapay zekâ alanında avantaj sağlayabilir",
+    "summary": "ABD’li seçmenler yeni veri merkezlerine karşı çıkarken, yapay zekâya yönelen Bitcoin madencileri mevcut tesisleri sayesinde avantaj elde edebilir.",
+    "url": "https://cointelegraph-tr.com/news/us-data-center-restrictions-bitcoin-miners-edge-ai",
+    "published": "2026-11-11T20:43:19Z",
+    "importance": 3
    },
    {
     "title": "Opsiyon trader'ları Noel'de 70.000 doların altı ihtimalini artırırken Bitcoin 'sıkışmaya uygun'",
@@ -48,19 +62,14 @@
     "url": "https://www.theblock.co/news/markets/2026-11-11-bitcoin-ripe-for-squeeze-options-traders-raise-odds-sub-70000-christmas-437897",
     "published": "2026-11-11T14:44:31Z",
     "importance": 3
-   },
+   }
+  ],
+  "DOGE": [
    {
-    "title": "Bitcoin Core, yüksek dereceli madencilik hatası dahil olmak üzere düzeltilmiş üç güvenlik açığını açıkladı",
-    "summary": "Bitcoin Core, blok şablonu oluşturmayı etkileyen yüksek dereceli bir hata dahil olmak üzere daha önceden giderilmiş üç güvenlik açığını açıkladı.",
-    "url": "https://www.theblock.co/news/ecosystems/2026-11-11-bitcoin-core-discloses-three-patched-security-flaws-including-high-severity-mining-bug-437862",
-    "published": "2026-11-11T12:50:08Z",
-    "importance": 3
-   },
-   {
-    "title": "CoreWeave kazançları yapay zeka görünümünü canlandırırken Bitcoin 74.000 doların altında sıkıştı, Anthropic'in halka arz değerlemesini artıracağı söylendi",
-    "summary": "CoreWeave kazançları yapay zeka görünümünü canlandırırken Bitcoin 74.000 doların altında sıkıştı, Anthropic'in halka arz değerlemesini artıracağı söylendi",
-    "url": "https://www.coindesk.com/markets/2026/11/11/coreweave-earnings-revive-ai-outlook-as-anthropic-weighs-higher-ipo-valuation",
-    "published": "2026-11-11T10:45:49Z",
+    "title": "DogeOS CEO'suna göre DeFi özellikleri ve uygulama katmanı çok yakında",
+    "summary": "DogeOS, oyunlar, uygulamalar ve finansal hizmetler aracılığıyla DOGE sahiplerine token'ı kullanmaları için daha fazla yol sunmayı amaçlıyor.",
+    "url": "https://www.theblock.co/news/defi/2026-11-11-dogeos-very-very-close-launching-defi-features-app-layer-dogecoin-ceo-438392",
+    "published": "2026-11-11T20:32:19Z",
     "importance": 3
    }
   ],
@@ -84,13 +93,6 @@
     "summary": "Kayleen Fulton, kanser teşhisini açıklamasından ve vakfın yeni görev tanımını destekleme zorunluluğuna itiraz eden bir çalışan mektubunu düzenlemesine yardım etmesinden iki haftadan kısa süre sonra işten çıkarıldığını iddia ediyor.",
     "url": "https://cointelegraph-tr.com/news/ex-employee-sues-ethereum-foundation-vitalik-buterin-over-firing",
     "published": "2026-11-10T10:56:51Z",
-    "importance": 3
-   },
-   {
-    "title": "11 yıllık bir Ethereum cüzdanı 4,6 milyon dolar taşıdı ve dakikalar içinde kurulan bir dolandırıcılıktan kurtuldu",
-    "summary": "11 yıllık bir Ethereum cüzdanı 4,6 milyon dolar taşıdı ve dakikalar içinde kurulan bir dolandırıcılıktan kurtuldu.",
-    "url": "https://www.coindesk.com/tech/2026/11/10/an-11-year-old-ethereum-wallet-moved-usd4-6-million-and-dodged-a-scam-set-up-in-minutes",
-    "published": "2026-11-10T07:01:06Z",
     "importance": 3
    }
   ],
@@ -121,25 +123,26 @@
     "importance": 3
    }
   ],
-  "XRP": [
+  "USDC": [
    {
-    "title": "XRP Ledger, kullanıcılar için ek ücret olmaksızın kuantum korumalı hesaplar planlıyor",
-    "summary": "XRP Ledger, kullanıcılar için ek ücret olmaksızın kuantum korumalı hesaplar planlıyor.",
-    "url": "https://www.coindesk.com/tech/2026/11/10/xrp-ledger-maps-out-quantum-proof-accounts-with-no-extra-fees-for-users",
-    "published": "2026-11-10T04:51:20Z",
-    "importance": 3
+    "title": "Stablecoin arzı 2022 ayı piyasasından bu yana en büyük daralma ile 14,2 milyar dolar düştü",
+    "summary": "Geçtiğimiz ay USDT ve USDC arzı yaklaşık 11 milyar dolar düşerken, altına dayalı token'lar yatay seyretti.",
+    "url": "https://www.theblock.co/news/ecosystems/2026-11-11-stablecoin-supply-drops-14-2-billion-largest-contraction-since-2022-bear-market-437907",
+    "published": "2026-11-11T17:23:10Z",
+    "importance": 4
+   }
+  ],
+  "USDT": [
+   {
+    "title": "Stablecoin arzı 2022 ayı piyasasından bu yana en büyük daralma ile 14,2 milyar dolar düştü",
+    "summary": "Geçtiğimiz ay USDT ve USDC arzı yaklaşık 11 milyar dolar düşerken, altına dayalı token'lar yatay seyretti.",
+    "url": "https://www.theblock.co/news/ecosystems/2026-11-11-stablecoin-supply-drops-14-2-billion-largest-contraction-since-2022-bear-market-437907",
+    "published": "2026-11-11T17:23:10Z",
+    "importance": 4
    }
   ]
  },
  "seen": {
-  "https://cointelegraph-tr.com/news/what-happened-in-crypto-today": 1794066822.1218655,
-  "https://cointelegraph-tr.com/news/ex-fbi-counterintelligence-agent-stole-almost-25m-in-crypto": 1794066822.1218655,
-  "https://cointelegraph-tr.com/magazine/bitcoin-holders-have-received-ecash-what-can-you-with-it": 1794066822.1218655,
-  "https://cointelegraph-tr.com/news/us-sanctions-canadian-money-exchange-firms-over-iran-ties": 1794066822.1218655,
-  "https://www.coindesk.com/business/2026/11/07/binance-users-in-some-european-countries-told-to-pull-crypto-before-fees-kick-in-with-accounts-closing-by-year-end": 1794082204.803936,
-  "https://www.coindesk.com/business/2026/11/07/u-s-treasury-moves-to-cut-off-crypto-exchange-mexc-over-usd16-billion-in-alleged-illicit-flows": 1794082204.803936,
-  "https://www.coindesk.com/business/2026/11/07/gnosis-pay-breach-exposes-card-numbers-home-addresses-and-linked-crypto-wallets": 1794082204.803936,
-  "https://www.theblock.co/news/markets/2026-11-07-bitcoin-etfs-flip-negative-for-2026-after-1-28-billion-outflow-week-worst-since-june-435984": 1794082204.803936,
   "https://www.theblock.co/news/business/2026-11-07-binance-cfo-steps-down-nine-days-after-record-hack-co-ceo-says-transition-was-planned-six-months-ago-435992": 1794095697.4315612,
   "https://www.theblock.co/news/regulation/2026-11-07-ex-fbi-agent-pleads-guilty-to-stealing-2-47-million-in-crypto-from-wallets-tied-to-35-investigations-435988": 1794095697.4315612,
   "https://www.coindesk.com/markets/2026/11/08/these-finland-homes-get-free-heat-from-bitcoin-miners-as-long-as-btc-stays-above-usd70-000": 1794143650.1887853,
@@ -271,7 +274,22 @@
   "https://www.coindesk.com/business/2026/11/11/kraken-s-xstocks-adds-200-uk-and-eu-shares-as-its-assets-top-usd1-1-billion": 1794409654.2047777,
   "https://www.coindesk.com/markets/2026/11/11/coreweave-earnings-revive-ai-outlook-as-anthropic-weighs-higher-ipo-valuation": 1794409654.2047777,
   "https://cointelegraph-tr.com/news/bitget-wallet-crypto-phishing-risk-detections-surge": 1794409654.2047777,
-  "https://www.theblock.co/news/regulation/2026-11-11-new-york-judge-denies-novig-injunction-bid-437828": 1794409654.2047777
+  "https://www.theblock.co/news/regulation/2026-11-11-new-york-judge-denies-novig-injunction-bid-437828": 1794409654.2047777,
+  "https://www.theblock.co/news/regulation/2026-11-11-sec-enters-fight-who-regulates-perpetual-derivatives-stocks-in-us-438427": 1794435229.3930438,
+  "https://cointelegraph-tr.com/news/uncalled-midterm-races-add-more-crypto-supporters-congress": 1794435229.3930438,
+  "https://cointelegraph-tr.com/news/nomura-sale-crypto-unit-laser-digital": 1794435229.3930438,
+  "https://cointelegraph-tr.com/news/us-data-center-restrictions-bitcoin-miners-edge-ai": 1794435229.3930438,
+  "https://www.theblock.co/news/defi/2026-11-11-dogeos-very-very-close-launching-defi-features-app-layer-dogecoin-ceo-438392": 1794435229.3930438,
+  "https://www.theblock.co/news/regulation/2026-11-11-sen-warren-merkley-raise-ethics-concerns-over-trump-aides-prediction-market-bets-438394": 1794435229.3930438,
+  "https://www.theblock.co/news/ecosystems/2026-11-11-stablecoin-supply-drops-14-2-billion-largest-contraction-since-2022-bear-market-437907": 1794435229.3930438,
+  "https://www.theblock.co/news/deals/2026-11-11-apex-group-joins-hedera-council-tokenization-437917": 1794435229.3930438,
+  "https://www.theblock.co/news/web3/2026-11-11-pyth-network-nyse-data-437928": 1794435229.3930438,
+  "https://www.theblock.co/news/markets/2026-11-11-stonex-sees-111-upside-for-securitize-shares-as-tokenization-revenue-rebounds-437910": 1794435229.3930438,
+  "https://www.coindesk.com/coindesk-indices/2026/11/11/crypto-long-and-short-the-genius-act-s-guarantees-don-t-cover-defi-lending": 1794435229.3930438,
+  "https://cointelegraph-tr.com/news/what-happened-in-crypto-today": 1794435229.3930438,
+  "https://cointelegraph-tr.com/news/ecb-warns-legislative-delays-digital-euro-launch": 1794435229.3930438,
+  "https://cointelegraph-tr.com/markets/bitcoin-etf-outflows-persist-while-equity-investors-buy-the-dip": 1794435229.3930438,
+  "https://cointelegraph-tr.com/news/sec-crypto-cases-enforcement-actions-fall-23-2025": 1794435229.3930438
  },
  "tries": {
   "https://www.theblock.co/news/defi/2026-10-29-uniswap-token-jar-tjar-robinhood-432131": 1
