@@ -1,20 +1,11 @@
 {
- "updated": "2026-11-11T00:35:51Z",
+ "updated": "2026-11-11T07:06:07Z",
  "sources": [
   "coindesk.com",
   "cointelegraph-tr.com",
   "theblock.co"
  ],
  "bySymbol": {
-  "AVAX": [
-   {
-    "title": "NYSE, planlanan 7/24 piyasada tokenleştirilmiş hisse senetlerini Avalanche üzerinde takas edecek",
-    "summary": "NYSE, tokenleştirilmiş hisse senetlerini Avalanche üzerinde takas etmeye hazırlanıyor.",
-    "url": "https://www.theblock.co/news/business/2026-11-09-nyse-settle-tokenized-stocks-avalanche-planned-24-7-market-436208",
-    "published": "2026-11-09T14:07:27Z",
-    "importance": 4
-   }
-  ],
   "BTC": [
    {
     "title": "Bitcoin, “cesaret kırıcı” ABD TÜFE verisinin ardından 11 haftanın en düşük seviyesine yaklaşıyor",
@@ -38,20 +29,6 @@
     "importance": 4
    },
    {
-    "title": "'Parçaları birleştirmek': Michael Saylor’ın Strategy şirketi, varlıkları 850.000 BTC'yi aşarken 82 milyon dolara 1.036 bitcoin daha satın aldı",
-    "summary": "Strategy, 82 milyon dolar karşılığında 1.036 bitcoin daha satın alarak toplam varlıklarını 850.000 BTC'nin üzerine çıkardı. Şirketin toplam varlıkları bitcoin arz sınırının yüzde 4'ünden fazlasını oluşturuyor.",
-    "url": "https://www.theblock.co/news/business/2026-11-09-connecting-the-dots-michael-saylor-strategy-bitcoin-436094",
-    "published": "2026-11-09T13:10:42Z",
-    "importance": 4
-   },
-   {
-    "title": "24 saatlik kripto uzun pozisyon tasfiyeleri 1 milyar doları aşarken Bitcoin 50 haftalık hareketli ortalamasını kaybetti",
-    "summary": "Bitcoin, 50 haftalık hareketli ortalamasının altında kapanış yaptı. Bu süreçte 1 milyar doların üzerinde kripto uzun pozisyonu tasfiye edildi.",
-    "url": "https://www.theblock.co/news/markets/2026-11-09-bitcoin-loses-50-week-moving-average-as-24-hour-crypto-long-liquidations-top-1-billion-436102",
-    "published": "2026-11-09T13:04:21Z",
-    "importance": 4
-   },
-   {
     "title": "Canaan'ın 3. Çeyrek Geliri Bitcoin Madenciliği Donanım Satışlarındaki Düşüşle %90 Azalarak 14,5 Milyon Dolara Geriledi",
     "summary": "Canaan'ın üçüncü çeyrek geliri %90 düşüşle 14,5 milyon dolara geriledi. Kripto para ve türev kazançları ise 8 milyon dolarlık kârı destekledi.",
     "url": "https://www.theblock.co/news/business/2026-11-10-canaans-q3-revenue-plunges-90-to-14-5-million-as-bitcoin-mining-hardware-sales-slump-437252",
@@ -68,6 +45,13 @@
   ],
   "ETH": [
    {
+    "title": "Bitmine, etherdeki yüzde 44'lük düşüşün etkisiyle son mali yılda 6,3 milyar dolar net zarar açıkladı",
+    "summary": "SEC dosyasına göre, net zararların yaklaşık 6,23 milyar dolarlık kısmı dijital varlık varlıklarındaki gerçekleşmemiş gerçeğe uygun değer kayıplarından kaynaklandı.",
+    "url": "https://www.theblock.co/news/business/2026-11-11-bitmine-6-3-billion-net-loss-437812",
+    "published": "2026-11-11T06:22:32Z",
+    "importance": 3
+   },
+   {
     "title": "Eski çalışan, işten çıkarılması nedeniyle Ethereum Vakfı ve Vitalik Buterin’e dava açtı",
     "summary": "Kayleen Fulton, kanser teşhisini açıklamasından ve vakfın yeni görev tanımını destekleme zorunluluğuna itiraz eden bir çalışan mektubunu düzenlemesine yardım etmesinden iki haftadan kısa süre sonra işten çıkarıldığını iddia ediyor.",
     "url": "https://cointelegraph-tr.com/news/ex-employee-sues-ethereum-foundation-vitalik-buterin-over-firing",
@@ -79,20 +63,6 @@
     "summary": "11 yıllık bir Ethereum cüzdanı 4,6 milyon dolar taşıdı ve dakikalar içinde kurulan bir dolandırıcılıktan kurtuldu.",
     "url": "https://www.coindesk.com/tech/2026/11/10/an-11-year-old-ethereum-wallet-moved-usd4-6-million-and-dodged-a-scam-set-up-in-minutes",
     "published": "2026-11-10T07:01:06Z",
-    "importance": 3
-   },
-   {
-    "title": "Ethereum hazine şirketi Sharplink'in 3. çeyrek net kârı, gerçekleşmemiş ether kazançlarıyla 751 milyon dolara ulaştı",
-    "summary": "Sharplink, gerçekleşmemiş Ethereum kazançlarının etkisiyle üçüncü çeyrekte 13,5 milyon dolar gelir ve 751,4 milyon dolar net kâr açıkladı.",
-    "url": "https://www.theblock.co/news/markets/2026-11-09-sharplink-q3-2026-earnings-net-income-eth-holdings-436459",
-    "published": "2026-11-09T15:40:30Z",
-    "importance": 3
-   },
-   {
-    "title": "Tom Lee'nin Bitmine şirketi, tokenizasyon ve yapay zeka 'süper döngüsü' öngörüsüyle 20 milyon dolarlık ETH alımı yaparak %5 Ethereum arzı hedefine yaklaşıyor",
-    "summary": "Bitmine, dolaşımdaki Ethereum arzının yüzde 5'lik hedefine yaklaşarak geçen hafta 20 milyon dolar değerinde 9.587 ETH daha satın aldı.",
-    "url": "https://www.theblock.co/news/business/2026-11-09-tom-lee-bitmine-nears-ethereum-supply-target-20-million-eth-tokenization-ai-supercycle-436219",
-    "published": "2026-11-09T14:32:40Z",
     "importance": 3
    }
   ],
@@ -121,21 +91,12 @@
     "importance": 3
    }
   ],
-  "TRUMP": [
+  "TRX": [
    {
-    "title": "Justin Sun başvurulara itiraz ederken Trump, World Liberty'nin BAE bağlantıları hakkında 'hiçbir şey' bilmediğini söylüyor",
-    "summary": "Justin Sun başvurulara itiraz ederken Trump, World Liberty'nin BAE bağlantıları hakkında hiçbir şey bilmediğini belirtiyor.",
-    "url": "https://www.coindesk.com/business/2026/11/09/trump-says-he-knows-nothing-about-world-liberty-s-uae-ties-as-justin-sun-challenges-filings",
-    "published": "2026-11-09T12:37:13Z",
-    "importance": 3
-   }
-  ],
-  "WLFI": [
-   {
-    "title": "Justin Sun başvurulara itiraz ederken Trump, World Liberty'nin BAE bağlantıları hakkında 'hiçbir şey' bilmediğini söylüyor",
-    "summary": "Justin Sun başvurulara itiraz ederken Trump, World Liberty'nin BAE bağlantıları hakkında hiçbir şey bilmediğini belirtiyor.",
-    "url": "https://www.coindesk.com/business/2026/11/09/trump-says-he-knows-nothing-about-world-liberty-s-uae-ties-as-justin-sun-challenges-filings",
-    "published": "2026-11-09T12:37:13Z",
+    "title": "Tron Inc, gerçekleşmeyen stake gelirlerinin artmasıyla 3. çeyrekte net gelirini yüzde 22 artırdı",
+    "summary": "Şirket, 2026 yılı 3. çeyreğinde yıllık bazda yüzde 22 artışla 14,9 milyon dolar net gelir bildirdi. Dokuz aylık net gelir ise yüzde 203 artışla 39,4 milyon dolara ulaştı.",
+    "url": "https://www.theblock.co/news/business/2026-11-10-tron-inc-q3-net-income-437786",
+    "published": "2026-11-11T04:02:02Z",
     "importance": 3
    }
   ],
@@ -263,7 +224,10 @@
   "https://cointelegraph-tr.com/news/across-protocol-warns-avoid-app-drained-wallets": 1794357351.958399,
   "https://www.coindesk.com/policy/2026/11/10/warren-what-is-white-house-doing-to-prevent-a-repeat-of-teleprompter-s-trump-bets": 1794357351.958399,
   "https://cointelegraph-tr.com/news/kimber-digital-securities-broker-dealer-tokenization": 1794357351.958399,
-  "https://www.coindesk.com/business/2026/11/10/former-nyse-president-says-stock-issuers-hold-the-key-to-tokenization-as-bullish-builds-its-platform": 1794357351.958399
+  "https://www.coindesk.com/business/2026/11/10/former-nyse-president-says-stock-issuers-hold-the-key-to-tokenization-as-bullish-builds-its-platform": 1794357351.958399,
+  "https://www.theblock.co/news/business/2026-11-11-bitmine-6-3-billion-net-loss-437812": 1794380767.226075,
+  "https://www.theblock.co/news/business/2026-11-10-tron-inc-q3-net-income-437786": 1794380767.226075,
+  "https://cointelegraph-tr.com/news/crypto-ally-tom-emmer-elected-house-gop-minority-whip": 1794380767.226075
  },
  "tries": {
   "https://www.theblock.co/news/defi/2026-10-29-uniswap-token-jar-tjar-robinhood-432131": 1
