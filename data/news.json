@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-10T19:39:13Z",
+ "updated": "2026-11-11T00:35:51Z",
  "sources": [
   "coindesk.com",
   "cointelegraph-tr.com",
@@ -16,13 +16,6 @@
    }
   ],
   "BTC": [
-   {
-    "title": "Bitcoin ETF’leri, haziran sonundan bu yana en büyük haftalık net çıkışta 1,3 milyar dolar kaybetti",
-    "summary": "Bitcoin 76.000 doların altına gerilerken ve ABD teknoloji hisselerinde satışlar yaşanırken, yatırımcılar geçen hafta BlackRock’ın IBIT fonundan net 1,21 milyar dolar çekti.",
-    "url": "https://cointelegraph-tr.com/markets/bitcoin-etfs-13b-biggest-weekly-outflow-late-june",
-    "published": "2026-11-09T08:17:35Z",
-    "importance": 5
-   },
    {
     "title": "Bitcoin, “cesaret kırıcı” ABD TÜFE verisinin ardından 11 haftanın en düşük seviyesine yaklaşıyor",
     "summary": "Ekim ayında enflasyonun tahminleri aşmasının ardından Bitcoin ve ABD hisse senetleri başlangıçta geriledi. Yatırımcılar Fed'in aralık ayında çeyrek puanlık faiz artışı yapmasını bekliyor.",
@@ -101,25 +94,25 @@
     "url": "https://www.theblock.co/news/business/2026-11-09-tom-lee-bitmine-nears-ethereum-supply-target-20-million-eth-tokenization-ai-supercycle-436219",
     "published": "2026-11-09T14:32:40Z",
     "importance": 3
-   },
-   {
-    "title": "Zama spin-off'u Raycash, Ethereum üzerinde gizli stablecoin ödemelerini ve özel verimi başlattı",
-    "summary": "Raycash, Ethereum üzerinde uygulamasını hayata geçirerek gizli stablecoin ödemelerini ve boşta kalan bakiyeler için Morpho verimini mümkün kıldı.",
-    "url": "https://www.theblock.co/news/defi/2026-11-09-zama-spin-off-raycash-launches-confidential-stablecoin-payments-private-yield-ethereum-435909",
-    "published": "2026-11-09T09:05:02Z",
-    "importance": 3
    }
   ],
-  "MORPHO": [
+  "PLUME": [
    {
-    "title": "Zama spin-off'u Raycash, Ethereum üzerinde gizli stablecoin ödemelerini ve özel verimi başlattı",
-    "summary": "Raycash, Ethereum üzerinde uygulamasını hayata geçirerek gizli stablecoin ödemelerini ve boşta kalan bakiyeler için Morpho verimini mümkün kıldı.",
-    "url": "https://www.theblock.co/news/defi/2026-11-09-zama-spin-off-raycash-launches-confidential-stablecoin-payments-private-yield-ethereum-435909",
-    "published": "2026-11-09T09:05:02Z",
+    "title": "Kimber Digital Securities, tokenleştirilmiş varlıklar için broker-satıcı statüsü kazandı",
+    "summary": "Plume iştiraki, geleneksel hissedar haklarını koruyarak tokenleştirilmiş ABD hisselerini, ETF'leri ve tahvilleri self-custody cüzdanları üzerinden sunmayı planlıyor.",
+    "url": "https://cointelegraph-tr.com/news/kimber-digital-securities-broker-dealer-tokenization",
+    "published": "2026-11-10T20:26:02Z",
     "importance": 3
    }
   ],
   "SOL": [
+   {
+    "title": "Forward Industries, SOL rezervini 8,7 milyona çıkardı ve token yaklaşık üç ayın en düşük seviyesini gördü",
+    "summary": "Forward Industries, daha fazla SOL birikimini desteklemek amacıyla 50 milyon dolarlık bir kredi hattı ve konut bağlantılı yatırım ekleyerek SOL rezervini 8,7 milyon tokena yükseltti.",
+    "url": "https://www.theblock.co/news/markets/2026-11-10-forward-industries-grows-sol-treasury-8-7-million-token-hits-three-month-low-437330",
+    "published": "2026-11-10T21:51:19Z",
+    "importance": 3
+   },
    {
     "title": "Formation Securities, SEC muafiyeti kapsamında Solana’da hisse senedi işlem platformu planlıyor",
     "summary": "Önerilen platform, Galaxy Digital, Exodus ve Forward Industries’in tokenlaştırılmış hisselerinde 7/24 işlem sunmayı amaçlıyor ve 2027’nin başlarında hizmete girmesi planlanıyor.",
@@ -157,16 +150,6 @@
   ]
  },
  "seen": {
-  "https://cointelegraph-tr.com/news/us-treasury-bans-mexc-over-alleged-16b-illicit-transactions": 1794003653.3259742,
-  "https://www.theblock.co/news/regulation/2026-11-06-treasury-cuts-off-mexc-global-over-alleged-16-billion-in-transactions-linked-to-iran-north-korea-and-russia-435957": 1794003653.3259742,
-  "https://cointelegraph-tr.com/news/gnosis-pay-breach-exposes-card-details-personal-data-crypto-wallet-information": 1794003653.3259742,
-  "https://www.theblock.co/news/regulation/2026-11-06-us-treasury-walks-back-crypto-surveillance-travel-rule-proposal-435951": 1794003653.3259742,
-  "https://www.coindesk.com/policy/2026/11/06/apple-meta-reject-okx-ice-tokenized-stock-plans-leaving-crypto-firms-as-the-ones-to-watch": 1794003653.3259742,
-  "https://www.theblock.co/news/defi/2026-11-06-gnosis-pay-data-breach-legacy-debit-card-system-435934": 1794003653.3259742,
-  "https://www.theblock.co/news/regulation/2026-11-06-trump-administration-moves-closer-allowing-crypto-401k-retirement-plans-435939": 1794003653.3259742,
-  "https://www.theblock.co/news/markets/2026-11-06-binance-hackers-swap-stolen-tokens-124-million-bitcoin-exchange-plans-withdrawal-reopenings-435930": 1794003653.3259742,
-  "https://cointelegraph-tr.com/markets/bitcoin-price-under-75k-crypto-markets-tech-stock": 1794003653.3259742,
-  "https://www.coindesk.com/policy/2026/11/06/u-s-prediction-markets-regulator-issues-demand-that-clashes-directly-with-courts": 1794003653.3259742,
   "https://cointelegraph-tr.com/news/nvidia-may-be-facing-a-more-hostile-post-election-washington-report": 1794042705.4366825,
   "https://cointelegraph-tr.com/news/what-happened-in-crypto-today": 1794066822.1218655,
   "https://cointelegraph-tr.com/news/ex-fbi-counterintelligence-agent-stole-almost-25m-in-crypto": 1794066822.1218655,
@@ -274,7 +257,13 @@
   "https://www.coindesk.com/business/2026/11/09/ripple-prime-head-marc-asch-to-step-down-noel-kimmel-named-successor": 1794339553.214799,
   "https://www.coindesk.com/daybook-us/2026/11/10/bitcoin-breaks-with-stocks-declines-as-etf-outflows-mount-mara-sells-holdings": 1794339553.214799,
   "https://www.theblock.co/news/business/2026-11-10-hive-reports-79-million-quarterly-net-loss-as-bitcoin-mining-revenue-falls-and-ai-business-grows-437177": 1794339553.214799,
-  "https://cointelegraph-tr.com/news/coinbase-kalshi-cftc-stock-perpetual-futures-lawsuit": 1794339553.214799
+  "https://cointelegraph-tr.com/news/coinbase-kalshi-cftc-stock-perpetual-futures-lawsuit": 1794339553.214799,
+  "https://cointelegraph-tr.com/news/cftc-warns-kalshi-imminent-charges-over-contracts": 1794357351.958399,
+  "https://www.theblock.co/news/markets/2026-11-10-forward-industries-grows-sol-treasury-8-7-million-token-hits-three-month-low-437330": 1794357351.958399,
+  "https://cointelegraph-tr.com/news/across-protocol-warns-avoid-app-drained-wallets": 1794357351.958399,
+  "https://www.coindesk.com/policy/2026/11/10/warren-what-is-white-house-doing-to-prevent-a-repeat-of-teleprompter-s-trump-bets": 1794357351.958399,
+  "https://cointelegraph-tr.com/news/kimber-digital-securities-broker-dealer-tokenization": 1794357351.958399,
+  "https://www.coindesk.com/business/2026/11/10/former-nyse-president-says-stock-issuers-hold-the-key-to-tokenization-as-bullish-builds-its-platform": 1794357351.958399
  },
  "tries": {
   "https://www.theblock.co/news/defi/2026-10-29-uniswap-token-jar-tjar-robinhood-432131": 1
