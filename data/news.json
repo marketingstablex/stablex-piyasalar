@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-11T07:06:07Z",
+ "updated": "2026-11-11T15:07:34Z",
  "sources": [
   "coindesk.com",
   "cointelegraph-tr.com",
@@ -7,6 +7,20 @@
  ],
  "bySymbol": {
   "BTC": [
+   {
+    "title": "Deutsche Bank şirketler ve kurumlar için kripto saklama hizmetini başlattı",
+    "summary": "Müşteriler, cüzdanlarını ve özel anahtarlarını yöneten banka aracılığıyla Bitcoin, Ether ve seçili stablecoin’leri saklayıp transfer edebilir.",
+    "url": "https://cointelegraph-tr.com/news/deutsche-bank-debuts-digital-asset-custody-services-eu",
+    "published": "2026-11-11T14:02:18Z",
+    "importance": 4
+   },
+   {
+    "title": "Bitcoin kısa vadeli sahipleri 47 bin BTC’yi zararla borsalara gönderdi",
+    "summary": "CryptoQuant verilerine göre Bitcoin, kısa vadeli sahiplerin ortalama maliyet bazının altına gerilemesiyle 11 haftanın en düşük seviyesi olan 72.670 dolara geriledi. Bu süreçte kısa vadeli sahipler yaklaşık 47 bin BTC'yi zararla borsalara aktardı.",
+    "url": "https://cointelegraph-tr.com/markets/bitcoin-speculators-btc-exchanges-unrealized-loss-727k",
+    "published": "2026-11-11T11:05:26Z",
+    "importance": 4
+   },
    {
     "title": "Bitcoin, “cesaret kırıcı” ABD TÜFE verisinin ardından 11 haftanın en düşük seviyesine yaklaşıyor",
     "summary": "Ekim ayında enflasyonun tahminleri aşmasının ardından Bitcoin ve ABD hisse senetleri başlangıçta geriledi. Yatırımcılar Fed'in aralık ayında çeyrek puanlık faiz artışı yapmasını bekliyor.",
@@ -29,21 +43,35 @@
     "importance": 4
    },
    {
-    "title": "Canaan'ın 3. Çeyrek Geliri Bitcoin Madenciliği Donanım Satışlarındaki Düşüşle %90 Azalarak 14,5 Milyon Dolara Geriledi",
-    "summary": "Canaan'ın üçüncü çeyrek geliri %90 düşüşle 14,5 milyon dolara geriledi. Kripto para ve türev kazançları ise 8 milyon dolarlık kârı destekledi.",
-    "url": "https://www.theblock.co/news/business/2026-11-10-canaans-q3-revenue-plunges-90-to-14-5-million-as-bitcoin-mining-hardware-sales-slump-437252",
-    "published": "2026-11-10T16:02:02Z",
+    "title": "Opsiyon trader'ları Noel'de 70.000 doların altı ihtimalini artırırken Bitcoin 'sıkışmaya uygun'",
+    "summary": "Bitcoin, beş haftalık düşüşlerin ardından Çarşamba günü 74.000 doların altında işlem gördü. Opsiyon trader'ları Noel'de fiyatın 70.000 doların altına düşme ihtimalini yüzde 31 olarak fiyatlıyor.",
+    "url": "https://www.theblock.co/news/markets/2026-11-11-bitcoin-ripe-for-squeeze-options-traders-raise-odds-sub-70000-christmas-437897",
+    "published": "2026-11-11T14:44:31Z",
     "importance": 3
    },
    {
-    "title": "Bitdeer, Net Zararı 125,5 Milyon Dolara Yükselirken Rekor 3. Çeyrek Geliri Bildirdi",
-    "summary": "Bitdeer, bitcoin üretiminin %248 artarak 3.855 BTC'ye ulaştığı üçüncü çeyrekte 320,7 milyon dolarlık rekor gelir bildirdi.",
-    "url": "https://www.theblock.co/news/business/2026-11-10-bitdeer-reports-record-q3-revenue-as-net-loss-widens-to-125-5-million-437217",
-    "published": "2026-11-10T14:26:02Z",
+    "title": "Bitcoin Core, yüksek dereceli madencilik hatası dahil olmak üzere düzeltilmiş üç güvenlik açığını açıkladı",
+    "summary": "Bitcoin Core, blok şablonu oluşturmayı etkileyen yüksek dereceli bir hata dahil olmak üzere daha önceden giderilmiş üç güvenlik açığını açıkladı.",
+    "url": "https://www.theblock.co/news/ecosystems/2026-11-11-bitcoin-core-discloses-three-patched-security-flaws-including-high-severity-mining-bug-437862",
+    "published": "2026-11-11T12:50:08Z",
+    "importance": 3
+   },
+   {
+    "title": "CoreWeave kazançları yapay zeka görünümünü canlandırırken Bitcoin 74.000 doların altında sıkıştı, Anthropic'in halka arz değerlemesini artıracağı söylendi",
+    "summary": "CoreWeave kazançları yapay zeka görünümünü canlandırırken Bitcoin 74.000 doların altında sıkıştı, Anthropic'in halka arz değerlemesini artıracağı söylendi",
+    "url": "https://www.coindesk.com/markets/2026/11/11/coreweave-earnings-revive-ai-outlook-as-anthropic-weighs-higher-ipo-valuation",
+    "published": "2026-11-11T10:45:49Z",
     "importance": 3
    }
   ],
   "ETH": [
+   {
+    "title": "Deutsche Bank şirketler ve kurumlar için kripto saklama hizmetini başlattı",
+    "summary": "Müşteriler, cüzdanlarını ve özel anahtarlarını yöneten banka aracılığıyla Bitcoin, Ether ve seçili stablecoin’leri saklayıp transfer edebilir.",
+    "url": "https://cointelegraph-tr.com/news/deutsche-bank-debuts-digital-asset-custody-services-eu",
+    "published": "2026-11-11T14:02:18Z",
+    "importance": 4
+   },
    {
     "title": "Bitmine, etherdeki yüzde 44'lük düşüşün etkisiyle son mali yılda 6,3 milyar dolar net zarar açıkladı",
     "summary": "SEC dosyasına göre, net zararların yaklaşık 6,23 milyar dolarlık kısmı dijital varlık varlıklarındaki gerçekleşmemiş gerçeğe uygun değer kayıplarından kaynaklandı.",
@@ -82,13 +110,6 @@
     "url": "https://www.theblock.co/news/markets/2026-11-10-forward-industries-grows-sol-treasury-8-7-million-token-hits-three-month-low-437330",
     "published": "2026-11-10T21:51:19Z",
     "importance": 3
-   },
-   {
-    "title": "Formation Securities, SEC muafiyeti kapsamında Solana’da hisse senedi işlem platformu planlıyor",
-    "summary": "Önerilen platform, Galaxy Digital, Exodus ve Forward Industries’in tokenlaştırılmış hisselerinde 7/24 işlem sunmayı amaçlıyor ve 2027’nin başlarında hizmete girmesi planlanıyor.",
-    "url": "https://cointelegraph-tr.com/news/formation-securities-solana-stock-trading-venue-sec-exemption",
-    "published": "2026-11-09T19:52:34Z",
-    "importance": 3
    }
   ],
   "TRX": [
@@ -111,7 +132,6 @@
   ]
  },
  "seen": {
-  "https://cointelegraph-tr.com/news/nvidia-may-be-facing-a-more-hostile-post-election-washington-report": 1794042705.4366825,
   "https://cointelegraph-tr.com/news/what-happened-in-crypto-today": 1794066822.1218655,
   "https://cointelegraph-tr.com/news/ex-fbi-counterintelligence-agent-stole-almost-25m-in-crypto": 1794066822.1218655,
   "https://cointelegraph-tr.com/magazine/bitcoin-holders-have-received-ecash-what-can-you-with-it": 1794066822.1218655,
@@ -227,7 +247,31 @@
   "https://www.coindesk.com/business/2026/11/10/former-nyse-president-says-stock-issuers-hold-the-key-to-tokenization-as-bullish-builds-its-platform": 1794357351.958399,
   "https://www.theblock.co/news/business/2026-11-11-bitmine-6-3-billion-net-loss-437812": 1794380767.226075,
   "https://www.theblock.co/news/business/2026-11-10-tron-inc-q3-net-income-437786": 1794380767.226075,
-  "https://cointelegraph-tr.com/news/crypto-ally-tom-emmer-elected-house-gop-minority-whip": 1794380767.226075
+  "https://cointelegraph-tr.com/news/crypto-ally-tom-emmer-elected-house-gop-minority-whip": 1794380767.226075,
+  "https://www.theblock.co/news/markets/2026-11-11-bitcoin-ripe-for-squeeze-options-traders-raise-odds-sub-70000-christmas-437897": 1794409654.2047777,
+  "https://cointelegraph-tr.com/news/deutsche-bank-debuts-digital-asset-custody-services-eu": 1794409654.2047777,
+  "https://www.theblock.co/news/markets/2026-11-11-nomuras-laser-digital-helps-launch-saudi-sme-credit-vault-targeting-100-million-on-bnb-chain-437824": 1794409654.2047777,
+  "https://cointelegraph-tr.com/magazine/paraguay-bank-collapse-shows-stablecoins-can-offer-a-lifeline-of-sorts": 1794409654.2047777,
+  "https://cointelegraph-tr.com/markets/coreweave-stock-surges-pre-market-q3-revenue": 1794409654.2047777,
+  "https://www.theblock.co/news/regulation/2026-11-11-okxice-sets-nov-23-launch-for-tokenized-securities-venue-under-sec-innovation-exemption-437342": 1794409654.2047777,
+  "https://www.coindesk.com/business/2026/11/10/okxice-to-debut-tokenized-stock-trading-with-strategy-coinbase-circle-this-month": 1794409654.2047777,
+  "https://www.coindesk.com/business/2026/11/11/meet-spiko-the-largest-tokenized-fund-in-the-world-you-ve-probably-never-heard-about": 1794409654.2047777,
+  "https://www.theblock.co/news/ecosystems/2026-11-11-bitcoin-core-discloses-three-patched-security-flaws-including-high-severity-mining-bug-437862": 1794409654.2047777,
+  "https://www.theblock.co/news/regulation/2026-11-11-crypto-fraudster-jailed-for-eight-years-over-2-7-million-theft-plot-directed-from-prison-437858": 1794409654.2047777,
+  "https://cointelegraph-tr.com/news/fsb-turkey-crypto-oversight-stablecoin-regulation": 1794409654.2047777,
+  "https://www.coindesk.com/tech/2026/11/11/live-news-coreweave-jumps-14-as-earnings-fuel-rebound-across-battered-ai-stocks": 1794409654.2047777,
+  "https://www.coindesk.com/daybook-us/2026/11/11/bitcoin-barely-flinches-at-hot-cpi-as-etf-selling-slows": 1794409654.2047777,
+  "https://www.theblock.co/news/business/2026-11-11-deutsche-bank-goes-live-with-digital-asset-custody-service-signs-asset-management-deal-437851": 1794409654.2047777,
+  "https://www.theblock.co/learn/bitcoin/bitcoin-and-blockchain-basics-434447": 1794409654.2047777,
+  "https://www.coindesk.com/markets/2026/11/11/bitcoin-sits-out-stock-rebound-as-etf-outflows-extend-to-fourth-day": 1794409654.2047777,
+  "https://cointelegraph-tr.com/news/kraken-xstocks-200-tokenized-uk-eu-equities": 1794409654.2047777,
+  "https://cointelegraph-tr.com/markets/bitcoin-speculators-btc-exchanges-unrealized-loss-727k": 1794409654.2047777,
+  "https://www.theblock.co/news/defi/2026-11-11-crosschain-protocol-across-restores-systems-after-domain-hijack-437843": 1794409654.2047777,
+  "https://www.theblock.co/news/business/2026-11-11-kraken-parent-payward-adds-200-tokenized-uk-and-european-equities-to-xstocks-offering-437837": 1794409654.2047777,
+  "https://www.coindesk.com/business/2026/11/11/kraken-s-xstocks-adds-200-uk-and-eu-shares-as-its-assets-top-usd1-1-billion": 1794409654.2047777,
+  "https://www.coindesk.com/markets/2026/11/11/coreweave-earnings-revive-ai-outlook-as-anthropic-weighs-higher-ipo-valuation": 1794409654.2047777,
+  "https://cointelegraph-tr.com/news/bitget-wallet-crypto-phishing-risk-detections-surge": 1794409654.2047777,
+  "https://www.theblock.co/news/regulation/2026-11-11-new-york-judge-denies-novig-injunction-bid-437828": 1794409654.2047777
  },
  "tries": {
   "https://www.theblock.co/news/defi/2026-10-29-uniswap-token-jar-tjar-robinhood-432131": 1
