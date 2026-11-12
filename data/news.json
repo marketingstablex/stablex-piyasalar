@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-11T22:13:49Z",
+ "updated": "2026-11-12T03:19:11Z",
  "sources": [
   "coindesk.com",
   "cointelegraph-tr.com",
@@ -43,13 +43,6 @@
     "importance": 4
    },
    {
-    "title": "Bitcoin hisse senetlerinden ayrıştı, ETF çıkışları artarken ve MARA varlıklarını azaltırken geriledi",
-    "summary": "Bitcoin hisse senetlerinden ayrışarak ETF çıkışlarının artması ve MARA'nın varlıklarını azaltmasıyla birlikte düşüş yaşadı.",
-    "url": "https://www.coindesk.com/daybook-us/2026/11/10/bitcoin-breaks-with-stocks-declines-as-etf-outflows-mount-mara-sells-holdings",
-    "published": "2026-11-10T12:15:00Z",
-    "importance": 4
-   },
-   {
     "title": "ABD veri merkezi kısıtlamaları, Bitcoin madencilerine yapay zekâ alanında avantaj sağlayabilir",
     "summary": "ABD’li seçmenler yeni veri merkezlerine karşı çıkarken, yapay zekâya yönelen Bitcoin madencileri mevcut tesisleri sayesinde avantaj elde edebilir.",
     "url": "https://cointelegraph-tr.com/news/us-data-center-restrictions-bitcoin-miners-edge-ai",
@@ -87,13 +80,6 @@
     "url": "https://www.theblock.co/news/business/2026-11-11-bitmine-6-3-billion-net-loss-437812",
     "published": "2026-11-11T06:22:32Z",
     "importance": 3
-   },
-   {
-    "title": "Eski çalışan, işten çıkarılması nedeniyle Ethereum Vakfı ve Vitalik Buterin’e dava açtı",
-    "summary": "Kayleen Fulton, kanser teşhisini açıklamasından ve vakfın yeni görev tanımını destekleme zorunluluğuna itiraz eden bir çalışan mektubunu düzenlemesine yardım etmesinden iki haftadan kısa süre sonra işten çıkarıldığını iddia ediyor.",
-    "url": "https://cointelegraph-tr.com/news/ex-employee-sues-ethereum-foundation-vitalik-buterin-over-firing",
-    "published": "2026-11-10T10:56:51Z",
-    "importance": 3
    }
   ],
   "PLUME": [
@@ -106,6 +92,13 @@
    }
   ],
   "SOL": [
+   {
+    "title": "'Dönüm noktası çeyreği': Solana Şirketi, staking ödülleriyle desteklenen 3. çeyrek gelir artışını bildirdi",
+    "summary": "Dijital varlık hazine şirketi, geçen yılın aynı dönemindeki 697.000 dolara kıyasla 3,4 milyon dolar üç aylık gelir bildirdi. Gelir artışı staking ödülleri tarafından desteklendi.",
+    "url": "https://www.theblock.co/news/business/2026-11-11-solana-company-reports-q3-revenue-growth-438448",
+    "published": "2026-11-12T02:25:14Z",
+    "importance": 3
+   },
    {
     "title": "Forward Industries, SOL rezervini 8,7 milyona çıkardı ve token yaklaşık üç ayın en düşük seviyesini gördü",
     "summary": "Forward Industries, daha fazla SOL birikimini desteklemek amacıyla 50 milyon dolarlık bir kredi hattı ve konut bağlantılı yatırım ekleyerek SOL rezervini 8,7 milyon tokena yükseltti.",
@@ -143,8 +136,6 @@
   ]
  },
  "seen": {
-  "https://www.theblock.co/news/business/2026-11-07-binance-cfo-steps-down-nine-days-after-record-hack-co-ceo-says-transition-was-planned-six-months-ago-435992": 1794095697.4315612,
-  "https://www.theblock.co/news/regulation/2026-11-07-ex-fbi-agent-pleads-guilty-to-stealing-2-47-million-in-crypto-from-wallets-tied-to-35-investigations-435988": 1794095697.4315612,
   "https://www.coindesk.com/markets/2026/11/08/these-finland-homes-get-free-heat-from-bitcoin-miners-as-long-as-btc-stays-above-usd70-000": 1794143650.1887853,
   "https://cointelegraph-tr.com/news/amsterdam-data-center-protesters-break-into-construction-site-report": 1794143650.1887853,
   "https://cointelegraph-tr.com/news/binances-finance-chief-kaiser-ng-to-leave-company-report-says": 1794143650.1887853,
@@ -289,7 +280,11 @@
   "https://cointelegraph-tr.com/news/what-happened-in-crypto-today": 1794435229.3930438,
   "https://cointelegraph-tr.com/news/ecb-warns-legislative-delays-digital-euro-launch": 1794435229.3930438,
   "https://cointelegraph-tr.com/markets/bitcoin-etf-outflows-persist-while-equity-investors-buy-the-dip": 1794435229.3930438,
-  "https://cointelegraph-tr.com/news/sec-crypto-cases-enforcement-actions-fall-23-2025": 1794435229.3930438
+  "https://cointelegraph-tr.com/news/sec-crypto-cases-enforcement-actions-fall-23-2025": 1794435229.3930438,
+  "https://www.theblock.co/news/business/2026-11-11-solana-company-reports-q3-revenue-growth-438448": 1794453551.7237356,
+  "https://www.theblock.co/news/business/2026-11-11-nvidia-perps-board-weighs-ousting-jensen-huang-438447": 1794453551.7237356,
+  "https://www.theblock.co/news/markets/2026-11-11-strategy-metaplanet-lose-msci-index-membership-november-reshuffle-438437": 1794453551.7237356,
+  "https://cointelegraph-tr.com/news/nvidia-preparing-to-oust-ceo-jensen-huang-reports": 1794453551.7237356
  },
  "tries": {
   "https://www.theblock.co/news/defi/2026-10-29-uniswap-token-jar-tjar-robinhood-432131": 1
