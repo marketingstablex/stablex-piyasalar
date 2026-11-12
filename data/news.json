@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-12T11:46:06Z",
+ "updated": "2026-11-12T19:50:20Z",
  "sources": [
   "coindesk.com",
   "cointelegraph-tr.com",
@@ -8,11 +8,11 @@
  "bySymbol": {
   "BTC": [
    {
-    "title": "Canlı güncellemeler: Yapay zeka hisseleri yeniden düşerken Bitcoin ETF'lerinden 300 milyon dolar çıkış oldu",
-    "summary": "Canlı güncellemeler: Yapay zeka hisseleri yeniden düşerken Bitcoin ETF'lerinden 300 milyon dolar çıkış oldu",
-    "url": "https://www.coindesk.com/tech/2026/11/12/live-news-strategy-kicked-out-of-msci-indexes-as-nvidia-slump-rattles-markets",
-    "published": "2026-11-12T09:15:04Z",
-    "importance": 4
+    "title": "Jensen Huang'ın Nvidia'dan Ayrılması Piyasaları Sarsarken Bitcoin 12 Haftanın En Düşük Seviyesine Geriledi",
+    "summary": "Jensen Huang'ın Nvidia'dan ayrılması ve MSCI'ın Strategy'nin çıkarılacağını doğrulamasıyla Bitcoin 71.200 dolara kadar geriledi ve 750 milyon dolarlık kripto pozisyonu tasfiye edildi.",
+    "url": "https://www.theblock.co/news/markets/2026-11-12-bitcoin-12-week-low-jensen-huang-exit-nvidia-438992",
+    "published": "2026-11-12T17:40:00Z",
+    "importance": 5
    },
    {
     "title": "BlackRock Bitcoin ETF çıkışları dokuz seansta 2 milyar dolara ulaştı",
@@ -73,6 +73,15 @@
     "importance": 3
    }
   ],
+  "ENA": [
+   {
+    "title": "Securitize ve Ethena’nın 100 milyon dolarlık BlackRock BUIDL likidite tesisi yayına girdi",
+    "summary": "Securitize ve Ethena Labs, uygun BUIDL sahiplerinin 7/24 USDC ve diğer stablecoin'lere geçiş yapmasını sağlayan 100 milyon dolarlık likidite tesisini başlattı.",
+    "url": "https://www.theblock.co/news/ecosystems/2026-11-12-securitize-ethena-buidl-liquidity-facility-live-usdc-438442",
+    "published": "2026-11-12T14:00:00Z",
+    "importance": 4
+   }
+  ],
   "ETH": [
    {
     "title": "Ethlabs, yapay zeka hızlanmasını gerekçe göstererek Ethereum'un kuantum sonrası dönemini 2027'ye taşımayı öneriyor",
@@ -108,12 +117,14 @@
     "url": "https://www.theblock.co/news/business/2026-11-12-sygnum-eth-alpha-fund-staking-yields-options-arbitrage-438386",
     "published": "2026-11-12T10:30:00Z",
     "importance": 3
-   },
+   }
+  ],
+  "JUP": [
    {
-    "title": "Bitmine, etherdeki yüzde 44'lük düşüşün etkisiyle son mali yılda 6,3 milyar dolar net zarar açıkladı",
-    "summary": "SEC dosyasına göre, net zararların yaklaşık 6,23 milyar dolarlık kısmı dijital varlık varlıklarındaki gerçekleşmemiş gerçeğe uygun değer kayıplarından kaynaklandı.",
-    "url": "https://www.theblock.co/news/business/2026-11-11-bitmine-6-3-billion-net-loss-437812",
-    "published": "2026-11-11T06:22:32Z",
+    "title": "Jupiter, Anchorage destekli USDGO'yu 1 milyar dolarlık Solana borç verme platformuna ekliyor",
+    "summary": "Jupiter, Anchorage destekli USDGO'yu 1 milyar dolarlık Solana borç verme platformuna ekliyor",
+    "url": "https://www.coindesk.com/business/2026/11/12/jupiter-adds-anchorage-backed-usdgo-to-its-usd1-billion-solana-lending-platform",
+    "published": "2026-11-12T14:45:00Z",
     "importance": 3
    }
   ],
@@ -126,7 +137,46 @@
     "importance": 3
    }
   ],
+  "PAXG": [
+   {
+    "title": "Tether Gold ihraççısı, Big Four denetimini tamamlamak için USDT'yi takip ediyor",
+    "summary": "ABD'li denetim şirketi KPMG, Tether Gold ihraççısı TG Commodities'in 2025 mali hesaplarına olumlu görüş verdi.",
+    "url": "https://www.theblock.co/news/business/2026-11-12-tether-gold-issuer-follows-usdt-to-complete-big-four-audit-438849",
+    "published": "2026-11-12T15:23:26Z",
+    "importance": 3
+   }
+  ],
+  "POL": [
+   {
+    "title": "Banka çıkışlı stablecoin kapsamını genişletirken SoFiUSD Polygon'da yayına girdi",
+    "summary": "SoFiUSD, SoFi'nin 17 milyondan fazla üyesi için Ethereum ve Solana'nın yanı sıra ağı ekleyerek Polygon'da yayına girdi.",
+    "url": "https://www.theblock.co/news/ecosystems/2026-11-12-sofiusd-goes-live-on-polygon-as-bank-issued-stablecoin-expands-reach-438542",
+    "published": "2026-11-12T14:00:00Z",
+    "importance": 3
+   }
+  ],
   "SOL": [
+   {
+    "title": "DTCC, 2027 Hedefiyle Wall Street Tokenizasyon Planlarına Solana'yı Ekledi",
+    "summary": "DTCC, 2027 Hedefiyle Wall Street Tokenizasyon Planlarına Solana'yı Ekledi",
+    "url": "https://www.coindesk.com/business/2026/11/12/dtcc-adds-solana-to-wall-street-tokenization-plans-targeting-2027-rollout",
+    "published": "2026-11-12T15:45:48Z",
+    "importance": 4
+   },
+   {
+    "title": "Jupiter, Anchorage destekli USDGO'yu 1 milyar dolarlık Solana borç verme platformuna ekliyor",
+    "summary": "Jupiter, Anchorage destekli USDGO'yu 1 milyar dolarlık Solana borç verme platformuna ekliyor",
+    "url": "https://www.coindesk.com/business/2026/11/12/jupiter-adds-anchorage-backed-usdgo-to-its-usd1-billion-solana-lending-platform",
+    "published": "2026-11-12T14:45:00Z",
+    "importance": 3
+   },
+   {
+    "title": "Banka çıkışlı stablecoin kapsamını genişletirken SoFiUSD Polygon'da yayına girdi",
+    "summary": "SoFiUSD, SoFi'nin 17 milyondan fazla üyesi için Ethereum ve Solana'nın yanı sıra ağı ekleyerek Polygon'da yayına girdi.",
+    "url": "https://www.theblock.co/news/ecosystems/2026-11-12-sofiusd-goes-live-on-polygon-as-bank-issued-stablecoin-expands-reach-438542",
+    "published": "2026-11-12T14:00:00Z",
+    "importance": 3
+   },
    {
     "title": "'Dönüm noktası çeyreği': Solana Şirketi, staking ödülleriyle desteklenen 3. çeyrek gelir artışını bildirdi",
     "summary": "Dijital varlık hazine şirketi, geçen yılın aynı dönemindeki 697.000 dolara kıyasla 3,4 milyon dolar üç aylık gelir bildirdi. Gelir artışı staking ödülleri tarafından desteklendi.",
@@ -142,22 +192,29 @@
     "url": "https://cointelegraph-tr.com/news/tron-tether-chainalysis-cybercrime-task-force-laundering",
     "published": "2026-11-12T11:00:00Z",
     "importance": 3
-   },
-   {
-    "title": "Tron Inc, gerçekleşmeyen stake gelirlerinin artmasıyla 3. çeyrekte net gelirini yüzde 22 artırdı",
-    "summary": "Şirket, 2026 yılı 3. çeyreğinde yıllık bazda yüzde 22 artışla 14,9 milyon dolar net gelir bildirdi. Dokuz aylık net gelir ise yüzde 203 artışla 39,4 milyon dolara ulaştı.",
-    "url": "https://www.theblock.co/news/business/2026-11-10-tron-inc-q3-net-income-437786",
-    "published": "2026-11-11T04:02:02Z",
-    "importance": 3
    }
   ],
   "USDC": [
+   {
+    "title": "Securitize ve Ethena’nın 100 milyon dolarlık BlackRock BUIDL likidite tesisi yayına girdi",
+    "summary": "Securitize ve Ethena Labs, uygun BUIDL sahiplerinin 7/24 USDC ve diğer stablecoin'lere geçiş yapmasını sağlayan 100 milyon dolarlık likidite tesisini başlattı.",
+    "url": "https://www.theblock.co/news/ecosystems/2026-11-12-securitize-ethena-buidl-liquidity-facility-live-usdc-438442",
+    "published": "2026-11-12T14:00:00Z",
+    "importance": 4
+   },
    {
     "title": "Stablecoin arzı 2022 ayı piyasasından bu yana en büyük daralma ile 14,2 milyar dolar düştü",
     "summary": "Geçtiğimiz ay USDT ve USDC arzı yaklaşık 11 milyar dolar düşerken, altına dayalı token'lar yatay seyretti.",
     "url": "https://www.theblock.co/news/ecosystems/2026-11-11-stablecoin-supply-drops-14-2-billion-largest-contraction-since-2022-bear-market-437907",
     "published": "2026-11-11T17:23:10Z",
     "importance": 4
+   },
+   {
+    "title": "BitGo, USDC ile kurumsal stabilcoın basım ve redemption platformunu genişletiyor",
+    "summary": "BitGo'nun kurumsal müşterileri artık Go Accounts aracılığıyla USDC basabilir ve iade edebilir, emirler ise Circle Mint hesabı üzerinden gerçekleştirilir.",
+    "url": "https://www.theblock.co/news/business/2026-11-12-bitgo-expands-institutional-stablecoin-minting-and-redemption-platform-with-usdc-438525",
+    "published": "2026-11-12T12:35:02Z",
+    "importance": 3
    }
   ],
   "USDT": [
@@ -169,10 +226,26 @@
     "importance": 4
    },
    {
+    "title": "Tether Gold ihraççısı, Big Four denetimini tamamlamak için USDT'yi takip ediyor",
+    "summary": "ABD'li denetim şirketi KPMG, Tether Gold ihraççısı TG Commodities'in 2025 mali hesaplarına olumlu görüş verdi.",
+    "url": "https://www.theblock.co/news/business/2026-11-12-tether-gold-issuer-follows-usdt-to-complete-big-four-audit-438849",
+    "published": "2026-11-12T15:23:26Z",
+    "importance": 3
+   },
+   {
     "title": "Tron ve Tether, T3 suç birimi dağıldıktan sonra Chainalysis’i devreye aldı",
     "summary": "Grup, Tron üzerindeki yasa dışı USDT faaliyetlerine odaklanacak ve kolluk kuvvetlerinin şüpheli transferleri soruşturmasına ve fonları daha hızlı dondurmasına yardımcı olacak.",
     "url": "https://cointelegraph-tr.com/news/tron-tether-chainalysis-cybercrime-task-force-laundering",
     "published": "2026-11-12T11:00:00Z",
+    "importance": 3
+   }
+  ],
+  "XAUT": [
+   {
+    "title": "Tether Gold ihraççısı, Big Four denetimini tamamlamak için USDT'yi takip ediyor",
+    "summary": "ABD'li denetim şirketi KPMG, Tether Gold ihraççısı TG Commodities'in 2025 mali hesaplarına olumlu görüş verdi.",
+    "url": "https://www.theblock.co/news/business/2026-11-12-tether-gold-issuer-follows-usdt-to-complete-big-four-audit-438849",
+    "published": "2026-11-12T15:23:26Z",
     "importance": 3
    }
   ],
@@ -187,10 +260,6 @@
   ]
  },
  "seen": {
-  "https://www.coindesk.com/markets/2026/11/08/these-finland-homes-get-free-heat-from-bitcoin-miners-as-long-as-btc-stays-above-usd70-000": 1794143650.1887853,
-  "https://cointelegraph-tr.com/news/amsterdam-data-center-protesters-break-into-construction-site-report": 1794143650.1887853,
-  "https://cointelegraph-tr.com/news/binances-finance-chief-kaiser-ng-to-leave-company-report-says": 1794143650.1887853,
-  "https://www.theblock.co/news/ecosystems/2026-11-08-vitalik-buterin-says-eth-should-be-valued-as-a-store-of-value-not-a-fee-burning-token-436022": 1794162514.0384436,
   "https://www.coindesk.com/policy/2026/11/08/what-the-election-results-mean-for-crypto-state-of-crypto": 1794176770.2520938,
   "https://www.coindesk.com/business/2026/11/08/stablecoin-growth-has-stalled-the-payments-boom-hasn-t": 1794176770.2520938,
   "https://www.theblock.co/news/defi/2026-11-08-web3auth-says-it-frontran-hackers-by-moving-5-6-million-out-of-exposed-keplr-wallets-436029": 1794176770.2520938,
@@ -357,7 +426,33 @@
   "https://www.coindesk.com/tech/2026/11/12/ripple-s-bank-lending-system-moves-closer-to-launch-on-the-xrp-ledger": 1794483966.7604434,
   "https://cointelegraph-tr.com/news/binance-cso-foreshadowed-6b-hack-tactic-months-before-attack": 1794483966.7604434,
   "https://www.theblock.co/newsletters/the-daily/2026-11-11-bitcoin-outlook-christmas-bitmine-net-loss-more-crypto-news-438430": 1794483966.7604434,
-  "https://www.coindesk.com/markets/2026/11/12/bitcoin-listless-nvidia-perps-crash-7-as-ceo-jensen-huang-reportedly-faces-the-axe": 1794483966.7604434
+  "https://www.coindesk.com/markets/2026/11/12/bitcoin-listless-nvidia-perps-crash-7-as-ceo-jensen-huang-reportedly-faces-the-axe": 1794483966.7604434,
+  "https://www.theblock.co/news/regulation/2026-11-12-nydfs-sets-fresh-advertising-standards-crypto-firms-439014": 1794513020.7445536,
+  "https://www.theblock.co/news/markets/2026-11-12-bitcoin-12-week-low-jensen-huang-exit-nvidia-438992": 1794513020.7445536,
+  "https://www.theblock.co/news/markets/2026-11-12-exodus-cost-reset-real-payments-offset-crypto-wallet-slowdown-stonex-438988": 1794513020.7445536,
+  "https://www.coindesk.com/policy/2026/11/12/illinois-crypto-tax-is-impossible-to-enforce-as-written-crypto-industry-tells-court": 1794513020.7445536,
+  "https://www.theblock.co/news/business/2026-11-12-visa-adds-western-unions-usdpt-stablecoin-to-its-settlement-network-in-anchorage-tie-up-438520": 1794513020.7445536,
+  "https://www.coindesk.com/business/2026/11/12/dtcc-adds-solana-to-wall-street-tokenization-plans-targeting-2027-rollout": 1794513020.7445536,
+  "https://www.theblock.co/news/ecosystems/2026-11-12-unocoin-login-suspension-continues-as-exchange-flags-outgoing-bitgo-eth-transactions-438654": 1794513020.7445536,
+  "https://www.coindesk.com/coindesk-indices/2026/11/12/crypto-for-advisors-the-blockchain-built-to-run-financial-markets": 1794513020.7445536,
+  "https://www.theblock.co/news/business/2026-11-12-tether-gold-issuer-follows-usdt-to-complete-big-four-audit-438849": 1794513020.7445536,
+  "https://www.theblock.co/news/regulation/2026-11-12-andreessen-horowitz-defi-education-fund-push-back-against-illinois-crypto-tax-438573": 1794513020.7445536,
+  "https://www.coindesk.com/business/2026/11/12/jupiter-adds-anchorage-backed-usdgo-to-its-usd1-billion-solana-lending-platform": 1794513020.7445536,
+  "https://www.coindesk.com/opinion/2026/11/12/the-next-congress-will-write-rules-for-ai-and-emerging-tech-they-should-use-the-stuff-first": 1794513020.7445536,
+  "https://www.theblock.co/news/business/2026-11-12-dtcc-plans-bring-tokenized-securities-solana-second-half-of-2027-438559": 1794513020.7445536,
+  "https://www.theblock.co/news/ecosystems/2026-11-12-securitize-ethena-buidl-liquidity-facility-live-usdc-438442": 1794513020.7445536,
+  "https://www.theblock.co/news/ecosystems/2026-11-12-sofiusd-goes-live-on-polygon-as-bank-issued-stablecoin-expands-reach-438542": 1794513020.7445536,
+  "https://cointelegraph-tr.com/news/jensen-huang-resigns-nvidia-ceo-board-member": 1794513020.7445536,
+  "https://www.coindesk.com/markets/2026/11/12/nvidia-shares-plunge-10-as-jensen-huang-resigns": 1794513020.7445536,
+  "https://cointelegraph-tr.com/news/bit-digital-stock-falls-q3-revenue-miss": 1794513020.7445536,
+  "https://cointelegraph-tr.com/news/thailand-tighter-stablecoin-rules-crypto-exchange": 1794513020.7445536,
+  "https://cointelegraph-tr.com/news/digital-bank-griffin-100m-valuation-card-stablecoin": 1794513020.7445536,
+  "https://www.theblock.co/news/business/2026-11-12-bny-taps-figment-to-support-staking-on-its-digital-asset-custody-platform-438538": 1794513020.7445536,
+  "https://www.theblock.co/news/business/2026-11-12-bitgo-expands-institutional-stablecoin-minting-and-redemption-platform-with-usdc-438525": 1794513020.7445536,
+  "https://www.coindesk.com/daybook-us/2026/11/12/bitcoin-weakness-erases-september-s-bullish-signal": 1794513020.7445536,
+  "https://www.coindesk.com/business/2026/11/12/uk-bank-griffin-raises-usd20-million-to-expand-into-stablecoin-payments": 1794513020.7445536,
+  "https://www.coindesk.com/tech/2026/11/12/ethereum-researchers-drop-faster-blocks-to-race-toward-quantum-defenses-in-2027": 1794513020.7445536,
+  "https://cointelegraph-tr.com/markets/stablecoin-supply-drops-worst-slump-since-mid-2022": 1794513020.7445536
  },
  "tries": {
   "https://www.theblock.co/news/defi/2026-10-29-uniswap-token-jar-tjar-robinhood-432131": 1
