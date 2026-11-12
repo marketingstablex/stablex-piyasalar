@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-12T03:19:11Z",
+ "updated": "2026-11-12T11:46:06Z",
  "sources": [
   "coindesk.com",
   "cointelegraph-tr.com",
@@ -7,6 +7,34 @@
  ],
  "bySymbol": {
   "BTC": [
+   {
+    "title": "Canlı güncellemeler: Yapay zeka hisseleri yeniden düşerken Bitcoin ETF'lerinden 300 milyon dolar çıkış oldu",
+    "summary": "Canlı güncellemeler: Yapay zeka hisseleri yeniden düşerken Bitcoin ETF'lerinden 300 milyon dolar çıkış oldu",
+    "url": "https://www.coindesk.com/tech/2026/11/12/live-news-strategy-kicked-out-of-msci-indexes-as-nvidia-slump-rattles-markets",
+    "published": "2026-11-12T09:15:04Z",
+    "importance": 4
+   },
+   {
+    "title": "BlackRock Bitcoin ETF çıkışları dokuz seansta 2 milyar dolara ulaştı",
+    "summary": "ABD spot Bitcoin ETF'lerinden çıkışlar çarşamba günü yaklaşık 300 milyon dolara yükseldi. Bu rakam bir gün önceki 95 milyon dolardan artış gösterirken, beş seanstaki toplam çekimler 1,44 milyar dolara ulaştı.",
+    "url": "https://cointelegraph-tr.com/markets/blackrock-bitcoin-etf-ibit-outflows-nine-day-streak",
+    "published": "2026-11-12T08:06:48Z",
+    "importance": 4
+   },
+   {
+    "title": "Bitcoin Core, binlerce düğümün Tor üzerindeki herhangi bir yabancıya güvenmesine neden olan bir hata ortaya çıkardı",
+    "summary": "Bitcoin Core, binlerce düğümün Tor üzerindeki herhangi bir yabancıya güvenmesine yol açan bir hatayı ortaya çıkardı.",
+    "url": "https://www.coindesk.com/tech/2026/11/12/bitcoin-core-reveals-bug-that-made-thousands-of-nodes-trust-any-stranger-on-tor",
+    "published": "2026-11-12T05:22:31Z",
+    "importance": 4
+   },
+   {
+    "title": "Bitcoin tüccarları Noel'de 70.000 doların altı ihtimalini artırıyor, Bitmine 6.3 milyar dolarlık yıllık net zarar bildirdi ve dahası",
+    "summary": "Günlük bültene göre, tüccarlar Noel'de 70.000 doların altı ihtimalini artırırken Bitcoin sıkışmaya hazır görünüyor. Ayrıca Bitmine, ether %44 düşerken 6.3 milyar dolarlık yıllık net zarar bildirdi.",
+    "url": "https://www.theblock.co/newsletters/the-daily/2026-11-11-bitcoin-outlook-christmas-bitmine-net-loss-more-crypto-news-438430",
+    "published": "2026-11-12T04:55:00Z",
+    "importance": 4
+   },
    {
     "title": "Deutsche Bank şirketler ve kurumlar için kripto saklama hizmetini başlattı",
     "summary": "Müşteriler, cüzdanlarını ve özel anahtarlarını yöneten banka aracılığıyla Bitcoin, Ether ve seçili stablecoin’leri saklayıp transfer edebilir.",
@@ -34,27 +62,6 @@
     "url": "https://cointelegraph-tr.com/news/sec-crypto-cases-enforcement-actions-fall-23-2025",
     "published": "2026-11-11T08:43:30Z",
     "importance": 4
-   },
-   {
-    "title": "Bitcoin, “cesaret kırıcı” ABD TÜFE verisinin ardından 11 haftanın en düşük seviyesine yaklaşıyor",
-    "summary": "Ekim ayında enflasyonun tahminleri aşmasının ardından Bitcoin ve ABD hisse senetleri başlangıçta geriledi. Yatırımcılar Fed'in aralık ayında çeyrek puanlık faiz artışı yapmasını bekliyor.",
-    "url": "https://cointelegraph-tr.com/markets/bitcoin-11-week-low-discouraging-us-cpi-inflation",
-    "published": "2026-11-10T16:25:03Z",
-    "importance": 4
-   },
-   {
-    "title": "ABD veri merkezi kısıtlamaları, Bitcoin madencilerine yapay zekâ alanında avantaj sağlayabilir",
-    "summary": "ABD’li seçmenler yeni veri merkezlerine karşı çıkarken, yapay zekâya yönelen Bitcoin madencileri mevcut tesisleri sayesinde avantaj elde edebilir.",
-    "url": "https://cointelegraph-tr.com/news/us-data-center-restrictions-bitcoin-miners-edge-ai",
-    "published": "2026-11-11T20:43:19Z",
-    "importance": 3
-   },
-   {
-    "title": "Opsiyon trader'ları Noel'de 70.000 doların altı ihtimalini artırırken Bitcoin 'sıkışmaya uygun'",
-    "summary": "Bitcoin, beş haftalık düşüşlerin ardından Çarşamba günü 74.000 doların altında işlem gördü. Opsiyon trader'ları Noel'de fiyatın 70.000 doların altına düşme ihtimalini yüzde 31 olarak fiyatlıyor.",
-    "url": "https://www.theblock.co/news/markets/2026-11-11-bitcoin-ripe-for-squeeze-options-traders-raise-odds-sub-70000-christmas-437897",
-    "published": "2026-11-11T14:44:31Z",
-    "importance": 3
    }
   ],
   "DOGE": [
@@ -68,11 +75,39 @@
   ],
   "ETH": [
    {
+    "title": "Ethlabs, yapay zeka hızlanmasını gerekçe göstererek Ethereum'un kuantum sonrası dönemini 2027'ye taşımayı öneriyor",
+    "summary": "Grup, yapay zeka gelişiminin getirdiği kriptografik risklere karşı dirençli olmak amacıyla Ethereum'u 2027 yılına kadar yapay zeka sonrası duruma getirmeyi hedeflediğini belirtti.",
+    "url": "https://www.theblock.co/news/defi/2026-11-12-ethlabs-proposes-ethereum-post-quantum-2027-438494",
+    "published": "2026-11-12T07:27:24Z",
+    "importance": 4
+   },
+   {
+    "title": "Bitcoin tüccarları Noel'de 70.000 doların altı ihtimalini artırıyor, Bitmine 6.3 milyar dolarlık yıllık net zarar bildirdi ve dahası",
+    "summary": "Günlük bültene göre, tüccarlar Noel'de 70.000 doların altı ihtimalini artırırken Bitcoin sıkışmaya hazır görünüyor. Ayrıca Bitmine, ether %44 düşerken 6.3 milyar dolarlık yıllık net zarar bildirdi.",
+    "url": "https://www.theblock.co/newsletters/the-daily/2026-11-11-bitcoin-outlook-christmas-bitmine-net-loss-more-crypto-news-438430",
+    "published": "2026-11-12T04:55:00Z",
+    "importance": 4
+   },
+   {
     "title": "Deutsche Bank şirketler ve kurumlar için kripto saklama hizmetini başlattı",
     "summary": "Müşteriler, cüzdanlarını ve özel anahtarlarını yöneten banka aracılığıyla Bitcoin, Ether ve seçili stablecoin’leri saklayıp transfer edebilir.",
     "url": "https://cointelegraph-tr.com/news/deutsche-bank-debuts-digital-asset-custody-services-eu",
     "published": "2026-11-11T14:02:18Z",
     "importance": 4
+   },
+   {
+    "title": "Ethlabs, 2027’de kuantum hazırlığı için Hegotá slot önerisini geri çekiyor",
+    "summary": "Ethlabs’in yol haritası, Ethereum’un kuantum saldırılarına dayanmasına yardımcı olmayı ve kullanıcıların hesaplarını 2027’ye kadar korumalarını sağlayacak bir yol sunmayı amaçlıyor.",
+    "url": "https://cointelegraph-tr.com/news/ethlabs-ethereum-quantum-security-2027-quick-slots",
+    "published": "2026-11-12T10:30:29Z",
+    "importance": 3
+   },
+   {
+    "title": "Sygnum, ETH cinsinden %8 ila %10 yıllık getiri hedefleyen ETH Alpha Fund'ı başlattı",
+    "summary": "Sygnum'un piyasa nötr fonu; stake etme işlemlerini opsiyonlar, arbitraj ve taşıma stratejileriyle birleştirerek ETH cinsinden ödenen yıllık %8–%10 getiri hedefliyor.",
+    "url": "https://www.theblock.co/news/business/2026-11-12-sygnum-eth-alpha-fund-staking-yields-options-arbitrage-438386",
+    "published": "2026-11-12T10:30:00Z",
+    "importance": 3
    },
    {
     "title": "Bitmine, etherdeki yüzde 44'lük düşüşün etkisiyle son mali yılda 6,3 milyar dolar net zarar açıkladı",
@@ -82,12 +117,12 @@
     "importance": 3
    }
   ],
-  "PLUME": [
+  "LINK": [
    {
-    "title": "Kimber Digital Securities, tokenleştirilmiş varlıklar için broker-satıcı statüsü kazandı",
-    "summary": "Plume iştiraki, geleneksel hissedar haklarını koruyarak tokenleştirilmiş ABD hisselerini, ETF'leri ve tahvilleri self-custody cüzdanları üzerinden sunmayı planlıyor.",
-    "url": "https://cointelegraph-tr.com/news/kimber-digital-securities-broker-dealer-tokenization",
-    "published": "2026-11-10T20:26:02Z",
+    "title": "Tron ve Tether, T3 suç birimi dağıldıktan sonra Chainalysis’i devreye aldı",
+    "summary": "Grup, Tron üzerindeki yasa dışı USDT faaliyetlerine odaklanacak ve kolluk kuvvetlerinin şüpheli transferleri soruşturmasına ve fonları daha hızlı dondurmasına yardımcı olacak.",
+    "url": "https://cointelegraph-tr.com/news/tron-tether-chainalysis-cybercrime-task-force-laundering",
+    "published": "2026-11-12T11:00:00Z",
     "importance": 3
    }
   ],
@@ -98,16 +133,16 @@
     "url": "https://www.theblock.co/news/business/2026-11-11-solana-company-reports-q3-revenue-growth-438448",
     "published": "2026-11-12T02:25:14Z",
     "importance": 3
-   },
-   {
-    "title": "Forward Industries, SOL rezervini 8,7 milyona çıkardı ve token yaklaşık üç ayın en düşük seviyesini gördü",
-    "summary": "Forward Industries, daha fazla SOL birikimini desteklemek amacıyla 50 milyon dolarlık bir kredi hattı ve konut bağlantılı yatırım ekleyerek SOL rezervini 8,7 milyon tokena yükseltti.",
-    "url": "https://www.theblock.co/news/markets/2026-11-10-forward-industries-grows-sol-treasury-8-7-million-token-hits-three-month-low-437330",
-    "published": "2026-11-10T21:51:19Z",
-    "importance": 3
    }
   ],
   "TRX": [
+   {
+    "title": "Tron ve Tether, T3 suç birimi dağıldıktan sonra Chainalysis’i devreye aldı",
+    "summary": "Grup, Tron üzerindeki yasa dışı USDT faaliyetlerine odaklanacak ve kolluk kuvvetlerinin şüpheli transferleri soruşturmasına ve fonları daha hızlı dondurmasına yardımcı olacak.",
+    "url": "https://cointelegraph-tr.com/news/tron-tether-chainalysis-cybercrime-task-force-laundering",
+    "published": "2026-11-12T11:00:00Z",
+    "importance": 3
+   },
    {
     "title": "Tron Inc, gerçekleşmeyen stake gelirlerinin artmasıyla 3. çeyrekte net gelirini yüzde 22 artırdı",
     "summary": "Şirket, 2026 yılı 3. çeyreğinde yıllık bazda yüzde 22 artışla 14,9 milyon dolar net gelir bildirdi. Dokuz aylık net gelir ise yüzde 203 artışla 39,4 milyon dolara ulaştı.",
@@ -132,6 +167,22 @@
     "url": "https://www.theblock.co/news/ecosystems/2026-11-11-stablecoin-supply-drops-14-2-billion-largest-contraction-since-2022-bear-market-437907",
     "published": "2026-11-11T17:23:10Z",
     "importance": 4
+   },
+   {
+    "title": "Tron ve Tether, T3 suç birimi dağıldıktan sonra Chainalysis’i devreye aldı",
+    "summary": "Grup, Tron üzerindeki yasa dışı USDT faaliyetlerine odaklanacak ve kolluk kuvvetlerinin şüpheli transferleri soruşturmasına ve fonları daha hızlı dondurmasına yardımcı olacak.",
+    "url": "https://cointelegraph-tr.com/news/tron-tether-chainalysis-cybercrime-task-force-laundering",
+    "published": "2026-11-12T11:00:00Z",
+    "importance": 3
+   }
+  ],
+  "XRP": [
+   {
+    "title": "Ripple’ın banka kredi sistemi XRP Ledger üzerinde yayına yaklaşıyor",
+    "summary": "Ripple'ın banka kredi sistemi XRP Ledger üzerinde lansmana yaklaşmaktadır.",
+    "url": "https://www.coindesk.com/tech/2026/11/12/ripple-s-bank-lending-system-moves-closer-to-launch-on-the-xrp-ledger",
+    "published": "2026-11-12T05:18:43Z",
+    "importance": 3
    }
   ]
  },
@@ -284,7 +335,29 @@
   "https://www.theblock.co/news/business/2026-11-11-solana-company-reports-q3-revenue-growth-438448": 1794453551.7237356,
   "https://www.theblock.co/news/business/2026-11-11-nvidia-perps-board-weighs-ousting-jensen-huang-438447": 1794453551.7237356,
   "https://www.theblock.co/news/markets/2026-11-11-strategy-metaplanet-lose-msci-index-membership-november-reshuffle-438437": 1794453551.7237356,
-  "https://cointelegraph-tr.com/news/nvidia-preparing-to-oust-ceo-jensen-huang-reports": 1794453551.7237356
+  "https://cointelegraph-tr.com/news/nvidia-preparing-to-oust-ceo-jensen-huang-reports": 1794453551.7237356,
+  "https://www.coindesk.com/markets/2026/11/12/bitcoin-dips-with-nvidia-as-etf-outflows-reach-day-five": 1794483966.7604434,
+  "https://www.theblock.co/news/business/2026-11-12-tron-tether-chainalysis-new-alliance-438514": 1794483966.7604434,
+  "https://cointelegraph-tr.com/news/tron-tether-chainalysis-cybercrime-task-force-laundering": 1794483966.7604434,
+  "https://www.coindesk.com/business/2026/11/12/polymarket-trims-workforce-under-investor-pressure-as-kalshi-surges-ahead": 1794483966.7604434,
+  "https://www.coindesk.com/business/2026/11/12/nomura-weighs-laser-digital-sale-as-european-losses-hit-four-straight-quarters-bloomberg": 1794483966.7604434,
+  "https://cointelegraph-tr.com/news/ethlabs-ethereum-quantum-security-2027-quick-slots": 1794483966.7604434,
+  "https://www.theblock.co/news/business/2026-11-12-sygnum-eth-alpha-fund-staking-yields-options-arbitrage-438386": 1794483966.7604434,
+  "https://www.coindesk.com/policy/2026/11/12/india-s-financial-crimes-watchdog-raids-crypto-exchanges-coindcx-and-delta-over-alleged-illegal-cross-border-trades": 1794483966.7604434,
+  "https://www.coindesk.com/tech/2026/11/12/live-news-strategy-kicked-out-of-msci-indexes-as-nvidia-slump-rattles-markets": 1794483966.7604434,
+  "https://www.coindesk.com/business/2026/11/12/gemini-sells-uk-and-european-operations-to-stablecoin-payments-firm-kast-for-under-usd10-million": 1794483966.7604434,
+  "https://www.theblock.co/news/ecosystems/2026-11-12-chainstack-security-breach-438509": 1794483966.7604434,
+  "https://cointelegraph-tr.com/markets/blackrock-bitcoin-etf-ibit-outflows-nine-day-streak": 1794483966.7604434,
+  "https://www.coindesk.com/markets/2026/11/12/canaan-may-sell-more-bitcoin-for-stock-buybacks-as-mining-rig-revenue-falls-96": 1794483966.7604434,
+  "https://www.theblock.co/news/defi/2026-11-12-ethlabs-proposes-ethereum-post-quantum-2027-438494": 1794483966.7604434,
+  "https://www.coindesk.com/markets/2026/11/12/msci-is-dropping-strategy-from-its-index-and-the-exclusion-could-hit-its-bitcoin-buying-machine": 1794483966.7604434,
+  "https://cointelegraph-tr.com/news/south-korea-crypto-withdrawal-freezes-suspected-hacks": 1794483966.7604434,
+  "https://www.coindesk.com/tech/2026/11/12/zcash-holders-to-vote-on-pulling-50-000-zec-from-grants-treasury": 1794483966.7604434,
+  "https://www.coindesk.com/tech/2026/11/12/bitcoin-core-reveals-bug-that-made-thousands-of-nodes-trust-any-stranger-on-tor": 1794483966.7604434,
+  "https://www.coindesk.com/tech/2026/11/12/ripple-s-bank-lending-system-moves-closer-to-launch-on-the-xrp-ledger": 1794483966.7604434,
+  "https://cointelegraph-tr.com/news/binance-cso-foreshadowed-6b-hack-tactic-months-before-attack": 1794483966.7604434,
+  "https://www.theblock.co/newsletters/the-daily/2026-11-11-bitcoin-outlook-christmas-bitmine-net-loss-more-crypto-news-438430": 1794483966.7604434,
+  "https://www.coindesk.com/markets/2026/11/12/bitcoin-listless-nvidia-perps-crash-7-as-ceo-jensen-huang-reportedly-faces-the-axe": 1794483966.7604434
  },
  "tries": {
   "https://www.theblock.co/news/defi/2026-10-29-uniswap-token-jar-tjar-robinhood-432131": 1
