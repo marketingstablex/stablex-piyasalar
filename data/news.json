@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-13T07:50:56Z",
+ "updated": "2026-11-13T16:12:05Z",
  "sources": [
   "coindesk.com",
   "cointelegraph-tr.com",
@@ -61,19 +61,24 @@
     "importance": 4
    },
    {
-    "title": "SpaceX-Tesla birleşme görüşmeleri 30.000 bitcoin'i yeniden odak noktası haline getirdi",
-    "summary": "SpaceX-Tesla birleşme görüşmeleri 30.000 bitcoin'i yeniden gündeme getirdi.",
-    "url": "https://www.coindesk.com/markets/2026/11/13/spacex-tesla-merger-talks-put-30-000-bitcoin-back-in-focus",
-    "published": "2026-11-13T05:08:59Z",
+    "title": "Anthropic'in dev halka arzı yaklaşırken Bitcoin altıncı haftalık kayba yöneldi",
+    "summary": "Anthropic'in dev halka arzı yaklaşırken Bitcoin altıncı haftalık kayba yöneldi",
+    "url": "https://www.coindesk.com/markets/2026/11/13/bitcoin-heads-for-sixth-weekly-loss-as-anthropic-s-blockbuster-ipo-looms",
+    "published": "2026-11-13T16:01:27Z",
     "importance": 3
-   }
-  ],
-  "DOGE": [
+   },
    {
-    "title": "DogeOS CEO'suna göre DeFi özellikleri ve uygulama katmanı çok yakında",
-    "summary": "DogeOS, oyunlar, uygulamalar ve finansal hizmetler aracılığıyla DOGE sahiplerine token'ı kullanmaları için daha fazla yol sunmayı amaçlıyor.",
-    "url": "https://www.theblock.co/news/defi/2026-11-11-dogeos-very-very-close-launching-defi-features-app-layer-dogecoin-ceo-438392",
-    "published": "2026-11-11T20:32:19Z",
+    "title": "Tether destekli Twenty One Capital, Bitcoin kazançlarıyla 3. çeyrekte 1,09 milyar dolar net kâr bildirdi",
+    "summary": "Twenty One Capital, Bitcoin kazançlarının etkisiyle üçüncü çeyrekte 1,09 milyar dolar net kâr bildirdi ve 4,8 milyon dolar faaliyet zararı açıkladı.",
+    "url": "https://www.theblock.co/news/business/2026-11-13-tether-backed-twenty-one-capital-reports-1-09-billion-q3-net-income-on-bitcoin-gains-439711",
+    "published": "2026-11-13T14:50:49Z",
+    "importance": 3
+   },
+   {
+    "title": "6 dolardan 6,9 milyon dolara: 16 yılı aşkın süredir hareketsiz olan iki Bitcoin adresi 100 BTC taşımak için uyandı",
+    "summary": "İki hareketsiz Bitcoin balina adresi, 16 yılı aşkın bir sürenin ardından Cuma günü 6,89 milyon dolar değerinde 100 BTC taşıdı.",
+    "url": "https://www.theblock.co/news/markets/2026-11-13-from-6-to-6-9-million-two-dormant-bitcoin-addresses-wake-up-to-move-100-btc-after-more-than-16-years-439698",
+    "published": "2026-11-13T13:34:46Z",
     "importance": 3
    }
   ],
@@ -114,6 +119,13 @@
     "url": "https://www.theblock.co/news/business/2026-11-12-sygnum-eth-alpha-fund-staking-yields-options-arbitrage-438386",
     "published": "2026-11-12T10:30:00Z",
     "importance": 3
+   },
+   {
+    "title": "Ethereum ve Katman 1'ler Açıklandı",
+    "summary": "Bu içerik, Ethereum'un blok zincirlerini nasıl programlanabilir hale getirdiğini açıklamaktadır. Akıllı sözleşmeler, hesaplar, EVM, ETH, gas ücretleri, Hisse Kanıtı ve ağ yükseltmelerini kapsamaktadır.",
+    "url": "https://www.theblock.co/learn/campus/ethereum-and-layer-1s-explained-435883",
+    "published": "2026-11-13T14:12:23Z",
+    "importance": 2
    }
   ],
   "JUP": [
@@ -172,13 +184,6 @@
     "summary": "SoFiUSD, SoFi'nin 17 milyondan fazla üyesi için Ethereum ve Solana'nın yanı sıra ağı ekleyerek Polygon'da yayına girdi.",
     "url": "https://www.theblock.co/news/ecosystems/2026-11-12-sofiusd-goes-live-on-polygon-as-bank-issued-stablecoin-expands-reach-438542",
     "published": "2026-11-12T14:00:00Z",
-    "importance": 3
-   },
-   {
-    "title": "'Dönüm noktası çeyreği': Solana Şirketi, staking ödülleriyle desteklenen 3. çeyrek gelir artışını bildirdi",
-    "summary": "Dijital varlık hazine şirketi, geçen yılın aynı dönemindeki 697.000 dolara kıyasla 3,4 milyon dolar üç aylık gelir bildirdi. Gelir artışı staking ödülleri tarafından desteklendi.",
-    "url": "https://www.theblock.co/news/business/2026-11-11-solana-company-reports-q3-revenue-growth-438448",
-    "published": "2026-11-12T02:25:14Z",
     "importance": 3
    }
   ],
@@ -243,18 +248,6 @@
   ]
  },
  "seen": {
-  "https://www.coindesk.com/markets/2026/11/09/u-s-inflation-corporate-earnings-crypto-week-ahead": 1794217152.3708844,
-  "https://www.theblock.co/news/defi/2026-11-09-zama-spin-off-raycash-launches-confidential-stablecoin-payments-private-yield-ethereum-435909": 1794217152.3708844,
-  "https://cointelegraph-tr.com/news/binance-tether-wlfi-senate-crypto-investigation-records-deadline": 1794217152.3708844,
-  "https://cointelegraph-tr.com/markets/bitcoin-etfs-13b-biggest-weekly-outflow-late-june": 1794217152.3708844,
-  "https://www.coindesk.com/markets/2026/11/09/spacex-proposes-a-usd24-billion-texas-supercomputer-worth-17-times-its-bitcoin-pile": 1794217152.3708844,
-  "https://www.coindesk.com/tech/2026/11/09/solana-moves-to-scrap-the-transaction-feature-used-in-the-usd270-million-drift-hack": 1794217152.3708844,
-  "https://www.coindesk.com/tech/2026/11/09/two-rival-ethereum-proposals-aim-to-stop-glamsterdam-breaking-old-contracts": 1794217152.3708844,
-  "https://www.coindesk.com/tech/2026/11/09/binance-s-bitcoin-mining-pool-finds-just-one-block-in-a-week-as-shutdown-nears": 1794217152.3708844,
-  "https://cointelegraph-tr.com/news/tbtc-bridge-resumes-aave-120m-reserve-frozen": 1794217152.3708844,
-  "https://www.theblock.co/news/defi/2026-11-08-nvidia-perps-slide-jensen-huang-436047": 1794217152.3708844,
-  "https://www.coindesk.com/markets/2026/11/09/bitcoin-drops-then-pops-as-nvidia-cheating-scandal-and-failed-iran-talks-trigger-volatility": 1794217152.3708844,
-  "https://www.theblock.co/learn/ecosystems/what-is-zcash-zec-435779": 1794217152.3708844,
   "https://www.theblock.co/news/regulation/2026-11-09-senate-banking-elizabeth-warren-scrutiny-prediction-markets-trump-crypto-ventures-436898": 1794256769.2197964,
   "https://cointelegraph-tr.com/news/formation-securities-solana-stock-trading-venue-sec-exemption": 1794256769.2197964,
   "https://www.coindesk.com/business/2026/11/09/robinhood-backs-tokenization-of-its-stock-on-okx-ice-platform-even-as-most-companies-opt-out": 1794256769.2197964,
@@ -453,7 +446,25 @@
   "https://www.theblock.co/newsletters/the-daily/2026-11-12-bitcoin-12-week-low-strategy-metaplanet-msci-more-crypto-news-439049": 1794556256.6924355,
   "https://www.coindesk.com/markets/2026/11/13/bitcoin-dips-below-usd70-000-as-selloff-gathers-pace": 1794556256.6924355,
   "https://cointelegraph-tr.com/news/trump-nominates-hester-peirce-successor-among-sec-cftc-picks": 1794556256.6924355,
-  "https://cointelegraph-tr.com/news/former-nvidia-ceo-huang-had-third-alleged-affair-reuters": 1794556256.6924355
+  "https://cointelegraph-tr.com/news/former-nvidia-ceo-huang-had-third-alleged-affair-reuters": 1794556256.6924355,
+  "https://www.coindesk.com/markets/2026/11/13/bitcoin-heads-for-sixth-weekly-loss-as-anthropic-s-blockbuster-ipo-looms": 1794586325.3020346,
+  "https://www.theblock.co/news/business/2026-11-13-kraken-parent-payward-posts-66-drop-in-q3-adjusted-ebitda-plans-us-prediction-markets-and-personal-finance-ai-agent-439721": 1794586325.3020346,
+  "https://www.theblock.co/news/business/2026-11-13-tether-backed-twenty-one-capital-reports-1-09-billion-q3-net-income-on-bitcoin-gains-439711": 1794586325.3020346,
+  "https://www.theblock.co/learn/campus/ethereum-and-layer-1s-explained-435883": 1794586325.3020346,
+  "https://www.coindesk.com/business/2026/11/13/kraken-parent-payward-says-expansion-outside-crypto-trading-helps-cushion-revenue-decline": 1794586325.3020346,
+  "https://cointelegraph-tr.com/news/arthur-hayes-coinbase-us-stock-perps-cftc": 1794586325.3020346,
+  "https://www.theblock.co/news/markets/2026-11-13-from-6-to-6-9-million-two-dormant-bitcoin-addresses-wake-up-to-move-100-btc-after-more-than-16-years-439698": 1794586325.3020346,
+  "https://www.theblock.co/news/regulation/2026-11-13-uk-singapore-and-thailand-central-banks-complete-foreign-exchange-settlement-trial-linking-traditional-and-tokenized-systems-439692": 1794586325.3020346,
+  "https://cointelegraph-tr.com/news/israel-police-arrest-five-5m-whatsapp-crypto-scheme": 1794586325.3020346,
+  "https://www.coindesk.com/daybook-us/2026/11/13/bitcoin-s-momentum-gauge-is-turning-red-could-send-prices-back-below-usd60-000": 1794586325.3020346,
+  "https://www.coindesk.com/markets/2026/11/13/bitcoin-hits-12-week-low-as-dollar-rallies-on-interest-rate-outlook-liquidations-top-usd1-6-billion": 1794586325.3020346,
+  "https://www.theblock.co/news/regulation/2026-11-13-thailand-seeks-daily-stablecoin-cap-439676": 1794586325.3020346,
+  "https://www.theblock.co/news/business/2026-11-13-jpmorgan-reports-36-rise-in-strategy-share-holdings-and-540-million-in-blackrocks-bitcoin-etf-439671": 1794586325.3020346,
+  "https://cointelegraph-tr.com/news/unocoin-withdrawals-halted-bitgo-wallet-transfer-probe": 1794586325.3020346,
+  "https://cointelegraph-tr.com/markets/bitcoin-returns-200-week-trend-line-analyst-sees-risk-57k-next": 1794586325.3020346,
+  "https://www.theblock.co/news/regulation/2026-11-13-doj-cftc-sue-arkansas-to-block-state-enforcement-action-against-kalshi-439669": 1794586325.3020346,
+  "https://cointelegraph-tr.com/news/doj-12b-north-korean-crypto-seizure-400m-facestealer-scheme": 1794586325.3020346,
+  "https://www.coindesk.com/tech/2026/11/13/live-news-bitcoin-drops-below-200-week-moving-average-as-dollar-strength-pressures-risk-assets": 1794586325.3020346
  },
  "tries": {
   "https://www.theblock.co/news/defi/2026-10-29-uniswap-token-jar-tjar-robinhood-432131": 1
