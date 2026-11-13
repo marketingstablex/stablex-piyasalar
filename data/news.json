@@ -1,11 +1,20 @@
 {
- "updated": "2026-11-13T01:00:07Z",
+ "updated": "2026-11-13T07:50:56Z",
  "sources": [
   "coindesk.com",
   "cointelegraph-tr.com",
   "theblock.co"
  ],
  "bySymbol": {
+  "AAVE": [
+   {
+    "title": "Ethereum hazine firması BTCS, 64 milyon dolarlık Aave kredisini sağlıklı tutmak için zararına ether sattı",
+    "summary": "Ethereum hazine firması BTCS, 64 milyon dolarlık Aave kredisini sağlıklı tutmak için zararına ether sattı.",
+    "url": "https://www.coindesk.com/markets/2026/11/13/ethereum-treasury-firm-btcs-sold-ether-at-a-loss-to-keep-usd64-million-aave-loan-healthy",
+    "published": "2026-11-13T07:05:29Z",
+    "importance": 3
+   }
+  ],
   "AVAX": [
    {
     "title": "Avalanche, Tokenize Hisselerin Yüzde Beşine Sahip",
@@ -22,6 +31,13 @@
     "url": "https://www.theblock.co/news/markets/2026-11-12-bitcoin-12-week-low-jensen-huang-exit-nvidia-438992",
     "published": "2026-11-12T17:40:00Z",
     "importance": 5
+   },
+   {
+    "title": "Bitcoin ETF'leri yıl genelinde 1,5 milyar doların üzerinde net çıkış yaşadı",
+    "summary": "Bitcoin ETF'leri yıl içinde 1,5 milyar doların üzerinde net çıkış yaşadı.",
+    "url": "https://www.coindesk.com/markets/2026/11/13/bitcoin-etfs-are-now-down-over-usd1-5-billion-in-net-outflows-for-the-year",
+    "published": "2026-11-13T05:45:26Z",
+    "importance": 4
    },
    {
     "title": "BlackRock Bitcoin ETF çıkışları dokuz seansta 2 milyar dolara ulaştı",
@@ -45,11 +61,11 @@
     "importance": 4
    },
    {
-    "title": "Deutsche Bank şirketler ve kurumlar için kripto saklama hizmetini başlattı",
-    "summary": "Müşteriler, cüzdanlarını ve özel anahtarlarını yöneten banka aracılığıyla Bitcoin, Ether ve seçili stablecoin’leri saklayıp transfer edebilir.",
-    "url": "https://cointelegraph-tr.com/news/deutsche-bank-debuts-digital-asset-custody-services-eu",
-    "published": "2026-11-11T14:02:18Z",
-    "importance": 4
+    "title": "SpaceX-Tesla birleşme görüşmeleri 30.000 bitcoin'i yeniden odak noktası haline getirdi",
+    "summary": "SpaceX-Tesla birleşme görüşmeleri 30.000 bitcoin'i yeniden gündeme getirdi.",
+    "url": "https://www.coindesk.com/markets/2026/11/13/spacex-tesla-merger-talks-put-30-000-bitcoin-back-in-focus",
+    "published": "2026-11-13T05:08:59Z",
+    "importance": 3
    }
   ],
   "DOGE": [
@@ -86,11 +102,11 @@
     "importance": 4
    },
    {
-    "title": "Deutsche Bank şirketler ve kurumlar için kripto saklama hizmetini başlattı",
-    "summary": "Müşteriler, cüzdanlarını ve özel anahtarlarını yöneten banka aracılığıyla Bitcoin, Ether ve seçili stablecoin’leri saklayıp transfer edebilir.",
-    "url": "https://cointelegraph-tr.com/news/deutsche-bank-debuts-digital-asset-custody-services-eu",
-    "published": "2026-11-11T14:02:18Z",
-    "importance": 4
+    "title": "Ethereum hazine firması BTCS, 64 milyon dolarlık Aave kredisini sağlıklı tutmak için zararına ether sattı",
+    "summary": "Ethereum hazine firması BTCS, 64 milyon dolarlık Aave kredisini sağlıklı tutmak için zararına ether sattı.",
+    "url": "https://www.coindesk.com/markets/2026/11/13/ethereum-treasury-firm-btcs-sold-ether-at-a-loss-to-keep-usd64-million-aave-loan-healthy",
+    "published": "2026-11-13T07:05:29Z",
+    "importance": 3
    },
    {
     "title": "Sygnum, ETH cinsinden %8 ila %10 yıllık getiri hedefleyen ETH Alpha Fund'ı başlattı",
@@ -184,13 +200,6 @@
     "importance": 4
    },
    {
-    "title": "Stablecoin arzı 2022 ayı piyasasından bu yana en büyük daralma ile 14,2 milyar dolar düştü",
-    "summary": "Geçtiğimiz ay USDT ve USDC arzı yaklaşık 11 milyar dolar düşerken, altına dayalı token'lar yatay seyretti.",
-    "url": "https://www.theblock.co/news/ecosystems/2026-11-11-stablecoin-supply-drops-14-2-billion-largest-contraction-since-2022-bear-market-437907",
-    "published": "2026-11-11T17:23:10Z",
-    "importance": 4
-   },
-   {
     "title": "BitGo, USDC ile kurumsal stabilcoın basım ve redemption platformunu genişletiyor",
     "summary": "BitGo'nun kurumsal müşterileri artık Go Accounts aracılığıyla USDC basabilir ve iade edebilir, emirler ise Circle Mint hesabı üzerinden gerçekleştirilir.",
     "url": "https://www.theblock.co/news/business/2026-11-12-bitgo-expands-institutional-stablecoin-minting-and-redemption-platform-with-usdc-438525",
@@ -199,13 +208,6 @@
    }
   ],
   "USDT": [
-   {
-    "title": "Stablecoin arzı 2022 ayı piyasasından bu yana en büyük daralma ile 14,2 milyar dolar düştü",
-    "summary": "Geçtiğimiz ay USDT ve USDC arzı yaklaşık 11 milyar dolar düşerken, altına dayalı token'lar yatay seyretti.",
-    "url": "https://www.theblock.co/news/ecosystems/2026-11-11-stablecoin-supply-drops-14-2-billion-largest-contraction-since-2022-bear-market-437907",
-    "published": "2026-11-11T17:23:10Z",
-    "importance": 4
-   },
    {
     "title": "Tether Gold ihraççısı, Big Four denetimini tamamlamak için USDT'yi takip ediyor",
     "summary": "ABD'li denetim şirketi KPMG, Tether Gold ihraççısı TG Commodities'in 2025 mali hesaplarına olumlu görüş verdi.",
@@ -241,7 +243,6 @@
   ]
  },
  "seen": {
-  "https://www.theblock.co/news/defi/2026-11-08-onchain-data-casts-doubt-on-insider-trading-theory-in-nyts-suspicious-election-betting-story-436034": 1794189346.2324555,
   "https://www.coindesk.com/markets/2026/11/09/u-s-inflation-corporate-earnings-crypto-week-ahead": 1794217152.3708844,
   "https://www.theblock.co/news/defi/2026-11-09-zama-spin-off-raycash-launches-confidential-stablecoin-payments-private-yield-ethereum-435909": 1794217152.3708844,
   "https://cointelegraph-tr.com/news/binance-tether-wlfi-senate-crypto-investigation-records-deadline": 1794217152.3708844,
@@ -440,7 +441,19 @@
   "https://www.theblock.co/news/regulation/2026-11-12-louisiana-sues-kalshi-robinhood-other-prediction-markets-escalating-regulatory-fight-439052": 1794531607.6940393,
   "https://www.coindesk.com/policy/2026/11/12/kalshi-ends-donald-trump-jr-s-advisory-contract-over-1789-capital-s-polymarket-investment": 1794531607.6940393,
   "https://cointelegraph-tr.com/news/us-justice-department-business-groups-defi-illinois-crypto-tax": 1794531607.6940393,
-  "https://www.theblock.co/newsletters/tokenization-briefing/2026-11-12-avalanche-owns-five-percent-tokenized-stocks-437310": 1794531607.6940393
+  "https://www.theblock.co/newsletters/tokenization-briefing/2026-11-12-avalanche-owns-five-percent-tokenized-stocks-437310": 1794531607.6940393,
+  "https://www.coindesk.com/markets/2026/11/13/ethereum-treasury-firm-btcs-sold-ether-at-a-loss-to-keep-usd64-million-aave-loan-healthy": 1794556256.6924355,
+  "https://www.theblock.co/news/markets/2026-11-13-bitcoin-tumbles-below-69000-439643": 1794556256.6924355,
+  "https://www.coindesk.com/markets/2026/11/13/bitcoin-firm-nakamoto-owes-kraken-usd165-million-more-than-its-entire-market-value": 1794556256.6924355,
+  "https://cointelegraph-tr.com/markets/bitcoin-falls-below-70k-crypto-extreme-fear": 1794556256.6924355,
+  "https://www.coindesk.com/markets/2026/11/13/bitcoin-etfs-are-now-down-over-usd1-5-billion-in-net-outflows-for-the-year": 1794556256.6924355,
+  "https://www.coindesk.com/markets/2026/11/13/spacex-tesla-merger-talks-put-30-000-bitcoin-back-in-focus": 1794556256.6924355,
+  "https://www.theblock.co/news/defi/2026-11-13-trm-labs-beacon-concierge-439609": 1794556256.6924355,
+  "https://www.theblock.co/news/regulation/2026-11-12-white-house-crypto-picks-sec-cftc-439175": 1794556256.6924355,
+  "https://www.theblock.co/newsletters/the-daily/2026-11-12-bitcoin-12-week-low-strategy-metaplanet-msci-more-crypto-news-439049": 1794556256.6924355,
+  "https://www.coindesk.com/markets/2026/11/13/bitcoin-dips-below-usd70-000-as-selloff-gathers-pace": 1794556256.6924355,
+  "https://cointelegraph-tr.com/news/trump-nominates-hester-peirce-successor-among-sec-cftc-picks": 1794556256.6924355,
+  "https://cointelegraph-tr.com/news/former-nvidia-ceo-huang-had-third-alleged-affair-reuters": 1794556256.6924355
  },
  "tries": {
   "https://www.theblock.co/news/defi/2026-10-29-uniswap-token-jar-tjar-robinhood-432131": 1
