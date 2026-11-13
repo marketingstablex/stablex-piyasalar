@@ -1,11 +1,20 @@
 {
- "updated": "2026-11-12T19:50:20Z",
+ "updated": "2026-11-13T01:00:07Z",
  "sources": [
   "coindesk.com",
   "cointelegraph-tr.com",
   "theblock.co"
  ],
  "bySymbol": {
+  "AVAX": [
+   {
+    "title": "Avalanche, Tokenize Hisselerin Yüzde Beşine Sahip",
+    "summary": "Geçtiğimiz hafta üç ABD tokenize hisse senedi platformu lansman için üç farklı blok zinciri seçti. Wall Street Journal'ın haberine göre NYSE, planlanan 7/24 platformu için tek mutabakat zinciri olarak Avalanche'ı seçti. 4 Kasım'da CNTN, ABD Menkul Kıymetler ve Borsa Komisyonu'nun (SEC) İnovasyon Muafiyeti altında işlem gören ilk ABD hisse senedi oldu.",
+    "url": "https://www.theblock.co/newsletters/tokenization-briefing/2026-11-12-avalanche-owns-five-percent-tokenized-stocks-437310",
+    "published": "2026-11-12T20:02:00Z",
+    "importance": 3
+   }
+  ],
   "BTC": [
    {
     "title": "Jensen Huang'ın Nvidia'dan Ayrılması Piyasaları Sarsarken Bitcoin 12 Haftanın En Düşük Seviyesine Geriledi",
@@ -40,27 +49,6 @@
     "summary": "Müşteriler, cüzdanlarını ve özel anahtarlarını yöneten banka aracılığıyla Bitcoin, Ether ve seçili stablecoin’leri saklayıp transfer edebilir.",
     "url": "https://cointelegraph-tr.com/news/deutsche-bank-debuts-digital-asset-custody-services-eu",
     "published": "2026-11-11T14:02:18Z",
-    "importance": 4
-   },
-   {
-    "title": "Bitcoin kısa vadeli sahipleri 47 bin BTC’yi zararla borsalara gönderdi",
-    "summary": "CryptoQuant verilerine göre Bitcoin, kısa vadeli sahiplerin ortalama maliyet bazının altına gerilemesiyle 11 haftanın en düşük seviyesi olan 72.670 dolara geriledi. Bu süreçte kısa vadeli sahipler yaklaşık 47 bin BTC'yi zararla borsalara aktardı.",
-    "url": "https://cointelegraph-tr.com/markets/bitcoin-speculators-btc-exchanges-unrealized-loss-727k",
-    "published": "2026-11-11T11:05:26Z",
-    "importance": 4
-   },
-   {
-    "title": "Hisse senedi ETF alıcıları düşüşe saldırırken Bitcoin fonları 1,6 milyar dolar kaybetti",
-    "summary": "ABD spot Bitcoin ETF'leri kasım ayında 1,6 milyar dolar kaybederken, düşüşten alım yapan yatırımcılar hisse senedi fonlarına milyarlarca dolar aktardı.",
-    "url": "https://cointelegraph-tr.com/markets/bitcoin-etf-outflows-persist-while-equity-investors-buy-the-dip",
-    "published": "2026-11-11T08:55:31Z",
-    "importance": 4
-   },
-   {
-    "title": "SEC icra eylemleri yüzde 24 geriledi, kripto davaları gündemde",
-    "summary": "SEC, mali 2026'da 348 eylem başlattı ve bu sayı bir önceki yılki 456 eylemden daha düşük gerçekleşti. Başlatılan davalar arasında iddia edilen Bitcoin madenciliği dolandırıcılığı ve FTX denetimlerine ilişkin eksiklikler yer aldı.",
-    "url": "https://cointelegraph-tr.com/news/sec-crypto-cases-enforcement-actions-fall-23-2025",
-    "published": "2026-11-11T08:43:30Z",
     "importance": 4
    }
   ],
@@ -103,13 +91,6 @@
     "url": "https://cointelegraph-tr.com/news/deutsche-bank-debuts-digital-asset-custody-services-eu",
     "published": "2026-11-11T14:02:18Z",
     "importance": 4
-   },
-   {
-    "title": "Ethlabs, 2027’de kuantum hazırlığı için Hegotá slot önerisini geri çekiyor",
-    "summary": "Ethlabs’in yol haritası, Ethereum’un kuantum saldırılarına dayanmasına yardımcı olmayı ve kullanıcıların hesaplarını 2027’ye kadar korumalarını sağlayacak bir yol sunmayı amaçlıyor.",
-    "url": "https://cointelegraph-tr.com/news/ethlabs-ethereum-quantum-security-2027-quick-slots",
-    "published": "2026-11-12T10:30:29Z",
-    "importance": 3
    },
    {
     "title": "Sygnum, ETH cinsinden %8 ila %10 yıllık getiri hedefleyen ETH Alpha Fund'ı başlattı",
@@ -260,9 +241,6 @@
   ]
  },
  "seen": {
-  "https://www.coindesk.com/policy/2026/11/08/what-the-election-results-mean-for-crypto-state-of-crypto": 1794176770.2520938,
-  "https://www.coindesk.com/business/2026/11/08/stablecoin-growth-has-stalled-the-payments-boom-hasn-t": 1794176770.2520938,
-  "https://www.theblock.co/news/defi/2026-11-08-web3auth-says-it-frontran-hackers-by-moving-5-6-million-out-of-exposed-keplr-wallets-436029": 1794176770.2520938,
   "https://www.theblock.co/news/defi/2026-11-08-onchain-data-casts-doubt-on-insider-trading-theory-in-nyts-suspicious-election-betting-story-436034": 1794189346.2324555,
   "https://www.coindesk.com/markets/2026/11/09/u-s-inflation-corporate-earnings-crypto-week-ahead": 1794217152.3708844,
   "https://www.theblock.co/news/defi/2026-11-09-zama-spin-off-raycash-launches-confidential-stablecoin-payments-private-yield-ethereum-435909": 1794217152.3708844,
@@ -452,7 +430,17 @@
   "https://www.coindesk.com/daybook-us/2026/11/12/bitcoin-weakness-erases-september-s-bullish-signal": 1794513020.7445536,
   "https://www.coindesk.com/business/2026/11/12/uk-bank-griffin-raises-usd20-million-to-expand-into-stablecoin-payments": 1794513020.7445536,
   "https://www.coindesk.com/tech/2026/11/12/ethereum-researchers-drop-faster-blocks-to-race-toward-quantum-defenses-in-2027": 1794513020.7445536,
-  "https://cointelegraph-tr.com/markets/stablecoin-supply-drops-worst-slump-since-mid-2022": 1794513020.7445536
+  "https://cointelegraph-tr.com/markets/stablecoin-supply-drops-worst-slump-since-mid-2022": 1794513020.7445536,
+  "https://cointelegraph-tr.com/markets/geminis-quarterly-retail-trading-volume-sinks-to-3-year-low": 1794531607.6940393,
+  "https://www.coindesk.com/policy/2026/11/12/north-korea-s-binance-hack-faces-u-s-crackdown-as-doj-targets-usd1-2-billion-in-stolen-crypto": 1794531607.6940393,
+  "https://www.coindesk.com/policy/2026/11/12/u-s-president-names-cftc-sec-nominees-for-first-time-in-a-year": 1794531607.6940393,
+  "https://www.theblock.co/news/business/2026-11-12-doj-seize-1-2-billion-binance-hack-north-korea-facestealer-439065": 1794531607.6940393,
+  "https://cointelegraph-tr.com/magazine/nk-hackers-join-memecoin-trenches-xstocks-adds-hong-kong-equities-asia-express": 1794531607.6940393,
+  "https://www.theblock.co/news/markets/2026-11-12-gemini-trading-volume-drops-q3-revenue-falls-to-41-million-439050": 1794531607.6940393,
+  "https://www.theblock.co/news/regulation/2026-11-12-louisiana-sues-kalshi-robinhood-other-prediction-markets-escalating-regulatory-fight-439052": 1794531607.6940393,
+  "https://www.coindesk.com/policy/2026/11/12/kalshi-ends-donald-trump-jr-s-advisory-contract-over-1789-capital-s-polymarket-investment": 1794531607.6940393,
+  "https://cointelegraph-tr.com/news/us-justice-department-business-groups-defi-illinois-crypto-tax": 1794531607.6940393,
+  "https://www.theblock.co/newsletters/tokenization-briefing/2026-11-12-avalanche-owns-five-percent-tokenized-stocks-437310": 1794531607.6940393
  },
  "tries": {
   "https://www.theblock.co/news/defi/2026-10-29-uniswap-token-jar-tjar-robinhood-432131": 1
