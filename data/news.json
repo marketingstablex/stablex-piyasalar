@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-13T16:12:05Z",
+ "updated": "2026-11-13T22:07:45Z",
  "sources": [
   "coindesk.com",
   "cointelegraph-tr.com",
@@ -40,31 +40,10 @@
     "importance": 4
    },
    {
-    "title": "BlackRock Bitcoin ETF çıkışları dokuz seansta 2 milyar dolara ulaştı",
-    "summary": "ABD spot Bitcoin ETF'lerinden çıkışlar çarşamba günü yaklaşık 300 milyon dolara yükseldi. Bu rakam bir gün önceki 95 milyon dolardan artış gösterirken, beş seanstaki toplam çekimler 1,44 milyar dolara ulaştı.",
-    "url": "https://cointelegraph-tr.com/markets/blackrock-bitcoin-etf-ibit-outflows-nine-day-streak",
-    "published": "2026-11-12T08:06:48Z",
-    "importance": 4
-   },
-   {
-    "title": "Bitcoin Core, binlerce düğümün Tor üzerindeki herhangi bir yabancıya güvenmesine neden olan bir hata ortaya çıkardı",
-    "summary": "Bitcoin Core, binlerce düğümün Tor üzerindeki herhangi bir yabancıya güvenmesine yol açan bir hatayı ortaya çıkardı.",
-    "url": "https://www.coindesk.com/tech/2026/11/12/bitcoin-core-reveals-bug-that-made-thousands-of-nodes-trust-any-stranger-on-tor",
-    "published": "2026-11-12T05:22:31Z",
-    "importance": 4
-   },
-   {
-    "title": "Bitcoin tüccarları Noel'de 70.000 doların altı ihtimalini artırıyor, Bitmine 6.3 milyar dolarlık yıllık net zarar bildirdi ve dahası",
-    "summary": "Günlük bültene göre, tüccarlar Noel'de 70.000 doların altı ihtimalini artırırken Bitcoin sıkışmaya hazır görünüyor. Ayrıca Bitmine, ether %44 düşerken 6.3 milyar dolarlık yıllık net zarar bildirdi.",
-    "url": "https://www.theblock.co/newsletters/the-daily/2026-11-11-bitcoin-outlook-christmas-bitmine-net-loss-more-crypto-news-438430",
-    "published": "2026-11-12T04:55:00Z",
-    "importance": 4
-   },
-   {
-    "title": "Anthropic'in dev halka arzı yaklaşırken Bitcoin altıncı haftalık kayba yöneldi",
-    "summary": "Anthropic'in dev halka arzı yaklaşırken Bitcoin altıncı haftalık kayba yöneldi",
-    "url": "https://www.coindesk.com/markets/2026/11/13/bitcoin-heads-for-sixth-weekly-loss-as-anthropic-s-blockbuster-ipo-looms",
-    "published": "2026-11-13T16:01:27Z",
+    "title": "Adam Back, Blockstream Bitcoin saklama sistemini piyasaya sürerken daha basit güvenliğin önemini savunuyor",
+    "summary": "Thales ile geliştirilen Blockstream’in yeni saklama sistemi, işlem imzalama için özel donanım kullanıyor. Adam Back, siber riskleri azaltmak için çevrimdışı güvenliği savunuyor.",
+    "url": "https://cointelegraph-tr.com/news/adam-back-simpler-security-blockstream-bitcoin-custody-system",
+    "published": "2026-11-13T21:49:27Z",
     "importance": 3
    },
    {
@@ -92,20 +71,6 @@
    }
   ],
   "ETH": [
-   {
-    "title": "Ethlabs, yapay zeka hızlanmasını gerekçe göstererek Ethereum'un kuantum sonrası dönemini 2027'ye taşımayı öneriyor",
-    "summary": "Grup, yapay zeka gelişiminin getirdiği kriptografik risklere karşı dirençli olmak amacıyla Ethereum'u 2027 yılına kadar yapay zeka sonrası duruma getirmeyi hedeflediğini belirtti.",
-    "url": "https://www.theblock.co/news/defi/2026-11-12-ethlabs-proposes-ethereum-post-quantum-2027-438494",
-    "published": "2026-11-12T07:27:24Z",
-    "importance": 4
-   },
-   {
-    "title": "Bitcoin tüccarları Noel'de 70.000 doların altı ihtimalini artırıyor, Bitmine 6.3 milyar dolarlık yıllık net zarar bildirdi ve dahası",
-    "summary": "Günlük bültene göre, tüccarlar Noel'de 70.000 doların altı ihtimalini artırırken Bitcoin sıkışmaya hazır görünüyor. Ayrıca Bitmine, ether %44 düşerken 6.3 milyar dolarlık yıllık net zarar bildirdi.",
-    "url": "https://www.theblock.co/newsletters/the-daily/2026-11-11-bitcoin-outlook-christmas-bitmine-net-loss-more-crypto-news-438430",
-    "published": "2026-11-12T04:55:00Z",
-    "importance": 4
-   },
    {
     "title": "Ethereum hazine firması BTCS, 64 milyon dolarlık Aave kredisini sağlıklı tutmak için zararına ether sattı",
     "summary": "Ethereum hazine firması BTCS, 64 milyon dolarlık Aave kredisini sağlıklı tutmak için zararına ether sattı.",
@@ -236,48 +201,9 @@
     "published": "2026-11-12T15:23:26Z",
     "importance": 3
    }
-  ],
-  "XRP": [
-   {
-    "title": "Ripple’ın banka kredi sistemi XRP Ledger üzerinde yayına yaklaşıyor",
-    "summary": "Ripple'ın banka kredi sistemi XRP Ledger üzerinde lansmana yaklaşmaktadır.",
-    "url": "https://www.coindesk.com/tech/2026/11/12/ripple-s-bank-lending-system-moves-closer-to-launch-on-the-xrp-ledger",
-    "published": "2026-11-12T05:18:43Z",
-    "importance": 3
-   }
   ]
  },
  "seen": {
-  "https://www.theblock.co/news/regulation/2026-11-09-senate-banking-elizabeth-warren-scrutiny-prediction-markets-trump-crypto-ventures-436898": 1794256769.2197964,
-  "https://cointelegraph-tr.com/news/formation-securities-solana-stock-trading-venue-sec-exemption": 1794256769.2197964,
-  "https://www.coindesk.com/business/2026/11/09/robinhood-backs-tokenization-of-its-stock-on-okx-ice-platform-even-as-most-companies-opt-out": 1794256769.2197964,
-  "https://www.theblock.co/news/regulation/2026-11-09-ethereum-foundation-vitalik-buterin-sued-over-firing-suicide-pledge-dispute-436739": 1794256769.2197964,
-  "https://www.coindesk.com/tech/2026/11/09/a-bitcoin-block-just-neared-a-2015-transaction-record-but-paid-only-usd180-in-fees": 1794256769.2197964,
-  "https://www.theblock.co/news/markets/2026-11-09-stonex-sees-upside-bullish-equiniti-deal-opens-tokenization-market-436464": 1794256769.2197964,
-  "https://www.theblock.co/news/business/2026-11-09-coinbase-pnc-bank-expand-partnership-with-usdc-payments-corporate-clients-436466": 1794256769.2197964,
-  "https://www.theblock.co/news/ecosystems/2026-11-09-binance-hack-launderers-mint-homemade-elon-musk-animal-memecoins-move-stolen-funds-elliptic-436440": 1794256769.2197964,
-  "https://www.theblock.co/news/markets/2026-11-09-sharplink-q3-2026-earnings-net-income-eth-holdings-436459": 1794256769.2197964,
-  "https://www.coindesk.com/markets/2026/11/09/google-s-ai-chip-push-adds-more-pressure-on-nvidia": 1794256769.2197964,
-  "https://www.theblock.co/news/regulation/2026-11-09-river-markets-prediction-market-prime-brokerage-cftc-fcm-registration-436266": 1794256769.2197964,
-  "https://www.coindesk.com/business/2026/11/09/north-korean-hackers-are-creating-memecoins-to-wash-loot-from-usd6-3-billion-binance-hack": 1794256769.2197964,
-  "https://www.theblock.co/news/business/2026-11-09-tom-lee-bitmine-nears-ethereum-supply-target-20-million-eth-tokenization-ai-supercycle-436219": 1794256769.2197964,
-  "https://www.theblock.co/news/business/2026-11-09-nyse-settle-tokenized-stocks-avalanche-planned-24-7-market-436208": 1794256769.2197964,
-  "https://www.coindesk.com/business/2026/11/09/nyse-picks-avalanche-to-settle-tokenized-stocks-amid-wall-street-s-blockchain-race": 1794256769.2197964,
-  "https://www.theblock.co/news/business/2026-11-09-connecting-the-dots-michael-saylor-strategy-bitcoin-436094": 1794256769.2197964,
-  "https://www.theblock.co/news/markets/2026-11-09-bitcoin-loses-50-week-moving-average-as-24-hour-crypto-long-liquidations-top-1-billion-436102": 1794256769.2197964,
-  "https://www.coindesk.com/business/2026/11/06/solana-lset-for-its-first-tokenized-stock-venue-under-sec-framework-listing-galaxy": 1794256769.2197964,
-  "https://www.coindesk.com/business/2026/11/09/trump-says-he-knows-nothing-about-world-liberty-s-uae-ties-as-justin-sun-challenges-filings": 1794256769.2197964,
-  "https://www.theblock.co/news/defi/2026-11-09-formation-tokenized-securities-solana-436060": 1794256769.2197964,
-  "https://www.coindesk.com/daybook-us/2026/11/09/bitcoin-bulls-can-t-rely-on-etf-flows": 1794256769.2197964,
-  "https://cointelegraph-tr.com/news/eu-nominations-tokenization-standards-group": 1794256769.2197964,
-  "https://www.coindesk.com/markets/2026/11/09/tech-selloff-weighs-on-crypto-majors": 1794256769.2197964,
-  "https://cointelegraph-tr.com/news/coinbase-occ-approval-national-trust-bank-charter": 1794256769.2197964,
-  "https://cointelegraph-tr.com/news/robinhood-us-ipo-access-uk-retail-investors": 1794256769.2197964,
-  "https://www.coindesk.com/tech/2026/11/09/zcash-developers-want-20-second-blocks-just-days-after-major-speed-upgrade": 1794256769.2197964,
-  "https://www.coindesk.com/tech/2026/11/09/live-news-nvidia-slides-on-ceo-allegations-as-bitcoin-hovers-just-above-its-200-day-average": 1794256769.2197964,
-  "https://www.theblock.co/news/business/2026-11-09-crypto-friendly-robinhood-brings-us-ipo-access-to-uk-retail-investors-436089": 1794256769.2197964,
-  "https://www.theblock.co/news/business/2026-11-09-trump-says-he-knows-nothing-about-uae-linked-investment-in-his-crypto-firm-436079": 1794256769.2197964,
-  "https://www.coindesk.com/policy/2026/11/09/coinbase-gets-full-u-s-trust-charter-from-federal-banking-regulator": 1794256769.2197964,
   "https://www.coindesk.com/markets/2026/11/10/bitcoin-faces-u-s-cpi-test-as-analysts-warn-inflation-relief-may-not-be-enough": 1794281278.3011003,
   "https://www.theblock.co/news/business/2026-11-09-securitize-shares-surge-river-one-436955": 1794281278.3011003,
   "https://cointelegraph-tr.com/markets/hives-bitcoin-output-jumps-49-but-mining-revenue-falls": 1794281278.3011003,
@@ -464,7 +390,19 @@
   "https://cointelegraph-tr.com/markets/bitcoin-returns-200-week-trend-line-analyst-sees-risk-57k-next": 1794586325.3020346,
   "https://www.theblock.co/news/regulation/2026-11-13-doj-cftc-sue-arkansas-to-block-state-enforcement-action-against-kalshi-439669": 1794586325.3020346,
   "https://cointelegraph-tr.com/news/doj-12b-north-korean-crypto-seizure-400m-facestealer-scheme": 1794586325.3020346,
-  "https://www.coindesk.com/tech/2026/11/13/live-news-bitcoin-drops-below-200-week-moving-average-as-dollar-strength-pressures-risk-assets": 1794586325.3020346
+  "https://www.coindesk.com/tech/2026/11/13/live-news-bitcoin-drops-below-200-week-moving-average-as-dollar-strength-pressures-risk-assets": 1794586325.3020346,
+  "https://cointelegraph-tr.com/news/openai-ai-payments-chatgpt-wallet-visa-mastercard-amex": 1794607665.9222043,
+  "https://cointelegraph-tr.com/news/adam-back-simpler-security-blockstream-bitcoin-custody-system": 1794607665.9222043,
+  "https://cointelegraph-tr.com/news/kraken-parent-payward-gains-market-share-slower-trading-earnings": 1794607665.9222043,
+  "https://www.theblock.co/news/markets/2026-11-13-meta-tests-prediction-market-app-using-cred-points-instead-cash-wsj-440215": 1794607665.9222043,
+  "https://cointelegraph-tr.com/news/us-regulators-crypto-trust-charters-senate-scrutiny-grows": 1794607665.9222043,
+  "https://www.theblock.co/news/business/2026-11-13-megaeth-mega-layoffs-20-percent-restructuring-440206": 1794607665.9222043,
+  "https://www.theblock.co/news/regulation/2026-11-13-house-oversight-chair-possible-ban-government-officials-prediction-market-bets-insider-trading-concerns-440207": 1794607665.9222043,
+  "https://www.theblock.co/news/regulation/2026-11-13-cftcs-selig-accuses-states-trying-lock-up-prediction-market-founders-440199": 1794607665.9222043,
+  "https://www.coindesk.com/markets/2026/11/13/bitcoin-slides-to-usd68k-as-nvidia-turmoil-anthropic-ipo-fuel-broader-market-sell-off": 1794607665.9222043,
+  "https://www.coindesk.com/policy/2026/11/13/u-s-senate-banking-committee-races-toward-hearing-on-new-sec-nominations": 1794607665.9222043,
+  "https://www.theblock.co/news/markets/2026-11-13-hyperliquid-leapfrogs-bybit-kraken-okx-open-interest-q3-positions-grow-440053": 1794607665.9222043,
+  "https://cointelegraph-tr.com/markets/nakamoto-shares-fall-after-negative-q3-revenue": 1794607665.9222043
  },
  "tries": {
   "https://www.theblock.co/news/defi/2026-10-29-uniswap-token-jar-tjar-robinhood-432131": 1
