@@ -1,18 +1,18 @@
 {
- "updated": "2026-11-14T16:42:19Z",
+ "updated": "2026-11-14T21:23:40Z",
  "sources": [
   "coindesk.com",
   "cointelegraph-tr.com",
   "theblock.co"
  ],
  "bySymbol": {
-  "AAVE": [
+  "AVAX": [
    {
-    "title": "Ethereum hazine firması BTCS, 64 milyon dolarlık Aave kredisini sağlıklı tutmak için zararına ether sattı",
-    "summary": "Ethereum hazine firması BTCS, 64 milyon dolarlık Aave kredisini sağlıklı tutmak için zararına ether sattı.",
-    "url": "https://www.coindesk.com/markets/2026/11/13/ethereum-treasury-firm-btcs-sold-ether-at-a-loss-to-keep-usd64-million-aave-loan-healthy",
-    "published": "2026-11-13T07:05:29Z",
-    "importance": 3
+    "title": "Bitcoin ETF'leri 2 haftada 2,35 milyar dolar kaybetti, BlackRock'un kayıp serisi 11'e ulaştı",
+    "summary": "ABD spot Bitcoin ETF'lerinde cuma günü toplam 185,4 milyon dolarlık net çıkış yaşandı. Bu çıkışın 143,5 milyon doları BlackRock'un IBIT'inden ve 41,9 milyon doları Fidelity'nin FBTC'sinden gerçekleşti.",
+    "url": "https://cointelegraph-tr.com/markets/bitcoin-etf-outflows-2-35-billion-blackrock-11-session-streak",
+    "published": "2026-11-14T06:33:13Z",
+    "importance": 4
    }
   ],
   "BTC": [
@@ -21,13 +21,6 @@
     "summary": "ABD spot Bitcoin ETF'lerinde cuma günü toplam 185,4 milyon dolarlık net çıkış yaşandı. Bu çıkışın 143,5 milyon doları BlackRock'un IBIT'inden ve 41,9 milyon doları Fidelity'nin FBTC'sinden gerçekleşti.",
     "url": "https://cointelegraph-tr.com/markets/bitcoin-etf-outflows-2-35-billion-blackrock-11-session-streak",
     "published": "2026-11-14T06:33:13Z",
-    "importance": 4
-   },
-   {
-    "title": "Bitcoin ETF'leri yıl genelinde 1,5 milyar doların üzerinde net çıkış yaşadı",
-    "summary": "Bitcoin ETF'leri yıl içinde 1,5 milyar doların üzerinde net çıkış yaşadı.",
-    "url": "https://www.coindesk.com/markets/2026/11/13/bitcoin-etfs-are-now-down-over-usd1-5-billion-in-net-outflows-for-the-year",
-    "published": "2026-11-13T05:45:26Z",
     "importance": 4
    },
    {
@@ -89,13 +82,6 @@
     "importance": 3
    },
    {
-    "title": "Ethereum hazine firması BTCS, 64 milyon dolarlık Aave kredisini sağlıklı tutmak için zararına ether sattı",
-    "summary": "Ethereum hazine firması BTCS, 64 milyon dolarlık Aave kredisini sağlıklı tutmak için zararına ether sattı.",
-    "url": "https://www.coindesk.com/markets/2026/11/13/ethereum-treasury-firm-btcs-sold-ether-at-a-loss-to-keep-usd64-million-aave-loan-healthy",
-    "published": "2026-11-13T07:05:29Z",
-    "importance": 3
-   },
-   {
     "title": "Ethereum ve Katman 1'ler Açıklandı",
     "summary": "Bu içerik, Ethereum'un blok zincirlerini nasıl programlanabilir hale getirdiğini açıklamaktadır. Akıllı sözleşmeler, hesaplar, EVM, ETH, gas ücretleri, Hisse Kanıtı ve ağ yükseltmelerini kapsamaktadır.",
     "url": "https://www.theblock.co/learn/campus/ethereum-and-layer-1s-explained-435883",
@@ -105,29 +91,6 @@
   ]
  },
  "seen": {
-  "https://www.theblock.co/news/markets/2026-11-10-bitcoin-price-cpi-inflation-73000-support-437301": 1794339553.214799,
-  "https://cointelegraph-tr.com/news/pix-withdrawals-resume-mercado-bitcoin-hack": 1794339553.214799,
-  "https://www.theblock.co/news/markets/2026-11-10-grayscale-pledges-1-million-alongside-zcash-ad-blitz-as-token-and-etf-fall-12-437277": 1794339553.214799,
-  "https://www.coindesk.com/business/2026/11/10/goldman-sachs-citi-among-banks-said-to-commit-usd270-million-to-stablecoin-venture": 1794339553.214799,
-  "https://www.theblock.co/news/markets/2026-11-10-ton-strategy-tonx-q3-2026-earnings-gram-staking-437278": 1794339553.214799,
-  "https://www.coindesk.com/news-analysis/2026/11/10/crypto-teams-up-with-u-s-government-to-defend-stock-perps-in-legal-fight": 1794339553.214799,
-  "https://cointelegraph-tr.com/markets/bitcoin-11-week-low-discouraging-us-cpi-inflation": 1794339553.214799,
-  "https://www.theblock.co/news/business/2026-11-10-alta-raises-80-million-build-blockchain-banks-payment-firms-437244": 1794339553.214799,
-  "https://www.theblock.co/news/business/2026-11-10-canaans-q3-revenue-plunges-90-to-14-5-million-as-bitcoin-mining-hardware-sales-slump-437252": 1794339553.214799,
-  "https://www.theblock.co/news/ecosystems/2026-11-10-megaeth-rebrand-30-million-new-products-ai-inference-437249": 1794339553.214799,
-  "https://www.coindesk.com/markets/2026/11/10/emb-10-am-et-plume-affiliate-gets-the-legal-green-light-to-trade-regulated-security-entitlements-onchain": 1794339553.214799,
-  "https://www.theblock.co/news/ecosystems/2026-11-10-moodys-chainlink-ccip-cross-chain-credit-ratings-pilot-437245": 1794339553.214799,
-  "https://www.theblock.co/news/business/2026-11-10-bitdeer-reports-record-q3-revenue-as-net-loss-widens-to-125-5-million-437217": 1794339553.214799,
-  "https://www.theblock.co/news/ecosystems/2026-11-10-visa-monad-stablecoin-settlement-network-437201": 1794339553.214799,
-  "https://www.coindesk.com/opinion/2026/11/10/will-stablecoins-survive-once-the-banks-catch-up": 1794339553.214799,
-  "https://www.theblock.co/news/business/2026-11-10-etoros-q3-profit-plunges-74-as-weaker-crypto-trading-weighs-on-earnings-437192": 1794339553.214799,
-  "https://cointelegraph-tr.com/news/poland-bill-freeze-sanctions-crypto-assets": 1794339553.214799,
-  "https://www.coindesk.com/markets/2026/11/10/u-s-cpi-rose-stronger-than-expected-0-4-in-october-core-rate-rose-0-3": 1794339553.214799,
-  "https://cointelegraph-tr.com/magazine/bitcoins-best-buying-opportunity-ever-has-arrived-mark-moss": 1794339553.214799,
-  "https://www.coindesk.com/business/2026/11/09/ripple-prime-head-marc-asch-to-step-down-noel-kimmel-named-successor": 1794339553.214799,
-  "https://www.coindesk.com/daybook-us/2026/11/10/bitcoin-breaks-with-stocks-declines-as-etf-outflows-mount-mara-sells-holdings": 1794339553.214799,
-  "https://www.theblock.co/news/business/2026-11-10-hive-reports-79-million-quarterly-net-loss-as-bitcoin-mining-revenue-falls-and-ai-business-grows-437177": 1794339553.214799,
-  "https://cointelegraph-tr.com/news/coinbase-kalshi-cftc-stock-perpetual-futures-lawsuit": 1794339553.214799,
   "https://cointelegraph-tr.com/news/cftc-warns-kalshi-imminent-charges-over-contracts": 1794357351.958399,
   "https://www.theblock.co/news/markets/2026-11-10-forward-industries-grows-sol-treasury-8-7-million-token-hits-three-month-low-437330": 1794357351.958399,
   "https://cointelegraph-tr.com/news/across-protocol-warns-avoid-app-drained-wallets": 1794357351.958399,
@@ -291,7 +254,9 @@
   "https://www.coindesk.com/policy/2026/11/14/uk-singapore-and-thailand-central-banks-test-cross-border-fx-settlement-as-stablecoins-gain-ground": 1794674539.958133,
   "https://www.coindesk.com/policy/2026/11/13/britain-could-turn-wasted-scottish-wind-power-into-bitcoin-to-cut-its-usd1-3-billion-grid-bill": 1794674539.958133,
   "https://www.coindesk.com/markets/2026/11/14/a-behind-the-scenes-force-may-amplify-bitcoin-and-ether-price-volatility": 1794674539.958133,
-  "https://cointelegraph-tr.com/news/microsoft-365-outage-resolved-cyberattack-ruled-out": 1794674539.958133
+  "https://cointelegraph-tr.com/news/microsoft-365-outage-resolved-cyberattack-ruled-out": 1794674539.958133,
+  "https://www.theblock.co/news/regulation/2026-11-14-louisiana-ag-calls-cftc-chair-an-obsequious-standard-bearer-for-prediction-markets-following-agency-lawsuit-440342": 1794691420.3801625,
+  "https://www.theblock.co/news/markets/2026-11-14-bitcoin-etfs-lose-1-billion-for-the-second-week-in-a-row-as-crypto-funds-except-one-continue-bleeding-440337": 1794691420.3801625
  },
  "tries": {
   "https://www.theblock.co/news/defi/2026-10-29-uniswap-token-jar-tjar-robinhood-432131": 1
