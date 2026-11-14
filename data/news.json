@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-13T22:07:45Z",
+ "updated": "2026-11-14T02:39:50Z",
  "sources": [
   "coindesk.com",
   "cointelegraph-tr.com",
@@ -40,6 +40,13 @@
     "importance": 4
    },
    {
+    "title": "Bitcoin madencileri Paraguay'a yılda 350 milyon dolar ödüyor, ancak yapay zeka onları dışarı itiyor",
+    "summary": "Bitcoin madencileri Paraguay'a yılda 350 milyon dolar ödeme yapıyor, ancak yapay zeka bu madencileri piyasanın dışına itiyor.",
+    "url": "https://www.coindesk.com/tech/2026/11/13/bitcoin-miners-pay-paraguay-usd350-million-a-year-but-ai-is-pushing-them-out",
+    "published": "2026-11-13T23:30:00Z",
+    "importance": 3
+   },
+   {
     "title": "Adam Back, Blockstream Bitcoin saklama sistemini piyasaya sürerken daha basit güvenliğin önemini savunuyor",
     "summary": "Thales ile geliştirilen Blockstream’in yeni saklama sistemi, işlem imzalama için özel donanım kullanıyor. Adam Back, siber riskleri azaltmak için çevrimdışı güvenliği savunuyor.",
     "url": "https://cointelegraph-tr.com/news/adam-back-simpler-security-blockstream-bitcoin-custody-system",
@@ -61,28 +68,12 @@
     "importance": 3
    }
   ],
-  "ENA": [
-   {
-    "title": "Securitize ve Ethena’nın 100 milyon dolarlık BlackRock BUIDL likidite tesisi yayına girdi",
-    "summary": "Securitize ve Ethena Labs, uygun BUIDL sahiplerinin 7/24 USDC ve diğer stablecoin'lere geçiş yapmasını sağlayan 100 milyon dolarlık likidite tesisini başlattı.",
-    "url": "https://www.theblock.co/news/ecosystems/2026-11-12-securitize-ethena-buidl-liquidity-facility-live-usdc-438442",
-    "published": "2026-11-12T14:00:00Z",
-    "importance": 4
-   }
-  ],
   "ETH": [
    {
     "title": "Ethereum hazine firması BTCS, 64 milyon dolarlık Aave kredisini sağlıklı tutmak için zararına ether sattı",
     "summary": "Ethereum hazine firması BTCS, 64 milyon dolarlık Aave kredisini sağlıklı tutmak için zararına ether sattı.",
     "url": "https://www.coindesk.com/markets/2026/11/13/ethereum-treasury-firm-btcs-sold-ether-at-a-loss-to-keep-usd64-million-aave-loan-healthy",
     "published": "2026-11-13T07:05:29Z",
-    "importance": 3
-   },
-   {
-    "title": "Sygnum, ETH cinsinden %8 ila %10 yıllık getiri hedefleyen ETH Alpha Fund'ı başlattı",
-    "summary": "Sygnum'un piyasa nötr fonu; stake etme işlemlerini opsiyonlar, arbitraj ve taşıma stratejileriyle birleştirerek ETH cinsinden ödenen yıllık %8–%10 getiri hedefliyor.",
-    "url": "https://www.theblock.co/news/business/2026-11-12-sygnum-eth-alpha-fund-staking-yields-options-arbitrage-438386",
-    "published": "2026-11-12T10:30:00Z",
     "importance": 3
    },
    {
@@ -102,30 +93,12 @@
     "importance": 3
    }
   ],
-  "LINK": [
-   {
-    "title": "Tron ve Tether, T3 suç birimi dağıldıktan sonra Chainalysis’i devreye aldı",
-    "summary": "Grup, Tron üzerindeki yasa dışı USDT faaliyetlerine odaklanacak ve kolluk kuvvetlerinin şüpheli transferleri soruşturmasına ve fonları daha hızlı dondurmasına yardımcı olacak.",
-    "url": "https://cointelegraph-tr.com/news/tron-tether-chainalysis-cybercrime-task-force-laundering",
-    "published": "2026-11-12T11:00:00Z",
-    "importance": 3
-   }
-  ],
   "PAXG": [
    {
     "title": "Tether Gold ihraççısı, Big Four denetimini tamamlamak için USDT'yi takip ediyor",
     "summary": "ABD'li denetim şirketi KPMG, Tether Gold ihraççısı TG Commodities'in 2025 mali hesaplarına olumlu görüş verdi.",
     "url": "https://www.theblock.co/news/business/2026-11-12-tether-gold-issuer-follows-usdt-to-complete-big-four-audit-438849",
     "published": "2026-11-12T15:23:26Z",
-    "importance": 3
-   }
-  ],
-  "POL": [
-   {
-    "title": "Banka çıkışlı stablecoin kapsamını genişletirken SoFiUSD Polygon'da yayına girdi",
-    "summary": "SoFiUSD, SoFi'nin 17 milyondan fazla üyesi için Ethereum ve Solana'nın yanı sıra ağı ekleyerek Polygon'da yayına girdi.",
-    "url": "https://www.theblock.co/news/ecosystems/2026-11-12-sofiusd-goes-live-on-polygon-as-bank-issued-stablecoin-expands-reach-438542",
-    "published": "2026-11-12T14:00:00Z",
     "importance": 3
    }
   ],
@@ -143,38 +116,6 @@
     "url": "https://www.coindesk.com/business/2026/11/12/jupiter-adds-anchorage-backed-usdgo-to-its-usd1-billion-solana-lending-platform",
     "published": "2026-11-12T14:45:00Z",
     "importance": 3
-   },
-   {
-    "title": "Banka çıkışlı stablecoin kapsamını genişletirken SoFiUSD Polygon'da yayına girdi",
-    "summary": "SoFiUSD, SoFi'nin 17 milyondan fazla üyesi için Ethereum ve Solana'nın yanı sıra ağı ekleyerek Polygon'da yayına girdi.",
-    "url": "https://www.theblock.co/news/ecosystems/2026-11-12-sofiusd-goes-live-on-polygon-as-bank-issued-stablecoin-expands-reach-438542",
-    "published": "2026-11-12T14:00:00Z",
-    "importance": 3
-   }
-  ],
-  "TRX": [
-   {
-    "title": "Tron ve Tether, T3 suç birimi dağıldıktan sonra Chainalysis’i devreye aldı",
-    "summary": "Grup, Tron üzerindeki yasa dışı USDT faaliyetlerine odaklanacak ve kolluk kuvvetlerinin şüpheli transferleri soruşturmasına ve fonları daha hızlı dondurmasına yardımcı olacak.",
-    "url": "https://cointelegraph-tr.com/news/tron-tether-chainalysis-cybercrime-task-force-laundering",
-    "published": "2026-11-12T11:00:00Z",
-    "importance": 3
-   }
-  ],
-  "USDC": [
-   {
-    "title": "Securitize ve Ethena’nın 100 milyon dolarlık BlackRock BUIDL likidite tesisi yayına girdi",
-    "summary": "Securitize ve Ethena Labs, uygun BUIDL sahiplerinin 7/24 USDC ve diğer stablecoin'lere geçiş yapmasını sağlayan 100 milyon dolarlık likidite tesisini başlattı.",
-    "url": "https://www.theblock.co/news/ecosystems/2026-11-12-securitize-ethena-buidl-liquidity-facility-live-usdc-438442",
-    "published": "2026-11-12T14:00:00Z",
-    "importance": 4
-   },
-   {
-    "title": "BitGo, USDC ile kurumsal stabilcoın basım ve redemption platformunu genişletiyor",
-    "summary": "BitGo'nun kurumsal müşterileri artık Go Accounts aracılığıyla USDC basabilir ve iade edebilir, emirler ise Circle Mint hesabı üzerinden gerçekleştirilir.",
-    "url": "https://www.theblock.co/news/business/2026-11-12-bitgo-expands-institutional-stablecoin-minting-and-redemption-platform-with-usdc-438525",
-    "published": "2026-11-12T12:35:02Z",
-    "importance": 3
    }
   ],
   "USDT": [
@@ -183,13 +124,6 @@
     "summary": "ABD'li denetim şirketi KPMG, Tether Gold ihraççısı TG Commodities'in 2025 mali hesaplarına olumlu görüş verdi.",
     "url": "https://www.theblock.co/news/business/2026-11-12-tether-gold-issuer-follows-usdt-to-complete-big-four-audit-438849",
     "published": "2026-11-12T15:23:26Z",
-    "importance": 3
-   },
-   {
-    "title": "Tron ve Tether, T3 suç birimi dağıldıktan sonra Chainalysis’i devreye aldı",
-    "summary": "Grup, Tron üzerindeki yasa dışı USDT faaliyetlerine odaklanacak ve kolluk kuvvetlerinin şüpheli transferleri soruşturmasına ve fonları daha hızlı dondurmasına yardımcı olacak.",
-    "url": "https://cointelegraph-tr.com/news/tron-tether-chainalysis-cybercrime-task-force-laundering",
-    "published": "2026-11-12T11:00:00Z",
     "importance": 3
    }
   ],
@@ -402,7 +336,8 @@
   "https://www.coindesk.com/markets/2026/11/13/bitcoin-slides-to-usd68k-as-nvidia-turmoil-anthropic-ipo-fuel-broader-market-sell-off": 1794607665.9222043,
   "https://www.coindesk.com/policy/2026/11/13/u-s-senate-banking-committee-races-toward-hearing-on-new-sec-nominations": 1794607665.9222043,
   "https://www.theblock.co/news/markets/2026-11-13-hyperliquid-leapfrogs-bybit-kraken-okx-open-interest-q3-positions-grow-440053": 1794607665.9222043,
-  "https://cointelegraph-tr.com/markets/nakamoto-shares-fall-after-negative-q3-revenue": 1794607665.9222043
+  "https://cointelegraph-tr.com/markets/nakamoto-shares-fall-after-negative-q3-revenue": 1794607665.9222043,
+  "https://www.coindesk.com/tech/2026/11/13/bitcoin-miners-pay-paraguay-usd350-million-a-year-but-ai-is-pushing-them-out": 1794623990.6245358
  },
  "tries": {
   "https://www.theblock.co/news/defi/2026-10-29-uniswap-token-jar-tjar-robinhood-432131": 1
