@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-14T02:39:50Z",
+ "updated": "2026-11-14T10:11:36Z",
  "sources": [
   "coindesk.com",
   "cointelegraph-tr.com",
@@ -15,22 +15,13 @@
     "importance": 3
    }
   ],
-  "AVAX": [
-   {
-    "title": "Avalanche, Tokenize Hisselerin Yüzde Beşine Sahip",
-    "summary": "Geçtiğimiz hafta üç ABD tokenize hisse senedi platformu lansman için üç farklı blok zinciri seçti. Wall Street Journal'ın haberine göre NYSE, planlanan 7/24 platformu için tek mutabakat zinciri olarak Avalanche'ı seçti. 4 Kasım'da CNTN, ABD Menkul Kıymetler ve Borsa Komisyonu'nun (SEC) İnovasyon Muafiyeti altında işlem gören ilk ABD hisse senedi oldu.",
-    "url": "https://www.theblock.co/newsletters/tokenization-briefing/2026-11-12-avalanche-owns-five-percent-tokenized-stocks-437310",
-    "published": "2026-11-12T20:02:00Z",
-    "importance": 3
-   }
-  ],
   "BTC": [
    {
-    "title": "Jensen Huang'ın Nvidia'dan Ayrılması Piyasaları Sarsarken Bitcoin 12 Haftanın En Düşük Seviyesine Geriledi",
-    "summary": "Jensen Huang'ın Nvidia'dan ayrılması ve MSCI'ın Strategy'nin çıkarılacağını doğrulamasıyla Bitcoin 71.200 dolara kadar geriledi ve 750 milyon dolarlık kripto pozisyonu tasfiye edildi.",
-    "url": "https://www.theblock.co/news/markets/2026-11-12-bitcoin-12-week-low-jensen-huang-exit-nvidia-438992",
-    "published": "2026-11-12T17:40:00Z",
-    "importance": 5
+    "title": "Bitcoin ETF'leri 2 haftada 2,35 milyar dolar kaybetti, BlackRock'un kayıp serisi 11'e ulaştı",
+    "summary": "ABD spot Bitcoin ETF'lerinde cuma günü toplam 185,4 milyon dolarlık net çıkış yaşandı. Bu çıkışın 143,5 milyon doları BlackRock'un IBIT'inden ve 41,9 milyon doları Fidelity'nin FBTC'sinden gerçekleşti.",
+    "url": "https://cointelegraph-tr.com/markets/bitcoin-etf-outflows-2-35-billion-blackrock-11-session-streak",
+    "published": "2026-11-14T06:33:13Z",
+    "importance": 4
    },
    {
     "title": "Bitcoin ETF'leri yıl genelinde 1,5 milyar doların üzerinde net çıkış yaşadı",
@@ -38,6 +29,13 @@
     "url": "https://www.coindesk.com/markets/2026/11/13/bitcoin-etfs-are-now-down-over-usd1-5-billion-in-net-outflows-for-the-year",
     "published": "2026-11-13T05:45:26Z",
     "importance": 4
+   },
+   {
+    "title": "Satoshi Dönemine Ait Cüzdan 260 Milyar Dolarlık Davada Tebligat Aldıktan Sonra 2011'den Beri Tuttuğu 75 BTC'yi Taşıdı",
+    "summary": "Satoshi dönemine ait bir cüzdan 2011'den beri tuttuğu 75 BTC'yi taşıdı.",
+    "url": "https://www.coindesk.com/markets/2026/11/13/satoshi-era-wallet-served-in-a-usd260-billion-lawsuit-moves-75-btc-it-held-since-2011",
+    "published": "2026-11-14T04:30:00Z",
+    "importance": 3
    },
    {
     "title": "Bitcoin madencileri Paraguay'a yılda 350 milyon dolar ödüyor, ancak yapay zeka onları dışarı itiyor",
@@ -83,67 +81,9 @@
     "published": "2026-11-13T14:12:23Z",
     "importance": 2
    }
-  ],
-  "JUP": [
-   {
-    "title": "Jupiter, Anchorage destekli USDGO'yu 1 milyar dolarlık Solana borç verme platformuna ekliyor",
-    "summary": "Jupiter, Anchorage destekli USDGO'yu 1 milyar dolarlık Solana borç verme platformuna ekliyor",
-    "url": "https://www.coindesk.com/business/2026/11/12/jupiter-adds-anchorage-backed-usdgo-to-its-usd1-billion-solana-lending-platform",
-    "published": "2026-11-12T14:45:00Z",
-    "importance": 3
-   }
-  ],
-  "PAXG": [
-   {
-    "title": "Tether Gold ihraççısı, Big Four denetimini tamamlamak için USDT'yi takip ediyor",
-    "summary": "ABD'li denetim şirketi KPMG, Tether Gold ihraççısı TG Commodities'in 2025 mali hesaplarına olumlu görüş verdi.",
-    "url": "https://www.theblock.co/news/business/2026-11-12-tether-gold-issuer-follows-usdt-to-complete-big-four-audit-438849",
-    "published": "2026-11-12T15:23:26Z",
-    "importance": 3
-   }
-  ],
-  "SOL": [
-   {
-    "title": "DTCC, 2027 Hedefiyle Wall Street Tokenizasyon Planlarına Solana'yı Ekledi",
-    "summary": "DTCC, 2027 Hedefiyle Wall Street Tokenizasyon Planlarına Solana'yı Ekledi",
-    "url": "https://www.coindesk.com/business/2026/11/12/dtcc-adds-solana-to-wall-street-tokenization-plans-targeting-2027-rollout",
-    "published": "2026-11-12T15:45:48Z",
-    "importance": 4
-   },
-   {
-    "title": "Jupiter, Anchorage destekli USDGO'yu 1 milyar dolarlık Solana borç verme platformuna ekliyor",
-    "summary": "Jupiter, Anchorage destekli USDGO'yu 1 milyar dolarlık Solana borç verme platformuna ekliyor",
-    "url": "https://www.coindesk.com/business/2026/11/12/jupiter-adds-anchorage-backed-usdgo-to-its-usd1-billion-solana-lending-platform",
-    "published": "2026-11-12T14:45:00Z",
-    "importance": 3
-   }
-  ],
-  "USDT": [
-   {
-    "title": "Tether Gold ihraççısı, Big Four denetimini tamamlamak için USDT'yi takip ediyor",
-    "summary": "ABD'li denetim şirketi KPMG, Tether Gold ihraççısı TG Commodities'in 2025 mali hesaplarına olumlu görüş verdi.",
-    "url": "https://www.theblock.co/news/business/2026-11-12-tether-gold-issuer-follows-usdt-to-complete-big-four-audit-438849",
-    "published": "2026-11-12T15:23:26Z",
-    "importance": 3
-   }
-  ],
-  "XAUT": [
-   {
-    "title": "Tether Gold ihraççısı, Big Four denetimini tamamlamak için USDT'yi takip ediyor",
-    "summary": "ABD'li denetim şirketi KPMG, Tether Gold ihraççısı TG Commodities'in 2025 mali hesaplarına olumlu görüş verdi.",
-    "url": "https://www.theblock.co/news/business/2026-11-12-tether-gold-issuer-follows-usdt-to-complete-big-four-audit-438849",
-    "published": "2026-11-12T15:23:26Z",
-    "importance": 3
-   }
   ]
  },
  "seen": {
-  "https://www.coindesk.com/markets/2026/11/10/bitcoin-faces-u-s-cpi-test-as-analysts-warn-inflation-relief-may-not-be-enough": 1794281278.3011003,
-  "https://www.theblock.co/news/business/2026-11-09-securitize-shares-surge-river-one-436955": 1794281278.3011003,
-  "https://cointelegraph-tr.com/markets/hives-bitcoin-output-jumps-49-but-mining-revenue-falls": 1794281278.3011003,
-  "https://www.coindesk.com/business/2026/11/09/securitize-pushes-into-usd6-trillion-asset-backed-finance-market-with-river-one-acquisition": 1794281278.3011003,
-  "https://www.theblock.co/news/business/2026-11-09-mara-q3-earnings-net-profit-bitcoin-sale-ai-pivot-436950": 1794281278.3011003,
-  "https://cointelegraph-tr.com/news/north-korean-hackers-memecoins-launder-binance-hack-elliptic": 1794281278.3011003,
   "https://www.coindesk.com/markets/2026/11/10/bitcoin-lags-stock-rebound-in-advance-of-u-s-inflation-report": 1794310915.7963502,
   "https://cointelegraph-tr.com/news/ex-employee-sues-ethereum-foundation-vitalik-buterin-over-firing": 1794310915.7963502,
   "https://www.theblock.co/news/business/2026-11-10-exodus-shares-rise-10-ahead-of-q3-earnings-showing-7-revenue-growth-8-3-million-loss-437012": 1794310915.7963502,
@@ -337,7 +277,11 @@
   "https://www.coindesk.com/policy/2026/11/13/u-s-senate-banking-committee-races-toward-hearing-on-new-sec-nominations": 1794607665.9222043,
   "https://www.theblock.co/news/markets/2026-11-13-hyperliquid-leapfrogs-bybit-kraken-okx-open-interest-q3-positions-grow-440053": 1794607665.9222043,
   "https://cointelegraph-tr.com/markets/nakamoto-shares-fall-after-negative-q3-revenue": 1794607665.9222043,
-  "https://www.coindesk.com/tech/2026/11/13/bitcoin-miners-pay-paraguay-usd350-million-a-year-but-ai-is-pushing-them-out": 1794623990.6245358
+  "https://www.coindesk.com/tech/2026/11/13/bitcoin-miners-pay-paraguay-usd350-million-a-year-but-ai-is-pushing-them-out": 1794623990.6245358,
+  "https://cointelegraph-tr.com/news/megaeth-parent-cuts-20-percent-staff-ai-push": 1794651096.6945412,
+  "https://cointelegraph-tr.com/markets/bitcoin-etf-outflows-2-35-billion-blackrock-11-session-streak": 1794651096.6945412,
+  "https://www.theblock.co/newsletters/the-daily/2026-11-14-meta-prediction-market-app-doj-binance-hack-more-crypto-news-440304": 1794651096.6945412,
+  "https://www.coindesk.com/markets/2026/11/13/satoshi-era-wallet-served-in-a-usd260-billion-lawsuit-moves-75-btc-it-held-since-2011": 1794651096.6945412
  },
  "tries": {
   "https://www.theblock.co/news/defi/2026-10-29-uniswap-token-jar-tjar-robinhood-432131": 1
