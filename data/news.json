@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-14T10:11:36Z",
+ "updated": "2026-11-14T16:42:19Z",
  "sources": [
   "coindesk.com",
   "cointelegraph-tr.com",
@@ -31,6 +31,20 @@
     "importance": 4
    },
    {
+    "title": "Bir analist dördüncü teslimiyet dalgasına işaret ederken Bitcoin 3 ayın en düşük seviyesi olan 65.000 dolara geriledi",
+    "summary": "Bir analist dördüncü teslimiyet dalgasına işaret ederken Bitcoin 3 ayın en düşük seviyesi olan 65.000 dolara geriledi",
+    "url": "https://www.coindesk.com/markets/2026/11/14/bitcoin-drifts-back-to-usd65-000-deep-value-zone-says-analyst",
+    "published": "2026-11-14T16:33:29Z",
+    "importance": 3
+   },
+   {
+    "title": "Sahne arkasındaki bir güç, bitcoin ve ether fiyat oynaklığını artırabilir",
+    "summary": "Sahne arkasındaki bir güç, bitcoin ve ether fiyat oynaklığını artırabilir",
+    "url": "https://www.coindesk.com/markets/2026/11/14/a-behind-the-scenes-force-may-amplify-bitcoin-and-ether-price-volatility",
+    "published": "2026-11-14T12:57:00Z",
+    "importance": 3
+   },
+   {
     "title": "Satoshi Dönemine Ait Cüzdan 260 Milyar Dolarlık Davada Tebligat Aldıktan Sonra 2011'den Beri Tuttuğu 75 BTC'yi Taşıdı",
     "summary": "Satoshi dönemine ait bir cüzdan 2011'den beri tuttuğu 75 BTC'yi taşıdı.",
     "url": "https://www.coindesk.com/markets/2026/11/13/satoshi-era-wallet-served-in-a-usd260-billion-lawsuit-moves-75-btc-it-held-since-2011",
@@ -57,16 +71,23 @@
     "url": "https://www.theblock.co/news/business/2026-11-13-tether-backed-twenty-one-capital-reports-1-09-billion-q3-net-income-on-bitcoin-gains-439711",
     "published": "2026-11-13T14:50:49Z",
     "importance": 3
-   },
-   {
-    "title": "6 dolardan 6,9 milyon dolara: 16 yılı aşkın süredir hareketsiz olan iki Bitcoin adresi 100 BTC taşımak için uyandı",
-    "summary": "İki hareketsiz Bitcoin balina adresi, 16 yılı aşkın bir sürenin ardından Cuma günü 6,89 milyon dolar değerinde 100 BTC taşıdı.",
-    "url": "https://www.theblock.co/news/markets/2026-11-13-from-6-to-6-9-million-two-dormant-bitcoin-addresses-wake-up-to-move-100-btc-after-more-than-16-years-439698",
-    "published": "2026-11-13T13:34:46Z",
-    "importance": 3
    }
   ],
   "ETH": [
+   {
+    "title": "Ethereum ölçeklendirme projesi MegaETH, yapay zeka işine yönelirken personel sayısını %20 oranında azalttı",
+    "summary": "Ethereum ölçeklendirme projesi MegaETH, yapay zeka işine yönelirken personel sayısını %20 oranında azalttı",
+    "url": "https://www.coindesk.com/business/2026/11/14/ethereum-scaling-project-megaeth-slashes-staff-by-20-as-it-pursues-ai-business",
+    "published": "2026-11-14T16:33:23Z",
+    "importance": 3
+   },
+   {
+    "title": "Sahne arkasındaki bir güç, bitcoin ve ether fiyat oynaklığını artırabilir",
+    "summary": "Sahne arkasındaki bir güç, bitcoin ve ether fiyat oynaklığını artırabilir",
+    "url": "https://www.coindesk.com/markets/2026/11/14/a-behind-the-scenes-force-may-amplify-bitcoin-and-ether-price-volatility",
+    "published": "2026-11-14T12:57:00Z",
+    "importance": 3
+   },
    {
     "title": "Ethereum hazine firması BTCS, 64 milyon dolarlık Aave kredisini sağlıklı tutmak için zararına ether sattı",
     "summary": "Ethereum hazine firması BTCS, 64 milyon dolarlık Aave kredisini sağlıklı tutmak için zararına ether sattı.",
@@ -84,24 +105,6 @@
   ]
  },
  "seen": {
-  "https://www.coindesk.com/markets/2026/11/10/bitcoin-lags-stock-rebound-in-advance-of-u-s-inflation-report": 1794310915.7963502,
-  "https://cointelegraph-tr.com/news/ex-employee-sues-ethereum-foundation-vitalik-buterin-over-firing": 1794310915.7963502,
-  "https://www.theblock.co/news/business/2026-11-10-exodus-shares-rise-10-ahead-of-q3-earnings-showing-7-revenue-growth-8-3-million-loss-437012": 1794310915.7963502,
-  "https://www.coindesk.com/markets/2026/11/10/bitcoin-slips-before-u-s-inflation-report-as-traders-price-in-fed-rate-increase": 1794310915.7963502,
-  "https://www.coindesk.com/markets/2026/11/10/live-news-traders-price-in-fed-rate-hike-for-december-as-bitcoin-and-gold-retreat": 1794310915.7963502,
-  "https://www.theblock.co/news/business/2026-11-10-ark-invest-trims-block-bullish-holdings-437003": 1794310915.7963502,
-  "https://www.theblock.co/news/defi/2026-11-10-near-ai-security-breach-437002": 1794310915.7963502,
-  "https://www.coindesk.com/business/2026/11/10/the-crypto-wallet-that-grew-up-inside-telegram-is-striking-out-on-its-own": 1794310915.7963502,
-  "https://www.theblock.co/news/ecosystems/2026-11-10-walt-standalone-crypto-trading-app-436981": 1794310915.7963502,
-  "https://www.coindesk.com/policy/2026/11/10/coinbase-kalshi-kraken-parent-back-cftc-in-legal-fight-over-stock-perpetual-futures": 1794310915.7963502,
-  "https://cointelegraph-tr.com/news/bitgo-q3-2026-earnings-crypto-treasury-gains": 1794310915.7963502,
-  "https://www.theblock.co/news/business/2026-11-10-bitgo-revenue-falls-q3-436986": 1794310915.7963502,
-  "https://www.coindesk.com/tech/2026/11/10/an-11-year-old-ethereum-wallet-moved-usd4-6-million-and-dodged-a-scam-set-up-in-minutes": 1794310915.7963502,
-  "https://www.theblock.co/news/regulation/2026-11-10-coinbase-kalshi-payward-back-cftc-perps-436971": 1794310915.7963502,
-  "https://www.coindesk.com/markets/2026/11/10/bitcoin-miner-mara-sold-13-597-btc-for-usd1-1-billion-in-six-weeks-plans-to-sell-more": 1794310915.7963502,
-  "https://cointelegraph-tr.com/news/crypto-exchanges-need-dollar-caps-on-hot-wallets-certik": 1794310915.7963502,
-  "https://www.coindesk.com/tech/2026/11/10/xrp-ledger-maps-out-quantum-proof-accounts-with-no-extra-fees-for-users": 1794310915.7963502,
-  "https://www.theblock.co/news/business/2026-11-09-trump-media-q3-profit-436964": 1794310915.7963502,
   "https://www.theblock.co/news/markets/2026-11-10-bitcoin-price-cpi-inflation-73000-support-437301": 1794339553.214799,
   "https://cointelegraph-tr.com/news/pix-withdrawals-resume-mercado-bitcoin-hack": 1794339553.214799,
   "https://www.theblock.co/news/markets/2026-11-10-grayscale-pledges-1-million-alongside-zcash-ad-blitz-as-token-and-etf-fall-12-437277": 1794339553.214799,
@@ -281,7 +284,14 @@
   "https://cointelegraph-tr.com/news/megaeth-parent-cuts-20-percent-staff-ai-push": 1794651096.6945412,
   "https://cointelegraph-tr.com/markets/bitcoin-etf-outflows-2-35-billion-blackrock-11-session-streak": 1794651096.6945412,
   "https://www.theblock.co/newsletters/the-daily/2026-11-14-meta-prediction-market-app-doj-binance-hack-more-crypto-news-440304": 1794651096.6945412,
-  "https://www.coindesk.com/markets/2026/11/13/satoshi-era-wallet-served-in-a-usd260-billion-lawsuit-moves-75-btc-it-held-since-2011": 1794651096.6945412
+  "https://www.coindesk.com/markets/2026/11/13/satoshi-era-wallet-served-in-a-usd260-billion-lawsuit-moves-75-btc-it-held-since-2011": 1794651096.6945412,
+  "https://www.coindesk.com/markets/2026/11/14/bitcoin-drifts-back-to-usd65-000-deep-value-zone-says-analyst": 1794674539.958133,
+  "https://www.coindesk.com/business/2026/11/14/ethereum-scaling-project-megaeth-slashes-staff-by-20-as-it-pursues-ai-business": 1794674539.958133,
+  "https://www.coindesk.com/business/2026/11/14/kazakhstan-plans-tokenized-government-bonds-in-first-quarter-after-usd22-million-note-sale": 1794674539.958133,
+  "https://www.coindesk.com/policy/2026/11/14/uk-singapore-and-thailand-central-banks-test-cross-border-fx-settlement-as-stablecoins-gain-ground": 1794674539.958133,
+  "https://www.coindesk.com/policy/2026/11/13/britain-could-turn-wasted-scottish-wind-power-into-bitcoin-to-cut-its-usd1-3-billion-grid-bill": 1794674539.958133,
+  "https://www.coindesk.com/markets/2026/11/14/a-behind-the-scenes-force-may-amplify-bitcoin-and-ether-price-volatility": 1794674539.958133,
+  "https://cointelegraph-tr.com/news/microsoft-365-outage-resolved-cyberattack-ruled-out": 1794674539.958133
  },
  "tries": {
   "https://www.theblock.co/news/defi/2026-10-29-uniswap-token-jar-tjar-robinhood-432131": 1
