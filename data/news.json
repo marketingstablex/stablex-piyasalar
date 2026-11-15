@@ -1,33 +1,17 @@
 {
- "updated": "2026-11-15T15:51:05Z",
+ "updated": "2026-11-15T20:59:02Z",
  "sources": [
   "coindesk.com",
   "cointelegraph-tr.com",
   "theblock.co"
  ],
  "bySymbol": {
-  "AVAX": [
-   {
-    "title": "Bitcoin ETF'leri 2 haftada 2,35 milyar dolar kaybetti, BlackRock'un kayıp serisi 11'e ulaştı",
-    "summary": "ABD spot Bitcoin ETF'lerinde cuma günü toplam 185,4 milyon dolarlık net çıkış yaşandı. Bu çıkışın 143,5 milyon doları BlackRock'un IBIT'inden ve 41,9 milyon doları Fidelity'nin FBTC'sinden gerçekleşti.",
-    "url": "https://cointelegraph-tr.com/markets/bitcoin-etf-outflows-2-35-billion-blackrock-11-session-streak",
-    "published": "2026-11-14T06:33:13Z",
-    "importance": 4
-   }
-  ],
   "BTC": [
    {
     "title": "Bitcoin, kripto satış dalgası derinleşirken dört ayın en düşük seviyesi olan 62 bin dolara yaklaştı",
     "summary": "Küresel kripto para piyasasının toplam değeri 24 saatte yüzde 4 düşerek 2,26 trilyon dolara geriledi. Ether ve Solana haftalık bazda çift haneli kayıplar kaydetti.",
     "url": "https://cointelegraph-tr.com/markets/bitcoin-four-month-low-62k-crypto-market-selloff",
     "published": "2026-11-15T10:23:17Z",
-    "importance": 4
-   },
-   {
-    "title": "Bitcoin ETF'leri 2 haftada 2,35 milyar dolar kaybetti, BlackRock'un kayıp serisi 11'e ulaştı",
-    "summary": "ABD spot Bitcoin ETF'lerinde cuma günü toplam 185,4 milyon dolarlık net çıkış yaşandı. Bu çıkışın 143,5 milyon doları BlackRock'un IBIT'inden ve 41,9 milyon doları Fidelity'nin FBTC'sinden gerçekleşti.",
-    "url": "https://cointelegraph-tr.com/markets/bitcoin-etf-outflows-2-35-billion-blackrock-11-session-streak",
-    "published": "2026-11-14T06:33:13Z",
     "importance": 4
    },
    {
@@ -42,13 +26,6 @@
     "summary": "Sahne arkasındaki bir güç, bitcoin ve ether fiyat oynaklığını artırabilir",
     "url": "https://www.coindesk.com/markets/2026/11/14/a-behind-the-scenes-force-may-amplify-bitcoin-and-ether-price-volatility",
     "published": "2026-11-14T12:57:00Z",
-    "importance": 3
-   },
-   {
-    "title": "Satoshi Dönemine Ait Cüzdan 260 Milyar Dolarlık Davada Tebligat Aldıktan Sonra 2011'den Beri Tuttuğu 75 BTC'yi Taşıdı",
-    "summary": "Satoshi dönemine ait bir cüzdan 2011'den beri tuttuğu 75 BTC'yi taşıdı.",
-    "url": "https://www.coindesk.com/markets/2026/11/13/satoshi-era-wallet-served-in-a-usd260-billion-lawsuit-moves-75-btc-it-held-since-2011",
-    "published": "2026-11-14T04:30:00Z",
     "importance": 3
    }
   ],
@@ -232,7 +209,9 @@
   "https://cointelegraph-tr.com/news/coinone-data-breach-phishing-identity-theft-customer-information": 1794731045.9132323,
   "https://www.coindesk.com/markets/2026/11/15/xrp-crashes-to-its-lowest-since-november-2024-as-money-leaves-crypto": 1794731045.9132323,
   "https://www.coindesk.com/news-analysis/2026/11/13/crypto-insiders-aren-t-counting-on-silver-linings-in-congress-lame-duck-session": 1794757865.5894465,
-  "https://cointelegraph-tr.com/markets/bitcoin-four-month-low-62k-crypto-market-selloff": 1794757865.5894465
+  "https://cointelegraph-tr.com/markets/bitcoin-four-month-low-62k-crypto-market-selloff": 1794757865.5894465,
+  "https://www.theblock.co/news/defi/2026-11-15-traders-claim-6-million-profit-by-spotting-bitgos-public-pull-request-and-frontrunning-memecoin-listing-440363": 1794776342.5004144,
+  "https://www.coindesk.com/policy/2026/11/15/did-prediction-markets-call-the-u-s-midterm-election-state-of-crypto": 1794776342.5004144
  },
  "tries": {
   "https://www.theblock.co/news/defi/2026-10-29-uniswap-token-jar-tjar-robinhood-432131": 1
