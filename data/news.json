@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-15T01:16:41Z",
+ "updated": "2026-11-15T08:24:05Z",
  "sources": [
   "coindesk.com",
   "cointelegraph-tr.com",
@@ -57,13 +57,6 @@
     "url": "https://cointelegraph-tr.com/news/adam-back-simpler-security-blockstream-bitcoin-custody-system",
     "published": "2026-11-13T21:49:27Z",
     "importance": 3
-   },
-   {
-    "title": "Tether destekli Twenty One Capital, Bitcoin kazançlarıyla 3. çeyrekte 1,09 milyar dolar net kâr bildirdi",
-    "summary": "Twenty One Capital, Bitcoin kazançlarının etkisiyle üçüncü çeyrekte 1,09 milyar dolar net kâr bildirdi ve 4,8 milyon dolar faaliyet zararı açıkladı.",
-    "url": "https://www.theblock.co/news/business/2026-11-13-tether-backed-twenty-one-capital-reports-1-09-billion-q3-net-income-on-bitcoin-gains-439711",
-    "published": "2026-11-13T14:50:49Z",
-    "importance": 3
    }
   ],
   "ETH": [
@@ -80,20 +73,19 @@
     "url": "https://www.coindesk.com/markets/2026/11/14/a-behind-the-scenes-force-may-amplify-bitcoin-and-ether-price-volatility",
     "published": "2026-11-14T12:57:00Z",
     "importance": 3
-   },
+   }
+  ],
+  "XRP": [
    {
-    "title": "Ethereum ve Katman 1'ler Açıklandı",
-    "summary": "Bu içerik, Ethereum'un blok zincirlerini nasıl programlanabilir hale getirdiğini açıklamaktadır. Akıllı sözleşmeler, hesaplar, EVM, ETH, gas ücretleri, Hisse Kanıtı ve ağ yükseltmelerini kapsamaktadır.",
-    "url": "https://www.theblock.co/learn/campus/ethereum-and-layer-1s-explained-435883",
-    "published": "2026-11-13T14:12:23Z",
-    "importance": 2
+    "title": "XRP, kripto piyasasından para çıkışıyla Kasım 2024'ten bu yana en düşük seviyesine geriledi",
+    "summary": "XRP, kripto piyasasından para çıkışıyla Kasım 2024'ten bu yana en düşük seviyesine geriledi.",
+    "url": "https://www.coindesk.com/markets/2026/11/15/xrp-crashes-to-its-lowest-since-november-2024-as-money-leaves-crypto",
+    "published": "2026-11-15T02:50:57Z",
+    "importance": 3
    }
   ]
  },
  "seen": {
-  "https://www.theblock.co/news/business/2026-11-11-bitmine-6-3-billion-net-loss-437812": 1794380767.226075,
-  "https://www.theblock.co/news/business/2026-11-10-tron-inc-q3-net-income-437786": 1794380767.226075,
-  "https://cointelegraph-tr.com/news/crypto-ally-tom-emmer-elected-house-gop-minority-whip": 1794380767.226075,
   "https://www.theblock.co/news/markets/2026-11-11-bitcoin-ripe-for-squeeze-options-traders-raise-odds-sub-70000-christmas-437897": 1794409654.2047777,
   "https://cointelegraph-tr.com/news/deutsche-bank-debuts-digital-asset-custody-services-eu": 1794409654.2047777,
   "https://www.theblock.co/news/markets/2026-11-11-nomuras-laser-digital-helps-launch-saudi-sme-credit-vault-targeting-100-million-on-bnb-chain-437824": 1794409654.2047777,
@@ -251,7 +243,9 @@
   "https://cointelegraph-tr.com/news/microsoft-365-outage-resolved-cyberattack-ruled-out": 1794674539.958133,
   "https://www.theblock.co/news/regulation/2026-11-14-louisiana-ag-calls-cftc-chair-an-obsequious-standard-bearer-for-prediction-markets-following-agency-lawsuit-440342": 1794691420.3801625,
   "https://www.theblock.co/news/markets/2026-11-14-bitcoin-etfs-lose-1-billion-for-the-second-week-in-a-row-as-crypto-funds-except-one-continue-bleeding-440337": 1794691420.3801625,
-  "https://www.theblock.co/news/defi/2026-11-14-kava-lend-loses-roughly-3-8-million-to-hack-sending-kava-token-down-nearly-40-440350": 1794705401.0124688
+  "https://www.theblock.co/news/defi/2026-11-14-kava-lend-loses-roughly-3-8-million-to-hack-sending-kava-token-down-nearly-40-440350": 1794705401.0124688,
+  "https://cointelegraph-tr.com/news/coinone-data-breach-phishing-identity-theft-customer-information": 1794731045.9132323,
+  "https://www.coindesk.com/markets/2026/11/15/xrp-crashes-to-its-lowest-since-november-2024-as-money-leaves-crypto": 1794731045.9132323
  },
  "tries": {
   "https://www.theblock.co/news/defi/2026-10-29-uniswap-token-jar-tjar-robinhood-432131": 1
