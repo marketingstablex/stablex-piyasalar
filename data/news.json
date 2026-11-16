@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-15T20:59:02Z",
+ "updated": "2026-11-16T00:56:56Z",
  "sources": [
   "coindesk.com",
   "cointelegraph-tr.com",
@@ -27,6 +27,13 @@
     "url": "https://www.coindesk.com/markets/2026/11/14/a-behind-the-scenes-force-may-amplify-bitcoin-and-ether-price-volatility",
     "published": "2026-11-14T12:57:00Z",
     "importance": 3
+   },
+   {
+    "title": "Bugün kriptoda yaşananlar",
+    "summary": "Bitcoin fiyatını, blockchain’i, DeFi’yi, Web3’ü ve kripto düzenlemelerini etkileyen günlük trendler ve olaylarla ilgili son haberler yer alıyor.",
+    "url": "https://cointelegraph-tr.com/news/what-happened-in-crypto-today",
+    "published": "2026-11-15T11:18:48Z",
+    "importance": 2
    }
   ],
   "ETH": [
@@ -72,21 +79,6 @@
   ]
  },
  "seen": {
-  "https://www.theblock.co/news/regulation/2026-11-11-sec-enters-fight-who-regulates-perpetual-derivatives-stocks-in-us-438427": 1794435229.3930438,
-  "https://cointelegraph-tr.com/news/uncalled-midterm-races-add-more-crypto-supporters-congress": 1794435229.3930438,
-  "https://cointelegraph-tr.com/news/nomura-sale-crypto-unit-laser-digital": 1794435229.3930438,
-  "https://cointelegraph-tr.com/news/us-data-center-restrictions-bitcoin-miners-edge-ai": 1794435229.3930438,
-  "https://www.theblock.co/news/defi/2026-11-11-dogeos-very-very-close-launching-defi-features-app-layer-dogecoin-ceo-438392": 1794435229.3930438,
-  "https://www.theblock.co/news/regulation/2026-11-11-sen-warren-merkley-raise-ethics-concerns-over-trump-aides-prediction-market-bets-438394": 1794435229.3930438,
-  "https://www.theblock.co/news/ecosystems/2026-11-11-stablecoin-supply-drops-14-2-billion-largest-contraction-since-2022-bear-market-437907": 1794435229.3930438,
-  "https://www.theblock.co/news/deals/2026-11-11-apex-group-joins-hedera-council-tokenization-437917": 1794435229.3930438,
-  "https://www.theblock.co/news/web3/2026-11-11-pyth-network-nyse-data-437928": 1794435229.3930438,
-  "https://www.theblock.co/news/markets/2026-11-11-stonex-sees-111-upside-for-securitize-shares-as-tokenization-revenue-rebounds-437910": 1794435229.3930438,
-  "https://www.coindesk.com/coindesk-indices/2026/11/11/crypto-long-and-short-the-genius-act-s-guarantees-don-t-cover-defi-lending": 1794435229.3930438,
-  "https://cointelegraph-tr.com/news/what-happened-in-crypto-today": 1794435229.3930438,
-  "https://cointelegraph-tr.com/news/ecb-warns-legislative-delays-digital-euro-launch": 1794435229.3930438,
-  "https://cointelegraph-tr.com/markets/bitcoin-etf-outflows-persist-while-equity-investors-buy-the-dip": 1794435229.3930438,
-  "https://cointelegraph-tr.com/news/sec-crypto-cases-enforcement-actions-fall-23-2025": 1794435229.3930438,
   "https://www.theblock.co/news/business/2026-11-11-solana-company-reports-q3-revenue-growth-438448": 1794453551.7237356,
   "https://www.theblock.co/news/business/2026-11-11-nvidia-perps-board-weighs-ousting-jensen-huang-438447": 1794453551.7237356,
   "https://www.theblock.co/news/markets/2026-11-11-strategy-metaplanet-lose-msci-index-membership-november-reshuffle-438437": 1794453551.7237356,
@@ -211,7 +203,10 @@
   "https://www.coindesk.com/news-analysis/2026/11/13/crypto-insiders-aren-t-counting-on-silver-linings-in-congress-lame-duck-session": 1794757865.5894465,
   "https://cointelegraph-tr.com/markets/bitcoin-four-month-low-62k-crypto-market-selloff": 1794757865.5894465,
   "https://www.theblock.co/news/defi/2026-11-15-traders-claim-6-million-profit-by-spotting-bitgos-public-pull-request-and-frontrunning-memecoin-listing-440363": 1794776342.5004144,
-  "https://www.coindesk.com/policy/2026/11/15/did-prediction-markets-call-the-u-s-midterm-election-state-of-crypto": 1794776342.5004144
+  "https://www.coindesk.com/policy/2026/11/15/did-prediction-markets-call-the-u-s-midterm-election-state-of-crypto": 1794776342.5004144,
+  "https://cointelegraph-tr.com/news/jensen-huang-weighs-nvidia-comeback-days-after-shock-exit": 1794790616.551519,
+  "https://www.theblock.co/news/markets/2026-11-15-cz-denies-binance-sold-crypto-as-bitcoin-bounces-from-four-month-low-near-62000-440807": 1794790616.551519,
+  "https://cointelegraph-tr.com/news/what-happened-in-crypto-today": 1794790616.551519
  },
  "tries": {
   "https://www.theblock.co/news/defi/2026-10-29-uniswap-token-jar-tjar-robinhood-432131": 1
