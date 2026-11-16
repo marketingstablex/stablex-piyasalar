@@ -1,12 +1,35 @@
 {
- "updated": "2026-11-16T00:56:56Z",
+ "updated": "2026-11-16T07:53:29Z",
  "sources": [
   "coindesk.com",
   "cointelegraph-tr.com",
   "theblock.co"
  ],
  "bySymbol": {
+  "ADA": [
+   {
+    "title": "Cardano sahipleri depolarda bakır almak için 5 milyon dolarlık teklifi reddetti",
+    "summary": "Cardano sahipleri depolarda bakır almak için 5 milyon dolarlık teklifi reddetti.",
+    "url": "https://www.coindesk.com/markets/2026/11/16/cardano-holders-vote-down-usd5-million-bid-to-buy-warehouse-copper",
+    "published": "2026-11-16T06:27:42Z",
+    "importance": 2
+   }
+  ],
   "BTC": [
+   {
+    "title": "Luxor CEO’su Bitcoin madencilerinin ele geçirilmesinin ardından yapay zekâ “karanlık ormanı” konusunda uyardı",
+    "summary": "Saldırganlar hafta sonu Luxor’un Commander platformu üzerinden müşterilerin Bitcoin madenciliği gücünü başka yöne yönlendirdi ve CEO’sunun kripto şirketlerine uyarıda bulunmasına yol açtı.",
+    "url": "https://cointelegraph-tr.com/news/luxor-ceo-warns-of-ai-dark-forest-after-bitcoin-miner-hijack",
+    "published": "2026-11-16T02:33:07Z",
+    "importance": 4
+   },
+   {
+    "title": "ABD'li satıcılar Bitcoin çöküşünü tetikliyor, Jensen Nvidia'ya dönüş planlıyor: Hodler's Digest",
+    "summary": "Anchorage Digital verileri, Bitcoin satış dalgasının ABD'li yatırımcılar tarafından yönlendirildiğini gösteriyor. Destekçileri, Nvidia CEO'su Jensen Huang'ı yeniden göreve getirmek için bir savaş odası kurdu.",
+    "url": "https://cointelegraph-tr.com/magazine/us-sellers-drive-bitcoin-crash-jensen-plots-comeback-hodlers-digest",
+    "published": "2026-11-15T22:50:59Z",
+    "importance": 4
+   },
    {
     "title": "Bitcoin, kripto satış dalgası derinleşirken dört ayın en düşük seviyesi olan 62 bin dolara yaklaştı",
     "summary": "Küresel kripto para piyasasının toplam değeri 24 saatte yüzde 4 düşerek 2,26 trilyon dolara geriledi. Ether ve Solana haftalık bazda çift haneli kayıplar kaydetti.",
@@ -15,17 +38,10 @@
     "importance": 4
    },
    {
-    "title": "Bir analist dördüncü teslimiyet dalgasına işaret ederken Bitcoin 3 ayın en düşük seviyesi olan 65.000 dolara geriledi",
-    "summary": "Bir analist dördüncü teslimiyet dalgasına işaret ederken Bitcoin 3 ayın en düşük seviyesi olan 65.000 dolara geriledi",
-    "url": "https://www.coindesk.com/markets/2026/11/14/bitcoin-drifts-back-to-usd65-000-deep-value-zone-says-analyst",
-    "published": "2026-11-14T16:33:29Z",
-    "importance": 3
-   },
-   {
-    "title": "Sahne arkasındaki bir güç, bitcoin ve ether fiyat oynaklığını artırabilir",
-    "summary": "Sahne arkasındaki bir güç, bitcoin ve ether fiyat oynaklığını artırabilir",
-    "url": "https://www.coindesk.com/markets/2026/11/14/a-behind-the-scenes-force-may-amplify-bitcoin-and-ether-price-volatility",
-    "published": "2026-11-14T12:57:00Z",
+    "title": "Bitcoin'in en büyük bahsi artık 100.000 doların üzerine bir ralli değil, 60.000 doların altına bir düşüş",
+    "summary": "Bitcoin'in en büyük bahsi artık 100.000 doların üzerine bir ralli değil, 60.000 doların altına bir düşüş.",
+    "url": "https://www.coindesk.com/markets/2026/11/16/bitcoin-s-biggest-bet-is-now-a-drop-below-usd60-000-not-a-rally-above-usd100-000",
+    "published": "2026-11-16T05:01:17Z",
     "importance": 3
    },
    {
@@ -43,20 +59,6 @@
     "url": "https://cointelegraph-tr.com/markets/bitcoin-four-month-low-62k-crypto-market-selloff",
     "published": "2026-11-15T10:23:17Z",
     "importance": 4
-   },
-   {
-    "title": "Ethereum ölçeklendirme projesi MegaETH, yapay zeka işine yönelirken personel sayısını %20 oranında azalttı",
-    "summary": "Ethereum ölçeklendirme projesi MegaETH, yapay zeka işine yönelirken personel sayısını %20 oranında azalttı",
-    "url": "https://www.coindesk.com/business/2026/11/14/ethereum-scaling-project-megaeth-slashes-staff-by-20-as-it-pursues-ai-business",
-    "published": "2026-11-14T16:33:23Z",
-    "importance": 3
-   },
-   {
-    "title": "Sahne arkasındaki bir güç, bitcoin ve ether fiyat oynaklığını artırabilir",
-    "summary": "Sahne arkasındaki bir güç, bitcoin ve ether fiyat oynaklığını artırabilir",
-    "url": "https://www.coindesk.com/markets/2026/11/14/a-behind-the-scenes-force-may-amplify-bitcoin-and-ether-price-volatility",
-    "published": "2026-11-14T12:57:00Z",
-    "importance": 3
    }
   ],
   "SOL": [
@@ -79,10 +81,6 @@
   ]
  },
  "seen": {
-  "https://www.theblock.co/news/business/2026-11-11-solana-company-reports-q3-revenue-growth-438448": 1794453551.7237356,
-  "https://www.theblock.co/news/business/2026-11-11-nvidia-perps-board-weighs-ousting-jensen-huang-438447": 1794453551.7237356,
-  "https://www.theblock.co/news/markets/2026-11-11-strategy-metaplanet-lose-msci-index-membership-november-reshuffle-438437": 1794453551.7237356,
-  "https://cointelegraph-tr.com/news/nvidia-preparing-to-oust-ceo-jensen-huang-reports": 1794453551.7237356,
   "https://www.coindesk.com/markets/2026/11/12/bitcoin-dips-with-nvidia-as-etf-outflows-reach-day-five": 1794483966.7604434,
   "https://www.theblock.co/news/business/2026-11-12-tron-tether-chainalysis-new-alliance-438514": 1794483966.7604434,
   "https://cointelegraph-tr.com/news/tron-tether-chainalysis-cybercrime-task-force-laundering": 1794483966.7604434,
@@ -206,7 +204,15 @@
   "https://www.coindesk.com/policy/2026/11/15/did-prediction-markets-call-the-u-s-midterm-election-state-of-crypto": 1794776342.5004144,
   "https://cointelegraph-tr.com/news/jensen-huang-weighs-nvidia-comeback-days-after-shock-exit": 1794790616.551519,
   "https://www.theblock.co/news/markets/2026-11-15-cz-denies-binance-sold-crypto-as-bitcoin-bounces-from-four-month-low-near-62000-440807": 1794790616.551519,
-  "https://cointelegraph-tr.com/news/what-happened-in-crypto-today": 1794790616.551519
+  "https://cointelegraph-tr.com/news/what-happened-in-crypto-today": 1794790616.551519,
+  "https://www.coindesk.com/tech/2026/11/16/bitcoin-miners-were-hijacked-and-their-btc-rewards-redirected-to-an-attacker": 1794815609.9508383,
+  "https://www.coindesk.com/markets/2026/11/16/cardano-holders-vote-down-usd5-million-bid-to-buy-warehouse-copper": 1794815609.9508383,
+  "https://www.coindesk.com/markets/2026/11/16/trump-administration-to-name-nvidia-openai-and-several-others-as-u-s-ai-national-champions": 1794815609.9508383,
+  "https://cointelegraph-tr.com/markets/aster-ceo-suspects-foul-play-after-token-plunges-32-in-minutes": 1794815609.9508383,
+  "https://www.coindesk.com/markets/2026/11/16/bitcoin-s-biggest-bet-is-now-a-drop-below-usd60-000-not-a-rally-above-usd100-000": 1794815609.9508383,
+  "https://www.theblock.co/news/business/2026-11-15-luxor-attack-client-hashrate-440810": 1794815609.9508383,
+  "https://cointelegraph-tr.com/news/luxor-ceo-warns-of-ai-dark-forest-after-bitcoin-miner-hijack": 1794815609.9508383,
+  "https://cointelegraph-tr.com/magazine/us-sellers-drive-bitcoin-crash-jensen-plots-comeback-hodlers-digest": 1794815609.9508383
  },
  "tries": {
   "https://www.theblock.co/news/defi/2026-10-29-uniswap-token-jar-tjar-robinhood-432131": 1
