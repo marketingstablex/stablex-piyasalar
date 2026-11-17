@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-17T10:36:19Z",
+ "updated": "2026-11-17T19:22:59Z",
  "sources": [
   "coindesk.com",
   "cointelegraph-tr.com",
@@ -16,6 +16,20 @@
    }
   ],
   "BTC": [
+   {
+    "title": "BlackRock’un Bitcoin ETF’si aşırı korku ortamında 2,35 milyar dolarlık çıkış serisini sonlandırdı",
+    "summary": "BlackRock’un Bitcoin ETF’si toplam 2,35 milyar dolarlık 11 seanslık para çekme serisini sona erdirdi. CryptoQuant, tek günlük girişin toparlanmaya işaret etmek için henüz yeterli olmadığını belirtiyor.",
+    "url": "https://cointelegraph-tr.com/markets/blackrock-ibit-outflow-streak-end-extreme-fear",
+    "published": "2026-11-17T11:18:18Z",
+    "importance": 4
+   },
+   {
+    "title": "Bitcoin gerçekleşen zarar metriği haziran zirvesini aştı, açık pozisyonlar 2 yılın en düşük seviyesini hedefliyor",
+    "summary": "BTC/USD 62.000 dolara gerilerken Bitcoin kısa vadeli sahiplerinin zincir üstü harcamaları, şubattan bu yana gerçekleşen zararların en yüksek oranına ulaştı.",
+    "url": "https://cointelegraph-tr.com/markets/bitcoin-realized-loss-metric-beats-june-high-open-interest-eyes-2-year-low",
+    "published": "2026-11-17T11:14:05Z",
+    "importance": 4
+   },
    {
     "title": "Goldman Sachs’ın Ether ETF’lerindeki varlıkları 1,22 milyar dolara çıktı, ETHA hisse sayısı arttı",
     "summary": "Goldman Sachs, 3. çeyrekte Ether ETF hisselerini artırarak bildirdiği varlıklarını 1,22 milyar dolara çıkardı ve Bitcoin ETF pozisyonlarını yeniden düzenledi.",
@@ -52,24 +66,10 @@
     "importance": 4
    },
    {
-    "title": "Luxor CEO’su Bitcoin madencilerinin ele geçirilmesinin ardından yapay zekâ “karanlık ormanı” konusunda uyardı",
-    "summary": "Saldırganlar hafta sonu Luxor’un Commander platformu üzerinden müşterilerin Bitcoin madenciliği gücünü başka yöne yönlendirdi ve CEO’sunun kripto şirketlerine uyarıda bulunmasına yol açtı.",
-    "url": "https://cointelegraph-tr.com/news/luxor-ceo-warns-of-ai-dark-forest-after-bitcoin-miner-hijack",
-    "published": "2026-11-16T02:33:07Z",
-    "importance": 4
-   },
-   {
-    "title": "ABD'li satıcılar Bitcoin çöküşünü tetikliyor, Jensen Nvidia'ya dönüş planlıyor: Hodler's Digest",
-    "summary": "Anchorage Digital verileri, Bitcoin satış dalgasının ABD'li yatırımcılar tarafından yönlendirildiğini gösteriyor. Destekçileri, Nvidia CEO'su Jensen Huang'ı yeniden göreve getirmek için bir savaş odası kurdu.",
-    "url": "https://cointelegraph-tr.com/magazine/us-sellers-drive-bitcoin-crash-jensen-plots-comeback-hodlers-digest",
-    "published": "2026-11-15T22:50:59Z",
-    "importance": 4
-   },
-   {
-    "title": "Grayscale, bitcoin 64.000 dolara gerilerken kripto geri çekilmesinin 'cazip giriş noktaları' sunduğunu söylüyor",
-    "summary": "Grayscale Araştırma Başkanı Zach Pandl, kriptonun stablecoin'lerin kurumsal olarak benimsenmesi gibi hâlâ güçlü bir temel talebe sahip olduğunu belirtti.",
-    "url": "https://www.theblock.co/news/markets/2026-11-17-grayscale-compelling-entry-points-bitcoin-442083",
-    "published": "2026-11-17T07:39:17Z",
+    "title": "Nvidia hisseleri 3. çeyrek kazançları öncesinde yeni 5 aylık dip seviyeleri riski taşırken Bitcoin yüzde 2,5 düştü",
+    "summary": "Bitcoin fiyatı 63.269 dolarlık yerel dipleri görürken Nvidia hisseleri 150 doları hedefliyor ve yatırımcılar 3. çeyrek kazançları öncesinde volatiliteye hazırlanıyor.",
+    "url": "https://cointelegraph-tr.com/markets/bitcoin-drops-25-nvidia-stock-risks-new-5-month-low-q3-earnings",
+    "published": "2026-11-17T16:39:43Z",
     "importance": 3
    }
   ],
@@ -96,6 +96,13 @@
     "importance": 4
    },
    {
+    "title": "Ethereum'un Glamsterdam yükseltmesi 15.000 kadar otomatik uygulamayı bozma riski taşıyor",
+    "summary": "Ethereum'un Glamsterdam yükseltmesi 15.000 kadar otomatik uygulamayı bozma riski taşıyor",
+    "url": "https://www.coindesk.com/tech/2026/11/17/ethereum-s-glamsterdam-upgrade-risks-breaking-up-to-15-000-contracts",
+    "published": "2026-11-17T13:02:56Z",
+    "importance": 3
+   },
+   {
     "title": "ABD yargıcı, başarısız yargılamanın ardından 25 milyon dolarlık Ethereum MEV davasında kardeşleri beraat ettirdi",
     "summary": "Yargıç Jessica Clarke, işlemlerin yanlış vaatler içermediğini söyledi; ancak karar, kardeşlerin davranışlarının etik olup olmadığını veya başka yasaları ihlal edip etmediğini belirlemedi.",
     "url": "https://cointelegraph-tr.com/news/us-judge-acquits-brothers-25m-ethereum-mev-exploit",
@@ -111,6 +118,13 @@
    }
   ],
   "SOL": [
+   {
+    "title": "Solana Foundation, kripto veri sağlayıcısı CoinGecko'da çoğunluk hissedarı oldu",
+    "summary": "Solana Foundation, kripto veri sağlayıcısı CoinGecko'da çoğunluk hissedarı oldu",
+    "url": "https://www.coindesk.com/business/2026/11/17/solana-foundation-takes-majority-stake-in-crypto-data-provider-coingecko",
+    "published": "2026-11-17T11:29:51Z",
+    "importance": 3
+   },
    {
     "title": "Bitwise, zincir üstü ticaret büyümesiyle boğa senaryosunda Solana'nın 2031'e kadar 1.100 dolara ulaşacağını öngörüyor",
     "summary": "Bitwise, zincir üstü ticaretin büyümesiyle birlikte boğa senaryosunda SOL token'ının 2031 yılına kadar 1.100 dolara ulaşacağını öngörüyor.",
@@ -161,6 +175,15 @@
     "importance": 3
    }
   ],
+  "TRUMP": [
+   {
+    "title": "Lily Liu, Solana'nın Trump memecoin lansmanının kurumsal atılım öncesi altyapıyı test ettiğini söyledi",
+    "summary": "Liu, Solana ağının öngörülemez kripto piyasalarının baskısına dayanabileceğini kanıtlamak amacıyla iki işlem dönemi özetledi.",
+    "url": "https://www.theblock.co/news/ecosystems/2026-11-17-solana-trump-memecoin-launch-tested-infrastructure-institutional-push-lily-liu-says-442132",
+    "published": "2026-11-17T14:27:35Z",
+    "importance": 2
+   }
+  ],
   "USDC": [
    {
     "title": "Solflare CEO'su yapay zeka güvenlik incelemelerinin hayati önem taşıdığını söylüyor, 'sığınak modu' ve MoneyGram anlaşmasını övüyor",
@@ -199,24 +222,6 @@
   ]
  },
  "seen": {
-  "https://www.coindesk.com/markets/2026/11/13/bitcoin-heads-for-sixth-weekly-loss-as-anthropic-s-blockbuster-ipo-looms": 1794586325.3020346,
-  "https://www.theblock.co/news/business/2026-11-13-kraken-parent-payward-posts-66-drop-in-q3-adjusted-ebitda-plans-us-prediction-markets-and-personal-finance-ai-agent-439721": 1794586325.3020346,
-  "https://www.theblock.co/news/business/2026-11-13-tether-backed-twenty-one-capital-reports-1-09-billion-q3-net-income-on-bitcoin-gains-439711": 1794586325.3020346,
-  "https://www.theblock.co/learn/campus/ethereum-and-layer-1s-explained-435883": 1794586325.3020346,
-  "https://www.coindesk.com/business/2026/11/13/kraken-parent-payward-says-expansion-outside-crypto-trading-helps-cushion-revenue-decline": 1794586325.3020346,
-  "https://cointelegraph-tr.com/news/arthur-hayes-coinbase-us-stock-perps-cftc": 1794586325.3020346,
-  "https://www.theblock.co/news/markets/2026-11-13-from-6-to-6-9-million-two-dormant-bitcoin-addresses-wake-up-to-move-100-btc-after-more-than-16-years-439698": 1794586325.3020346,
-  "https://www.theblock.co/news/regulation/2026-11-13-uk-singapore-and-thailand-central-banks-complete-foreign-exchange-settlement-trial-linking-traditional-and-tokenized-systems-439692": 1794586325.3020346,
-  "https://cointelegraph-tr.com/news/israel-police-arrest-five-5m-whatsapp-crypto-scheme": 1794586325.3020346,
-  "https://www.coindesk.com/daybook-us/2026/11/13/bitcoin-s-momentum-gauge-is-turning-red-could-send-prices-back-below-usd60-000": 1794586325.3020346,
-  "https://www.coindesk.com/markets/2026/11/13/bitcoin-hits-12-week-low-as-dollar-rallies-on-interest-rate-outlook-liquidations-top-usd1-6-billion": 1794586325.3020346,
-  "https://www.theblock.co/news/regulation/2026-11-13-thailand-seeks-daily-stablecoin-cap-439676": 1794586325.3020346,
-  "https://www.theblock.co/news/business/2026-11-13-jpmorgan-reports-36-rise-in-strategy-share-holdings-and-540-million-in-blackrocks-bitcoin-etf-439671": 1794586325.3020346,
-  "https://cointelegraph-tr.com/news/unocoin-withdrawals-halted-bitgo-wallet-transfer-probe": 1794586325.3020346,
-  "https://cointelegraph-tr.com/markets/bitcoin-returns-200-week-trend-line-analyst-sees-risk-57k-next": 1794586325.3020346,
-  "https://www.theblock.co/news/regulation/2026-11-13-doj-cftc-sue-arkansas-to-block-state-enforcement-action-against-kalshi-439669": 1794586325.3020346,
-  "https://cointelegraph-tr.com/news/doj-12b-north-korean-crypto-seizure-400m-facestealer-scheme": 1794586325.3020346,
-  "https://www.coindesk.com/tech/2026/11/13/live-news-bitcoin-drops-below-200-week-moving-average-as-dollar-strength-pressures-risk-assets": 1794586325.3020346,
   "https://cointelegraph-tr.com/news/openai-ai-payments-chatgpt-wallet-visa-mastercard-amex": 1794607665.9222043,
   "https://cointelegraph-tr.com/news/adam-back-simpler-security-blockstream-bitcoin-custody-system": 1794607665.9222043,
   "https://cointelegraph-tr.com/news/kraken-parent-payward-gains-market-share-slower-trading-earnings": 1794607665.9222043,
@@ -329,7 +334,30 @@
   "https://www.theblock.co/newsletters/the-daily/2026-11-17-cz-binance-bitwise-solana-more-crypto-news-441584": 1794911779.6742377,
   "https://www.coindesk.com/markets/2026/11/17/wells-fargo-s-reported-blackrock-bitcoin-etf-holdings-double-to-usd2-35-billion": 1794911779.6742377,
   "https://www.coindesk.com/markets/2026/11/17/ripple-backed-evernorth-has-written-down-its-pre-listing-xrp-holdings-by-60": 1794911779.6742377,
-  "https://cointelegraph-tr.com/news/trezor-customer-data-exposed-in-3rd-partner-breach-this-year": 1794911779.6742377
+  "https://cointelegraph-tr.com/news/trezor-customer-data-exposed-in-3rd-partner-breach-this-year": 1794911779.6742377,
+  "https://cointelegraph-tr.com/markets/bitcoin-drops-25-nvidia-stock-risks-new-5-month-low-q3-earnings": 1794943379.1633015,
+  "https://www.theblock.co/news/business/2026-11-17-alpaca-says-tokenization-network-tops-10-billion-minting-redemption-volume-442667": 1794943379.1633015,
+  "https://www.theblock.co/news/business/2026-11-17-anchorage-digital-kalshi-prime-hodl-margining-bitcoin-collateral-442568": 1794943379.1633015,
+  "https://www.coindesk.com/business/2026/11/17/hong-kong-swift-test-tokenized-deposits-as-banks-chase-stablecoin-style-speed": 1794943379.1633015,
+  "https://www.theblock.co/news/ecosystems/2026-11-17-solana-trump-memecoin-launch-tested-infrastructure-institutional-push-lily-liu-says-442132": 1794943379.1633015,
+  "https://www.theblock.co/news/markets/2026-11-17-bitwise-zday-ai-cyber-defense-etf-442062": 1794943379.1633015,
+  "https://www.theblock.co/news/markets/2026-11-17-bernstein-sees-upside-for-bitcoin-miners-riot-and-terawulf-citing-discounts-to-implied-ai-data-center-values-442125": 1794943379.1633015,
+  "https://cointelegraph-tr.com/news/ark-crypto-stock-purchases-nvidia-staking-etf-sales": 1794943379.1633015,
+  "https://www.theblock.co/news/deals/2026-11-17-avenia-funding-stablecoin-crypto-infrastructure-442119": 1794943379.1633015,
+  "https://www.coindesk.com/tech/2026/11/17/ethereum-s-glamsterdam-upgrade-risks-breaking-up-to-15-000-contracts": 1794943379.1633015,
+  "https://www.theblock.co/news/ecosystems/2026-11-17-grvt-launches-rwa-perpetuals-with-funding-tied-to-traditional-markets-442089": 1794943379.1633015,
+  "https://www.coindesk.com/markets/2026/11/17/decentralized-exchange-grvt-makes-commodity-trading-more-predictable-with-stable-funding-perps": 1794943379.1633015,
+  "https://www.coindesk.com/daybook-us/2026/11/17/crypto-s-casino-chips-are-disappearing-adding-to-pain-from-spot-etf-outflows": 1794943379.1633015,
+  "https://www.coindesk.com/business/2026/11/17/ex-openai-researcher-fund-dumps-bitcoin-miners-cuts-iren-94-after-portfolio-slump": 1794943379.1633015,
+  "https://www.theblock.co/news/defi/2026-11-17-lighter-reopens-withdrawals-after-traders-api-key-leak-returns-about-5-million-in-usdc-442113": 1794943379.1633015,
+  "https://cointelegraph-tr.com/news/us-senators-sec-tokenized-stock-safeguards": 1794943379.1633015,
+  "https://www.coindesk.com/markets/2026/11/17/bitcoin-remains-penned-in-near-usd64-000-even-as-etf-outflow-streak-ends": 1794943379.1633015,
+  "https://www.coindesk.com/business/2026/11/17/solana-foundation-takes-majority-stake-in-crypto-data-provider-coingecko": 1794943379.1633015,
+  "https://www.coindesk.com/business/2026/11/16/new-defi-yield-generation-targets-scam-like-bank-accounts-that-keep-all-the-interest": 1794943379.1633015,
+  "https://cointelegraph-tr.com/markets/blackrock-ibit-outflow-streak-end-extreme-fear": 1794943379.1633015,
+  "https://cointelegraph-tr.com/markets/bitcoin-realized-loss-metric-beats-june-high-open-interest-eyes-2-year-low": 1794943379.1633015,
+  "https://www.theblock.co/news/regulation/2026-11-17-former-robinhood-engineer-pleads-guilty-to-wire-fraud-over-trades-ahead-of-crypto-listing-announcements-442106": 1794943379.1633015,
+  "https://www.coindesk.com/business/2026/11/17/fed-governor-michael-barr-warns-ai-agents-could-trigger-bank-runs-in-minutes": 1794943379.1633015
  },
  "tries": {
   "https://www.theblock.co/news/defi/2026-10-29-uniswap-token-jar-tjar-robinhood-432131": 1
