@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-17T19:22:59Z",
+ "updated": "2026-11-18T01:50:53Z",
  "sources": [
   "coindesk.com",
   "cointelegraph-tr.com",
@@ -45,13 +45,6 @@
     "importance": 4
    },
    {
-    "title": "Wells Fargo'nun bildirilen BlackRock bitcoin ETF varlıkları 2,35 milyar dolara katlandı",
-    "summary": "Wells Fargo'nun bildirilen BlackRock bitcoin ETF varlıkları 2,35 milyar dolara katlandı",
-    "url": "https://www.coindesk.com/markets/2026/11/17/wells-fargo-s-reported-blackrock-bitcoin-etf-holdings-double-to-usd2-35-billion",
-    "published": "2026-11-17T05:37:23Z",
-    "importance": 4
-   },
-   {
     "title": "Nvidia kazançları kripto satışlarını derinleştirme tehdidi yaratırken Bitcoin 60.000 doların altına düşme riskiyle karşı karşıya",
     "summary": "Nvidia kazançları kripto satışlarını derinleştirme tehdidi yaratırken Bitcoin 60.000 doların altına düşme riskiyle karşı karşıya.",
     "url": "https://www.coindesk.com/markets/2026/11/16/bitcoin-risks-falling-below-usd60-000-as-nvidia-earnings-threaten-to-deepen-crypto-sell-off",
@@ -64,13 +57,6 @@
     "url": "https://cointelegraph-tr.com/markets/bitcoin-price-fails-to-hold-65k-us-stocks-drop-on-ai-nerves",
     "published": "2026-11-16T16:26:52Z",
     "importance": 4
-   },
-   {
-    "title": "Nvidia hisseleri 3. çeyrek kazançları öncesinde yeni 5 aylık dip seviyeleri riski taşırken Bitcoin yüzde 2,5 düştü",
-    "summary": "Bitcoin fiyatı 63.269 dolarlık yerel dipleri görürken Nvidia hisseleri 150 doları hedefliyor ve yatırımcılar 3. çeyrek kazançları öncesinde volatiliteye hazırlanıyor.",
-    "url": "https://cointelegraph-tr.com/markets/bitcoin-drops-25-nvidia-stock-risks-new-5-month-low-q3-earnings",
-    "published": "2026-11-17T16:39:43Z",
-    "importance": 3
    }
   ],
   "ETH": [
@@ -79,20 +65,6 @@
     "summary": "Goldman Sachs, 3. çeyrekte Ether ETF hisselerini artırarak bildirdiği varlıklarını 1,22 milyar dolara çıkardı ve Bitcoin ETF pozisyonlarını yeniden düzenledi.",
     "url": "https://cointelegraph-tr.com/news/goldman-sachs-reports-122b-ether-etfs-etha-shares-jumps",
     "published": "2026-11-17T09:08:32Z",
-    "importance": 4
-   },
-   {
-    "title": "Vitalik Buterin, Ethereum'un ölçeklenmesine yardımcı olmak için hesap oluşturma ve akıllı sözleşme dağıtımında daha yüksek gas maliyetlerini destekliyor",
-    "summary": "Buterin, merkeziyetsizlikten ödün vermeden işlem kapasitesini artırma ihtiyacına atıfta bulunarak Ethereum'un önerilen gas yeniden fiyatlandırmasını savundu.",
-    "url": "https://www.theblock.co/news/ecosystems/2026-11-16-vitalik-buterin-backs-higher-gas-costs-for-creating-accounts-and-deploying-smart-contracts-to-help-ethereum-scale-440870",
-    "published": "2026-11-16T10:29:30Z",
-    "importance": 4
-   },
-   {
-    "title": "Vitalik Buterin, kuantum güvenli Ethereum'a giden daha hızlı bir rota konusunda tamamen 'yükseliş yanlısı'na dönüştü",
-    "summary": "Vitalik Buterin, kuantum güvenli Ethereum'a giden daha hızlı bir rota konusunda tamamen yükseliş yanlısı bir tutuma geçiş yaptı.",
-    "url": "https://www.coindesk.com/tech/2026/11/16/vitalik-buterin-flips-to-total-bull-on-a-faster-route-to-quantum-safe-ethereum",
-    "published": "2026-11-16T08:18:03Z",
     "importance": 4
    },
    {
@@ -114,6 +86,15 @@
     "summary": "Bitmine rezervlerine 7.653 ETH ekledi. Tom Lee ise kurumsal gelişmelerdeki iyileşmeye rağmen ether fiyatındaki sert düşüşün temellerle uyuşmadığını belirtti.",
     "url": "https://www.theblock.co/news/business/2026-11-16-tom-lee-ethereum-waterfall-decline-price-defies-fundamentals-bitmine-adds-7653-eth-440904",
     "published": "2026-11-16T15:00:18Z",
+    "importance": 3
+   }
+  ],
+  "JTO": [
+   {
+    "title": "Jito’dan Lucas Bruder, kripto geliştiricilerinin 'yavaşlaması' ve güvenlik zayıflıklarını düzeltmesi gerektiğini söylüyor",
+    "summary": "Jito’dan Lucas Bruder, sabırlı saldırganlar konusunda uyarıda bulunuyor ve kripto ekiplerini teknik borçları ele almaya çağırıyor.",
+    "url": "https://www.theblock.co/news/ecosystems/2026-11-17-jito-lucas-bruder-crypto-builders-need-slow-down-fix-security-weaknesses-442850",
+    "published": "2026-11-17T19:29:15Z",
     "importance": 3
    }
   ],
@@ -158,20 +139,6 @@
     "summary": "Zelle, ZelleUSD stablecoin’i ve uluslararası ödemeler için Solana’yı kullanmayı planlıyor. Bu plan dahilinde ödeme tutarlarını gizlemek amacıyla tasarlanan gizli transferler de yer alıyor.",
     "url": "https://cointelegraph-tr.com/news/zelle-solana-zelleusd-stablecoin-international-payments",
     "published": "2026-11-16T14:55:46Z",
-    "importance": 3
-   },
-   {
-    "title": "Solana altı yılı aşkın süre sonra 'beta' etiketini kaldırdı",
-    "summary": "Solana altı yılı aşkın süre sonra 'beta' etiketini kaldırdı.",
-    "url": "https://www.coindesk.com/tech/2026/11/16/solana-drops-beta-label-after-more-than-six-years",
-    "published": "2026-11-16T13:03:16Z",
-    "importance": 3
-   },
-   {
-    "title": "CoW Swap, niyet tabanlı ticaret ile Solana'da yayına girdi",
-    "summary": "CoW Swap, daha önce ağa çapraz zincir takasları desteği sunmasının ardından doğrudan Solana üzerinde niyet tabanlı ticaret ile faaliyete geçti.",
-    "url": "https://www.theblock.co/news/defi/2026-11-16-cow-swap-goes-live-solana-440840",
-    "published": "2026-11-16T09:05:02Z",
     "importance": 3
    }
   ],
@@ -222,18 +189,6 @@
   ]
  },
  "seen": {
-  "https://cointelegraph-tr.com/news/openai-ai-payments-chatgpt-wallet-visa-mastercard-amex": 1794607665.9222043,
-  "https://cointelegraph-tr.com/news/adam-back-simpler-security-blockstream-bitcoin-custody-system": 1794607665.9222043,
-  "https://cointelegraph-tr.com/news/kraken-parent-payward-gains-market-share-slower-trading-earnings": 1794607665.9222043,
-  "https://www.theblock.co/news/markets/2026-11-13-meta-tests-prediction-market-app-using-cred-points-instead-cash-wsj-440215": 1794607665.9222043,
-  "https://cointelegraph-tr.com/news/us-regulators-crypto-trust-charters-senate-scrutiny-grows": 1794607665.9222043,
-  "https://www.theblock.co/news/business/2026-11-13-megaeth-mega-layoffs-20-percent-restructuring-440206": 1794607665.9222043,
-  "https://www.theblock.co/news/regulation/2026-11-13-house-oversight-chair-possible-ban-government-officials-prediction-market-bets-insider-trading-concerns-440207": 1794607665.9222043,
-  "https://www.theblock.co/news/regulation/2026-11-13-cftcs-selig-accuses-states-trying-lock-up-prediction-market-founders-440199": 1794607665.9222043,
-  "https://www.coindesk.com/markets/2026/11/13/bitcoin-slides-to-usd68k-as-nvidia-turmoil-anthropic-ipo-fuel-broader-market-sell-off": 1794607665.9222043,
-  "https://www.coindesk.com/policy/2026/11/13/u-s-senate-banking-committee-races-toward-hearing-on-new-sec-nominations": 1794607665.9222043,
-  "https://www.theblock.co/news/markets/2026-11-13-hyperliquid-leapfrogs-bybit-kraken-okx-open-interest-q3-positions-grow-440053": 1794607665.9222043,
-  "https://cointelegraph-tr.com/markets/nakamoto-shares-fall-after-negative-q3-revenue": 1794607665.9222043,
   "https://www.coindesk.com/tech/2026/11/13/bitcoin-miners-pay-paraguay-usd350-million-a-year-but-ai-is-pushing-them-out": 1794623990.6245358,
   "https://cointelegraph-tr.com/news/megaeth-parent-cuts-20-percent-staff-ai-push": 1794651096.6945412,
   "https://cointelegraph-tr.com/markets/bitcoin-etf-outflows-2-35-billion-blackrock-11-session-streak": 1794651096.6945412,
@@ -357,7 +312,23 @@
   "https://cointelegraph-tr.com/markets/blackrock-ibit-outflow-streak-end-extreme-fear": 1794943379.1633015,
   "https://cointelegraph-tr.com/markets/bitcoin-realized-loss-metric-beats-june-high-open-interest-eyes-2-year-low": 1794943379.1633015,
   "https://www.theblock.co/news/regulation/2026-11-17-former-robinhood-engineer-pleads-guilty-to-wire-fraud-over-trades-ahead-of-crypto-listing-announcements-442106": 1794943379.1633015,
-  "https://www.coindesk.com/business/2026/11/17/fed-governor-michael-barr-warns-ai-agents-could-trigger-bank-runs-in-minutes": 1794943379.1633015
+  "https://www.coindesk.com/business/2026/11/17/fed-governor-michael-barr-warns-ai-agents-could-trigger-bank-runs-in-minutes": 1794943379.1633015,
+  "https://www.coindesk.com/policy/2026/11/17/nominee-says-u-s-cftc-must-think-hard-about-public-benefit-of-prediction-markets": 1794966653.9350455,
+  "https://cointelegraph-tr.com/markets/nvidia-board-rejects-huang-comeback-amid-record-116b-quarter": 1794966653.9350455,
+  "https://www.theblock.co/news/regulation/2026-11-17-trumps-cftc-picks-face-senate-scrutiny-as-prediction-market-turf-war-heats-up-442909": 1794966653.9350455,
+  "https://www.theblock.co/news/business/2026-11-17-robinhoods-non-sports-prediction-market-share-doubles-mizuho-442904": 1794966653.9350455,
+  "https://cointelegraph-tr.com/news/cftc-kalshi-trump-mention-markets-review": 1794966653.9350455,
+  "https://www.coindesk.com/markets/2026/11/17/nvidia-tops-estimates-issues-strong-guidance-adds-usd150-billion-to-buyback-authorization": 1794966653.9350455,
+  "https://www.coindesk.com/markets/2026/11/17/coinbase-ceo-says-ai-agents-will-account-for-99-9-of-transactions-within-a-decade": 1794966653.9350455,
+  "https://www.theblock.co/news/ecosystems/2026-11-17-jito-lucas-bruder-crypto-builders-need-slow-down-fix-security-weaknesses-442850": 1794966653.9350455,
+  "https://www.coindesk.com/policy/2026/11/17/predictions-platform-kalshi-complies-with-order-to-halt-trump-mention-contracts": 1794966653.9350455,
+  "https://www.theblock.co/news/business/2026-11-17-coinbase-borrow-new-york-morpho-442842": 1794966653.9350455,
+  "https://cointelegraph-tr.com/news/lighter-incident-exposes-risks-beyond-withdrawal-controls": 1794966653.9350455,
+  "https://www.coindesk.com/business/2026/11/17/druckenmiller-says-he-is-short-copper-warns-of-economic-weakness-in-2027": 1794966653.9350455,
+  "https://www.theblock.co/news/business/2026-11-17-fomo-pays-creators-30-million-sharing-lions-share-revenue-park-says-442332": 1794966653.9350455,
+  "https://cointelegraph-tr.com/news/feds-waller-cites-binance-hack-in-warning-over-tokenized-finance": 1794966653.9350455,
+  "https://www.theblock.co/newsletters/data-and-insights/2026-11-17-everyone-is-trading-tokenized-nvidia-derivatives-442818": 1794966653.9350455,
+  "https://www.coindesk.com/policy/2026/11/17/u-s-fed-governor-waller-pitches-keeping-central-bank-at-the-center-of-tokenization": 1794966653.9350455
  },
  "tries": {
   "https://www.theblock.co/news/defi/2026-10-29-uniswap-token-jar-tjar-robinhood-432131": 1
