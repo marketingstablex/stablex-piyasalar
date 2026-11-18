@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-18T10:01:59Z",
+ "updated": "2026-11-18T18:48:20Z",
  "sources": [
   "coindesk.com",
   "cointelegraph-tr.com",
@@ -16,6 +16,13 @@
    }
   ],
   "BTC": [
+   {
+    "title": "Bitcoin, Fed’den Waller’ın “şok” niteliğinde 50 baz puanlık faiz artışından söz etmesiyle hisseler sarsıldı",
+    "summary": "Fed’in yeni şahin yorumlarının ardından Bitcoin 63.000 doların altına geriledi. Nvidia’nın kazançlarına yönelik iyimserlik de azaldı.",
+    "url": "https://cointelegraph-tr.com/markets/bitcoin-stocks-wobble-waller-talks-shock-50-point-rate-hike",
+    "published": "2026-11-18T16:34:20Z",
+    "importance": 4
+   },
    {
     "title": "CryptoQuant’ın düşüş eğilimli piyasa evresine işaret etmesiyle Bitcoin ETF’lerinde 240 milyon dolarlık çıkış",
     "summary": "CryptoQuant, Bitcoin’in düşüş eğilimli bir piyasa evresine geri döndüğü uyarısında bulunurken, Bitcoin ETF’lerindeki çıkışlar bir günlük aranın ardından yeniden başladı.",
@@ -52,25 +59,18 @@
     "importance": 4
    },
    {
-    "title": "SOL, Solana betadan çıkarken Breakpoint konferansından %7 daha yüksek çıktı",
-    "summary": "Solana’nın token’ı salı günü 75,12 dolara ulaşarak Bitcoin ve Ether’i geride bıraktı. Ağ, 2020’deki lansmanından bu yana kullandığı beta etiketini kaldırdı.",
-    "url": "https://cointelegraph-tr.com/markets/solana-sol-gains-7-percent-breakpoint-beta-tokenization",
-    "published": "2026-11-18T08:41:16Z",
+    "title": "Bitcoin madencisi MARA, kredileri geri ödemek için 1 milyar dolarlık BTC sattıktan sonra borç yoluyla 185 milyon dolar topladı",
+    "summary": "Bitcoin madencisi MARA, kredileri geri ödemek için 1 milyar dolar değerinde BTC sattıktan sonra borç yoluyla 185 milyon dolar topladı.",
+    "url": "https://www.coindesk.com/markets/2026/11/18/bitcoin-miner-mara-raises-usd185-million-in-debt-after-selling-usd1-billion-btc-to-repay-loans",
+    "published": "2026-11-18T12:53:34Z",
     "importance": 3
    },
    {
-    "title": "Bitcoin'in kritik desteğin altındaki yüzde 12'lik düşüşü korkutucu görünüyor, ancak tarih 3 ay süre verilmesini söylüyor.",
-    "summary": "Bitcoin'in kritik desteğin altındaki yüzde 12'lik düşüşü korkutucu görünüyor, ancak tarih 3 ay süre verilmesini söylüyor.",
-    "url": "https://www.coindesk.com/markets/2026/11/18/bitcoin-s-rare-12-crash-through-its-200-week-average-has-a-bullish-track-record",
-    "published": "2026-11-18T04:34:21Z",
+    "title": "Analistler, Bitcoin'in düşüşünden Anthropic'in halka arzını sorumlu tutmanın 'inanması kolay' ancak kusurlu olduğunu söylüyor",
+    "summary": "Analistler, Bitcoin'in düşüşünden Anthropic'in halka arzını sorumlu tutmanın 'inanması kolay' ancak kusurlu olduğunu söylüyor.",
+    "url": "https://www.coindesk.com/daybook-us/2026/11/18/blaming-anthropic-s-ipo-for-bitcoin-s-slide-is-easy-to-believe-but-flawed-analysts-say",
+    "published": "2026-11-18T12:15:00Z",
     "importance": 3
-   },
-   {
-    "title": "Canlı güncellemeler: Popüler 'basis trade' getirilerinin kurumasıyla Bitcoin 65.000 dolar civarında sıkıştı",
-    "summary": "Canlı güncellemeler: Popüler 'basis trade' getirilerinin kurumasıyla Bitcoin 65.000 dolar civarında sıkıştı",
-    "url": "https://www.coindesk.com/business/2026/11/18/live-updates-bitcoin-stuck-near-usd65-000-as-popular-basis-trade-returns-dry-up",
-    "published": "2026-11-18T07:27:48Z",
-    "importance": 2
    }
   ],
   "ETH": [
@@ -87,6 +87,13 @@
     "url": "https://cointelegraph-tr.com/news/goldman-sachs-reports-122b-ether-etfs-etha-shares-jumps",
     "published": "2026-11-17T09:08:32Z",
     "importance": 4
+   },
+   {
+    "title": "TD Cowen, Ether görünümünü yumuşatırken Sharplink için Al notunu koruyor",
+    "summary": "TD Cowen, ether'in fiyat patikasına ilişkin daha muhafazakar bir görüş benimserken, staking ödüllerinin Sharplink'in ETH varlıklarında mütevazı bir artışa yol açtığını belirtti.",
+    "url": "https://www.theblock.co/news/ecosystems/2026-11-18-td-cowen-maintains-buy-rating-sharplink-442987",
+    "published": "2026-11-18T11:08:27Z",
+    "importance": 3
    },
    {
     "title": "SOL, Solana betadan çıkarken Breakpoint konferansından %7 daha yüksek çıktı",
@@ -171,28 +178,10 @@
     "url": "https://www.coindesk.com/markets/2026/11/18/xrp-whales-moved-usd270-million-during-the-selloff-the-coins-didn-t-go-to-exchanges",
     "published": "2026-11-18T04:28:37Z",
     "importance": 3
-   },
-   {
-    "title": "Ripple destekli Evernorth, listeleme öncesi XRP varlıklarının değerini yüzde 60 düşürdü",
-    "summary": "Ripple destekli Evernorth, listeleme öncesi XRP varlıklarının değerini yüzde 60 düşürdü",
-    "url": "https://www.coindesk.com/markets/2026/11/17/ripple-backed-evernorth-has-written-down-its-pre-listing-xrp-holdings-by-60",
-    "published": "2026-11-17T05:02:05Z",
-    "importance": 3
    }
   ]
  },
  "seen": {
-  "https://cointelegraph-tr.com/news/megaeth-parent-cuts-20-percent-staff-ai-push": 1794651096.6945412,
-  "https://cointelegraph-tr.com/markets/bitcoin-etf-outflows-2-35-billion-blackrock-11-session-streak": 1794651096.6945412,
-  "https://www.theblock.co/newsletters/the-daily/2026-11-14-meta-prediction-market-app-doj-binance-hack-more-crypto-news-440304": 1794651096.6945412,
-  "https://www.coindesk.com/markets/2026/11/13/satoshi-era-wallet-served-in-a-usd260-billion-lawsuit-moves-75-btc-it-held-since-2011": 1794651096.6945412,
-  "https://www.coindesk.com/markets/2026/11/14/bitcoin-drifts-back-to-usd65-000-deep-value-zone-says-analyst": 1794674539.958133,
-  "https://www.coindesk.com/business/2026/11/14/ethereum-scaling-project-megaeth-slashes-staff-by-20-as-it-pursues-ai-business": 1794674539.958133,
-  "https://www.coindesk.com/business/2026/11/14/kazakhstan-plans-tokenized-government-bonds-in-first-quarter-after-usd22-million-note-sale": 1794674539.958133,
-  "https://www.coindesk.com/policy/2026/11/14/uk-singapore-and-thailand-central-banks-test-cross-border-fx-settlement-as-stablecoins-gain-ground": 1794674539.958133,
-  "https://www.coindesk.com/policy/2026/11/13/britain-could-turn-wasted-scottish-wind-power-into-bitcoin-to-cut-its-usd1-3-billion-grid-bill": 1794674539.958133,
-  "https://www.coindesk.com/markets/2026/11/14/a-behind-the-scenes-force-may-amplify-bitcoin-and-ether-price-volatility": 1794674539.958133,
-  "https://cointelegraph-tr.com/news/microsoft-365-outage-resolved-cyberattack-ruled-out": 1794674539.958133,
   "https://www.theblock.co/news/regulation/2026-11-14-louisiana-ag-calls-cftc-chair-an-obsequious-standard-bearer-for-prediction-markets-following-agency-lawsuit-440342": 1794691420.3801625,
   "https://www.theblock.co/news/markets/2026-11-14-bitcoin-etfs-lose-1-billion-for-the-second-week-in-a-row-as-crypto-funds-except-one-continue-bleeding-440337": 1794691420.3801625,
   "https://www.theblock.co/news/defi/2026-11-14-kava-lend-loses-roughly-3-8-million-to-hack-sending-kava-token-down-nearly-40-440350": 1794705401.0124688,
@@ -337,7 +326,25 @@
   "https://www.theblock.co/news/business/2026-11-17-world-bank-group-citi-circle-fund-disbursements-442924": 1794996119.3193457,
   "https://www.theblock.co/news/defi/2026-11-17-coinbase-ai-defense-deepfake-elon-musk-442918": 1794996119.3193457,
   "https://www.theblock.co/newsletters/the-funding/2026-11-17-crypto-startup-valuations-442903": 1794996119.3193457,
-  "https://cointelegraph-tr.com/news/ledger-hardware-implant-saga-reaches-dubais-virgin-megastore": 1794996119.3193457
+  "https://cointelegraph-tr.com/news/ledger-hardware-implant-saga-reaches-dubais-virgin-megastore": 1794996119.3193457,
+  "https://www.coindesk.com/business/2026/11/18/a-usd1-5-billion-crypto-startup-is-taking-on-hyperliquid-with-a-wall-street-playbook": 1795027700.494722,
+  "https://www.theblock.co/news/markets/2026-11-18-cryptoquant-bitcoin-bearish-value-zone-443471": 1795027700.494722,
+  "https://cointelegraph-tr.com/news/25m-ethereum-mev-acquittal-tests-criminal-enforcement-limits": 1795027700.494722,
+  "https://www.theblock.co/news/business/2026-11-18-bullishs-q3-adjusted-profit-rises-35-digital-asset-sales-fall-23-443456": 1795027700.494722,
+  "https://cointelegraph-tr.com/news/polymarket-us-takes-rapid-fire-crypto-trading-format-oil-natural-gas": 1795027700.494722,
+  "https://cointelegraph-tr.com/markets/bitcoin-stocks-wobble-waller-talks-shock-50-point-rate-hike": 1795027700.494722,
+  "https://www.theblock.co/news/business/2026-11-18-visa-direct-extend-stablecoin-prefunding-cross-border-payouts-asia-pacific-443457": 1795027700.494722,
+  "https://www.coindesk.com/coindesk-indices/2026/11/18/crypto-long-and-short-crypto-exchanges-shouldn-t-double-as-the-vault": 1795027700.494722,
+  "https://cointelegraph-tr.com/magazine/how-to-preserve-wealth-and-access-it-during-a-national-emergency": 1795027700.494722,
+  "https://www.coindesk.com/markets/2026/11/18/bitcoin-miner-mara-raises-usd185-million-in-debt-after-selling-usd1-billion-btc-to-repay-loans": 1795027700.494722,
+  "https://www.coindesk.com/markets/2026/11/18/bullish-beats-revenue-estimates-as-institutional-services-offset-sluggish-spot-crypto-volumes": 1795027700.494722,
+  "https://www.coindesk.com/business/2026/11/18/circle-turns-to-dbs-as-banks-build-rival-digital-payment-systems-across-asia": 1795027700.494722,
+  "https://www.coindesk.com/daybook-us/2026/11/18/blaming-anthropic-s-ipo-for-bitcoin-s-slide-is-easy-to-believe-but-flawed-analysts-say": 1795027700.494722,
+  "https://www.coindesk.com/markets/2026/11/18/bitcoin-drops-as-nvidia-earnings-report-drives-stock-index-futures-higher": 1795027700.494722,
+  "https://www.theblock.co/news/ecosystems/2026-11-18-td-cowen-maintains-buy-rating-sharplink-442987": 1795027700.494722,
+  "https://www.coindesk.com/markets/2026/11/18/bitcoin-outpaces-gold-even-as-both-assets-tumble-ahead-of-a-likely-fed-rate-hike": 1795027700.494722,
+  "https://cointelegraph-tr.com/news/bitwise-zcash-etf-texas-stock-exchange-listing": 1795027700.494722,
+  "https://cointelegraph-tr.com/markets/bitcoin-60k-liquidity-stocks-gain-nvidia-1158b-earnings-beat": 1795027700.494722
  },
  "tries": {
   "https://www.theblock.co/news/defi/2026-10-29-uniswap-token-jar-tjar-robinhood-432131": 1
