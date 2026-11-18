@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-18T01:50:53Z",
+ "updated": "2026-11-18T10:01:59Z",
  "sources": [
   "coindesk.com",
   "cointelegraph-tr.com",
@@ -16,6 +16,13 @@
    }
   ],
   "BTC": [
+   {
+    "title": "CryptoQuant’ın düşüş eğilimli piyasa evresine işaret etmesiyle Bitcoin ETF’lerinde 240 milyon dolarlık çıkış",
+    "summary": "CryptoQuant, Bitcoin’in düşüş eğilimli bir piyasa evresine geri döndüğü uyarısında bulunurken, Bitcoin ETF’lerindeki çıkışlar bir günlük aranın ardından yeniden başladı.",
+    "url": "https://cointelegraph-tr.com/markets/bitcoin-etf-240-million-outflow-bearish-phase",
+    "published": "2026-11-18T08:09:23Z",
+    "importance": 4
+   },
    {
     "title": "BlackRock’un Bitcoin ETF’si aşırı korku ortamında 2,35 milyar dolarlık çıkış serisini sonlandırdı",
     "summary": "BlackRock’un Bitcoin ETF’si toplam 2,35 milyar dolarlık 11 seanslık para çekme serisini sona erdirdi. CryptoQuant, tek günlük girişin toparlanmaya işaret etmek için henüz yeterli olmadığını belirtiyor.",
@@ -45,21 +52,35 @@
     "importance": 4
    },
    {
-    "title": "Nvidia kazançları kripto satışlarını derinleştirme tehdidi yaratırken Bitcoin 60.000 doların altına düşme riskiyle karşı karşıya",
-    "summary": "Nvidia kazançları kripto satışlarını derinleştirme tehdidi yaratırken Bitcoin 60.000 doların altına düşme riskiyle karşı karşıya.",
-    "url": "https://www.coindesk.com/markets/2026/11/16/bitcoin-risks-falling-below-usd60-000-as-nvidia-earnings-threaten-to-deepen-crypto-sell-off",
-    "published": "2026-11-16T20:35:21Z",
-    "importance": 4
+    "title": "SOL, Solana betadan çıkarken Breakpoint konferansından %7 daha yüksek çıktı",
+    "summary": "Solana’nın token’ı salı günü 75,12 dolara ulaşarak Bitcoin ve Ether’i geride bıraktı. Ağ, 2020’deki lansmanından bu yana kullandığı beta etiketini kaldırdı.",
+    "url": "https://cointelegraph-tr.com/markets/solana-sol-gains-7-percent-breakpoint-beta-tokenization",
+    "published": "2026-11-18T08:41:16Z",
+    "importance": 3
    },
    {
-    "title": "Bitcoin fiyatı, yapay zeka endişeleriyle gerileyen ABD hisseleri karşısında 65.000 doları koruyamadı",
-    "summary": "Yatırımcılar, yaklaşan Nvidia 3. çeyrek kazançlarının ve Anthropic’in halka arz duyurusunun etkisini değerlendirirken Bitcoin ve ABD hisse senetleri haftaya baskı altında başladı.",
-    "url": "https://cointelegraph-tr.com/markets/bitcoin-price-fails-to-hold-65k-us-stocks-drop-on-ai-nerves",
-    "published": "2026-11-16T16:26:52Z",
-    "importance": 4
+    "title": "Bitcoin'in kritik desteğin altındaki yüzde 12'lik düşüşü korkutucu görünüyor, ancak tarih 3 ay süre verilmesini söylüyor.",
+    "summary": "Bitcoin'in kritik desteğin altındaki yüzde 12'lik düşüşü korkutucu görünüyor, ancak tarih 3 ay süre verilmesini söylüyor.",
+    "url": "https://www.coindesk.com/markets/2026/11/18/bitcoin-s-rare-12-crash-through-its-200-week-average-has-a-bullish-track-record",
+    "published": "2026-11-18T04:34:21Z",
+    "importance": 3
+   },
+   {
+    "title": "Canlı güncellemeler: Popüler 'basis trade' getirilerinin kurumasıyla Bitcoin 65.000 dolar civarında sıkıştı",
+    "summary": "Canlı güncellemeler: Popüler 'basis trade' getirilerinin kurumasıyla Bitcoin 65.000 dolar civarında sıkıştı",
+    "url": "https://www.coindesk.com/business/2026/11/18/live-updates-bitcoin-stuck-near-usd65-000-as-popular-basis-trade-returns-dry-up",
+    "published": "2026-11-18T07:27:48Z",
+    "importance": 2
    }
   ],
   "ETH": [
+   {
+    "title": "ABD'li yargıç Ethereum'un 'kullanım koşulları olmadığını' söyledi, MIT'li kardeşleri 25 milyon dolarlık dolandırıcılıktan akladı",
+    "summary": "ABD'li yargıç Ethereum'un 'kullanım koşulları olmadığını' söyledi, MIT'li kardeşleri 25 milyon dolarlık dolandırıcılıktan akladı",
+    "url": "https://www.coindesk.com/policy/2026/11/18/u-s-judge-says-ethereum-has-no-terms-of-use-clears-mit-brothers-of-usd25-million-fraud",
+    "published": "2026-11-18T05:30:10Z",
+    "importance": 4
+   },
    {
     "title": "Goldman Sachs’ın Ether ETF’lerindeki varlıkları 1,22 milyar dolara çıktı, ETHA hisse sayısı arttı",
     "summary": "Goldman Sachs, 3. çeyrekte Ether ETF hisselerini artırarak bildirdiği varlıklarını 1,22 milyar dolara çıkardı ve Bitcoin ETF pozisyonlarını yeniden düzenledi.",
@@ -68,24 +89,17 @@
     "importance": 4
    },
    {
+    "title": "SOL, Solana betadan çıkarken Breakpoint konferansından %7 daha yüksek çıktı",
+    "summary": "Solana’nın token’ı salı günü 75,12 dolara ulaşarak Bitcoin ve Ether’i geride bıraktı. Ağ, 2020’deki lansmanından bu yana kullandığı beta etiketini kaldırdı.",
+    "url": "https://cointelegraph-tr.com/markets/solana-sol-gains-7-percent-breakpoint-beta-tokenization",
+    "published": "2026-11-18T08:41:16Z",
+    "importance": 3
+   },
+   {
     "title": "Ethereum'un Glamsterdam yükseltmesi 15.000 kadar otomatik uygulamayı bozma riski taşıyor",
     "summary": "Ethereum'un Glamsterdam yükseltmesi 15.000 kadar otomatik uygulamayı bozma riski taşıyor",
     "url": "https://www.coindesk.com/tech/2026/11/17/ethereum-s-glamsterdam-upgrade-risks-breaking-up-to-15-000-contracts",
     "published": "2026-11-17T13:02:56Z",
-    "importance": 3
-   },
-   {
-    "title": "ABD yargıcı, başarısız yargılamanın ardından 25 milyon dolarlık Ethereum MEV davasında kardeşleri beraat ettirdi",
-    "summary": "Yargıç Jessica Clarke, işlemlerin yanlış vaatler içermediğini söyledi; ancak karar, kardeşlerin davranışlarının etik olup olmadığını veya başka yasaları ihlal edip etmediğini belirlemedi.",
-    "url": "https://cointelegraph-tr.com/news/us-judge-acquits-brothers-25m-ethereum-mev-exploit",
-    "published": "2026-11-17T09:30:05Z",
-    "importance": 3
-   },
-   {
-    "title": "Bitmine 7.653 ETH alırken Tom Lee Ethereum'daki sert düşüşü değerlendirdi",
-    "summary": "Bitmine rezervlerine 7.653 ETH ekledi. Tom Lee ise kurumsal gelişmelerdeki iyileşmeye rağmen ether fiyatındaki sert düşüşün temellerle uyuşmadığını belirtti.",
-    "url": "https://www.theblock.co/news/business/2026-11-16-tom-lee-ethereum-waterfall-decline-price-defies-fundamentals-bitmine-adds-7653-eth-440904",
-    "published": "2026-11-16T15:00:18Z",
     "importance": 3
    }
   ],
@@ -100,45 +114,17 @@
   ],
   "SOL": [
    {
+    "title": "SOL, Solana betadan çıkarken Breakpoint konferansından %7 daha yüksek çıktı",
+    "summary": "Solana’nın token’ı salı günü 75,12 dolara ulaşarak Bitcoin ve Ether’i geride bıraktı. Ağ, 2020’deki lansmanından bu yana kullandığı beta etiketini kaldırdı.",
+    "url": "https://cointelegraph-tr.com/markets/solana-sol-gains-7-percent-breakpoint-beta-tokenization",
+    "published": "2026-11-18T08:41:16Z",
+    "importance": 3
+   },
+   {
     "title": "Solana Foundation, kripto veri sağlayıcısı CoinGecko'da çoğunluk hissedarı oldu",
     "summary": "Solana Foundation, kripto veri sağlayıcısı CoinGecko'da çoğunluk hissedarı oldu",
     "url": "https://www.coindesk.com/business/2026/11/17/solana-foundation-takes-majority-stake-in-crypto-data-provider-coingecko",
     "published": "2026-11-17T11:29:51Z",
-    "importance": 3
-   },
-   {
-    "title": "Bitwise, zincir üstü ticaret büyümesiyle boğa senaryosunda Solana'nın 2031'e kadar 1.100 dolara ulaşacağını öngörüyor",
-    "summary": "Bitwise, zincir üstü ticaretin büyümesiyle birlikte boğa senaryosunda SOL token'ının 2031 yılına kadar 1.100 dolara ulaşacağını öngörüyor.",
-    "url": "https://www.theblock.co/news/markets/2026-11-16-bitwise-solana-price-prediction-1100-2031-441407",
-    "published": "2026-11-16T20:27:32Z",
-    "importance": 3
-   },
-   {
-    "title": "Mert Mumtaz, kurumsal benimseme için Solana'da gizliliğin 'tartışılamaz' olduğunu söylüyor",
-    "summary": "Mert Mumtaz, gizliliğin, tıpkı HTTPS'nin modern internet için yaptığı gibi blok zincirlerinde standart hale geleceğini düşünüyor.",
-    "url": "https://www.theblock.co/news/ecosystems/2026-11-16-privacy-solana-non-negotiable-institutional-adoption-mert-mumtaz-says-441363",
-    "published": "2026-11-16T17:22:19Z",
-    "importance": 3
-   },
-   {
-    "title": "Boris Johnson, bitcoin'i 'Ponzi şeması'na benzettikten aylar sonra tokenizasyona destek verdi",
-    "summary": "Boris Johnson, Solana Breakpoint'te blok zinciri ve tokenizasyonu destekledi ancak kripto spekülasyonuna yönelik endişelerini yineledi.",
-    "url": "https://www.theblock.co/news/regulation/2026-11-16-boris-johnson-backs-tokenization-months-after-bitcoin-to-ponzi-scheme-441368",
-    "published": "2026-11-16T16:49:23Z",
-    "importance": 3
-   },
-   {
-    "title": "DeFi Development Corp., CHAD temettü serisi 31 güne ulaşırken 9.482 SOL ekledi",
-    "summary": "DeFi Development, geçen hafta 9.482 SOL ekleyerek ard arda 10. büyüme haftasında Solana hazinesini yaklaşık 2,62 milyon token'a yükseltti.",
-    "url": "https://www.theblock.co/news/markets/2026-11-16-defi-development-solana-treasury-2-62-million-sol-441361",
-    "published": "2026-11-16T16:16:17Z",
-    "importance": 3
-   },
-   {
-    "title": "Zelle, ZelleUSD stablecoin’i ve uluslararası ödemeler için Solana’yı seçti",
-    "summary": "Zelle, ZelleUSD stablecoin’i ve uluslararası ödemeler için Solana’yı kullanmayı planlıyor. Bu plan dahilinde ödeme tutarlarını gizlemek amacıyla tasarlanan gizli transferler de yer alıyor.",
-    "url": "https://cointelegraph-tr.com/news/zelle-solana-zelleusd-stablecoin-international-payments",
-    "published": "2026-11-16T14:55:46Z",
     "importance": 3
    }
   ],
@@ -153,11 +139,11 @@
   ],
   "USDC": [
    {
-    "title": "Solflare CEO'su yapay zeka güvenlik incelemelerinin hayati önem taşıdığını söylüyor, 'sığınak modu' ve MoneyGram anlaşmasını övüyor",
-    "summary": "Vidor Gencel, yapay zekanın insanların gözünden kaçan zincirleme istismarları yakaladığını belirtiyor ve cüzdanın 'sığınak modu', gizlilik modu ile MoneyGram USDC nakit çıkışı anlaşmasının detaylarını paylaşıyor.",
-    "url": "https://www.theblock.co/news/defi/2026-11-16-solflare-ceo-ai-security-reviews-bunker-mode-moneygram-441396",
-    "published": "2026-11-16T18:59:21Z",
-    "importance": 2
+    "title": "DBS, Asya'daki uygun kurumların günün her saati USDC basmasına ve itfa etmesine izin veriyor",
+    "summary": "DBS ve Circle, doğrudan basım, itfa ve 7/24 dolar takası ile kurumsal yatırımcıların USDC'ye erişimini genişletiyor.",
+    "url": "https://www.theblock.co/news/business/2026-11-18-dbs-circle-usdc-asia-442970",
+    "published": "2026-11-18T09:28:50Z",
+    "importance": 3
    }
   ],
   "USDT": [
@@ -180,6 +166,13 @@
   ],
   "XRP": [
    {
+    "title": "XRP balinaları satış dalgası sırasında 270 milyon dolar taşıdı. Coin'ler borsalara gitmedi",
+    "summary": "XRP balinaları satış dalgası sırasında 270 milyon dolar taşıdı. Coin'ler borsalara gitmedi",
+    "url": "https://www.coindesk.com/markets/2026/11/18/xrp-whales-moved-usd270-million-during-the-selloff-the-coins-didn-t-go-to-exchanges",
+    "published": "2026-11-18T04:28:37Z",
+    "importance": 3
+   },
+   {
     "title": "Ripple destekli Evernorth, listeleme öncesi XRP varlıklarının değerini yüzde 60 düşürdü",
     "summary": "Ripple destekli Evernorth, listeleme öncesi XRP varlıklarının değerini yüzde 60 düşürdü",
     "url": "https://www.coindesk.com/markets/2026/11/17/ripple-backed-evernorth-has-written-down-its-pre-listing-xrp-holdings-by-60",
@@ -189,7 +182,6 @@
   ]
  },
  "seen": {
-  "https://www.coindesk.com/tech/2026/11/13/bitcoin-miners-pay-paraguay-usd350-million-a-year-but-ai-is-pushing-them-out": 1794623990.6245358,
   "https://cointelegraph-tr.com/news/megaeth-parent-cuts-20-percent-staff-ai-push": 1794651096.6945412,
   "https://cointelegraph-tr.com/markets/bitcoin-etf-outflows-2-35-billion-blackrock-11-session-streak": 1794651096.6945412,
   "https://www.theblock.co/newsletters/the-daily/2026-11-14-meta-prediction-market-app-doj-binance-hack-more-crypto-news-440304": 1794651096.6945412,
@@ -328,7 +320,24 @@
   "https://www.theblock.co/news/business/2026-11-17-fomo-pays-creators-30-million-sharing-lions-share-revenue-park-says-442332": 1794966653.9350455,
   "https://cointelegraph-tr.com/news/feds-waller-cites-binance-hack-in-warning-over-tokenized-finance": 1794966653.9350455,
   "https://www.theblock.co/newsletters/data-and-insights/2026-11-17-everyone-is-trading-tokenized-nvidia-derivatives-442818": 1794966653.9350455,
-  "https://www.coindesk.com/policy/2026/11/17/u-s-fed-governor-waller-pitches-keeping-central-bank-at-the-center-of-tokenization": 1794966653.9350455
+  "https://www.coindesk.com/policy/2026/11/17/u-s-fed-governor-waller-pitches-keeping-central-bank-at-the-center-of-tokenization": 1794966653.9350455,
+  "https://www.coindesk.com/markets/2026/11/18/strategy-stock-could-crash-76-to-usd23-chart-analyst-warns": 1794996119.3193457,
+  "https://www.theblock.co/news/business/2026-11-18-dbs-circle-usdc-asia-442970": 1794996119.3193457,
+  "https://cointelegraph-tr.com/news/world-bank-circle-citi-explore-stablecoins-payments": 1794996119.3193457,
+  "https://www.coindesk.com/business/2026/11/18/hyundai-tests-ai-agent-commerce-on-jpmorgan-s-kinexys-blockchain": 1794996119.3193457,
+  "https://www.theblock.co/news/regulation/2026-11-18-hong-kong-agentic-ai-crypto-crime-442959": 1794996119.3193457,
+  "https://cointelegraph-tr.com/markets/solana-sol-gains-7-percent-breakpoint-beta-tokenization": 1794996119.3193457,
+  "https://cointelegraph-tr.com/markets/bitcoin-etf-240-million-outflow-bearish-phase": 1794996119.3193457,
+  "https://www.coindesk.com/tech/2026/11/18/google-finds-self-running-ai-hacking-tool-with-russian-comments-in-its-files": 1794996119.3193457,
+  "https://www.coindesk.com/business/2026/11/18/live-updates-bitcoin-stuck-near-usd65-000-as-popular-basis-trade-returns-dry-up": 1794996119.3193457,
+  "https://www.coindesk.com/policy/2026/11/18/u-s-judge-says-ethereum-has-no-terms-of-use-clears-mit-brothers-of-usd25-million-fraud": 1794996119.3193457,
+  "https://www.theblock.co/newsletters/the-daily/2026-11-18-ark-invest-crypto-stocks-nvidia-coinbase-loans-new-york-crypto-news-442902": 1794996119.3193457,
+  "https://www.coindesk.com/markets/2026/11/18/bitcoin-s-rare-12-crash-through-its-200-week-average-has-a-bullish-track-record": 1794996119.3193457,
+  "https://www.coindesk.com/markets/2026/11/18/xrp-whales-moved-usd270-million-during-the-selloff-the-coins-didn-t-go-to-exchanges": 1794996119.3193457,
+  "https://www.theblock.co/news/business/2026-11-17-world-bank-group-citi-circle-fund-disbursements-442924": 1794996119.3193457,
+  "https://www.theblock.co/news/defi/2026-11-17-coinbase-ai-defense-deepfake-elon-musk-442918": 1794996119.3193457,
+  "https://www.theblock.co/newsletters/the-funding/2026-11-17-crypto-startup-valuations-442903": 1794996119.3193457,
+  "https://cointelegraph-tr.com/news/ledger-hardware-implant-saga-reaches-dubais-virgin-megastore": 1794996119.3193457
  },
  "tries": {
   "https://www.theblock.co/news/defi/2026-10-29-uniswap-token-jar-tjar-robinhood-432131": 1
