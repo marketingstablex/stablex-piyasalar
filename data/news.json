@@ -1,26 +1,24 @@
 {
- "updated": "2026-11-18T18:48:20Z",
+ "updated": "2026-11-19T01:06:06Z",
  "sources": [
   "coindesk.com",
   "cointelegraph-tr.com",
   "theblock.co"
  ],
  "bySymbol": {
-  "ADA": [
-   {
-    "title": "Cardano Vakfı, ADA fiyatını piyasa değerinin yüzde 33 üzerinde kullanarak hazineden 5 milyon dolar talep ediyor",
-    "summary": "Cardano Vakfı, ADA fiyatını piyasa değerinin yüzde 33 üzerinde kullanarak hazineden 5 milyon dolar talep ediyor",
-    "url": "https://www.coindesk.com/tech/2026/11/17/cardano-foundation-seeks-usd5-million-from-treasury-using-ada-price-33-above-market",
-    "published": "2026-11-17T06:54:49Z",
-    "importance": 3
-   }
-  ],
   "BTC": [
    {
     "title": "Bitcoin, Fed’den Waller’ın “şok” niteliğinde 50 baz puanlık faiz artışından söz etmesiyle hisseler sarsıldı",
     "summary": "Fed’in yeni şahin yorumlarının ardından Bitcoin 63.000 doların altına geriledi. Nvidia’nın kazançlarına yönelik iyimserlik de azaldı.",
     "url": "https://cointelegraph-tr.com/markets/bitcoin-stocks-wobble-waller-talks-shock-50-point-rate-hike",
     "published": "2026-11-18T16:34:20Z",
+    "importance": 4
+   },
+   {
+    "title": "Alman yargıç, operatörün 2,56 milyar dolar değerinde bitcoin teslim etmesi halinde Movie2k davasının düşürülmesini önerdi",
+    "summary": "Alman yargıç, operatörün 2,56 milyar dolar değerinde bitcoin teslim etmesi halinde Movie2k davasının düşürülmesini önerdi.",
+    "url": "https://www.coindesk.com/business/2026/11/18/german-judge-proposes-dropping-movie2k-case-if-operator-hands-over-usd2-56-billion-in-bitcoin",
+    "published": "2026-11-18T15:38:38Z",
     "importance": 4
    },
    {
@@ -31,32 +29,11 @@
     "importance": 4
    },
    {
-    "title": "BlackRock’un Bitcoin ETF’si aşırı korku ortamında 2,35 milyar dolarlık çıkış serisini sonlandırdı",
-    "summary": "BlackRock’un Bitcoin ETF’si toplam 2,35 milyar dolarlık 11 seanslık para çekme serisini sona erdirdi. CryptoQuant, tek günlük girişin toparlanmaya işaret etmek için henüz yeterli olmadığını belirtiyor.",
-    "url": "https://cointelegraph-tr.com/markets/blackrock-ibit-outflow-streak-end-extreme-fear",
-    "published": "2026-11-17T11:18:18Z",
-    "importance": 4
-   },
-   {
-    "title": "Bitcoin gerçekleşen zarar metriği haziran zirvesini aştı, açık pozisyonlar 2 yılın en düşük seviyesini hedefliyor",
-    "summary": "BTC/USD 62.000 dolara gerilerken Bitcoin kısa vadeli sahiplerinin zincir üstü harcamaları, şubattan bu yana gerçekleşen zararların en yüksek oranına ulaştı.",
-    "url": "https://cointelegraph-tr.com/markets/bitcoin-realized-loss-metric-beats-june-high-open-interest-eyes-2-year-low",
-    "published": "2026-11-17T11:14:05Z",
-    "importance": 4
-   },
-   {
-    "title": "Goldman Sachs’ın Ether ETF’lerindeki varlıkları 1,22 milyar dolara çıktı, ETHA hisse sayısı arttı",
-    "summary": "Goldman Sachs, 3. çeyrekte Ether ETF hisselerini artırarak bildirdiği varlıklarını 1,22 milyar dolara çıkardı ve Bitcoin ETF pozisyonlarını yeniden düzenledi.",
-    "url": "https://cointelegraph-tr.com/news/goldman-sachs-reports-122b-ether-etfs-etha-shares-jumps",
-    "published": "2026-11-17T09:08:32Z",
-    "importance": 4
-   },
-   {
-    "title": "Fed faiz artırımı beklentileriyle Bitcoin 50.000 dolar seviyelerine gerileyebilir, Wintermute diyor",
-    "summary": "Fed faiz artırımı beklentileriyle Bitcoin 50.000 dolar seviyelerine gerileyebilir, Wintermute diyor",
-    "url": "https://www.coindesk.com/markets/2026/11/17/bitcoin-could-slide-into-the-usd50-000s-as-fed-rate-hike-bets-build-wintermute-says",
-    "published": "2026-11-17T07:38:07Z",
-    "importance": 4
+    "title": "'Piyasadan hediye': Analist, altı haftalık kayıpların ardından bitcoin'in yerel bir dip sinyali gösterdiğini söyledi",
+    "summary": "K33, altı haftalık düşüşün ardından bitcoin'in yerel bir dip bulmuş olabileceğini ve opsiyon yatırımcılarının hâlâ aşağı yönlü koruma aradığını belirtti.",
+    "url": "https://www.theblock.co/news/markets/2026-11-18-gift-from-the-market-bitcoin-shows-signs-of-a-local-bottom-after-six-weeks-of-losses-analyst-says-443017",
+    "published": "2026-11-18T14:01:54Z",
+    "importance": 3
    },
    {
     "title": "Bitcoin madencisi MARA, kredileri geri ödemek için 1 milyar dolarlık BTC sattıktan sonra borç yoluyla 185 milyon dolar topladı",
@@ -82,11 +59,11 @@
     "importance": 4
    },
    {
-    "title": "Goldman Sachs’ın Ether ETF’lerindeki varlıkları 1,22 milyar dolara çıktı, ETHA hisse sayısı arttı",
-    "summary": "Goldman Sachs, 3. çeyrekte Ether ETF hisselerini artırarak bildirdiği varlıklarını 1,22 milyar dolara çıkardı ve Bitcoin ETF pozisyonlarını yeniden düzenledi.",
-    "url": "https://cointelegraph-tr.com/news/goldman-sachs-reports-122b-ether-etfs-etha-shares-jumps",
-    "published": "2026-11-17T09:08:32Z",
-    "importance": 4
+    "title": "CoinShares hazine ETH’sinin tamamını sattı, geri alımlar için SOL varlıklarını yarıya indirdi",
+    "summary": "Ekim ayındaki satışlar 19,3 milyon dolar getirdi. Bu tutar, CoinShares’in bir sonraki yıllık toplantısından önce geri alımlara harcayabileceği 40 milyon doların neredeyse yarısına denk geliyor.",
+    "url": "https://cointelegraph-tr.com/news/coinshares-sells-eth-treasury-holdings-halves-sol-share-buybacks",
+    "published": "2026-11-18T13:42:37Z",
+    "importance": 3
    },
    {
     "title": "TD Cowen, Ether görünümünü yumuşatırken Sharplink için Al notunu koruyor",
@@ -101,13 +78,6 @@
     "url": "https://cointelegraph-tr.com/markets/solana-sol-gains-7-percent-breakpoint-beta-tokenization",
     "published": "2026-11-18T08:41:16Z",
     "importance": 3
-   },
-   {
-    "title": "Ethereum'un Glamsterdam yükseltmesi 15.000 kadar otomatik uygulamayı bozma riski taşıyor",
-    "summary": "Ethereum'un Glamsterdam yükseltmesi 15.000 kadar otomatik uygulamayı bozma riski taşıyor",
-    "url": "https://www.coindesk.com/tech/2026/11/17/ethereum-s-glamsterdam-upgrade-risks-breaking-up-to-15-000-contracts",
-    "published": "2026-11-17T13:02:56Z",
-    "importance": 3
    }
   ],
   "JTO": [
@@ -119,19 +89,28 @@
     "importance": 3
    }
   ],
+  "ONDO": [
+   {
+    "title": "Ondo, halka arz gününde tokenize Anthropic hissedisini piyasaya sürecek",
+    "summary": "Ondo’nun ANTon tokeni, Claude geliştiricisi Nasdaq'ta işlem görmeye başladığı günden itibaren Anthropic hisselerini takip edecek.",
+    "url": "https://www.theblock.co/news/markets/2026-11-18-ondo-to-launch-tokenized-anthropic-stock-on-ipo-day-443482",
+    "published": "2026-11-18T18:51:30Z",
+    "importance": 3
+   }
+  ],
   "SOL": [
+   {
+    "title": "CoinShares hazine ETH’sinin tamamını sattı, geri alımlar için SOL varlıklarını yarıya indirdi",
+    "summary": "Ekim ayındaki satışlar 19,3 milyon dolar getirdi. Bu tutar, CoinShares’in bir sonraki yıllık toplantısından önce geri alımlara harcayabileceği 40 milyon doların neredeyse yarısına denk geliyor.",
+    "url": "https://cointelegraph-tr.com/news/coinshares-sells-eth-treasury-holdings-halves-sol-share-buybacks",
+    "published": "2026-11-18T13:42:37Z",
+    "importance": 3
+   },
    {
     "title": "SOL, Solana betadan çıkarken Breakpoint konferansından %7 daha yüksek çıktı",
     "summary": "Solana’nın token’ı salı günü 75,12 dolara ulaşarak Bitcoin ve Ether’i geride bıraktı. Ağ, 2020’deki lansmanından bu yana kullandığı beta etiketini kaldırdı.",
     "url": "https://cointelegraph-tr.com/markets/solana-sol-gains-7-percent-breakpoint-beta-tokenization",
     "published": "2026-11-18T08:41:16Z",
-    "importance": 3
-   },
-   {
-    "title": "Solana Foundation, kripto veri sağlayıcısı CoinGecko'da çoğunluk hissedarı oldu",
-    "summary": "Solana Foundation, kripto veri sağlayıcısı CoinGecko'da çoğunluk hissedarı oldu",
-    "url": "https://www.coindesk.com/business/2026/11/17/solana-foundation-takes-majority-stake-in-crypto-data-provider-coingecko",
-    "published": "2026-11-17T11:29:51Z",
     "importance": 3
    }
   ],
@@ -155,19 +134,10 @@
   ],
   "USDT": [
    {
-    "title": "Tether Capital, Nomad'e 15 milyon dolar yatırım yaptı, Brezilya'da USDT ve XAUT erişimini hedefliyor",
-    "summary": "Tether, bu anlaşmanın Brezilya'da uluslararası ödemeleri kolaylaştırabileceğini ve USDT ile Tether Gold entegrasyonlarına kapı aralayabileceğini belirtti.",
-    "url": "https://www.theblock.co/news/business/2026-11-17-tether-nomad-brazil-investment-442097",
-    "published": "2026-11-17T10:20:37Z",
-    "importance": 3
-   }
-  ],
-  "XAUT": [
-   {
-    "title": "Tether Capital, Nomad'e 15 milyon dolar yatırım yaptı, Brezilya'da USDT ve XAUT erişimini hedefliyor",
-    "summary": "Tether, bu anlaşmanın Brezilya'da uluslararası ödemeleri kolaylaştırabileceğini ve USDT ile Tether Gold entegrasyonlarına kapı aralayabileceğini belirtti.",
-    "url": "https://www.theblock.co/news/business/2026-11-17-tether-nomad-brazil-investment-442097",
-    "published": "2026-11-17T10:20:37Z",
+    "title": "Tether, USDT rezerv riskleri konusunda S&P’ye yönelik açıklamasında The Big Short’a atıfta bulundu",
+    "summary": "S&P Global, son Stablecoin Stability Assessment değerlendirmesinde aşağı yönlü bir ayarlama yapmadı; zira 5, mevcut en düşük puan.",
+    "url": "https://cointelegraph-tr.com/news/tether-usdt-sp-stability-assessment-reserve-risks",
+    "published": "2026-11-18T21:57:35Z",
     "importance": 3
    }
   ],
@@ -182,8 +152,6 @@
   ]
  },
  "seen": {
-  "https://www.theblock.co/news/regulation/2026-11-14-louisiana-ag-calls-cftc-chair-an-obsequious-standard-bearer-for-prediction-markets-following-agency-lawsuit-440342": 1794691420.3801625,
-  "https://www.theblock.co/news/markets/2026-11-14-bitcoin-etfs-lose-1-billion-for-the-second-week-in-a-row-as-crypto-funds-except-one-continue-bleeding-440337": 1794691420.3801625,
   "https://www.theblock.co/news/defi/2026-11-14-kava-lend-loses-roughly-3-8-million-to-hack-sending-kava-token-down-nearly-40-440350": 1794705401.0124688,
   "https://cointelegraph-tr.com/news/coinone-data-breach-phishing-identity-theft-customer-information": 1794731045.9132323,
   "https://www.coindesk.com/markets/2026/11/15/xrp-crashes-to-its-lowest-since-november-2024-as-money-leaves-crypto": 1794731045.9132323,
@@ -344,7 +312,24 @@
   "https://www.theblock.co/news/ecosystems/2026-11-18-td-cowen-maintains-buy-rating-sharplink-442987": 1795027700.494722,
   "https://www.coindesk.com/markets/2026/11/18/bitcoin-outpaces-gold-even-as-both-assets-tumble-ahead-of-a-likely-fed-rate-hike": 1795027700.494722,
   "https://cointelegraph-tr.com/news/bitwise-zcash-etf-texas-stock-exchange-listing": 1795027700.494722,
-  "https://cointelegraph-tr.com/markets/bitcoin-60k-liquidity-stocks-gain-nvidia-1158b-earnings-beat": 1795027700.494722
+  "https://cointelegraph-tr.com/markets/bitcoin-60k-liquidity-stocks-gain-nvidia-1158b-earnings-beat": 1795027700.494722,
+  "https://www.coindesk.com/policy/2026/11/18/another-u-s-appellate-court-goes-against-kalshi-building-the-industry-s-legal-headwinds": 1795050366.1862607,
+  "https://www.coindesk.com/business/2026/11/18/payward-the-owner-of-crypto-exchange-kraken-is-buying-its-ceo-s-venture-capital-business-tribe": 1795050366.1862607,
+  "https://www.theblock.co/news/regulation/2026-11-18-senators-treasury-must-ensure-equal-footing-for-stablecoin-issuers-in-genius-act-implementation-443501": 1795050366.1862607,
+  "https://cointelegraph-tr.com/news/tether-usdt-sp-stability-assessment-reserve-risks": 1795050366.1862607,
+  "https://cointelegraph-tr.com/news/ledger-warns-berlin-customers-hardware-wallet-investigation": 1795050366.1862607,
+  "https://cointelegraph-tr.com/news/variational-series-b-bain-capital-crypto": 1795050366.1862607,
+  "https://cointelegraph-tr.com/news/binance-says-won-65b-worldwide-freezing-order-after-hack": 1795050366.1862607,
+  "https://www.theblock.co/news/business/2026-11-18-binance-freezing-court-order-adgm-crypto-october-hack-443491": 1795050366.1862607,
+  "https://www.theblock.co/news/markets/2026-11-18-ondo-to-launch-tokenized-anthropic-stock-on-ipo-day-443482": 1795050366.1862607,
+  "https://www.theblock.co/news/deals/2026-11-18-variational-raises-110-million-at-1-5-billion-valuation-to-expand-onchain-derivatives-trading-443445": 1795050366.1862607,
+  "https://www.coindesk.com/business/2026/11/18/german-judge-proposes-dropping-movie2k-case-if-operator-hands-over-usd2-56-billion-in-bitcoin": 1795050366.1862607,
+  "https://www.coindesk.com/business/2026/11/18/hong-kong-wants-banks-to-use-ai-to-catch-crypto-crime-before-money-disappears": 1795050366.1862607,
+  "https://www.theblock.co/news/markets/2026-11-18-stonex-cuts-bitdeer-price-target-to-15-amid-new-us-chip-export-controls-443440": 1795050366.1862607,
+  "https://www.theblock.co/news/business/2026-11-18-backpack-completes-regulatory-framework-us-entry-442980": 1795050366.1862607,
+  "https://www.theblock.co/news/markets/2026-11-18-gift-from-the-market-bitcoin-shows-signs-of-a-local-bottom-after-six-weeks-of-losses-analyst-says-443017": 1795050366.1862607,
+  "https://cointelegraph-tr.com/news/coinshares-sells-eth-treasury-holdings-halves-sol-share-buybacks": 1795050366.1862607,
+  "https://cointelegraph-tr.com/news/sanctions-fears-russia-crypto-launch": 1795050366.1862607
  },
  "tries": {
   "https://www.theblock.co/news/defi/2026-10-29-uniswap-token-jar-tjar-robinhood-432131": 1
