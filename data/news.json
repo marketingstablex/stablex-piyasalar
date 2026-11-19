@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-19T08:44:31Z",
+ "updated": "2026-11-19T18:10:57Z",
  "sources": [
   "coindesk.com",
   "cointelegraph-tr.com",
@@ -43,34 +43,34 @@
     "importance": 4
    },
    {
-    "title": "Anthropic’in Nasdaq’taki ilk işlemi öncesinde Nasdaq vadeli işlemleri yükselirken Bitcoin 62.000 doları yeniden test etti",
-    "summary": "Bitcoin bu hafta ikinci kez 62.000 dolara gerilemesinin ardından 63.500 doların üzerine çıktı. Aynı dönemde Anthropic, rekor düzeydeki halka arzını hisse başına 83 dolardan fiyatladı.",
-    "url": "https://cointelegraph-tr.com/markets/bitcoin-retests-62k-nasdaq-futures-anthropic-debut",
-    "published": "2026-11-19T07:55:56Z",
+    "title": "Tokenleştirilmiş Hisseler Kripto Satış Dalgasından Etkilenmedi",
+    "summary": "Bitcoin cumartesi günü geç saatlerde 62.000 dolara kadar gerileyerek üst üste altıncı haftalık düşüşünü yaşadı. Buna karşın, tokenleştirilmiş hisseler 11 Kasım'da zincir üstü değerde ilk kez 4 milyar doları aştı. Tokenleştirilmiş hisseler şu anda 1 Ocak'taki değerlerinin yaklaşık beş katına ulaştı.",
+    "url": "https://www.theblock.co/newsletters/tokenization-briefing/2026-11-19-tokenized-stocks-shrug-off-crypto-selloff-442829",
+    "published": "2026-11-19T17:12:00Z",
     "importance": 3
    },
    {
-    "title": "Bitcoin carry trade’leri 2027’de Hazine bonolarını geride bırakabilir, Sygnum öngörüyor",
-    "summary": "Sygnum, fonlama oranlarındaki sert düşüşün stratejiyi 2026’da daha az cazip hale getirmesinin ardından, Bitcoin carry trade’lerinin 2027’de Hazine bonolarından daha yüksek getiri sunabileceğini öngörüyor.",
-    "url": "https://cointelegraph-tr.com/markets/sygnum-bitcoin-carry-trades-2027",
-    "published": "2026-11-19T06:00:00Z",
+    "title": "Bitcoin finans protokolü Hashi, Sui ana ağında yayına girdi",
+    "summary": "Hashi, Sui ana ağında bitcoin yatırımlarını işlemeye başladı. Fluid kredileri ve Upshift üzerindeki HoneyB kasaları için hBTC kullanılıyor.",
+    "url": "https://www.theblock.co/news/defi/2026-11-19-bitcoin-finance-protocol-hashi-goes-live-on-sui-mainnet-443608",
+    "published": "2026-11-19T14:00:00Z",
     "importance": 3
    },
    {
-    "title": "Son BTC'sini satan Bitcoin madencisi, 1,2 milyar dolarlık yapay zeka anlaşması için nakit sıkıntısı yaşayabileceği konusunda uyardı",
-    "summary": "Son BTC'sini satan Bitcoin madencisi, 1,2 milyar dolarlık yapay zeka anlaşması için nakit sıkıntısı yaşayabileceği konusunda uyardı",
-    "url": "https://www.coindesk.com/markets/2026/11/19/bitcoin-miner-that-sold-its-last-btc-warns-it-may-run-short-of-cash-for-usd1-2-billion-ai-deal",
-    "published": "2026-11-19T04:46:10Z",
+    "title": "Trump Media, bitcoin'ini satmadan 884 milyon dolarlık borcunu kapatmak istiyor",
+    "summary": "Trump Media, bitcoin'ini satmadan 884 milyon dolarlık borcunu kapatmak istiyor.",
+    "url": "https://www.coindesk.com/markets/2026/11/19/trump-media-wants-to-clear-usd884-million-of-debt-without-selling-its-bitcoin",
+    "published": "2026-11-19T12:40:12Z",
     "importance": 3
    }
   ],
   "ETH": [
    {
-    "title": "ABD'li yargıç Ethereum'un 'kullanım koşulları olmadığını' söyledi, MIT'li kardeşleri 25 milyon dolarlık dolandırıcılıktan akladı",
-    "summary": "ABD'li yargıç Ethereum'un 'kullanım koşulları olmadığını' söyledi, MIT'li kardeşleri 25 milyon dolarlık dolandırıcılıktan akladı",
-    "url": "https://www.coindesk.com/policy/2026/11/18/u-s-judge-says-ethereum-has-no-terms-of-use-clears-mit-brothers-of-usd25-million-fraud",
-    "published": "2026-11-18T05:30:10Z",
-    "importance": 4
+    "title": "Ethereum’un yeni DeFi güvenlik aracı sansür konusunda soru işaretleri yaratıyor",
+    "summary": "Phylax’ın sistemi, merkeziyetsiz protokollerin zararlı işlemleri engellemesine olanak tanıyor; ancak olası sansür ve Ethereum’un blok üreticisi piyasası hakkında soru işaretleri doğuruyor.",
+    "url": "https://cointelegraph-tr.com/magazine/ethereums-new-defi-security-tool-raises-questions-over-censorship",
+    "published": "2026-11-19T13:30:00Z",
+    "importance": 3
    },
    {
     "title": "Ethereum blok oluşturucuları 3,4 milyon dolarlık kasa hackinde en çok payı aldı, veriler gösteriyor",
@@ -110,7 +110,30 @@
     "importance": 3
    }
   ],
+  "SKY": [
+   {
+    "title": "Kuzey Koreli hackerlar Sky'ın stablecoin sistemini kullandı, milyarlarca dolar dondurulma riskiyle karşı karşıya",
+    "summary": "Kuzey Koreli hackerlar Sky'ın stablecoin sistemini kullandı, milyarlarca dolar dondurulma riskiyle karşı karşıya.",
+    "url": "https://www.coindesk.com/business/2026/11/19/north-korean-hackers-used-sky-s-stablecoin-system-putting-billions-at-freeze-risk",
+    "published": "2026-11-19T11:30:00Z",
+    "importance": 4
+   }
+  ],
   "SOL": [
+   {
+    "title": "IOSCO, kuantum yükseltmelerinin blockchain’leri yavaşlatabileceği ve güvenlik açıkları bırakabileceği uyarısında bulundu",
+    "summary": "IOSCO, kuantum yükseltmelerinin blockchain ağlarını yavaşlatabileceği ve güvenlik açıkları bırakabileceği konusunda uyarıda bulundu. Bir Solana test ağı, kuantuma dayanıklı imzalarla yaklaşık yüzde 90 daha yavaş çalıştı ve eski anahtarları kullanmaya devam eden cüzdanlar savunmasız kalabilir.",
+    "url": "https://cointelegraph-tr.com/news/iosco-quantum-blockchain-upgrades-security-risks",
+    "published": "2026-11-19T10:32:05Z",
+    "importance": 4
+   },
+   {
+    "title": "Roundhill, rakip fonların düşük talep göstermesi üzerine Solana ve XRP gelir ETF'lerini iptal etti",
+    "summary": "Roundhill, rakip fonların düşük talep göstermesi üzerine Solana ve XRP gelir ETF'lerini iptal etti.",
+    "url": "https://www.coindesk.com/markets/2026/11/19/roundhill-scraps-solana-and-xrp-income-etfs-as-rival-funds-attract-just-usd12-million",
+    "published": "2026-11-19T10:22:12Z",
+    "importance": 4
+   },
    {
     "title": "CoinShares hazine ETH’sinin tamamını sattı, geri alımlar için SOL varlıklarını yarıya indirdi",
     "summary": "Ekim ayındaki satışlar 19,3 milyon dolar getirdi. Bu tutar, CoinShares’in bir sonraki yıllık toplantısından önce geri alımlara harcayabileceği 40 milyon doların neredeyse yarısına denk geliyor.",
@@ -146,17 +169,15 @@
   ],
   "XRP": [
    {
-    "title": "XRP balinaları satış dalgası sırasında 270 milyon dolar taşıdı. Coin'ler borsalara gitmedi",
-    "summary": "XRP balinaları satış dalgası sırasında 270 milyon dolar taşıdı. Coin'ler borsalara gitmedi",
-    "url": "https://www.coindesk.com/markets/2026/11/18/xrp-whales-moved-usd270-million-during-the-selloff-the-coins-didn-t-go-to-exchanges",
-    "published": "2026-11-18T04:28:37Z",
-    "importance": 3
+    "title": "Roundhill, rakip fonların düşük talep göstermesi üzerine Solana ve XRP gelir ETF'lerini iptal etti",
+    "summary": "Roundhill, rakip fonların düşük talep göstermesi üzerine Solana ve XRP gelir ETF'lerini iptal etti.",
+    "url": "https://www.coindesk.com/markets/2026/11/19/roundhill-scraps-solana-and-xrp-income-etfs-as-rival-funds-attract-just-usd12-million",
+    "published": "2026-11-19T10:22:12Z",
+    "importance": 4
    }
   ]
  },
  "seen": {
-  "https://www.coindesk.com/news-analysis/2026/11/13/crypto-insiders-aren-t-counting-on-silver-linings-in-congress-lame-duck-session": 1794757865.5894465,
-  "https://cointelegraph-tr.com/markets/bitcoin-four-month-low-62k-crypto-market-selloff": 1794757865.5894465,
   "https://www.theblock.co/news/defi/2026-11-15-traders-claim-6-million-profit-by-spotting-bitgos-public-pull-request-and-frontrunning-memecoin-listing-440363": 1794776342.5004144,
   "https://www.coindesk.com/policy/2026/11/15/did-prediction-markets-call-the-u-s-midterm-election-state-of-crypto": 1794776342.5004144,
   "https://cointelegraph-tr.com/news/jensen-huang-weighs-nvidia-comeback-days-after-shock-exit": 1794790616.551519,
@@ -346,7 +367,32 @@
   "https://www.theblock.co/news/business/2026-11-18-kraken-parent-payward-tribe-capital-443522": 1795077871.9203203,
   "https://www.theblock.co/news/web3/2026-11-18-standard-chartered-straitsx-ocbc-tokenized-deposit-poc-442964": 1795077871.9203203,
   "https://cointelegraph-tr.com/news/trump-administration-unveils-new-center-choke-off-scam-payments": 1795077871.9203203,
-  "https://cointelegraph-tr.com/markets/fed-officials-saw-october-rate-hold-as-close-call-minutes-show": 1795077871.9203203
+  "https://cointelegraph-tr.com/markets/fed-officials-saw-october-rate-hold-as-close-call-minutes-show": 1795077871.9203203,
+  "https://www.theblock.co/news/regulation/2026-11-19-cftc-chair-selig-hyperliquid-onchain-venues-the-us-444106": 1795111857.567071,
+  "https://www.theblock.co/newsletters/tokenization-briefing/2026-11-19-tokenized-stocks-shrug-off-crypto-selloff-442829": 1795111857.567071,
+  "https://www.coindesk.com/markets/2026/11/19/anthropic-opens-for-trade-at-usd11-50-up-34-from-ipo-price": 1795111857.567071,
+  "https://www.coindesk.com/coindesk-indices/2026/11/19/crypto-for-advisors-falling-prices-drove-october-s-10-drop-in-institutional-crypto-exposure": 1795111857.567071,
+  "https://cointelegraph-tr.com/markets/anthropic-shares-expected-to-open-above-83-ipo-price": 1795111857.567071,
+  "https://www.theblock.co/news/regulation/2026-11-19-hill-moreno-blame-delays-missed-clarity-act-window-split-regulators-fill-gap-443615": 1795111857.567071,
+  "https://www.coindesk.com/business/2026/11/19/binance-wins-usd6-5-billion-feezing-order-against-hackers-behind-crypto-s-largest-theft": 1795111857.567071,
+  "https://www.theblock.co/news/defi/2026-11-19-bitcoin-finance-protocol-hashi-goes-live-on-sui-mainnet-443608": 1795111857.567071,
+  "https://cointelegraph-tr.com/magazine/ethereums-new-defi-security-tool-raises-questions-over-censorship": 1795111857.567071,
+  "https://www.coindesk.com/markets/2026/11/19/crypto-traders-vs-wall-street-okx-s-anthropic-markets-put-ipo-pricing-to-the-test": 1795111857.567071,
+  "https://cointelegraph-tr.com/news/hyperliquid-hong-kong-regulators-alert-list": 1795111857.567071,
+  "https://www.coindesk.com/markets/2026/11/19/trump-media-wants-to-clear-usd884-million-of-debt-without-selling-its-bitcoin": 1795111857.567071,
+  "https://www.coindesk.com/daybook-us/2026/11/19/bitcoin-etf-outflows-show-waning-crypto-appetite-ahead-of-anthropic-s-nasdaq-debut": 1795111857.567071,
+  "https://www.coindesk.com/markets/2026/11/19/bitcoin-holds-above-usd63-750-but-fed-rate-hike-threats-loom-large": 1795111857.567071,
+  "https://www.theblock.co/news/regulation/2026-11-19-us-launches-cybercrime-center-with-trm-labs-to-help-trace-crypto-tied-to-scams-443599": 1795111857.567071,
+  "https://www.coindesk.com/business/2026/11/19/north-korean-hackers-used-sky-s-stablecoin-system-putting-billions-at-freeze-risk": 1795111857.567071,
+  "https://www.coindesk.com/markets/2026/11/19/anthropic-s-usd107-billion-raise-set-to-surpass-spacex-s-ipo-haul": 1795111857.567071,
+  "https://www.theblock.co/news/web3/2026-11-19-1inch-integrates-hyperliquid-perpetual-futures-443574": 1795111857.567071,
+  "https://www.coindesk.com/tech/2026/11/19/banks-and-blockchains-lag-on-quantum-defense-as-encryption-risks-loom-watchdog-warns": 1795111857.567071,
+  "https://www.coindesk.com/markets/2026/11/19/live-updates-bitcoin-nears-usd64-000-as-anthropic-s-record-ipo-lifts-tech": 1795111857.567071,
+  "https://www.coindesk.com/business/2026/11/19/singapore-settles-usd77-5-million-tokenized-bill-sale-in-local-cbdc": 1795111857.567071,
+  "https://www.theblock.co/news/business/2026-11-19-ant-international-protocol-tokenized-assets-443586": 1795111857.567071,
+  "https://cointelegraph-tr.com/news/iosco-quantum-blockchain-upgrades-security-risks": 1795111857.567071,
+  "https://www.coindesk.com/markets/2026/11/19/roundhill-scraps-solana-and-xrp-income-etfs-as-rival-funds-attract-just-usd12-million": 1795111857.567071,
+  "https://cointelegraph-tr.com/news/mas-issues-77m-tokenized-bills-singapore-dollar-test-network": 1795111857.567071
  },
  "tries": {
   "https://www.theblock.co/news/defi/2026-10-29-uniswap-token-jar-tjar-robinhood-432131": 1
