@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-19T01:06:06Z",
+ "updated": "2026-11-19T08:44:31Z",
  "sources": [
   "coindesk.com",
   "cointelegraph-tr.com",
@@ -7,6 +7,20 @@
  ],
  "bySymbol": {
   "BTC": [
+   {
+    "title": "Bitcoin ETF varlıkları, 2026 net çıkışları 2,5 milyar doları aşarken üç ayın en düşük seviyesine geriledi",
+    "summary": "ABD spot Bitcoin ETF’lerinden çarşamba günü 306,4 milyon dolar çıkış gerçekleşti. Bu gelişmeyle birlikte Bitcoin kısa süreliğine 63.000 doların altında işlem görürken, toplam varlıklar 77,7 milyar dolara geriledi.",
+    "url": "https://cointelegraph-tr.com/markets/bitcoin-etf-assets-three-month-low-78-billion",
+    "published": "2026-11-19T08:26:19Z",
+    "importance": 4
+   },
+   {
+    "title": "BTCPay Server 5 güvenlik açığı için acil güncelleme yayımladı",
+    "summary": "AB’nin siber güvenlik hizmeti, söz konusu açıkların saldırganların savunmasız sunucularda oturum açmadan uzaktan kötü amaçlı kod çalıştırmasına izin verebileceğini belirtti.",
+    "url": "https://cointelegraph-tr.com/news/btcpay-server-emergency-update-nginx-security-flaws",
+    "published": "2026-11-19T08:04:37Z",
+    "importance": 4
+   },
    {
     "title": "Bitcoin, Fed’den Waller’ın “şok” niteliğinde 50 baz puanlık faiz artışından söz etmesiyle hisseler sarsıldı",
     "summary": "Fed’in yeni şahin yorumlarının ardından Bitcoin 63.000 doların altına geriledi. Nvidia’nın kazançlarına yönelik iyimserlik de azaldı.",
@@ -29,24 +43,24 @@
     "importance": 4
    },
    {
-    "title": "'Piyasadan hediye': Analist, altı haftalık kayıpların ardından bitcoin'in yerel bir dip sinyali gösterdiğini söyledi",
-    "summary": "K33, altı haftalık düşüşün ardından bitcoin'in yerel bir dip bulmuş olabileceğini ve opsiyon yatırımcılarının hâlâ aşağı yönlü koruma aradığını belirtti.",
-    "url": "https://www.theblock.co/news/markets/2026-11-18-gift-from-the-market-bitcoin-shows-signs-of-a-local-bottom-after-six-weeks-of-losses-analyst-says-443017",
-    "published": "2026-11-18T14:01:54Z",
+    "title": "Anthropic’in Nasdaq’taki ilk işlemi öncesinde Nasdaq vadeli işlemleri yükselirken Bitcoin 62.000 doları yeniden test etti",
+    "summary": "Bitcoin bu hafta ikinci kez 62.000 dolara gerilemesinin ardından 63.500 doların üzerine çıktı. Aynı dönemde Anthropic, rekor düzeydeki halka arzını hisse başına 83 dolardan fiyatladı.",
+    "url": "https://cointelegraph-tr.com/markets/bitcoin-retests-62k-nasdaq-futures-anthropic-debut",
+    "published": "2026-11-19T07:55:56Z",
     "importance": 3
    },
    {
-    "title": "Bitcoin madencisi MARA, kredileri geri ödemek için 1 milyar dolarlık BTC sattıktan sonra borç yoluyla 185 milyon dolar topladı",
-    "summary": "Bitcoin madencisi MARA, kredileri geri ödemek için 1 milyar dolar değerinde BTC sattıktan sonra borç yoluyla 185 milyon dolar topladı.",
-    "url": "https://www.coindesk.com/markets/2026/11/18/bitcoin-miner-mara-raises-usd185-million-in-debt-after-selling-usd1-billion-btc-to-repay-loans",
-    "published": "2026-11-18T12:53:34Z",
+    "title": "Bitcoin carry trade’leri 2027’de Hazine bonolarını geride bırakabilir, Sygnum öngörüyor",
+    "summary": "Sygnum, fonlama oranlarındaki sert düşüşün stratejiyi 2026’da daha az cazip hale getirmesinin ardından, Bitcoin carry trade’lerinin 2027’de Hazine bonolarından daha yüksek getiri sunabileceğini öngörüyor.",
+    "url": "https://cointelegraph-tr.com/markets/sygnum-bitcoin-carry-trades-2027",
+    "published": "2026-11-19T06:00:00Z",
     "importance": 3
    },
    {
-    "title": "Analistler, Bitcoin'in düşüşünden Anthropic'in halka arzını sorumlu tutmanın 'inanması kolay' ancak kusurlu olduğunu söylüyor",
-    "summary": "Analistler, Bitcoin'in düşüşünden Anthropic'in halka arzını sorumlu tutmanın 'inanması kolay' ancak kusurlu olduğunu söylüyor.",
-    "url": "https://www.coindesk.com/daybook-us/2026/11/18/blaming-anthropic-s-ipo-for-bitcoin-s-slide-is-easy-to-believe-but-flawed-analysts-say",
-    "published": "2026-11-18T12:15:00Z",
+    "title": "Son BTC'sini satan Bitcoin madencisi, 1,2 milyar dolarlık yapay zeka anlaşması için nakit sıkıntısı yaşayabileceği konusunda uyardı",
+    "summary": "Son BTC'sini satan Bitcoin madencisi, 1,2 milyar dolarlık yapay zeka anlaşması için nakit sıkıntısı yaşayabileceği konusunda uyardı",
+    "url": "https://www.coindesk.com/markets/2026/11/19/bitcoin-miner-that-sold-its-last-btc-warns-it-may-run-short-of-cash-for-usd1-2-billion-ai-deal",
+    "published": "2026-11-19T04:46:10Z",
     "importance": 3
    }
   ],
@@ -57,6 +71,13 @@
     "url": "https://www.coindesk.com/policy/2026/11/18/u-s-judge-says-ethereum-has-no-terms-of-use-clears-mit-brothers-of-usd25-million-fraud",
     "published": "2026-11-18T05:30:10Z",
     "importance": 4
+   },
+   {
+    "title": "Ethereum blok oluşturucuları 3,4 milyon dolarlık kasa hackinde en çok payı aldı, veriler gösteriyor",
+    "summary": "Ethereum blok oluşturucuları 3,4 milyon dolarlık kasa hackinde en çok payı aldı, veriler gösteriyor",
+    "url": "https://www.coindesk.com/tech/2026/11/19/ethereum-block-builders-received-the-most-in-a-usd3-4-million-vault-hack-data-shows",
+    "published": "2026-11-19T05:39:06Z",
+    "importance": 3
    },
    {
     "title": "CoinShares hazine ETH’sinin tamamını sattı, geri alımlar için SOL varlıklarını yarıya indirdi",
@@ -77,15 +98,6 @@
     "summary": "Solana’nın token’ı salı günü 75,12 dolara ulaşarak Bitcoin ve Ether’i geride bıraktı. Ağ, 2020’deki lansmanından bu yana kullandığı beta etiketini kaldırdı.",
     "url": "https://cointelegraph-tr.com/markets/solana-sol-gains-7-percent-breakpoint-beta-tokenization",
     "published": "2026-11-18T08:41:16Z",
-    "importance": 3
-   }
-  ],
-  "JTO": [
-   {
-    "title": "Jito’dan Lucas Bruder, kripto geliştiricilerinin 'yavaşlaması' ve güvenlik zayıflıklarını düzeltmesi gerektiğini söylüyor",
-    "summary": "Jito’dan Lucas Bruder, sabırlı saldırganlar konusunda uyarıda bulunuyor ve kripto ekiplerini teknik borçları ele almaya çağırıyor.",
-    "url": "https://www.theblock.co/news/ecosystems/2026-11-17-jito-lucas-bruder-crypto-builders-need-slow-down-fix-security-weaknesses-442850",
-    "published": "2026-11-17T19:29:15Z",
     "importance": 3
    }
   ],
@@ -112,15 +124,6 @@
     "url": "https://cointelegraph-tr.com/markets/solana-sol-gains-7-percent-breakpoint-beta-tokenization",
     "published": "2026-11-18T08:41:16Z",
     "importance": 3
-   }
-  ],
-  "TRUMP": [
-   {
-    "title": "Lily Liu, Solana'nın Trump memecoin lansmanının kurumsal atılım öncesi altyapıyı test ettiğini söyledi",
-    "summary": "Liu, Solana ağının öngörülemez kripto piyasalarının baskısına dayanabileceğini kanıtlamak amacıyla iki işlem dönemi özetledi.",
-    "url": "https://www.theblock.co/news/ecosystems/2026-11-17-solana-trump-memecoin-launch-tested-infrastructure-institutional-push-lily-liu-says-442132",
-    "published": "2026-11-17T14:27:35Z",
-    "importance": 2
    }
   ],
   "USDC": [
@@ -152,9 +155,6 @@
   ]
  },
  "seen": {
-  "https://www.theblock.co/news/defi/2026-11-14-kava-lend-loses-roughly-3-8-million-to-hack-sending-kava-token-down-nearly-40-440350": 1794705401.0124688,
-  "https://cointelegraph-tr.com/news/coinone-data-breach-phishing-identity-theft-customer-information": 1794731045.9132323,
-  "https://www.coindesk.com/markets/2026/11/15/xrp-crashes-to-its-lowest-since-november-2024-as-money-leaves-crypto": 1794731045.9132323,
   "https://www.coindesk.com/news-analysis/2026/11/13/crypto-insiders-aren-t-counting-on-silver-linings-in-congress-lame-duck-session": 1794757865.5894465,
   "https://cointelegraph-tr.com/markets/bitcoin-four-month-low-62k-crypto-market-selloff": 1794757865.5894465,
   "https://www.theblock.co/news/defi/2026-11-15-traders-claim-6-million-profit-by-spotting-bitgos-public-pull-request-and-frontrunning-memecoin-listing-440363": 1794776342.5004144,
@@ -329,7 +329,24 @@
   "https://www.theblock.co/news/business/2026-11-18-backpack-completes-regulatory-framework-us-entry-442980": 1795050366.1862607,
   "https://www.theblock.co/news/markets/2026-11-18-gift-from-the-market-bitcoin-shows-signs-of-a-local-bottom-after-six-weeks-of-losses-analyst-says-443017": 1795050366.1862607,
   "https://cointelegraph-tr.com/news/coinshares-sells-eth-treasury-holdings-halves-sol-share-buybacks": 1795050366.1862607,
-  "https://cointelegraph-tr.com/news/sanctions-fears-russia-crypto-launch": 1795050366.1862607
+  "https://cointelegraph-tr.com/news/sanctions-fears-russia-crypto-launch": 1795050366.1862607,
+  "https://cointelegraph-tr.com/markets/bitcoin-etf-assets-three-month-low-78-billion": 1795077871.9203203,
+  "https://www.theblock.co/news/web3/2026-11-19-singapores-mas-tokenized-bills-443562": 1795077871.9203203,
+  "https://cointelegraph-tr.com/news/btcpay-server-emergency-update-nginx-security-flaws": 1795077871.9203203,
+  "https://cointelegraph-tr.com/markets/bitcoin-retests-62k-nasdaq-futures-anthropic-debut": 1795077871.9203203,
+  "https://www.coindesk.com/markets/2026/11/19/fed-s-push-for-more-rate-hikes-leans-on-backward-looking-data-as-gas-prices-slide-analysts-argue": 1795077871.9203203,
+  "https://www.theblock.co/news/markets/2026-11-19-sygnum-bitcoin-carry-trades-beating-treasury-bills-2027-443547": 1795077871.9203203,
+  "https://www.theblock.co/newsletters/the-daily/2026-11-19-binance-gets-6-5-billion-freezing-order-cryptoquant-says-bitcoin-is-in-a-value-zone-and-more-443511": 1795077871.9203203,
+  "https://cointelegraph-tr.com/markets/sygnum-bitcoin-carry-trades-2027": 1795077871.9203203,
+  "https://www.coindesk.com/tech/2026/11/19/ethereum-block-builders-received-the-most-in-a-usd3-4-million-vault-hack-data-shows": 1795077871.9203203,
+  "https://cointelegraph-tr.com/news/binance-hackers-stole-192-tokens-across-11-networks": 1795077871.9203203,
+  "https://www.coindesk.com/markets/2026/11/19/bitcoin-miner-that-sold-its-last-btc-warns-it-may-run-short-of-cash-for-usd1-2-billion-ai-deal": 1795077871.9203203,
+  "https://www.theblock.co/news/web3/2026-11-18-ledger-new-hardware-incidents-germany-uae-443530": 1795077871.9203203,
+  "https://www.coindesk.com/markets/2026/11/19/cz-says-tokenized-anthropic-is-coming-to-bnb-chain-on-ipo-day": 1795077871.9203203,
+  "https://www.theblock.co/news/business/2026-11-18-kraken-parent-payward-tribe-capital-443522": 1795077871.9203203,
+  "https://www.theblock.co/news/web3/2026-11-18-standard-chartered-straitsx-ocbc-tokenized-deposit-poc-442964": 1795077871.9203203,
+  "https://cointelegraph-tr.com/news/trump-administration-unveils-new-center-choke-off-scam-payments": 1795077871.9203203,
+  "https://cointelegraph-tr.com/markets/fed-officials-saw-october-rate-hold-as-close-call-minutes-show": 1795077871.9203203
  },
  "tries": {
   "https://www.theblock.co/news/defi/2026-10-29-uniswap-token-jar-tjar-robinhood-432131": 1
