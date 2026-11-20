@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-20T00:53:04Z",
+ "updated": "2026-11-20T08:26:36Z",
  "sources": [
   "coindesk.com",
   "cointelegraph-tr.com",
@@ -7,6 +7,20 @@
  ],
  "bySymbol": {
   "BTC": [
+   {
+    "title": "BlackRock’ın IBIT’i Anthropic’in piyasa başlangıcının ardından rekor 541 milyon dolarlık çıkış yaşadı",
+    "summary": "BlackRock’ın IBIT fonu, şimdiye kadarki en büyük günlük net çıkışını kaydederek 541 milyon dolarlık bir düşüş yaşadı. Bitcoin daha geniş çaplı piyasa satışları sırasında gerilerken, fonun üç seanstaki toplam çıkışı 900 milyon dolara yaklaştı.",
+    "url": "https://cointelegraph-tr.com/markets/blackrock-ibit-record-single-day-outflow",
+    "published": "2026-11-20T08:18:42Z",
+    "importance": 4
+   },
+   {
+    "title": "Kurumlar, satış serisinin ardından ABD Bitcoin ETF’lerine 3. çeyrekte yeniden yöneldi",
+    "summary": "Varlık yöneticileri, üçüncü çeyrekte ABD Bitcoin ETF’lerindeki varlıklarına 49.229 Bitcoin karşılığı ekleyerek üç çeyreklik net satış serisini tersine çevirdi.",
+    "url": "https://cointelegraph-tr.com/markets/institutional-bitcoin-etf-holdings-clock-record-quarter-after-selling-streak",
+    "published": "2026-11-20T03:33:22Z",
+    "importance": 4
+   },
    {
     "title": "Bitcoin ETF varlıkları, 2026 net çıkışları 2,5 milyar doları aşarken üç ayın en düşük seviyesine geriledi",
     "summary": "ABD spot Bitcoin ETF’lerinden çarşamba günü 306,4 milyon dolar çıkış gerçekleşti. Bu gelişmeyle birlikte Bitcoin kısa süreliğine 63.000 doların altında işlem görürken, toplam varlıklar 77,7 milyar dolara geriledi.",
@@ -22,18 +36,18 @@
     "importance": 4
    },
    {
-    "title": "Bitcoin, Fed’den Waller’ın “şok” niteliğinde 50 baz puanlık faiz artışından söz etmesiyle hisseler sarsıldı",
-    "summary": "Fed’in yeni şahin yorumlarının ardından Bitcoin 63.000 doların altına geriledi. Nvidia’nın kazançlarına yönelik iyimserlik de azaldı.",
-    "url": "https://cointelegraph-tr.com/markets/bitcoin-stocks-wobble-waller-talks-shock-50-point-rate-hike",
-    "published": "2026-11-18T16:34:20Z",
-    "importance": 4
+    "title": "Altını çökerten ve muhtemelen bitcoin'i de baskılayan şeylerin neler olduğu burada",
+    "summary": "Altını çökerten ve muhtemelen bitcoin'i de baskılayan şeylerin neler olduğu burada",
+    "url": "https://www.coindesk.com/markets/2026/11/20/here-s-what-s-crashing-gold-and-likely-weighing-on-bitcoin-too",
+    "published": "2026-11-20T06:12:15Z",
+    "importance": 3
    },
    {
-    "title": "Alman yargıç, operatörün 2,56 milyar dolar değerinde bitcoin teslim etmesi halinde Movie2k davasının düşürülmesini önerdi",
-    "summary": "Alman yargıç, operatörün 2,56 milyar dolar değerinde bitcoin teslim etmesi halinde Movie2k davasının düşürülmesini önerdi.",
-    "url": "https://www.coindesk.com/business/2026/11/18/german-judge-proposes-dropping-movie2k-case-if-operator-hands-over-usd2-56-billion-in-bitcoin",
-    "published": "2026-11-18T15:38:38Z",
-    "importance": 4
+    "title": "Teknoloji hisseleri zayıflarken Bitcoin, Anthropic'in halka arzından sonra dört ayın en düşük seviyesine geriledi",
+    "summary": "Teknoloji hisseleri zayıflarken Bitcoin, Anthropic'in halka arzından sonra dört ayın en düşük seviyesine geriledi.",
+    "url": "https://www.coindesk.com/markets/2026/11/20/bitcoin-hits-four-month-low-after-anthropic-s-ipo-as-tech-stocks-wilt",
+    "published": "2026-11-20T03:32:30Z",
+    "importance": 3
    },
    {
     "title": "Daha yüksek faizler hazine şirketlerinin Bitcoin alımlarını neden yavaşlatabilir",
@@ -47,20 +61,6 @@
     "summary": "Bitcoin cumartesi günü geç saatlerde 62.000 dolara kadar gerileyerek üst üste altıncı haftalık düşüşünü yaşadı. Buna karşın, tokenleştirilmiş hisseler 11 Kasım'da zincir üstü değerde ilk kez 4 milyar doları aştı. Tokenleştirilmiş hisseler şu anda 1 Ocak'taki değerlerinin yaklaşık beş katına ulaştı.",
     "url": "https://www.theblock.co/newsletters/tokenization-briefing/2026-11-19-tokenized-stocks-shrug-off-crypto-selloff-442829",
     "published": "2026-11-19T17:12:00Z",
-    "importance": 3
-   },
-   {
-    "title": "Bitcoin finans protokolü Hashi, Sui ana ağında yayına girdi",
-    "summary": "Hashi, Sui ana ağında bitcoin yatırımlarını işlemeye başladı. Fluid kredileri ve Upshift üzerindeki HoneyB kasaları için hBTC kullanılıyor.",
-    "url": "https://www.theblock.co/news/defi/2026-11-19-bitcoin-finance-protocol-hashi-goes-live-on-sui-mainnet-443608",
-    "published": "2026-11-19T14:00:00Z",
-    "importance": 3
-   },
-   {
-    "title": "Trump Media, bitcoin'ini satmadan 884 milyon dolarlık borcunu kapatmak istiyor",
-    "summary": "Trump Media, bitcoin'ini satmadan 884 milyon dolarlık borcunu kapatmak istiyor.",
-    "url": "https://www.coindesk.com/markets/2026/11/19/trump-media-wants-to-clear-usd884-million-of-debt-without-selling-its-bitcoin",
-    "published": "2026-11-19T12:40:12Z",
     "importance": 3
    }
   ],
@@ -84,22 +84,6 @@
     "summary": "Ethereum blok oluşturucuları 3,4 milyon dolarlık kasa hackinde en çok payı aldı, veriler gösteriyor",
     "url": "https://www.coindesk.com/tech/2026/11/19/ethereum-block-builders-received-the-most-in-a-usd3-4-million-vault-hack-data-shows",
     "published": "2026-11-19T05:39:06Z",
-    "importance": 3
-   },
-   {
-    "title": "CoinShares hazine ETH’sinin tamamını sattı, geri alımlar için SOL varlıklarını yarıya indirdi",
-    "summary": "Ekim ayındaki satışlar 19,3 milyon dolar getirdi. Bu tutar, CoinShares’in bir sonraki yıllık toplantısından önce geri alımlara harcayabileceği 40 milyon doların neredeyse yarısına denk geliyor.",
-    "url": "https://cointelegraph-tr.com/news/coinshares-sells-eth-treasury-holdings-halves-sol-share-buybacks",
-    "published": "2026-11-18T13:42:37Z",
-    "importance": 3
-   }
-  ],
-  "ONDO": [
-   {
-    "title": "Ondo, halka arz gününde tokenize Anthropic hissedisini piyasaya sürecek",
-    "summary": "Ondo’nun ANTon tokeni, Claude geliştiricisi Nasdaq'ta işlem görmeye başladığı günden itibaren Anthropic hisselerini takip edecek.",
-    "url": "https://www.theblock.co/news/markets/2026-11-18-ondo-to-launch-tokenized-anthropic-stock-on-ipo-day-443482",
-    "published": "2026-11-18T18:51:30Z",
     "importance": 3
    }
   ],
@@ -126,13 +110,6 @@
     "url": "https://www.coindesk.com/markets/2026/11/19/roundhill-scraps-solana-and-xrp-income-etfs-as-rival-funds-attract-just-usd12-million",
     "published": "2026-11-19T10:22:12Z",
     "importance": 4
-   },
-   {
-    "title": "CoinShares hazine ETH’sinin tamamını sattı, geri alımlar için SOL varlıklarını yarıya indirdi",
-    "summary": "Ekim ayındaki satışlar 19,3 milyon dolar getirdi. Bu tutar, CoinShares’in bir sonraki yıllık toplantısından önce geri alımlara harcayabileceği 40 milyon doların neredeyse yarısına denk geliyor.",
-    "url": "https://cointelegraph-tr.com/news/coinshares-sells-eth-treasury-holdings-halves-sol-share-buybacks",
-    "published": "2026-11-18T13:42:37Z",
-    "importance": 3
    }
   ],
   "USDT": [
@@ -153,26 +130,15 @@
     "importance": 4
    },
    {
-    "title": "Ripple'dan Alderoty, Elizabeth Warren'ın 'bu ülkede kripto politikasını belirleyeceğinden' şüphe duyuyor, kalıcı kurum kurallarını destekliyor",
-    "summary": "Kripto piyasa yapısı mevzuatına yönelik umutlar solarken, Ripple'dan Alderoty kalıcı kurum kurallarını destekliyor.",
-    "url": "https://www.theblock.co/news/regulation/2026-11-19-ripple-alderoty-elizabeth-warren-wont-set-crypto-policy-backs-durable-agency-rules-444105",
-    "published": "2026-11-19T18:47:30Z",
+    "title": "CFTC Başkanı Hyperliquid ve zincir üstü platformlar hakkında, Ripple CLO'su Elizabeth Warren'ın kripto politikası belirleyeceğinden şüpheli ve daha fazlası",
+    "summary": "Günlük bültende, CFTC Başkanı Selig'in Hyperliquid ve diğer zincir üstü platformların ABD pazarına nasıl girebileceğini açıkladığı ve Ripple Baş Hukuk Sorumlusu Alderoty'nin Elizabeth Warren'ın ABD kripto politikasını belirleyeceğinden şüphe duyduğu belirtiliyor.",
+    "url": "https://www.theblock.co/newsletters/the-daily/2026-11-20-cftc-chair-hyperliquid-ripple-clo-elizabeth-warren-crypto-policy-more-news-444143",
+    "published": "2026-11-20T05:40:00Z",
     "importance": 3
    }
   ]
  },
  "seen": {
-  "https://cointelegraph-tr.com/news/jensen-huang-weighs-nvidia-comeback-days-after-shock-exit": 1794790616.551519,
-  "https://www.theblock.co/news/markets/2026-11-15-cz-denies-binance-sold-crypto-as-bitcoin-bounces-from-four-month-low-near-62000-440807": 1794790616.551519,
-  "https://cointelegraph-tr.com/news/what-happened-in-crypto-today": 1794790616.551519,
-  "https://www.coindesk.com/tech/2026/11/16/bitcoin-miners-were-hijacked-and-their-btc-rewards-redirected-to-an-attacker": 1794815609.9508383,
-  "https://www.coindesk.com/markets/2026/11/16/cardano-holders-vote-down-usd5-million-bid-to-buy-warehouse-copper": 1794815609.9508383,
-  "https://www.coindesk.com/markets/2026/11/16/trump-administration-to-name-nvidia-openai-and-several-others-as-u-s-ai-national-champions": 1794815609.9508383,
-  "https://cointelegraph-tr.com/markets/aster-ceo-suspects-foul-play-after-token-plunges-32-in-minutes": 1794815609.9508383,
-  "https://www.coindesk.com/markets/2026/11/16/bitcoin-s-biggest-bet-is-now-a-drop-below-usd60-000-not-a-rally-above-usd100-000": 1794815609.9508383,
-  "https://www.theblock.co/news/business/2026-11-15-luxor-attack-client-hashrate-440810": 1794815609.9508383,
-  "https://cointelegraph-tr.com/news/luxor-ceo-warns-of-ai-dark-forest-after-bitcoin-miner-hijack": 1794815609.9508383,
-  "https://cointelegraph-tr.com/magazine/us-sellers-drive-bitcoin-crash-jensen-plots-comeback-hodlers-digest": 1794815609.9508383,
   "https://www.coindesk.com/business/2026/11/16/brazil-s-central-bank-faces-backlash-over-stablecoin-money-laundering-remarks": 1794853354.7756784,
   "https://www.coindesk.com/policy/2026/11/16/german-parliament-proposes-crypto-seizures-without-criminal-charges": 1794853354.7756784,
   "https://www.theblock.co/news/business/2026-11-16-tom-lee-ethereum-waterfall-decline-price-defies-fundamentals-bitmine-adds-7653-eth-440904": 1794853354.7756784,
@@ -382,7 +348,22 @@
   "https://www.theblock.co/news/regulation/2026-11-19-ripple-alderoty-elizabeth-warren-wont-set-crypto-policy-backs-durable-agency-rules-444105": 1795135984.298436,
   "https://cointelegraph-tr.com/news/ethereum-glamsterdam-could-slip-to-may-2027": 1795135984.298436,
   "https://www.coindesk.com/policy/2026/11/19/trump-s-democratic-sec-pick-suggests-tokenization-policy-deserves-full-rule-process": 1795135984.298436,
-  "https://cointelegraph-tr.com/news/why-higher-rates-could-slow-bitcoin-buying-at-treasury-firms": 1795135984.298436
+  "https://cointelegraph-tr.com/news/why-higher-rates-could-slow-bitcoin-buying-at-treasury-firms": 1795135984.298436,
+  "https://cointelegraph-tr.com/markets/blackrock-ibit-record-single-day-outflow": 1795163196.5854204,
+  "https://www.coindesk.com/markets/2026/11/20/wrapped-monero-token-plunges-99-as-issuer-linked-wallet-sells-usd13-5-million": 1795163196.5854204,
+  "https://www.theblock.co/news/business/2026-11-20-michael-saylor-natural-demand-strategy-strc-444190": 1795163196.5854204,
+  "https://cointelegraph-tr.com/markets/anthropic-ipo-spacex-retail-buying-first-day-gains": 1795163196.5854204,
+  "https://www.coindesk.com/markets/2026/11/20/here-s-what-s-crashing-gold-and-likely-weighing-on-bitcoin-too": 1795163196.5854204,
+  "https://www.coindesk.com/markets/2026/11/20/crypto-traders-have-anthropic-trading-below-its-first-nasdaq-close-on-hyperliquid": 1795163196.5854204,
+  "https://cointelegraph-tr.com/news/what-happened-in-crypto-today": 1795163196.5854204,
+  "https://www.theblock.co/newsletters/the-daily/2026-11-20-cftc-chair-hyperliquid-ripple-clo-elizabeth-warren-crypto-policy-more-news-444143": 1795163196.5854204,
+  "https://www.coindesk.com/markets/2026/11/20/this-bitcoin-miner-sold-267-btc-to-clear-usd22-million-debt-it-still-may-not-survive": 1795163196.5854204,
+  "https://www.coindesk.com/markets/2026/11/20/big-money-bought-a-net-usd4-billion-of-bitcoin-funds-in-q3-ending-9-months-of-selling": 1795163196.5854204,
+  "https://www.coindesk.com/tech/2026/11/20/ethereum-s-next-big-upgrade-is-pushed-into-2027-by-apps-it-would-break": 1795163196.5854204,
+  "https://www.coindesk.com/markets/2026/11/20/vaneck-drops-gemini-as-custodian-of-its-bitcoin-ether-and-sol-etfs": 1795163196.5854204,
+  "https://www.theblock.co/news/business/2026-11-19-coinbase-backs-cftc-prediction-markets-444152": 1795163196.5854204,
+  "https://cointelegraph-tr.com/markets/institutional-bitcoin-etf-holdings-clock-record-quarter-after-selling-streak": 1795163196.5854204,
+  "https://www.coindesk.com/markets/2026/11/20/bitcoin-hits-four-month-low-after-anthropic-s-ipo-as-tech-stocks-wilt": 1795163196.5854204
  },
  "tries": {
   "https://www.theblock.co/news/defi/2026-10-29-uniswap-token-jar-tjar-robinhood-432131": 1
