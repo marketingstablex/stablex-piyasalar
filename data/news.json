@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-19T18:10:57Z",
+ "updated": "2026-11-20T00:53:04Z",
  "sources": [
   "coindesk.com",
   "cointelegraph-tr.com",
@@ -36,11 +36,11 @@
     "importance": 4
    },
    {
-    "title": "CryptoQuant’ın düşüş eğilimli piyasa evresine işaret etmesiyle Bitcoin ETF’lerinde 240 milyon dolarlık çıkış",
-    "summary": "CryptoQuant, Bitcoin’in düşüş eğilimli bir piyasa evresine geri döndüğü uyarısında bulunurken, Bitcoin ETF’lerindeki çıkışlar bir günlük aranın ardından yeniden başladı.",
-    "url": "https://cointelegraph-tr.com/markets/bitcoin-etf-240-million-outflow-bearish-phase",
-    "published": "2026-11-18T08:09:23Z",
-    "importance": 4
+    "title": "Daha yüksek faizler hazine şirketlerinin Bitcoin alımlarını neden yavaşlatabilir",
+    "summary": "Bir hazine şirketi, yıllarca yetecek temettü karşılığına sahip olsa bile, başka bir Bitcoin alımını cazip kılacak koşullarla yeni hisse satmakta zorlanabilir.",
+    "url": "https://cointelegraph-tr.com/news/why-higher-rates-could-slow-bitcoin-buying-at-treasury-firms",
+    "published": "2026-11-19T18:09:32Z",
+    "importance": 3
    },
    {
     "title": "Tokenleştirilmiş Hisseler Kripto Satış Dalgasından Etkilenmedi",
@@ -66,6 +66,13 @@
   ],
   "ETH": [
    {
+    "title": "Ethereum’un Glamsterdam yükseltmesi uyumluluk endişeleri nedeniyle Mayıs 2027’ye sarkabilir",
+    "summary": "Ethereum geliştiricileri, mevcut akıllı sözleşmeleri aksatabilecek gas fiyatlandırma tekliflerinde değişiklik yapmayı değerlendiriyor; bunun üzerine en az 50 etkilenen şirketle iletişime geçildi.",
+    "url": "https://cointelegraph-tr.com/news/ethereum-glamsterdam-could-slip-to-may-2027",
+    "published": "2026-11-19T18:20:49Z",
+    "importance": 4
+   },
+   {
     "title": "Ethereum’un yeni DeFi güvenlik aracı sansür konusunda soru işaretleri yaratıyor",
     "summary": "Phylax’ın sistemi, merkeziyetsiz protokollerin zararlı işlemleri engellemesine olanak tanıyor; ancak olası sansür ve Ethereum’un blok üreticisi piyasası hakkında soru işaretleri doğuruyor.",
     "url": "https://cointelegraph-tr.com/magazine/ethereums-new-defi-security-tool-raises-questions-over-censorship",
@@ -85,20 +92,6 @@
     "url": "https://cointelegraph-tr.com/news/coinshares-sells-eth-treasury-holdings-halves-sol-share-buybacks",
     "published": "2026-11-18T13:42:37Z",
     "importance": 3
-   },
-   {
-    "title": "TD Cowen, Ether görünümünü yumuşatırken Sharplink için Al notunu koruyor",
-    "summary": "TD Cowen, ether'in fiyat patikasına ilişkin daha muhafazakar bir görüş benimserken, staking ödüllerinin Sharplink'in ETH varlıklarında mütevazı bir artışa yol açtığını belirtti.",
-    "url": "https://www.theblock.co/news/ecosystems/2026-11-18-td-cowen-maintains-buy-rating-sharplink-442987",
-    "published": "2026-11-18T11:08:27Z",
-    "importance": 3
-   },
-   {
-    "title": "SOL, Solana betadan çıkarken Breakpoint konferansından %7 daha yüksek çıktı",
-    "summary": "Solana’nın token’ı salı günü 75,12 dolara ulaşarak Bitcoin ve Ether’i geride bıraktı. Ağ, 2020’deki lansmanından bu yana kullandığı beta etiketini kaldırdı.",
-    "url": "https://cointelegraph-tr.com/markets/solana-sol-gains-7-percent-breakpoint-beta-tokenization",
-    "published": "2026-11-18T08:41:16Z",
-    "importance": 3
    }
   ],
   "ONDO": [
@@ -112,10 +105,10 @@
   ],
   "SKY": [
    {
-    "title": "Kuzey Koreli hackerlar Sky'ın stablecoin sistemini kullandı, milyarlarca dolar dondurulma riskiyle karşı karşıya",
-    "summary": "Kuzey Koreli hackerlar Sky'ın stablecoin sistemini kullandı, milyarlarca dolar dondurulma riskiyle karşı karşıya.",
-    "url": "https://www.coindesk.com/business/2026/11/19/north-korean-hackers-used-sky-s-stablecoin-system-putting-billions-at-freeze-risk",
-    "published": "2026-11-19T11:30:00Z",
+    "title": "Yasadışı finans raporunun ardından 1,5 milyar doların rezervlerden çıkmasıyla Sky'ın USDS stablecoin'i %35 küçüldü",
+    "summary": "Yasadışı finans raporunun ardından 1,5 milyar doların rezervlerden çıkmasıyla Sky'ın USDS stablecoin'i %35 küçüldü",
+    "url": "https://www.coindesk.com/business/2026/11/19/sky-s-usds-stablecoin-shrinks-35-as-usd1-5-billion-exits-reserves-after-illicit-finance-report",
+    "published": "2026-11-19T19:53:42Z",
     "importance": 4
    }
   ],
@@ -140,22 +133,6 @@
     "url": "https://cointelegraph-tr.com/news/coinshares-sells-eth-treasury-holdings-halves-sol-share-buybacks",
     "published": "2026-11-18T13:42:37Z",
     "importance": 3
-   },
-   {
-    "title": "SOL, Solana betadan çıkarken Breakpoint konferansından %7 daha yüksek çıktı",
-    "summary": "Solana’nın token’ı salı günü 75,12 dolara ulaşarak Bitcoin ve Ether’i geride bıraktı. Ağ, 2020’deki lansmanından bu yana kullandığı beta etiketini kaldırdı.",
-    "url": "https://cointelegraph-tr.com/markets/solana-sol-gains-7-percent-breakpoint-beta-tokenization",
-    "published": "2026-11-18T08:41:16Z",
-    "importance": 3
-   }
-  ],
-  "USDC": [
-   {
-    "title": "DBS, Asya'daki uygun kurumların günün her saati USDC basmasına ve itfa etmesine izin veriyor",
-    "summary": "DBS ve Circle, doğrudan basım, itfa ve 7/24 dolar takası ile kurumsal yatırımcıların USDC'ye erişimini genişletiyor.",
-    "url": "https://www.theblock.co/news/business/2026-11-18-dbs-circle-usdc-asia-442970",
-    "published": "2026-11-18T09:28:50Z",
-    "importance": 3
    }
   ],
   "USDT": [
@@ -174,12 +151,17 @@
     "url": "https://www.coindesk.com/markets/2026/11/19/roundhill-scraps-solana-and-xrp-income-etfs-as-rival-funds-attract-just-usd12-million",
     "published": "2026-11-19T10:22:12Z",
     "importance": 4
+   },
+   {
+    "title": "Ripple'dan Alderoty, Elizabeth Warren'ın 'bu ülkede kripto politikasını belirleyeceğinden' şüphe duyuyor, kalıcı kurum kurallarını destekliyor",
+    "summary": "Kripto piyasa yapısı mevzuatına yönelik umutlar solarken, Ripple'dan Alderoty kalıcı kurum kurallarını destekliyor.",
+    "url": "https://www.theblock.co/news/regulation/2026-11-19-ripple-alderoty-elizabeth-warren-wont-set-crypto-policy-backs-durable-agency-rules-444105",
+    "published": "2026-11-19T18:47:30Z",
+    "importance": 3
    }
   ]
  },
  "seen": {
-  "https://www.theblock.co/news/defi/2026-11-15-traders-claim-6-million-profit-by-spotting-bitgos-public-pull-request-and-frontrunning-memecoin-listing-440363": 1794776342.5004144,
-  "https://www.coindesk.com/policy/2026/11/15/did-prediction-markets-call-the-u-s-midterm-election-state-of-crypto": 1794776342.5004144,
   "https://cointelegraph-tr.com/news/jensen-huang-weighs-nvidia-comeback-days-after-shock-exit": 1794790616.551519,
   "https://www.theblock.co/news/markets/2026-11-15-cz-denies-binance-sold-crypto-as-bitcoin-bounces-from-four-month-low-near-62000-440807": 1794790616.551519,
   "https://cointelegraph-tr.com/news/what-happened-in-crypto-today": 1794790616.551519,
@@ -392,7 +374,15 @@
   "https://www.theblock.co/news/business/2026-11-19-ant-international-protocol-tokenized-assets-443586": 1795111857.567071,
   "https://cointelegraph-tr.com/news/iosco-quantum-blockchain-upgrades-security-risks": 1795111857.567071,
   "https://www.coindesk.com/markets/2026/11/19/roundhill-scraps-solana-and-xrp-income-etfs-as-rival-funds-attract-just-usd12-million": 1795111857.567071,
-  "https://cointelegraph-tr.com/news/mas-issues-77m-tokenized-bills-singapore-dollar-test-network": 1795111857.567071
+  "https://cointelegraph-tr.com/news/mas-issues-77m-tokenized-bills-singapore-dollar-test-network": 1795111857.567071,
+  "https://cointelegraph-tr.com/news/ledger-cto-charles-guillemet-to-leave-after-nine-years-at-company": 1795135984.298436,
+  "https://cointelegraph-tr.com/news/moonpay-seeks-us-bank-charter-for-stablecoin-custody-services": 1795135984.298436,
+  "https://www.theblock.co/news/markets/2026-11-19-kalshi-quintenz-insider-trading-prediction-markets-stocks-444133": 1795135984.298436,
+  "https://www.coindesk.com/business/2026/11/19/sky-s-usds-stablecoin-shrinks-35-as-usd1-5-billion-exits-reserves-after-illicit-finance-report": 1795135984.298436,
+  "https://www.theblock.co/news/regulation/2026-11-19-ripple-alderoty-elizabeth-warren-wont-set-crypto-policy-backs-durable-agency-rules-444105": 1795135984.298436,
+  "https://cointelegraph-tr.com/news/ethereum-glamsterdam-could-slip-to-may-2027": 1795135984.298436,
+  "https://www.coindesk.com/policy/2026/11/19/trump-s-democratic-sec-pick-suggests-tokenization-policy-deserves-full-rule-process": 1795135984.298436,
+  "https://cointelegraph-tr.com/news/why-higher-rates-could-slow-bitcoin-buying-at-treasury-firms": 1795135984.298436
  },
  "tries": {
   "https://www.theblock.co/news/defi/2026-10-29-uniswap-token-jar-tjar-robinhood-432131": 1
