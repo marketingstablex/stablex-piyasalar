@@ -1,11 +1,20 @@
 {
- "updated": "2026-11-21T04:15:07Z",
+ "updated": "2026-11-21T12:57:51Z",
  "sources": [
   "coindesk.com",
   "cointelegraph-tr.com",
   "theblock.co"
  ],
  "bySymbol": {
+  "AAVE": [
+   {
+    "title": "Ether hazine şirketi BTCS, SEC'i 54 milyon dolarlık Aave kredisinin tasfiye olabileceği konusunda uyardı",
+    "summary": "Ether hazine şirketi BTCS, SEC'i 54 milyon dolarlık Aave kredisinin tasfiye olabileceği konusunda uyardı",
+    "url": "https://www.coindesk.com/markets/2026/11/21/ether-treasury-firm-btcs-warns-sec-its-usd54-million-aave-loan-could-be-liquidated",
+    "published": "2026-11-21T12:30:00Z",
+    "importance": 3
+   }
+  ],
   "BTC": [
    {
     "title": "Bitcoin iki yıl içinde ilk kez 57.000 doların altına geriledi ve yalnız değil",
@@ -57,20 +66,20 @@
     "importance": 4
    },
    {
-    "title": "Bitcoin, hisse senedi ve altın yatırımcıları geriliyor ve volatilite göstergeleri yükseliyor",
-    "summary": "Bitcoin, hisse senedi ve altın yatırımcıları geriliyor ve volatilite göstergeleri yükseliyor",
-    "url": "https://www.coindesk.com/daybook-us/2026/11/20/bitcoin-stocks-and-gold-traders-getting-nervous-and-volatility-gauges-are-surging",
-    "published": "2026-11-20T12:15:08Z",
+    "title": "Bitcoin düğümleri, bir ID'nin 50.000 kez tekrarlanmasıyla durdurulabilir. Hatayı yapay zeka buldu",
+    "summary": "Bitcoin düğümleri, bir ID'nin 50.000 kez tekrarlanmasıyla durdurulabilir. Hatayı yapay zeka buldu",
+    "url": "https://www.coindesk.com/markets/2026/11/21/bitcoin-nodes-could-be-stalled-by-repeating-one-id-50-000-times-ai-found-the-bug",
+    "published": "2026-11-21T06:16:42Z",
     "importance": 3
    }
   ],
   "ETH": [
    {
-    "title": "Ethereum’un Glamsterdam yükseltmesi uyumluluk endişeleri nedeniyle Mayıs 2027’ye sarkabilir",
-    "summary": "Ethereum geliştiricileri, mevcut akıllı sözleşmeleri aksatabilecek gas fiyatlandırma tekliflerinde değişiklik yapmayı değerlendiriyor; bunun üzerine en az 50 etkilenen şirketle iletişime geçildi.",
-    "url": "https://cointelegraph-tr.com/news/ethereum-glamsterdam-could-slip-to-may-2027",
-    "published": "2026-11-19T18:20:49Z",
-    "importance": 4
+    "title": "Ether hazine şirketi BTCS, SEC'i 54 milyon dolarlık Aave kredisinin tasfiye olabileceği konusunda uyardı",
+    "summary": "Ether hazine şirketi BTCS, SEC'i 54 milyon dolarlık Aave kredisinin tasfiye olabileceği konusunda uyardı",
+    "url": "https://www.coindesk.com/markets/2026/11/21/ether-treasury-firm-btcs-warns-sec-its-usd54-million-aave-loan-could-be-liquidated",
+    "published": "2026-11-21T12:30:00Z",
+    "importance": 3
    },
    {
     "title": "Ark, ilk gününde 90 milyon dolar değerinde Anthropic hissesi satın aldı, Ethereum ve Solana staking ETF varlıklarını azalttı",
@@ -87,15 +96,6 @@
     "importance": 2
    }
   ],
-  "SKY": [
-   {
-    "title": "Yasadışı finans raporunun ardından 1,5 milyar doların rezervlerden çıkmasıyla Sky'ın USDS stablecoin'i %35 küçüldü",
-    "summary": "Yasadışı finans raporunun ardından 1,5 milyar doların rezervlerden çıkmasıyla Sky'ın USDS stablecoin'i %35 küçüldü",
-    "url": "https://www.coindesk.com/business/2026/11/19/sky-s-usds-stablecoin-shrinks-35-as-usd1-5-billion-exits-reserves-after-illicit-finance-report",
-    "published": "2026-11-19T19:53:42Z",
-    "importance": 4
-   }
-  ],
   "SOL": [
    {
     "title": "Ark, ilk gününde 90 milyon dolar değerinde Anthropic hissesi satın aldı, Ethereum ve Solana staking ETF varlıklarını azalttı",
@@ -105,16 +105,14 @@
     "importance": 3
    }
   ],
-  "USDC": [
-   {
-    "title": "Yasadışı finans raporunun ardından 1,5 milyar doların rezervlerden çıkmasıyla Sky'ın USDS stablecoin'i %35 küçüldü",
-    "summary": "Yasadışı finans raporunun ardından 1,5 milyar doların rezervlerden çıkmasıyla Sky'ın USDS stablecoin'i %35 küçüldü",
-    "url": "https://www.coindesk.com/business/2026/11/19/sky-s-usds-stablecoin-shrinks-35-as-usd1-5-billion-exits-reserves-after-illicit-finance-report",
-    "published": "2026-11-19T19:53:42Z",
-    "importance": 4
-   }
-  ],
   "XRP": [
+   {
+    "title": "Uzun pozisyonlar çözülürken ve ETF varlıkları 1 milyar doların altına düşerken XRP %10 düştü",
+    "summary": "Uzun pozisyonlar çözülürken ve ETF varlıkları 1 milyar doların altına düşerken XRP %10 düştü",
+    "url": "https://www.coindesk.com/markets/2026/11/21/xrp-falls-10-as-long-bets-unwind-and-etf-assets-slip-below-usd1-billion",
+    "published": "2026-11-21T05:59:19Z",
+    "importance": 3
+   },
    {
     "title": "CFTC Başkanı Hyperliquid ve zincir üstü platformlar hakkında, Ripple CLO'su Elizabeth Warren'ın kripto politikası belirleyeceğinden şüpheli ve daha fazlası",
     "summary": "Günlük bültende, CFTC Başkanı Selig'in Hyperliquid ve diğer zincir üstü platformların ABD pazarına nasıl girebileceğini açıkladığı ve Ripple Baş Hukuk Sorumlusu Alderoty'nin Elizabeth Warren'ın ABD kripto politikasını belirleyeceğinden şüphe duyduğu belirtiliyor.",
@@ -125,22 +123,6 @@
   ]
  },
  "seen": {
-  "https://www.coindesk.com/business/2026/11/17/live-updates-bitcoin-holds-near-usd64-000-as-tech-slides-ahead-of-nvidia-earnings": 1794911779.6742377,
-  "https://www.coindesk.com/tech/2026/11/17/hackers-planted-crypto-stealing-code-on-178-organizations-sites-including-hsbc-bbc-and-ledger": 1794911779.6742377,
-  "https://www.theblock.co/news/business/2026-11-17-tether-nomad-brazil-investment-442097": 1794911779.6742377,
-  "https://www.coindesk.com/markets/2026/11/17/nvidia-faces-first-earnings-test-without-jensen-huang-as-ai-stocks-slide": 1794911779.6742377,
-  "https://cointelegraph-tr.com/news/us-judge-acquits-brothers-25m-ethereum-mev-exploit": 1794911779.6742377,
-  "https://www.coindesk.com/business/2026/11/17/binance-hacker-moves-usd63-million-in-stolen-ether-after-two-weeks-of-silence": 1794911779.6742377,
-  "https://cointelegraph-tr.com/news/goldman-sachs-reports-122b-ether-etfs-etha-shares-jumps": 1794911779.6742377,
-  "https://www.theblock.co/news/markets/2026-11-17-grayscale-compelling-entry-points-bitcoin-442083": 1794911779.6742377,
-  "https://www.coindesk.com/markets/2026/11/17/bitcoin-could-slide-into-the-usd50-000s-as-fed-rate-hike-bets-build-wintermute-says": 1794911779.6742377,
-  "https://www.coindesk.com/tech/2026/11/17/cardano-foundation-seeks-usd5-million-from-treasury-using-ada-price-33-above-market": 1794911779.6742377,
-  "https://cointelegraph-tr.com/news/ex-robinhood-engineer-pleads-guilty-125k-crypto-trading-fraud": 1794911779.6742377,
-  "https://www.theblock.co/news/business/2026-11-17-ark-invest-buys-crypto-stocks-sells-nvidia-442080": 1794911779.6742377,
-  "https://www.theblock.co/newsletters/the-daily/2026-11-17-cz-binance-bitwise-solana-more-crypto-news-441584": 1794911779.6742377,
-  "https://www.coindesk.com/markets/2026/11/17/wells-fargo-s-reported-blackrock-bitcoin-etf-holdings-double-to-usd2-35-billion": 1794911779.6742377,
-  "https://www.coindesk.com/markets/2026/11/17/ripple-backed-evernorth-has-written-down-its-pre-listing-xrp-holdings-by-60": 1794911779.6742377,
-  "https://cointelegraph-tr.com/news/trezor-customer-data-exposed-in-3rd-partner-breach-this-year": 1794911779.6742377,
   "https://cointelegraph-tr.com/markets/bitcoin-drops-25-nvidia-stock-risks-new-5-month-low-q3-earnings": 1794943379.1633015,
   "https://www.theblock.co/news/business/2026-11-17-alpaca-says-tokenization-network-tops-10-billion-minting-redemption-volume-442667": 1794943379.1633015,
   "https://www.theblock.co/news/business/2026-11-17-anchorage-digital-kalshi-prime-hodl-margining-bitcoin-collateral-442568": 1794943379.1633015,
@@ -330,7 +312,14 @@
   "https://www.theblock.co/news/markets/2026-11-20-binance-hack-laundering-ramps-up-149-million-bitcoin-mixed-coinjoins-elliptic-444758": 1795216740.5935376,
   "https://www.theblock.co/news/markets/2026-11-20-jpmorgan-bitcoin-price-correction-gap-86000-production-cost-444763": 1795216740.5935376,
   "https://www.coindesk.com/markets/2026/11/20/bitcoin-plunges-below-usd59-000-as-rush-to-cash-puts-new-bear-market-lows-back-in-play": 1795216740.5935376,
-  "https://www.coindesk.com/markets/2026/11/21/bitcoin-tanks-below-usd57-000-for-the-first-time-in-two-years-and-its-not-alone": 1795234507.1085906
+  "https://www.coindesk.com/markets/2026/11/21/bitcoin-tanks-below-usd57-000-for-the-first-time-in-two-years-and-its-not-alone": 1795234507.1085906,
+  "https://www.coindesk.com/markets/2026/11/21/ether-treasury-firm-btcs-warns-sec-its-usd54-million-aave-loan-could-be-liquidated": 1795265871.9007974,
+  "https://cointelegraph-tr.com/news/ecb-tokenized-deposits-securities-experiments-appia": 1795265871.9007974,
+  "https://cointelegraph-tr.com/news/us-prediction-market-whistleblower-rewards-30-percent": 1795265871.9007974,
+  "https://www.coindesk.com/markets/2026/11/21/bitcoin-nodes-could-be-stalled-by-repeating-one-id-50-000-times-ai-found-the-bug": 1795265871.9007974,
+  "https://www.coindesk.com/markets/2026/11/21/xrp-falls-10-as-long-bets-unwind-and-etf-assets-slip-below-usd1-billion": 1795265871.9007974,
+  "https://cointelegraph-tr.com/news/hong-kong-crypto-custody-advisory-licensing-bill": 1795265871.9007974,
+  "https://www.theblock.co/newsletters/the-daily/2026-11-20-jpmorgan-bitcoin-price-drop-miners-senate-passes-death-bets-act-more-crypto-news-444786": 1795265871.9007974
  },
  "tries": {
   "https://www.theblock.co/news/defi/2026-10-29-uniswap-token-jar-tjar-robinhood-432131": 1
