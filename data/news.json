@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-20T23:19:00Z",
+ "updated": "2026-11-21T04:15:07Z",
  "sources": [
   "coindesk.com",
   "cointelegraph-tr.com",
@@ -7,6 +7,13 @@
  ],
  "bySymbol": {
   "BTC": [
+   {
+    "title": "Bitcoin iki yıl içinde ilk kez 57.000 doların altına geriledi ve yalnız değil",
+    "summary": "Bitcoin iki yıl içinde ilk kez 57.000 doların altına geriledi ve yalnız değil.",
+    "url": "https://www.coindesk.com/markets/2026/11/21/bitcoin-tanks-below-usd57-000-for-the-first-time-in-two-years-and-its-not-alone",
+    "published": "2026-11-21T04:10:07Z",
+    "importance": 4
+   },
    {
     "title": "JPMorgan, bitcoin fiyat düzeltmesinin tahmini 86.000 dolarlık üretim maliyeti ile olan farkı açtığını söyledi",
     "summary": "Bitcoin'in son fiyat düşüşü, piyasa fiyatı ile JPMorgan'ın tahmini 86.000 dolarlık üretim maliyeti arasındaki farkı açtı.",
@@ -55,13 +62,6 @@
     "url": "https://www.coindesk.com/daybook-us/2026/11/20/bitcoin-stocks-and-gold-traders-getting-nervous-and-volatility-gauges-are-surging",
     "published": "2026-11-20T12:15:08Z",
     "importance": 3
-   },
-   {
-    "title": "Asya teknoloji hisseleri düşerken Bitcoin üst üste üçüncü gün geriledi",
-    "summary": "Asya teknoloji hisseleri düşerken Bitcoin üst üste üçüncü gün geriledi",
-    "url": "https://www.coindesk.com/markets/2026/11/20/bitcoin-drops-for-third-straight-day-as-asian-tech-shares-slide",
-    "published": "2026-11-20T11:42:02Z",
-    "importance": 3
    }
   ],
   "ETH": [
@@ -77,13 +77,6 @@
     "summary": "Ark Invest yaklaşık 1 milyon Anthropic hissesi satın aldı ve Ethereum ile Solana staking ETF varlıklarını sarstı/azalttı.",
     "url": "https://www.theblock.co/news/markets/2026-11-20-ark-buys-90-million-worth-of-anthropic-shares-on-debut-trims-ethereum-and-solana-staking-etf-holdings-444226",
     "published": "2026-11-20T12:12:29Z",
-    "importance": 3
-   },
-   {
-    "title": "Ethereum’un yeni DeFi güvenlik aracı sansür konusunda soru işaretleri yaratıyor",
-    "summary": "Phylax’ın sistemi, merkeziyetsiz protokollerin zararlı işlemleri engellemesine olanak tanıyor; ancak olası sansür ve Ethereum’un blok üreticisi piyasası hakkında soru işaretleri doğuruyor.",
-    "url": "https://cointelegraph-tr.com/magazine/ethereums-new-defi-security-tool-raises-questions-over-censorship",
-    "published": "2026-11-19T13:30:00Z",
     "importance": 3
    },
    {
@@ -132,30 +125,6 @@
   ]
  },
  "seen": {
-  "https://cointelegraph-tr.com/news/hackers-inject-malware-into-178-major-websites": 1794880929.7301116,
-  "https://cointelegraph-tr.com/news/nvidia-shares-fall-4-as-board-reportedly-rules-out-huang-return": 1794880929.7301116,
-  "https://www.theblock.co/news/regulation/2026-11-16-cftc-blockchain-derivatives-exchange-approval-backpack-tzero-441591": 1794880929.7301116,
-  "https://cointelegraph-tr.com/news/german-lawmakers-back-crypto-freezes-outside-criminal-cases": 1794880929.7301116,
-  "https://www.coindesk.com/markets/2026/11/16/former-robinhood-engineer-pleads-guilty-to-insider-trading-scheme-on-hyperliquid": 1794880929.7301116,
-  "https://www.theblock.co/news/business/2026-11-16-trezor-hit-another-shipping-partner-data-leak-affecting-27000-skladon-orders-441524": 1794880929.7301116,
-  "https://www.theblock.co/news/regulation/2026-11-16-democratic-senators-warn-secs-tokenized-stock-exemption-illicit-finance-gaps-441432": 1794880929.7301116,
-  "https://www.coindesk.com/markets/2026/11/16/bitcoin-risks-falling-below-usd60-000-as-nvidia-earnings-threaten-to-deepen-crypto-sell-off": 1794880929.7301116,
-  "https://www.theblock.co/news/regulation/2026-11-16-peraire-bueno-brothers-acquitted-ethereum-mev-wire-fraud-441425": 1794880929.7301116,
-  "https://www.theblock.co/news/markets/2026-11-16-bitwise-solana-price-prediction-1100-2031-441407": 1794880929.7301116,
-  "https://cointelegraph-tr.com/news/boris-johnson-uk-must-lead-blockchain-development-despite-crypto-doubts": 1794880929.7301116,
-  "https://cointelegraph-tr.com/news/coinbase-broadridge-tokenized-stock-shareholder-notices": 1794880929.7301116,
-  "https://www.theblock.co/news/defi/2026-11-16-solflare-ceo-ai-security-reviews-bunker-mode-moneygram-441396": 1794880929.7301116,
-  "https://www.coindesk.com/policy/2026/11/16/u-s-senate-democrats-tell-cftc-to-back-off-its-demand-prediction-markets-defy-bans": 1794880929.7301116,
-  "https://www.theblock.co/news/business/2026-11-16-winklevoss-cypherpunk-buys-zcash-dip-mining-debut-delivers-2-6-million-operating-profit-441392": 1794880929.7301116,
-  "https://cointelegraph-tr.com/news/nvidia-turmoil-tests-bitcoin-miners-ai-funding-plans": 1794880929.7301116,
-  "https://www.theblock.co/news/web3/2026-11-16-japan-tokenized-government-bonds-standard-chartered-rwa-2-trillion-441384": 1794880929.7301116,
-  "https://cointelegraph-tr.com/news/safe-wallet-reportedly-loses-millions-after-key-compromise": 1794880929.7301116,
-  "https://www.theblock.co/news/ecosystems/2026-11-16-privacy-solana-non-negotiable-institutional-adoption-mert-mumtaz-says-441363": 1794880929.7301116,
-  "https://www.theblock.co/news/regulation/2026-11-16-supreme-court-rejects-custodia-banks-bid-for-fed-master-account-441376": 1794880929.7301116,
-  "https://www.theblock.co/news/regulation/2026-11-16-boris-johnson-backs-tokenization-months-after-bitcoin-to-ponzi-scheme-441368": 1794880929.7301116,
-  "https://www.coindesk.com/tech/2026/11/16/lighter-suspends-all-withdrawals-after-usd10-4-million-crypto-exploit": 1794880929.7301116,
-  "https://cointelegraph-tr.com/markets/bitcoin-price-fails-to-hold-65k-us-stocks-drop-on-ai-nerves": 1794880929.7301116,
-  "https://www.theblock.co/news/markets/2026-11-16-defi-development-solana-treasury-2-62-million-sol-441361": 1794880929.7301116,
   "https://www.coindesk.com/business/2026/11/17/live-updates-bitcoin-holds-near-usd64-000-as-tech-slides-ahead-of-nvidia-earnings": 1794911779.6742377,
   "https://www.coindesk.com/tech/2026/11/17/hackers-planted-crypto-stealing-code-on-178-organizations-sites-including-hsbc-bbc-and-ledger": 1794911779.6742377,
   "https://www.theblock.co/news/business/2026-11-17-tether-nomad-brazil-investment-442097": 1794911779.6742377,
@@ -360,7 +329,8 @@
   "https://cointelegraph-tr.com/news/sky-protocol-sees-2b-in-stablecoin-withdrawals-disputes-illicit-fund-claims": 1795216740.5935376,
   "https://www.theblock.co/news/markets/2026-11-20-binance-hack-laundering-ramps-up-149-million-bitcoin-mixed-coinjoins-elliptic-444758": 1795216740.5935376,
   "https://www.theblock.co/news/markets/2026-11-20-jpmorgan-bitcoin-price-correction-gap-86000-production-cost-444763": 1795216740.5935376,
-  "https://www.coindesk.com/markets/2026/11/20/bitcoin-plunges-below-usd59-000-as-rush-to-cash-puts-new-bear-market-lows-back-in-play": 1795216740.5935376
+  "https://www.coindesk.com/markets/2026/11/20/bitcoin-plunges-below-usd59-000-as-rush-to-cash-puts-new-bear-market-lows-back-in-play": 1795216740.5935376,
+  "https://www.coindesk.com/markets/2026/11/21/bitcoin-tanks-below-usd57-000-for-the-first-time-in-two-years-and-its-not-alone": 1795234507.1085906
  },
  "tries": {
   "https://www.theblock.co/news/defi/2026-10-29-uniswap-token-jar-tjar-robinhood-432131": 1
