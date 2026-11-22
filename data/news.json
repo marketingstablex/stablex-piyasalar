@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-21T20:02:34Z",
+ "updated": "2026-11-22T00:16:57Z",
  "sources": [
   "coindesk.com",
   "cointelegraph-tr.com",
@@ -52,20 +52,6 @@
     "importance": 4
    },
    {
-    "title": "Bitcoin, 2023’teki 25.000 dolarlık yeniden testi önceleyen grafik modelini tekrarlamaya yaklaşıyor",
-    "summary": "Bitcoin'in 21 günlük hareketli ortalaması 200 günlük ortalamasının altına geriledi. Analist Keith Alan, pazar gününe kadar ikinci bir ayı yönlü kesişim bekliyor.",
-    "url": "https://cointelegraph-tr.com/markets/bitcoin-first-death-cross-repeat-2023-bottom-25k",
-    "published": "2026-11-20T10:29:10Z",
-    "importance": 4
-   },
-   {
-    "title": "BlackRock’ın IBIT’i Anthropic’in piyasa başlangıcının ardından rekor 541 milyon dolarlık çıkış yaşadı",
-    "summary": "BlackRock’ın IBIT fonu, şimdiye kadarki en büyük günlük net çıkışını kaydederek 541 milyon dolarlık bir düşüş yaşadı. Bitcoin daha geniş çaplı piyasa satışları sırasında gerilerken, fonun üç seanstaki toplam çıkışı 900 milyon dolara yaklaştı.",
-    "url": "https://cointelegraph-tr.com/markets/blackrock-ibit-record-single-day-outflow",
-    "published": "2026-11-20T08:18:42Z",
-    "importance": 4
-   },
-   {
     "title": "Bitcoin düğümleri, bir ID'nin 50.000 kez tekrarlanmasıyla durdurulabilir. Hatayı yapay zeka buldu",
     "summary": "Bitcoin düğümleri, bir ID'nin 50.000 kez tekrarlanmasıyla durdurulabilir. Hatayı yapay zeka buldu",
     "url": "https://www.coindesk.com/markets/2026/11/21/bitcoin-nodes-could-be-stalled-by-repeating-one-id-50-000-times-ai-found-the-bug",
@@ -82,27 +68,11 @@
     "importance": 3
    },
    {
-    "title": "Ark, ilk gününde 90 milyon dolar değerinde Anthropic hissesi satın aldı, Ethereum ve Solana staking ETF varlıklarını azalttı",
-    "summary": "Ark Invest yaklaşık 1 milyon Anthropic hissesi satın aldı ve Ethereum ile Solana staking ETF varlıklarını sarstı/azalttı.",
-    "url": "https://www.theblock.co/news/markets/2026-11-20-ark-buys-90-million-worth-of-anthropic-shares-on-debut-trims-ethereum-and-solana-staking-etf-holdings-444226",
-    "published": "2026-11-20T12:12:29Z",
-    "importance": 3
-   },
-   {
     "title": "Fairmint, SEC deneyi kapsamında Canton ve Ethereum üzerinde tokenleştirilmiş hisse senedi piyasası planlıyor",
     "summary": "Fairmint, SEC deneyi kapsamında Canton ve Ethereum üzerinde tokenleştirilmiş hisse senedi piyasası planlıyor",
     "url": "https://www.coindesk.com/business/2026/11/20/fairmint-plans-tokenized-stock-venue-on-canton-ethereum-under-sec-experiment",
     "published": "2026-11-20T22:05:31Z",
     "importance": 2
-   }
-  ],
-  "SOL": [
-   {
-    "title": "Ark, ilk gününde 90 milyon dolar değerinde Anthropic hissesi satın aldı, Ethereum ve Solana staking ETF varlıklarını azalttı",
-    "summary": "Ark Invest yaklaşık 1 milyon Anthropic hissesi satın aldı ve Ethereum ile Solana staking ETF varlıklarını sarstı/azalttı.",
-    "url": "https://www.theblock.co/news/markets/2026-11-20-ark-buys-90-million-worth-of-anthropic-shares-on-debut-trims-ethereum-and-solana-staking-etf-holdings-444226",
-    "published": "2026-11-20T12:12:29Z",
-    "importance": 3
    }
   ],
   "XRP": [
@@ -293,7 +263,8 @@
   "https://www.theblock.co/news/defi/2026-11-21-cyber-investigating-suspected-1-million-bridge-exploit-as-upbit-bithumb-freeze-transfers-444810": 1795291354.2920885,
   "https://www.coindesk.com/markets/2026/11/21/bitcoin-bounces-9-from-two-year-low-to-retake-usd60-000-as-traders-eye-monday-s-stock-open": 1795291354.2920885,
   "https://www.coindesk.com/business/2026/11/21/cross-chain-protocol-chainflip-s-flip-tanks-30-after-suspected-usd4-86-million-vault-drain": 1795291354.2920885,
-  "https://www.theblock.co/news/defi/2026-11-21-chainflips-flip-drops-34-after-attacker-drains-4-86-million-from-vault-with-suspected-key-compromise-444804": 1795291354.2920885
+  "https://www.theblock.co/news/defi/2026-11-21-chainflips-flip-drops-34-after-attacker-drains-4-86-million-from-vault-with-suspected-key-compromise-444804": 1795291354.2920885,
+  "https://www.theblock.co/news/regulation/2026-11-21-kalshi-faces-monday-hearing-on-new-york-order-it-says-would-shut-down-its-exchange-nationwide-444813": 1795306617.2830553
  },
  "tries": {
   "https://www.theblock.co/news/defi/2026-10-29-uniswap-token-jar-tjar-robinhood-432131": 1
