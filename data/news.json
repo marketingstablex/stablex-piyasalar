@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-22T15:38:01Z",
+ "updated": "2026-11-22T21:42:34Z",
  "sources": [
   "coindesk.com",
   "cointelegraph-tr.com",
@@ -17,17 +17,17 @@
   ],
   "BTC": [
    {
+    "title": "Chainflip, 122,9 BTC'lik hırsızlığı açıklamasının ardından 12 milyon dolara tırmanan kayıplar için korsana ödül teklif etti",
+    "summary": "Chainflip, saldırgana çalınan BTC, ETH ve stablecoin'lerin kalan kısmını Pazartesi gününe kadar iade etmesi karşılığında yüzde 10'luk bir ödül teklif etti.",
+    "url": "https://www.theblock.co/news/defi/2026-11-22-chainflips-losses-climb-to-12-million-after-protocol-discloses-122-9-btc-theft-offers-hacker-bounty-444829",
+    "published": "2026-11-22T18:58:57Z",
+    "importance": 4
+   },
+   {
     "title": "Bitcoin iki yıllık dip seviyesinden %9 toparlanarak 60.000 doları geri aldı",
     "summary": "Bitcoin iki yıllık dip seviyesinden %9 toparlanarak 60.000 doları geri aldı.",
     "url": "https://www.coindesk.com/markets/2026/11/21/bitcoin-bounces-9-from-two-year-low-to-retake-usd60-000-as-traders-eye-monday-s-stock-open",
     "published": "2026-11-21T17:50:00Z",
-    "importance": 4
-   },
-   {
-    "title": "Bitcoin iki yıl içinde ilk kez 57.000 doların altına geriledi ve yalnız değil",
-    "summary": "Bitcoin iki yıl içinde ilk kez 57.000 doların altına geriledi ve yalnız değil.",
-    "url": "https://www.coindesk.com/markets/2026/11/21/bitcoin-tanks-below-usd57-000-for-the-first-time-in-two-years-and-its-not-alone",
-    "published": "2026-11-21T04:10:07Z",
     "importance": 4
    },
    {
@@ -36,16 +36,16 @@
     "url": "https://www.coindesk.com/tech/2026/11/22/bitcoin-s-quantum-security-challenge-extends-to-bridges-custodians-and-millions-of-coins",
     "published": "2026-11-22T14:00:00Z",
     "importance": 3
-   },
-   {
-    "title": "Bitcoin düğümleri, bir ID'nin 50.000 kez tekrarlanmasıyla durdurulabilir. Hatayı yapay zeka buldu",
-    "summary": "Bitcoin düğümleri, bir ID'nin 50.000 kez tekrarlanmasıyla durdurulabilir. Hatayı yapay zeka buldu",
-    "url": "https://www.coindesk.com/markets/2026/11/21/bitcoin-nodes-could-be-stalled-by-repeating-one-id-50-000-times-ai-found-the-bug",
-    "published": "2026-11-21T06:16:42Z",
-    "importance": 3
    }
   ],
   "ETH": [
+   {
+    "title": "Chainflip, 122,9 BTC'lik hırsızlığı açıklamasının ardından 12 milyon dolara tırmanan kayıplar için korsana ödül teklif etti",
+    "summary": "Chainflip, saldırgana çalınan BTC, ETH ve stablecoin'lerin kalan kısmını Pazartesi gününe kadar iade etmesi karşılığında yüzde 10'luk bir ödül teklif etti.",
+    "url": "https://www.theblock.co/news/defi/2026-11-22-chainflips-losses-climb-to-12-million-after-protocol-discloses-122-9-btc-theft-offers-hacker-bounty-444829",
+    "published": "2026-11-22T18:58:57Z",
+    "importance": 4
+   },
    {
     "title": "Ether hazine şirketi BTCS, SEC'i 54 milyon dolarlık Aave kredisinin tasfiye olabileceği konusunda uyardı",
     "summary": "Ether hazine şirketi BTCS, SEC'i 54 milyon dolarlık Aave kredisinin tasfiye olabileceği konusunda uyardı",
@@ -54,35 +54,17 @@
     "importance": 3
    }
   ],
-  "XRP": [
+  "TRUMP": [
    {
-    "title": "Uzun pozisyonlar çözülürken ve ETF varlıkları 1 milyar doların altına düşerken XRP %10 düştü",
-    "summary": "Uzun pozisyonlar çözülürken ve ETF varlıkları 1 milyar doların altına düşerken XRP %10 düştü",
-    "url": "https://www.coindesk.com/markets/2026/11/21/xrp-falls-10-as-long-bets-unwind-and-etf-assets-slip-below-usd1-billion",
-    "published": "2026-11-21T05:59:19Z",
-    "importance": 3
+    "title": "Trump, TRUMP coini zirvesinden %99 düşmüşken ikinci memecoin akşam yemeğine ev sahipliği yapacak",
+    "summary": "Boksör Floyd Mayweather, \"Shark Tank\" yatırımcısı Kevin O'Leary ve NBA şampiyonu Tristan Thompson'ın akşam yemeğinde yer alması planlanıyor.",
+    "url": "https://www.theblock.co/news/ecosystems/2026-11-22-trump-to-host-second-memecoin-dinner-tonight-with-trump-down-99-from-peak-444828",
+    "published": "2026-11-22T20:58:33Z",
+    "importance": 2
    }
   ]
  },
  "seen": {
-  "https://www.coindesk.com/business/2026/11/18/a-usd1-5-billion-crypto-startup-is-taking-on-hyperliquid-with-a-wall-street-playbook": 1795027700.494722,
-  "https://www.theblock.co/news/markets/2026-11-18-cryptoquant-bitcoin-bearish-value-zone-443471": 1795027700.494722,
-  "https://cointelegraph-tr.com/news/25m-ethereum-mev-acquittal-tests-criminal-enforcement-limits": 1795027700.494722,
-  "https://www.theblock.co/news/business/2026-11-18-bullishs-q3-adjusted-profit-rises-35-digital-asset-sales-fall-23-443456": 1795027700.494722,
-  "https://cointelegraph-tr.com/news/polymarket-us-takes-rapid-fire-crypto-trading-format-oil-natural-gas": 1795027700.494722,
-  "https://cointelegraph-tr.com/markets/bitcoin-stocks-wobble-waller-talks-shock-50-point-rate-hike": 1795027700.494722,
-  "https://www.theblock.co/news/business/2026-11-18-visa-direct-extend-stablecoin-prefunding-cross-border-payouts-asia-pacific-443457": 1795027700.494722,
-  "https://www.coindesk.com/coindesk-indices/2026/11/18/crypto-long-and-short-crypto-exchanges-shouldn-t-double-as-the-vault": 1795027700.494722,
-  "https://cointelegraph-tr.com/magazine/how-to-preserve-wealth-and-access-it-during-a-national-emergency": 1795027700.494722,
-  "https://www.coindesk.com/markets/2026/11/18/bitcoin-miner-mara-raises-usd185-million-in-debt-after-selling-usd1-billion-btc-to-repay-loans": 1795027700.494722,
-  "https://www.coindesk.com/markets/2026/11/18/bullish-beats-revenue-estimates-as-institutional-services-offset-sluggish-spot-crypto-volumes": 1795027700.494722,
-  "https://www.coindesk.com/business/2026/11/18/circle-turns-to-dbs-as-banks-build-rival-digital-payment-systems-across-asia": 1795027700.494722,
-  "https://www.coindesk.com/daybook-us/2026/11/18/blaming-anthropic-s-ipo-for-bitcoin-s-slide-is-easy-to-believe-but-flawed-analysts-say": 1795027700.494722,
-  "https://www.coindesk.com/markets/2026/11/18/bitcoin-drops-as-nvidia-earnings-report-drives-stock-index-futures-higher": 1795027700.494722,
-  "https://www.theblock.co/news/ecosystems/2026-11-18-td-cowen-maintains-buy-rating-sharplink-442987": 1795027700.494722,
-  "https://www.coindesk.com/markets/2026/11/18/bitcoin-outpaces-gold-even-as-both-assets-tumble-ahead-of-a-likely-fed-rate-hike": 1795027700.494722,
-  "https://cointelegraph-tr.com/news/bitwise-zcash-etf-texas-stock-exchange-listing": 1795027700.494722,
-  "https://cointelegraph-tr.com/markets/bitcoin-60k-liquidity-stocks-gain-nvidia-1158b-earnings-beat": 1795027700.494722,
   "https://www.coindesk.com/policy/2026/11/18/another-u-s-appellate-court-goes-against-kalshi-building-the-industry-s-legal-headwinds": 1795050366.1862607,
   "https://www.coindesk.com/business/2026/11/18/payward-the-owner-of-crypto-exchange-kraken-is-buying-its-ceo-s-venture-capital-business-tribe": 1795050366.1862607,
   "https://www.theblock.co/news/regulation/2026-11-18-senators-treasury-must-ensure-equal-footing-for-stablecoin-issuers-in-genius-act-implementation-443501": 1795050366.1862607,
@@ -213,7 +195,10 @@
   "https://www.theblock.co/news/regulation/2026-11-21-kalshi-faces-monday-hearing-on-new-york-order-it-says-would-shut-down-its-exchange-nationwide-444813": 1795306617.2830553,
   "https://cointelegraph-tr.com/news/chainflip-12m-crypto-hack-10-percent-bounty": 1795332242.740463,
   "https://www.coindesk.com/tech/2026/11/22/bitcoin-s-quantum-security-challenge-extends-to-bridges-custodians-and-millions-of-coins": 1795361881.2351315,
-  "https://cointelegraph-tr.com/news/upbit-bithumb-suspend-cyber-transfers-bridge-exploit": 1795361881.2351315
+  "https://cointelegraph-tr.com/news/upbit-bithumb-suspend-cyber-transfers-bridge-exploit": 1795361881.2351315,
+  "https://www.theblock.co/news/ecosystems/2026-11-22-trump-to-host-second-memecoin-dinner-tonight-with-trump-down-99-from-peak-444828": 1795383754.3834121,
+  "https://www.coindesk.com/": 1795383754.3834121,
+  "https://www.theblock.co/news/defi/2026-11-22-chainflips-losses-climb-to-12-million-after-protocol-discloses-122-9-btc-theft-offers-hacker-bounty-444829": 1795383754.3834121
  },
  "tries": {
   "https://www.theblock.co/news/defi/2026-10-29-uniswap-token-jar-tjar-robinhood-432131": 1
