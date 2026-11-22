@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-22T07:24:02Z",
+ "updated": "2026-11-22T15:38:01Z",
  "sources": [
   "coindesk.com",
   "cointelegraph-tr.com",
@@ -31,6 +31,13 @@
     "importance": 4
    },
    {
+    "title": "Bitcoin'in kuantum güvenliği mücadelesi köprülere, saklayıcılara ve milyonlarca coine uzanıyor",
+    "summary": "Bitcoin'in kuantum güvenliği mücadelesi köprülere, saklayıcılara ve milyonlarca coine uzanıyor.",
+    "url": "https://www.coindesk.com/tech/2026/11/22/bitcoin-s-quantum-security-challenge-extends-to-bridges-custodians-and-millions-of-coins",
+    "published": "2026-11-22T14:00:00Z",
+    "importance": 3
+   },
+   {
     "title": "Bitcoin düğümleri, bir ID'nin 50.000 kez tekrarlanmasıyla durdurulabilir. Hatayı yapay zeka buldu",
     "summary": "Bitcoin düğümleri, bir ID'nin 50.000 kez tekrarlanmasıyla durdurulabilir. Hatayı yapay zeka buldu",
     "url": "https://www.coindesk.com/markets/2026/11/21/bitcoin-nodes-could-be-stalled-by-repeating-one-id-50-000-times-ai-found-the-bug",
@@ -45,13 +52,6 @@
     "url": "https://www.coindesk.com/markets/2026/11/21/ether-treasury-firm-btcs-warns-sec-its-usd54-million-aave-loan-could-be-liquidated",
     "published": "2026-11-21T12:30:00Z",
     "importance": 3
-   },
-   {
-    "title": "Fairmint, SEC deneyi kapsamında Canton ve Ethereum üzerinde tokenleştirilmiş hisse senedi piyasası planlıyor",
-    "summary": "Fairmint, SEC deneyi kapsamında Canton ve Ethereum üzerinde tokenleştirilmiş hisse senedi piyasası planlıyor",
-    "url": "https://www.coindesk.com/business/2026/11/20/fairmint-plans-tokenized-stock-venue-on-canton-ethereum-under-sec-experiment",
-    "published": "2026-11-20T22:05:31Z",
-    "importance": 2
    }
   ],
   "XRP": [
@@ -65,23 +65,6 @@
   ]
  },
  "seen": {
-  "https://www.coindesk.com/markets/2026/11/18/strategy-stock-could-crash-76-to-usd23-chart-analyst-warns": 1794996119.3193457,
-  "https://www.theblock.co/news/business/2026-11-18-dbs-circle-usdc-asia-442970": 1794996119.3193457,
-  "https://cointelegraph-tr.com/news/world-bank-circle-citi-explore-stablecoins-payments": 1794996119.3193457,
-  "https://www.coindesk.com/business/2026/11/18/hyundai-tests-ai-agent-commerce-on-jpmorgan-s-kinexys-blockchain": 1794996119.3193457,
-  "https://www.theblock.co/news/regulation/2026-11-18-hong-kong-agentic-ai-crypto-crime-442959": 1794996119.3193457,
-  "https://cointelegraph-tr.com/markets/solana-sol-gains-7-percent-breakpoint-beta-tokenization": 1794996119.3193457,
-  "https://cointelegraph-tr.com/markets/bitcoin-etf-240-million-outflow-bearish-phase": 1794996119.3193457,
-  "https://www.coindesk.com/tech/2026/11/18/google-finds-self-running-ai-hacking-tool-with-russian-comments-in-its-files": 1794996119.3193457,
-  "https://www.coindesk.com/business/2026/11/18/live-updates-bitcoin-stuck-near-usd65-000-as-popular-basis-trade-returns-dry-up": 1794996119.3193457,
-  "https://www.coindesk.com/policy/2026/11/18/u-s-judge-says-ethereum-has-no-terms-of-use-clears-mit-brothers-of-usd25-million-fraud": 1794996119.3193457,
-  "https://www.theblock.co/newsletters/the-daily/2026-11-18-ark-invest-crypto-stocks-nvidia-coinbase-loans-new-york-crypto-news-442902": 1794996119.3193457,
-  "https://www.coindesk.com/markets/2026/11/18/bitcoin-s-rare-12-crash-through-its-200-week-average-has-a-bullish-track-record": 1794996119.3193457,
-  "https://www.coindesk.com/markets/2026/11/18/xrp-whales-moved-usd270-million-during-the-selloff-the-coins-didn-t-go-to-exchanges": 1794996119.3193457,
-  "https://www.theblock.co/news/business/2026-11-17-world-bank-group-citi-circle-fund-disbursements-442924": 1794996119.3193457,
-  "https://www.theblock.co/news/defi/2026-11-17-coinbase-ai-defense-deepfake-elon-musk-442918": 1794996119.3193457,
-  "https://www.theblock.co/newsletters/the-funding/2026-11-17-crypto-startup-valuations-442903": 1794996119.3193457,
-  "https://cointelegraph-tr.com/news/ledger-hardware-implant-saga-reaches-dubais-virgin-megastore": 1794996119.3193457,
   "https://www.coindesk.com/business/2026/11/18/a-usd1-5-billion-crypto-startup-is-taking-on-hyperliquid-with-a-wall-street-playbook": 1795027700.494722,
   "https://www.theblock.co/news/markets/2026-11-18-cryptoquant-bitcoin-bearish-value-zone-443471": 1795027700.494722,
   "https://cointelegraph-tr.com/news/25m-ethereum-mev-acquittal-tests-criminal-enforcement-limits": 1795027700.494722,
@@ -228,7 +211,9 @@
   "https://www.coindesk.com/business/2026/11/21/cross-chain-protocol-chainflip-s-flip-tanks-30-after-suspected-usd4-86-million-vault-drain": 1795291354.2920885,
   "https://www.theblock.co/news/defi/2026-11-21-chainflips-flip-drops-34-after-attacker-drains-4-86-million-from-vault-with-suspected-key-compromise-444804": 1795291354.2920885,
   "https://www.theblock.co/news/regulation/2026-11-21-kalshi-faces-monday-hearing-on-new-york-order-it-says-would-shut-down-its-exchange-nationwide-444813": 1795306617.2830553,
-  "https://cointelegraph-tr.com/news/chainflip-12m-crypto-hack-10-percent-bounty": 1795332242.740463
+  "https://cointelegraph-tr.com/news/chainflip-12m-crypto-hack-10-percent-bounty": 1795332242.740463,
+  "https://www.coindesk.com/tech/2026/11/22/bitcoin-s-quantum-security-challenge-extends-to-bridges-custodians-and-millions-of-coins": 1795361881.2351315,
+  "https://cointelegraph-tr.com/news/upbit-bithumb-suspend-cyber-transfers-bridge-exploit": 1795361881.2351315
  },
  "tries": {
   "https://www.theblock.co/news/defi/2026-10-29-uniswap-token-jar-tjar-robinhood-432131": 1
