@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-22T00:16:57Z",
+ "updated": "2026-11-22T07:24:02Z",
  "sources": [
   "coindesk.com",
   "cointelegraph-tr.com",
@@ -28,27 +28,6 @@
     "summary": "Bitcoin iki yıl içinde ilk kez 57.000 doların altına geriledi ve yalnız değil.",
     "url": "https://www.coindesk.com/markets/2026/11/21/bitcoin-tanks-below-usd57-000-for-the-first-time-in-two-years-and-its-not-alone",
     "published": "2026-11-21T04:10:07Z",
-    "importance": 4
-   },
-   {
-    "title": "JPMorgan, bitcoin fiyat düzeltmesinin tahmini 86.000 dolarlık üretim maliyeti ile olan farkı açtığını söyledi",
-    "summary": "Bitcoin'in son fiyat düşüşü, piyasa fiyatı ile JPMorgan'ın tahmini 86.000 dolarlık üretim maliyeti arasındaki farkı açtı.",
-    "url": "https://www.theblock.co/news/markets/2026-11-20-jpmorgan-bitcoin-price-correction-gap-86000-production-cost-444763",
-    "published": "2026-11-20T18:17:39Z",
-    "importance": 4
-   },
-   {
-    "title": "Bitcoin, nakde kaçışın yeni ayı piyasası dip seviyelerini yeniden gündeme getirmesiyle 59.000 doların altına düştü",
-    "summary": "Bitcoin, nakde kaçışın etkisiyle 59.000 doların altına geriledi ve bu durum yeni ayı piyasası dip seviyelerini yeniden gündeme getirdi.",
-    "url": "https://www.coindesk.com/markets/2026/11/20/bitcoin-plunges-below-usd59-000-as-rush-to-cash-puts-new-bear-market-lows-back-in-play",
-    "published": "2026-11-20T18:13:52Z",
-    "importance": 4
-   },
-   {
-    "title": "Bitcoin fiyatı, teknoloji satış dalgasında Anthropic hisselerinin 87 dolara gerilemesiyle 60.000 dolara düştü",
-    "summary": "Yatırımcıların Anthropic’in halka arzının ardından yapay zeka beklentilerini yeniden değerlendirmesiyle ABD hisse senetlerindeki düşüş, Bitcoin fiyatındaki gücü baskıladı.",
-    "url": "https://cointelegraph-tr.com/markets/bitcoin-hits-new-20-week-low-anthropic-drops-87-tech-sell-off",
-    "published": "2026-11-20T15:52:06Z",
     "importance": 4
    },
    {
@@ -86,22 +65,6 @@
   ]
  },
  "seen": {
-  "https://www.coindesk.com/policy/2026/11/17/nominee-says-u-s-cftc-must-think-hard-about-public-benefit-of-prediction-markets": 1794966653.9350455,
-  "https://cointelegraph-tr.com/markets/nvidia-board-rejects-huang-comeback-amid-record-116b-quarter": 1794966653.9350455,
-  "https://www.theblock.co/news/regulation/2026-11-17-trumps-cftc-picks-face-senate-scrutiny-as-prediction-market-turf-war-heats-up-442909": 1794966653.9350455,
-  "https://www.theblock.co/news/business/2026-11-17-robinhoods-non-sports-prediction-market-share-doubles-mizuho-442904": 1794966653.9350455,
-  "https://cointelegraph-tr.com/news/cftc-kalshi-trump-mention-markets-review": 1794966653.9350455,
-  "https://www.coindesk.com/markets/2026/11/17/nvidia-tops-estimates-issues-strong-guidance-adds-usd150-billion-to-buyback-authorization": 1794966653.9350455,
-  "https://www.coindesk.com/markets/2026/11/17/coinbase-ceo-says-ai-agents-will-account-for-99-9-of-transactions-within-a-decade": 1794966653.9350455,
-  "https://www.theblock.co/news/ecosystems/2026-11-17-jito-lucas-bruder-crypto-builders-need-slow-down-fix-security-weaknesses-442850": 1794966653.9350455,
-  "https://www.coindesk.com/policy/2026/11/17/predictions-platform-kalshi-complies-with-order-to-halt-trump-mention-contracts": 1794966653.9350455,
-  "https://www.theblock.co/news/business/2026-11-17-coinbase-borrow-new-york-morpho-442842": 1794966653.9350455,
-  "https://cointelegraph-tr.com/news/lighter-incident-exposes-risks-beyond-withdrawal-controls": 1794966653.9350455,
-  "https://www.coindesk.com/business/2026/11/17/druckenmiller-says-he-is-short-copper-warns-of-economic-weakness-in-2027": 1794966653.9350455,
-  "https://www.theblock.co/news/business/2026-11-17-fomo-pays-creators-30-million-sharing-lions-share-revenue-park-says-442332": 1794966653.9350455,
-  "https://cointelegraph-tr.com/news/feds-waller-cites-binance-hack-in-warning-over-tokenized-finance": 1794966653.9350455,
-  "https://www.theblock.co/newsletters/data-and-insights/2026-11-17-everyone-is-trading-tokenized-nvidia-derivatives-442818": 1794966653.9350455,
-  "https://www.coindesk.com/policy/2026/11/17/u-s-fed-governor-waller-pitches-keeping-central-bank-at-the-center-of-tokenization": 1794966653.9350455,
   "https://www.coindesk.com/markets/2026/11/18/strategy-stock-could-crash-76-to-usd23-chart-analyst-warns": 1794996119.3193457,
   "https://www.theblock.co/news/business/2026-11-18-dbs-circle-usdc-asia-442970": 1794996119.3193457,
   "https://cointelegraph-tr.com/news/world-bank-circle-citi-explore-stablecoins-payments": 1794996119.3193457,
@@ -264,7 +227,8 @@
   "https://www.coindesk.com/markets/2026/11/21/bitcoin-bounces-9-from-two-year-low-to-retake-usd60-000-as-traders-eye-monday-s-stock-open": 1795291354.2920885,
   "https://www.coindesk.com/business/2026/11/21/cross-chain-protocol-chainflip-s-flip-tanks-30-after-suspected-usd4-86-million-vault-drain": 1795291354.2920885,
   "https://www.theblock.co/news/defi/2026-11-21-chainflips-flip-drops-34-after-attacker-drains-4-86-million-from-vault-with-suspected-key-compromise-444804": 1795291354.2920885,
-  "https://www.theblock.co/news/regulation/2026-11-21-kalshi-faces-monday-hearing-on-new-york-order-it-says-would-shut-down-its-exchange-nationwide-444813": 1795306617.2830553
+  "https://www.theblock.co/news/regulation/2026-11-21-kalshi-faces-monday-hearing-on-new-york-order-it-says-would-shut-down-its-exchange-nationwide-444813": 1795306617.2830553,
+  "https://cointelegraph-tr.com/news/chainflip-12m-crypto-hack-10-percent-bounty": 1795332242.740463
  },
  "tries": {
   "https://www.theblock.co/news/defi/2026-10-29-uniswap-token-jar-tjar-robinhood-432131": 1
