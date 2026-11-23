@@ -1,12 +1,28 @@
 {
- "updated": "2026-11-23T02:36:07Z",
+ "updated": "2026-11-23T11:15:03Z",
  "sources": [
   "coindesk.com",
   "cointelegraph-tr.com",
   "theblock.co"
  ],
  "bySymbol": {
+  "ADA": [
+   {
+    "title": "Cardano sahipleri amiral gemisi etkinliği için yapılan 4 milyon dolarlık talebi reddediyor",
+    "summary": "Cardano sahipleri amiral gemisi etkinliği için yapılan 4 milyon dolarlık talebi reddediyor.",
+    "url": "https://www.coindesk.com/markets/2026/11/23/cardano-holders-are-turning-down-a-usd4-million-request-for-running-its-flagship-event",
+    "published": "2026-11-23T06:15:45Z",
+    "importance": 2
+   }
+  ],
   "BTC": [
+   {
+    "title": "Analistlere göre spot Bitcoin ETF'leri çıkışlar \"yapısal\" hale geldikçe geçen hafta 1,8 milyar dolar kaybetti",
+    "summary": "Analistler, riskten kaçınan yatırımcıların aralık ayında yeni bir faiz artırımı bekledikleri için kripto ürünlerinden uzaklaşmaya devam ettiğini belirtti.",
+    "url": "https://www.theblock.co/news/markets/2026-11-23-spot-bitcoin-etfs-shed-1-79-billion-in-past-week-444857",
+    "published": "2026-11-23T05:47:21Z",
+    "importance": 4
+   },
    {
     "title": "Bitcoin’ın Büyük Toparlanması Sürecek mi? Daha Fazla Kurcalanmış Ledger Bulundu",
     "summary": "Bitcoin yeni döngü dip seviyesinden sert bir şekilde toparlanırken 55.110 doların gerçek bir dip olup olmadığı merak ediliyor. Öte yandan Ledger, Berlin ve BAE’de tespit edilen kurcalanmış cihazlara ilişkin yeni raporları araştırıyor.",
@@ -22,11 +38,18 @@
     "importance": 4
    },
    {
-    "title": "Bitcoin iki yıllık dip seviyesinden %9 toparlanarak 60.000 doları geri aldı",
-    "summary": "Bitcoin iki yıllık dip seviyesinden %9 toparlanarak 60.000 doları geri aldı.",
-    "url": "https://www.coindesk.com/markets/2026/11/21/bitcoin-bounces-9-from-two-year-low-to-retake-usd60-000-as-traders-eye-monday-s-stock-open",
-    "published": "2026-11-21T17:50:00Z",
-    "importance": 4
+    "title": "Bitcoin rekortmen 'düşen tepeler' serisini kırdı: Bu ne anlama geliyor",
+    "summary": "Bitcoin rekortmen 'düşen tepeler' serisini kırdı.",
+    "url": "https://www.coindesk.com/markets/2026/11/23/bitcoin-breaks-a-record-streak-of-lower-highs-here-s-what-it-means",
+    "published": "2026-11-23T10:31:02Z",
+    "importance": 3
+   },
+   {
+    "title": "Bu İsveçli bitcoin hazine şirketi, kendi varlıklarının bir kısmını alıp satarken 30 BTC kaybetti",
+    "summary": "Bu İsveçli bitcoin hazine şirketi, kendi varlıklarının bir kısmını alıp satarken 30 BTC kaybetti.",
+    "url": "https://www.coindesk.com/markets/2026/11/23/this-swedish-bitcoin-treasury-firm-lost-30-btc-trading-part-of-its-own-stack",
+    "published": "2026-11-23T07:18:45Z",
+    "importance": 3
    },
    {
     "title": "Bitcoin'in kuantum güvenliği mücadelesi köprülere, saklayıcılara ve milyonlarca coine uzanıyor",
@@ -43,6 +66,22 @@
     "url": "https://www.theblock.co/news/defi/2026-11-22-chainflips-losses-climb-to-12-million-after-protocol-discloses-122-9-btc-theft-offers-hacker-bounty-444829",
     "published": "2026-11-22T18:58:57Z",
     "importance": 4
+   },
+   {
+    "title": "Ark, geçen hafta 146 milyon dolarlık Anthropic hissesi satın aldı, Ethereum ve Solana Staking ETF varlıklarını azalttı",
+    "summary": "Cathie Wood'un yönetimindeki Ark Invest, perşembe günkü halka arzından bu yana 1,64 milyon adet Anthropic hissesini 145,9 milyon dolar karşılığında satın aldı.",
+    "url": "https://www.theblock.co/news/business/2026-11-23-ark-buys-146-million-worth-anthropic-since-debut-444866",
+    "published": "2026-11-23T07:12:52Z",
+    "importance": 3
+   }
+  ],
+  "SOL": [
+   {
+    "title": "Ark, geçen hafta 146 milyon dolarlık Anthropic hissesi satın aldı, Ethereum ve Solana Staking ETF varlıklarını azalttı",
+    "summary": "Cathie Wood'un yönetimindeki Ark Invest, perşembe günkü halka arzından bu yana 1,64 milyon adet Anthropic hissesini 145,9 milyon dolar karşılığında satın aldı.",
+    "url": "https://www.theblock.co/news/business/2026-11-23-ark-buys-146-million-worth-anthropic-since-debut-444866",
+    "published": "2026-11-23T07:12:52Z",
+    "importance": 3
    }
   ],
   "TRUMP": [
@@ -56,23 +95,6 @@
   ]
  },
  "seen": {
-  "https://cointelegraph-tr.com/markets/bitcoin-etf-assets-three-month-low-78-billion": 1795077871.9203203,
-  "https://www.theblock.co/news/web3/2026-11-19-singapores-mas-tokenized-bills-443562": 1795077871.9203203,
-  "https://cointelegraph-tr.com/news/btcpay-server-emergency-update-nginx-security-flaws": 1795077871.9203203,
-  "https://cointelegraph-tr.com/markets/bitcoin-retests-62k-nasdaq-futures-anthropic-debut": 1795077871.9203203,
-  "https://www.coindesk.com/markets/2026/11/19/fed-s-push-for-more-rate-hikes-leans-on-backward-looking-data-as-gas-prices-slide-analysts-argue": 1795077871.9203203,
-  "https://www.theblock.co/news/markets/2026-11-19-sygnum-bitcoin-carry-trades-beating-treasury-bills-2027-443547": 1795077871.9203203,
-  "https://www.theblock.co/newsletters/the-daily/2026-11-19-binance-gets-6-5-billion-freezing-order-cryptoquant-says-bitcoin-is-in-a-value-zone-and-more-443511": 1795077871.9203203,
-  "https://cointelegraph-tr.com/markets/sygnum-bitcoin-carry-trades-2027": 1795077871.9203203,
-  "https://www.coindesk.com/tech/2026/11/19/ethereum-block-builders-received-the-most-in-a-usd3-4-million-vault-hack-data-shows": 1795077871.9203203,
-  "https://cointelegraph-tr.com/news/binance-hackers-stole-192-tokens-across-11-networks": 1795077871.9203203,
-  "https://www.coindesk.com/markets/2026/11/19/bitcoin-miner-that-sold-its-last-btc-warns-it-may-run-short-of-cash-for-usd1-2-billion-ai-deal": 1795077871.9203203,
-  "https://www.theblock.co/news/web3/2026-11-18-ledger-new-hardware-incidents-germany-uae-443530": 1795077871.9203203,
-  "https://www.coindesk.com/markets/2026/11/19/cz-says-tokenized-anthropic-is-coming-to-bnb-chain-on-ipo-day": 1795077871.9203203,
-  "https://www.theblock.co/news/business/2026-11-18-kraken-parent-payward-tribe-capital-443522": 1795077871.9203203,
-  "https://www.theblock.co/news/web3/2026-11-18-standard-chartered-straitsx-ocbc-tokenized-deposit-poc-442964": 1795077871.9203203,
-  "https://cointelegraph-tr.com/news/trump-administration-unveils-new-center-choke-off-scam-payments": 1795077871.9203203,
-  "https://cointelegraph-tr.com/markets/fed-officials-saw-october-rate-hold-as-close-call-minutes-show": 1795077871.9203203,
   "https://www.theblock.co/news/regulation/2026-11-19-cftc-chair-selig-hyperliquid-onchain-venues-the-us-444106": 1795111857.567071,
   "https://www.theblock.co/newsletters/tokenization-briefing/2026-11-19-tokenized-stocks-shrug-off-crypto-selloff-442829": 1795111857.567071,
   "https://www.coindesk.com/markets/2026/11/19/anthropic-opens-for-trade-at-usd11-50-up-34-from-ipo-price": 1795111857.567071,
@@ -174,7 +196,23 @@
   "https://www.coindesk.com/": 1795383754.3834121,
   "https://www.theblock.co/news/defi/2026-11-22-chainflips-losses-climb-to-12-million-after-protocol-discloses-122-9-btc-theft-offers-hacker-bounty-444829": 1795383754.3834121,
   "https://www.theblock.co/news/defi/2026-11-22-a-2-million-exploit-leads-to-a-3-7-million-free-for-all-as-traders-empty-fusionists-ace-bridge-444838": 1795401367.4533777,
-  "https://cointelegraph-tr.com/magazine/will-bitcoins-big-rebound-hold-more-tampered-ledgers-found-hodlers-digest": 1795401367.4533777
+  "https://cointelegraph-tr.com/magazine/will-bitcoins-big-rebound-hold-more-tampered-ledgers-found-hodlers-digest": 1795401367.4533777,
+  "https://www.coindesk.com/policy/2026/11/23/south-korea-to-expand-cryptocurrency-account-freezes-and-curb-illicit-transfers-abroad": 1795432503.189262,
+  "https://www.coindesk.com/markets/2026/11/23/bitcoin-breaks-a-record-streak-of-lower-highs-here-s-what-it-means": 1795432503.189262,
+  "https://www.theblock.co/news/regulation/2026-11-23-south-korea-to-publish-draft-digital-asset-basic-act-444881": 1795432503.189262,
+  "https://www.theblock.co/news/business/2026-11-23-ocbc-straitsx-pilot-stablecoin-payments-444880": 1795432503.189262,
+  "https://www.coindesk.com/markets/2026/11/23/u-s-inflation-thanksgiving-trading-crypto-week-ahead": 1795432503.189262,
+  "https://cointelegraph-tr.com/news/moldyroost-malware-drain-iphone-wallets-one-tap": 1795432503.189262,
+  "https://www.coindesk.com/tech/2026/11/23/moldyroost-malvertizing-campaign-uses-one-tap-iphone-hacks-to-hunt-crypto-wallet-keys-research-shows": 1795432503.189262,
+  "https://www.coindesk.com/markets/2026/11/23/this-swedish-bitcoin-treasury-firm-lost-30-btc-trading-part-of-its-own-stack": 1795432503.189262,
+  "https://www.theblock.co/news/business/2026-11-23-ark-buys-146-million-worth-anthropic-since-debut-444866": 1795432503.189262,
+  "https://www.coindesk.com/markets/2026/11/23/cardano-holders-are-turning-down-a-usd4-million-request-for-running-its-flagship-event": 1795432503.189262,
+  "https://www.theblock.co/news/markets/2026-11-23-spot-bitcoin-etfs-shed-1-79-billion-in-past-week-444857": 1795432503.189262,
+  "https://www.coindesk.com/markets/2026/11/23/bitcoin-sold-for-usd17-000-on-kraken-s-canadian-dollar-market-and-the-trades-stand": 1795432503.189262,
+  "https://www.coindesk.com/markets/2026/11/23/market-rout-kills-50-basis-points-december-fed-rate-hike-bets": 1795432503.189262,
+  "https://cointelegraph-tr.com/news/trump-renews-call-for-nvidia-to-rehire-jensen-huang-as-ceo": 1795432503.189262,
+  "https://cointelegraph-tr.com/markets/billionaire-bill-ackman-warns-fed-rate-hikes-could-trigger-recession": 1795432503.189262,
+  "https://cointelegraph-tr.com/news/half-wallets-trumps-dinner-list-got-tokens-from-non-us-exchanges": 1795432503.189262
  },
  "tries": {
   "https://www.theblock.co/news/defi/2026-10-29-uniswap-token-jar-tjar-robinhood-432131": 1
