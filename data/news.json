@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-23T11:15:03Z",
+ "updated": "2026-11-23T22:53:41Z",
  "sources": [
   "coindesk.com",
   "cointelegraph-tr.com",
@@ -16,6 +16,13 @@
    }
   ],
   "BTC": [
+   {
+    "title": "Nvidia, Jensen Huang'ı yeniden CEO olarak atamasının ardından Bitcoin, kripto ve teknoloji hisseleri yükseldi; NVDA %30 sıçradı",
+    "summary": "Nvidia, Jensen Huang'ı yeniden CEO olarak atamasının ardından Bitcoin, kripto ve teknoloji hisseleri yükseldi. Duyurudan önce Polymarket, Huang'ın yıl sonuna kadar Nvidia'ya yeniden katılma olasılığını yüzde 10,5 olarak fiyatlıyordu.",
+    "url": "https://www.theblock.co/news/markets/2026-11-23-bitcoin-crypto-tech-stocks-rally-nvidia-reinstates-jensen-huang-ceo-nvda-jumps-444952",
+    "published": "2026-11-23T15:02:21Z",
+    "importance": 4
+   },
    {
     "title": "Analistlere göre spot Bitcoin ETF'leri çıkışlar \"yapısal\" hale geldikçe geçen hafta 1,8 milyar dolar kaybetti",
     "summary": "Analistler, riskten kaçınan yatırımcıların aralık ayında yeni bir faiz artırımı bekledikleri için kripto ürünlerinden uzaklaşmaya devam ettiğini belirtti.",
@@ -38,28 +45,42 @@
     "importance": 4
    },
    {
-    "title": "Bitcoin rekortmen 'düşen tepeler' serisini kırdı: Bu ne anlama geliyor",
-    "summary": "Bitcoin rekortmen 'düşen tepeler' serisini kırdı.",
-    "url": "https://www.coindesk.com/markets/2026/11/23/bitcoin-breaks-a-record-streak-of-lower-highs-here-s-what-it-means",
-    "published": "2026-11-23T10:31:02Z",
+    "title": "Bitcoin'in 5 yıllık getirisi sıfıra yakın, harika anlatılar zayıflıyor ve geriye Fed kalıyor",
+    "summary": "Bitcoin'in 5 yıllık getirisi sıfıra yakın, harika anlatılar zayıflıyor ve geriye Fed kalıyor.",
+    "url": "https://www.coindesk.com/opinion/2026/11/23/bitcoin-s-5-year-return-is-nearly-zero-great-narratives-are-fading-and-what-s-left-is-the-fed",
+    "published": "2026-11-23T14:43:18Z",
     "importance": 3
    },
    {
-    "title": "Bu İsveçli bitcoin hazine şirketi, kendi varlıklarının bir kısmını alıp satarken 30 BTC kaybetti",
-    "summary": "Bu İsveçli bitcoin hazine şirketi, kendi varlıklarının bir kısmını alıp satarken 30 BTC kaybetti.",
-    "url": "https://www.coindesk.com/markets/2026/11/23/this-swedish-bitcoin-treasury-firm-lost-30-btc-trading-part-of-its-own-stack",
-    "published": "2026-11-23T07:18:45Z",
+    "title": "Trump bağlantılı American Bitcoin, FalconX’ten 150 milyon dolarlık kredi limiti aldı",
+    "summary": "Madenci, üçüncü çeyrekte masrafları karşılamak için yaklaşık 465 BTC sattıktan sonra faaliyetlerini ve genişlemeyi finanse etmek üzere Bitcoin’lerini teminat göstererek borçlanabilecek.",
+    "url": "https://cointelegraph-tr.com/news/trumps-american-bitcoin-rises-150m-credit-falconx",
+    "published": "2026-11-23T13:44:16Z",
     "importance": 3
    },
    {
-    "title": "Bitcoin'in kuantum güvenliği mücadelesi köprülere, saklayıcılara ve milyonlarca coine uzanıyor",
-    "summary": "Bitcoin'in kuantum güvenliği mücadelesi köprülere, saklayıcılara ve milyonlarca coine uzanıyor.",
-    "url": "https://www.coindesk.com/tech/2026/11/22/bitcoin-s-quantum-security-challenge-extends-to-bridges-custodians-and-millions-of-coins",
-    "published": "2026-11-22T14:00:00Z",
+    "title": "Strategy 457 Bitcoin satın aldı, imtiyazlı hisse geri alımlarına 212 milyon dolar harcadı",
+    "summary": "Strategy, imtiyazlı hisse geri alımı limitini 4 milyar dolara yükseltti ve dolar rezervinden 1 milyar dolara kadar aktarılmasına izin verdi.",
+    "url": "https://cointelegraph-tr.com/news/strategy-buy-457-bitcoin-btc-treasury-losses",
+    "published": "2026-11-23T13:31:01Z",
+    "importance": 3
+   },
+   {
+    "title": "Canlı güncellemeler: Nasdaq %6 yükselirken Bitcoin yalnızca mütevazı bir artış gösterdi",
+    "summary": "Canlı güncellemeler: Nasdaq %6 yükselirken Bitcoin yalnızca mütevazı bir artış gösterdi.",
+    "url": "https://www.coindesk.com/tech/2026/11/23/live-news-wall-street-rebounds-as-dollar-index-hits-highest-since-march-2025",
+    "published": "2026-11-23T13:01:20Z",
     "importance": 3
    }
   ],
   "ETH": [
+   {
+    "title": "72 milyar dolarlık ETH tutan Ethereum cüzdanları gelecekteki bir kuantum saldırısı tehdidi altında",
+    "summary": "72 milyar dolarlık ETH tutan Ethereum cüzdanları gelecekteki bir kuantum saldırısı tehdidi altında.",
+    "url": "https://www.coindesk.com/markets/2026/11/23/ethereum-wallets-holding-usd72-billion-eth-are-under-threat-of-a-future-quantum-attack",
+    "published": "2026-11-23T12:13:35Z",
+    "importance": 4
+   },
    {
     "title": "Chainflip, 122,9 BTC'lik hırsızlığı açıklamasının ardından 12 milyon dolara tırmanan kayıplar için korsana ödül teklif etti",
     "summary": "Chainflip, saldırgana çalınan BTC, ETH ve stablecoin'lerin kalan kısmını Pazartesi gününe kadar iade etmesi karşılığında yüzde 10'luk bir ödül teklif etti.",
@@ -95,31 +116,6 @@
   ]
  },
  "seen": {
-  "https://www.theblock.co/news/regulation/2026-11-19-cftc-chair-selig-hyperliquid-onchain-venues-the-us-444106": 1795111857.567071,
-  "https://www.theblock.co/newsletters/tokenization-briefing/2026-11-19-tokenized-stocks-shrug-off-crypto-selloff-442829": 1795111857.567071,
-  "https://www.coindesk.com/markets/2026/11/19/anthropic-opens-for-trade-at-usd11-50-up-34-from-ipo-price": 1795111857.567071,
-  "https://www.coindesk.com/coindesk-indices/2026/11/19/crypto-for-advisors-falling-prices-drove-october-s-10-drop-in-institutional-crypto-exposure": 1795111857.567071,
-  "https://cointelegraph-tr.com/markets/anthropic-shares-expected-to-open-above-83-ipo-price": 1795111857.567071,
-  "https://www.theblock.co/news/regulation/2026-11-19-hill-moreno-blame-delays-missed-clarity-act-window-split-regulators-fill-gap-443615": 1795111857.567071,
-  "https://www.coindesk.com/business/2026/11/19/binance-wins-usd6-5-billion-feezing-order-against-hackers-behind-crypto-s-largest-theft": 1795111857.567071,
-  "https://www.theblock.co/news/defi/2026-11-19-bitcoin-finance-protocol-hashi-goes-live-on-sui-mainnet-443608": 1795111857.567071,
-  "https://cointelegraph-tr.com/magazine/ethereums-new-defi-security-tool-raises-questions-over-censorship": 1795111857.567071,
-  "https://www.coindesk.com/markets/2026/11/19/crypto-traders-vs-wall-street-okx-s-anthropic-markets-put-ipo-pricing-to-the-test": 1795111857.567071,
-  "https://cointelegraph-tr.com/news/hyperliquid-hong-kong-regulators-alert-list": 1795111857.567071,
-  "https://www.coindesk.com/markets/2026/11/19/trump-media-wants-to-clear-usd884-million-of-debt-without-selling-its-bitcoin": 1795111857.567071,
-  "https://www.coindesk.com/daybook-us/2026/11/19/bitcoin-etf-outflows-show-waning-crypto-appetite-ahead-of-anthropic-s-nasdaq-debut": 1795111857.567071,
-  "https://www.coindesk.com/markets/2026/11/19/bitcoin-holds-above-usd63-750-but-fed-rate-hike-threats-loom-large": 1795111857.567071,
-  "https://www.theblock.co/news/regulation/2026-11-19-us-launches-cybercrime-center-with-trm-labs-to-help-trace-crypto-tied-to-scams-443599": 1795111857.567071,
-  "https://www.coindesk.com/business/2026/11/19/north-korean-hackers-used-sky-s-stablecoin-system-putting-billions-at-freeze-risk": 1795111857.567071,
-  "https://www.coindesk.com/markets/2026/11/19/anthropic-s-usd107-billion-raise-set-to-surpass-spacex-s-ipo-haul": 1795111857.567071,
-  "https://www.theblock.co/news/web3/2026-11-19-1inch-integrates-hyperliquid-perpetual-futures-443574": 1795111857.567071,
-  "https://www.coindesk.com/tech/2026/11/19/banks-and-blockchains-lag-on-quantum-defense-as-encryption-risks-loom-watchdog-warns": 1795111857.567071,
-  "https://www.coindesk.com/markets/2026/11/19/live-updates-bitcoin-nears-usd64-000-as-anthropic-s-record-ipo-lifts-tech": 1795111857.567071,
-  "https://www.coindesk.com/business/2026/11/19/singapore-settles-usd77-5-million-tokenized-bill-sale-in-local-cbdc": 1795111857.567071,
-  "https://www.theblock.co/news/business/2026-11-19-ant-international-protocol-tokenized-assets-443586": 1795111857.567071,
-  "https://cointelegraph-tr.com/news/iosco-quantum-blockchain-upgrades-security-risks": 1795111857.567071,
-  "https://www.coindesk.com/markets/2026/11/19/roundhill-scraps-solana-and-xrp-income-etfs-as-rival-funds-attract-just-usd12-million": 1795111857.567071,
-  "https://cointelegraph-tr.com/news/mas-issues-77m-tokenized-bills-singapore-dollar-test-network": 1795111857.567071,
   "https://cointelegraph-tr.com/news/ledger-cto-charles-guillemet-to-leave-after-nine-years-at-company": 1795135984.298436,
   "https://cointelegraph-tr.com/news/moonpay-seeks-us-bank-charter-for-stablecoin-custody-services": 1795135984.298436,
   "https://www.theblock.co/news/markets/2026-11-19-kalshi-quintenz-insider-trading-prediction-markets-stocks-444133": 1795135984.298436,
@@ -212,7 +208,31 @@
   "https://www.coindesk.com/markets/2026/11/23/market-rout-kills-50-basis-points-december-fed-rate-hike-bets": 1795432503.189262,
   "https://cointelegraph-tr.com/news/trump-renews-call-for-nvidia-to-rehire-jensen-huang-as-ceo": 1795432503.189262,
   "https://cointelegraph-tr.com/markets/billionaire-bill-ackman-warns-fed-rate-hikes-could-trigger-recession": 1795432503.189262,
-  "https://cointelegraph-tr.com/news/half-wallets-trumps-dinner-list-got-tokens-from-non-us-exchanges": 1795432503.189262
+  "https://cointelegraph-tr.com/news/half-wallets-trumps-dinner-list-got-tokens-from-non-us-exchanges": 1795432503.189262,
+  "https://www.coindesk.com/business/2026/11/23/eric-trump-backed-american-bitcoin-secures-usd150-million-loan-against-its-bitcoin": 1795474421.2049186,
+  "https://www.theblock.co/news/markets/2026-11-23-bitcoin-crypto-tech-stocks-rally-nvidia-reinstates-jensen-huang-ceo-nvda-jumps-444952": 1795474421.2049186,
+  "https://cointelegraph-tr.com/news/nvidia-reinstates-jensen-huang-ceo-intelligence-probe": 1795474421.2049186,
+  "https://www.coindesk.com/opinion/2026/11/23/bitcoin-s-5-year-return-is-nearly-zero-great-narratives-are-fading-and-what-s-left-is-the-fed": 1795474421.2049186,
+  "https://www.coindesk.com/markets/2026/11/23/jensen-huang-returns-as-nvidia-ceo-as-shares-jump-27": 1795474421.2049186,
+  "https://www.theblock.co/news/business/2026-11-23-okxice-launches-tokenized-securities-venue-444898": 1795474421.2049186,
+  "https://cointelegraph-tr.com/news/okxice-launch-113-tokenized-assets-objections": 1795474421.2049186,
+  "https://www.theblock.co/news/ecosystems/2026-11-23-pump-fun-draws-criticism-over-private-key-imports-as-it-retires-external-wallet-sign-in-on-web-444926": 1795474421.2049186,
+  "https://www.coindesk.com/business/2026/11/23/fidelity-investments-strive-etoro-join-okx-ice-tokenized-securities-venue": 1795474421.2049186,
+  "https://cointelegraph-tr.com/news/trumps-american-bitcoin-rises-150m-credit-falconx": 1795474421.2049186,
+  "https://www.theblock.co/news/ecosystems/2026-11-23-solo-bitcoin-miner-beats-odds-wins-191000-block-reward-444919": 1795474421.2049186,
+  "https://cointelegraph-tr.com/news/strategy-buy-457-bitcoin-btc-treasury-losses": 1795474421.2049186,
+  "https://cointelegraph-tr.com/magazine/ai-agents-are-using-credit-cards-where-does-that-leave-crypto": 1795474421.2049186,
+  "https://cointelegraph-tr.com/news/netflix-ftx-scrutiny-obama-production-ties": 1795474421.2049186,
+  "https://www.theblock.co/news/business/2026-11-23-the-dots-arent-done-michael-saylor-bitcoin-444907": 1795474421.2049186,
+  "https://www.coindesk.com/tech/2026/11/23/live-news-wall-street-rebounds-as-dollar-index-hits-highest-since-march-2025": 1795474421.2049186,
+  "https://www.coindesk.com/daybook-us/2026/11/23/bitcoin-s-losing-streak-is-second-longest-ever-and-some-observers-see-more-downside": 1795474421.2049186,
+  "https://www.coindesk.com/markets/2026/11/23/ethereum-wallets-holding-usd72-billion-eth-are-under-threat-of-a-future-quantum-attack": 1795474421.2049186,
+  "https://www.theblock.co/news/deals/2026-11-23-lendingusa-cross-river-bitcoin-backed-loans-444842": 1795474421.2049186,
+  "https://www.coindesk.com/markets/2026/11/23/bitcoin-rebounds-from-2-year-low-as-wall-street-futures-recover": 1795474421.2049186,
+  "https://cointelegraph-tr.com/news/ecb-expands-eurosystem-collateral-tokenized-securities": 1795474421.2049186,
+  "https://www.coindesk.com/business/2026/11/23/japan-to-ramp-up-crypto-tax-audits-after-uncovering-usd24-5-million-in-hidden-income": 1795474421.2049186,
+  "https://www.coindesk.com/markets/2026/11/23/live-updates-bitcoin-climbs-back-above-usd61-000-as-stocks-rebound-from-ai-rout": 1795474421.2049186,
+  "https://www.theblock.co/news/business/2026-11-23-visa-launches-experimental-ai-agent-wallet-for-eligible-us-users-to-earn-ousd-from-paid-tasks-444903": 1795474421.2049186
  },
  "tries": {
   "https://www.theblock.co/news/defi/2026-10-29-uniswap-token-jar-tjar-robinhood-432131": 1
