@@ -1,21 +1,19 @@
 {
- "updated": "2026-11-22T21:42:34Z",
+ "updated": "2026-11-23T02:36:07Z",
  "sources": [
   "coindesk.com",
   "cointelegraph-tr.com",
   "theblock.co"
  ],
  "bySymbol": {
-  "AAVE": [
-   {
-    "title": "Ether hazine şirketi BTCS, SEC'i 54 milyon dolarlık Aave kredisinin tasfiye olabileceği konusunda uyardı",
-    "summary": "Ether hazine şirketi BTCS, SEC'i 54 milyon dolarlık Aave kredisinin tasfiye olabileceği konusunda uyardı",
-    "url": "https://www.coindesk.com/markets/2026/11/21/ether-treasury-firm-btcs-warns-sec-its-usd54-million-aave-loan-could-be-liquidated",
-    "published": "2026-11-21T12:30:00Z",
-    "importance": 3
-   }
-  ],
   "BTC": [
+   {
+    "title": "Bitcoin’ın Büyük Toparlanması Sürecek mi? Daha Fazla Kurcalanmış Ledger Bulundu",
+    "summary": "Bitcoin yeni döngü dip seviyesinden sert bir şekilde toparlanırken 55.110 doların gerçek bir dip olup olmadığı merak ediliyor. Öte yandan Ledger, Berlin ve BAE’de tespit edilen kurcalanmış cihazlara ilişkin yeni raporları araştırıyor.",
+    "url": "https://cointelegraph-tr.com/magazine/will-bitcoins-big-rebound-hold-more-tampered-ledgers-found-hodlers-digest",
+    "published": "2026-11-22T22:47:09Z",
+    "importance": 4
+   },
    {
     "title": "Chainflip, 122,9 BTC'lik hırsızlığı açıklamasının ardından 12 milyon dolara tırmanan kayıplar için korsana ödül teklif etti",
     "summary": "Chainflip, saldırgana çalınan BTC, ETH ve stablecoin'lerin kalan kısmını Pazartesi gününe kadar iade etmesi karşılığında yüzde 10'luk bir ödül teklif etti.",
@@ -45,13 +43,6 @@
     "url": "https://www.theblock.co/news/defi/2026-11-22-chainflips-losses-climb-to-12-million-after-protocol-discloses-122-9-btc-theft-offers-hacker-bounty-444829",
     "published": "2026-11-22T18:58:57Z",
     "importance": 4
-   },
-   {
-    "title": "Ether hazine şirketi BTCS, SEC'i 54 milyon dolarlık Aave kredisinin tasfiye olabileceği konusunda uyardı",
-    "summary": "Ether hazine şirketi BTCS, SEC'i 54 milyon dolarlık Aave kredisinin tasfiye olabileceği konusunda uyardı",
-    "url": "https://www.coindesk.com/markets/2026/11/21/ether-treasury-firm-btcs-warns-sec-its-usd54-million-aave-loan-could-be-liquidated",
-    "published": "2026-11-21T12:30:00Z",
-    "importance": 3
    }
   ],
   "TRUMP": [
@@ -65,23 +56,6 @@
   ]
  },
  "seen": {
-  "https://www.coindesk.com/policy/2026/11/18/another-u-s-appellate-court-goes-against-kalshi-building-the-industry-s-legal-headwinds": 1795050366.1862607,
-  "https://www.coindesk.com/business/2026/11/18/payward-the-owner-of-crypto-exchange-kraken-is-buying-its-ceo-s-venture-capital-business-tribe": 1795050366.1862607,
-  "https://www.theblock.co/news/regulation/2026-11-18-senators-treasury-must-ensure-equal-footing-for-stablecoin-issuers-in-genius-act-implementation-443501": 1795050366.1862607,
-  "https://cointelegraph-tr.com/news/tether-usdt-sp-stability-assessment-reserve-risks": 1795050366.1862607,
-  "https://cointelegraph-tr.com/news/ledger-warns-berlin-customers-hardware-wallet-investigation": 1795050366.1862607,
-  "https://cointelegraph-tr.com/news/variational-series-b-bain-capital-crypto": 1795050366.1862607,
-  "https://cointelegraph-tr.com/news/binance-says-won-65b-worldwide-freezing-order-after-hack": 1795050366.1862607,
-  "https://www.theblock.co/news/business/2026-11-18-binance-freezing-court-order-adgm-crypto-october-hack-443491": 1795050366.1862607,
-  "https://www.theblock.co/news/markets/2026-11-18-ondo-to-launch-tokenized-anthropic-stock-on-ipo-day-443482": 1795050366.1862607,
-  "https://www.theblock.co/news/deals/2026-11-18-variational-raises-110-million-at-1-5-billion-valuation-to-expand-onchain-derivatives-trading-443445": 1795050366.1862607,
-  "https://www.coindesk.com/business/2026/11/18/german-judge-proposes-dropping-movie2k-case-if-operator-hands-over-usd2-56-billion-in-bitcoin": 1795050366.1862607,
-  "https://www.coindesk.com/business/2026/11/18/hong-kong-wants-banks-to-use-ai-to-catch-crypto-crime-before-money-disappears": 1795050366.1862607,
-  "https://www.theblock.co/news/markets/2026-11-18-stonex-cuts-bitdeer-price-target-to-15-amid-new-us-chip-export-controls-443440": 1795050366.1862607,
-  "https://www.theblock.co/news/business/2026-11-18-backpack-completes-regulatory-framework-us-entry-442980": 1795050366.1862607,
-  "https://www.theblock.co/news/markets/2026-11-18-gift-from-the-market-bitcoin-shows-signs-of-a-local-bottom-after-six-weeks-of-losses-analyst-says-443017": 1795050366.1862607,
-  "https://cointelegraph-tr.com/news/coinshares-sells-eth-treasury-holdings-halves-sol-share-buybacks": 1795050366.1862607,
-  "https://cointelegraph-tr.com/news/sanctions-fears-russia-crypto-launch": 1795050366.1862607,
   "https://cointelegraph-tr.com/markets/bitcoin-etf-assets-three-month-low-78-billion": 1795077871.9203203,
   "https://www.theblock.co/news/web3/2026-11-19-singapores-mas-tokenized-bills-443562": 1795077871.9203203,
   "https://cointelegraph-tr.com/news/btcpay-server-emergency-update-nginx-security-flaws": 1795077871.9203203,
@@ -198,7 +172,9 @@
   "https://cointelegraph-tr.com/news/upbit-bithumb-suspend-cyber-transfers-bridge-exploit": 1795361881.2351315,
   "https://www.theblock.co/news/ecosystems/2026-11-22-trump-to-host-second-memecoin-dinner-tonight-with-trump-down-99-from-peak-444828": 1795383754.3834121,
   "https://www.coindesk.com/": 1795383754.3834121,
-  "https://www.theblock.co/news/defi/2026-11-22-chainflips-losses-climb-to-12-million-after-protocol-discloses-122-9-btc-theft-offers-hacker-bounty-444829": 1795383754.3834121
+  "https://www.theblock.co/news/defi/2026-11-22-chainflips-losses-climb-to-12-million-after-protocol-discloses-122-9-btc-theft-offers-hacker-bounty-444829": 1795383754.3834121,
+  "https://www.theblock.co/news/defi/2026-11-22-a-2-million-exploit-leads-to-a-3-7-million-free-for-all-as-traders-empty-fusionists-ace-bridge-444838": 1795401367.4533777,
+  "https://cointelegraph-tr.com/magazine/will-bitcoins-big-rebound-hold-more-tampered-ledgers-found-hodlers-digest": 1795401367.4533777
  },
  "tries": {
   "https://www.theblock.co/news/defi/2026-10-29-uniswap-token-jar-tjar-robinhood-432131": 1
