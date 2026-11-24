@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-23T22:53:41Z",
+ "updated": "2026-11-24T06:55:19Z",
  "sources": [
   "coindesk.com",
   "cointelegraph-tr.com",
@@ -16,6 +16,13 @@
    }
   ],
   "BTC": [
+   {
+    "title": "CFTC personeli, borsaların Bitcoin’i işletme rezervlerine dahil edebileceğini belirtti",
+    "summary": "Yayınlanan personel rehberi, Bitcoin, Ether ve ödeme amaçlı stablecoinlerin işletme rezervlerine dahil edilmesine izin vermektedir.",
+    "url": "https://cointelegraph-tr.com/news/cftc-staff-say-exchanges-can-count-bitcoin-toward-operating-reserves",
+    "published": "2026-11-23T23:43:34Z",
+    "importance": 4
+   },
    {
     "title": "Nvidia, Jensen Huang'ı yeniden CEO olarak atamasının ardından Bitcoin, kripto ve teknoloji hisseleri yükseldi; NVDA %30 sıçradı",
     "summary": "Nvidia, Jensen Huang'ı yeniden CEO olarak atamasının ardından Bitcoin, kripto ve teknoloji hisseleri yükseldi. Duyurudan önce Polymarket, Huang'ın yıl sonuna kadar Nvidia'ya yeniden katılma olasılığını yüzde 10,5 olarak fiyatlıyordu.",
@@ -45,35 +52,42 @@
     "importance": 4
    },
    {
+    "title": "42 Macro Bitcoin düşüşünü satın almak için neden bekliyor?",
+    "summary": "Bağımsız makro araştırma şirketi, Bitcoin'deki satış dalgasının henüz sona ermemiş olabileceği konusunda uyarıyor.",
+    "url": "https://cointelegraph-tr.com/markets/why-42-macro-says-its-waiting-to-buy-the-bitcoin-dip",
+    "published": "2026-11-24T05:07:30Z",
+    "importance": 3
+   },
+   {
+    "title": "Grayscale, yapay zeka riskleri kısa vadeli görünümü bulutlandırırken Bitcoin ve büyük altcoin'lerin 'aşırı satılmış' göründüğünü söylüyor",
+    "summary": "Grayscale, Bitcoin'in cumartesi günü yaklaşık 55.000 dolara gerilemesinin mevcut ayı piyasasını en az 411 günle kayıtlardaki en uzun ayı piyasası haline getirdiğini belirtti.",
+    "url": "https://www.theblock.co/news/markets/2026-11-23-grayscale-bitcoin-altcoins-oversold-ai-risks-crypto-outlook-445418",
+    "published": "2026-11-23T22:18:02Z",
+    "importance": 3
+   },
+   {
     "title": "Bitcoin'in 5 yıllık getirisi sıfıra yakın, harika anlatılar zayıflıyor ve geriye Fed kalıyor",
     "summary": "Bitcoin'in 5 yıllık getirisi sıfıra yakın, harika anlatılar zayıflıyor ve geriye Fed kalıyor.",
     "url": "https://www.coindesk.com/opinion/2026/11/23/bitcoin-s-5-year-return-is-nearly-zero-great-narratives-are-fading-and-what-s-left-is-the-fed",
     "published": "2026-11-23T14:43:18Z",
     "importance": 3
-   },
-   {
-    "title": "Trump bağlantılı American Bitcoin, FalconX’ten 150 milyon dolarlık kredi limiti aldı",
-    "summary": "Madenci, üçüncü çeyrekte masrafları karşılamak için yaklaşık 465 BTC sattıktan sonra faaliyetlerini ve genişlemeyi finanse etmek üzere Bitcoin’lerini teminat göstererek borçlanabilecek.",
-    "url": "https://cointelegraph-tr.com/news/trumps-american-bitcoin-rises-150m-credit-falconx",
-    "published": "2026-11-23T13:44:16Z",
-    "importance": 3
-   },
-   {
-    "title": "Strategy 457 Bitcoin satın aldı, imtiyazlı hisse geri alımlarına 212 milyon dolar harcadı",
-    "summary": "Strategy, imtiyazlı hisse geri alımı limitini 4 milyar dolara yükseltti ve dolar rezervinden 1 milyar dolara kadar aktarılmasına izin verdi.",
-    "url": "https://cointelegraph-tr.com/news/strategy-buy-457-bitcoin-btc-treasury-losses",
-    "published": "2026-11-23T13:31:01Z",
-    "importance": 3
-   },
-   {
-    "title": "Canlı güncellemeler: Nasdaq %6 yükselirken Bitcoin yalnızca mütevazı bir artış gösterdi",
-    "summary": "Canlı güncellemeler: Nasdaq %6 yükselirken Bitcoin yalnızca mütevazı bir artış gösterdi.",
-    "url": "https://www.coindesk.com/tech/2026/11/23/live-news-wall-street-rebounds-as-dollar-index-hits-highest-since-march-2025",
-    "published": "2026-11-23T13:01:20Z",
-    "importance": 3
    }
   ],
   "ETH": [
+   {
+    "title": "Ethereum Vakfı kapsamlı yenileme öncesinde protokol güvenlik ekibini iki katına çıkarıyor",
+    "summary": "Vakıf, bir sonraki yükseltmesinin The Merge'den daha zor olacağını ve gereken geliştirme hızının hataları kullanıma sunmayı kolaylaştıracağını açıkladı.",
+    "url": "https://cointelegraph-tr.com/news/ethereum-foundation-doubles-protocol-security-team-amid-ai-quantum-overhaul",
+    "published": "2026-11-24T00:36:26Z",
+    "importance": 4
+   },
+   {
+    "title": "CFTC personeli, borsaların Bitcoin’i işletme rezervlerine dahil edebileceğini belirtti",
+    "summary": "Yayınlanan personel rehberi, Bitcoin, Ether ve ödeme amaçlı stablecoinlerin işletme rezervlerine dahil edilmesine izin vermektedir.",
+    "url": "https://cointelegraph-tr.com/news/cftc-staff-say-exchanges-can-count-bitcoin-toward-operating-reserves",
+    "published": "2026-11-23T23:43:34Z",
+    "importance": 4
+   },
    {
     "title": "72 milyar dolarlık ETH tutan Ethereum cüzdanları gelecekteki bir kuantum saldırısı tehdidi altında",
     "summary": "72 milyar dolarlık ETH tutan Ethereum cüzdanları gelecekteki bir kuantum saldırısı tehdidi altında.",
@@ -87,6 +101,13 @@
     "url": "https://www.theblock.co/news/defi/2026-11-22-chainflips-losses-climb-to-12-million-after-protocol-discloses-122-9-btc-theft-offers-hacker-bounty-444829",
     "published": "2026-11-22T18:58:57Z",
     "importance": 4
+   },
+   {
+    "title": "Tom Lee 'sert para' savunması yaparken Bitmine 7.819 ETH ekledi",
+    "summary": "Bitmine geçen hafta 7.819 ETH ekleyerek toplam varlıklarını 6.085.564 ETH'ye veya dolaşımdaki arzın %4,98'ine çıkardı.",
+    "url": "https://www.theblock.co/news/business/2026-11-23-bitmine-adds-7819-eth-tom-lee-makes-hard-money-case-444948",
+    "published": "2026-11-23T15:02:41Z",
+    "importance": 3
    },
    {
     "title": "Ark, geçen hafta 146 milyon dolarlık Anthropic hissesi satın aldı, Ethereum ve Solana Staking ETF varlıklarını azalttı",
@@ -113,17 +134,27 @@
     "published": "2026-11-22T20:58:33Z",
     "importance": 2
    }
+  ],
+  "USDC": [
+   {
+    "title": "CFTC personeli, borsaların Bitcoin’i işletme rezervlerine dahil edebileceğini belirtti",
+    "summary": "Yayınlanan personel rehberi, Bitcoin, Ether ve ödeme amaçlı stablecoinlerin işletme rezervlerine dahil edilmesine izin vermektedir.",
+    "url": "https://cointelegraph-tr.com/news/cftc-staff-say-exchanges-can-count-bitcoin-toward-operating-reserves",
+    "published": "2026-11-23T23:43:34Z",
+    "importance": 4
+   }
+  ],
+  "USDT": [
+   {
+    "title": "CFTC personeli, borsaların Bitcoin’i işletme rezervlerine dahil edebileceğini belirtti",
+    "summary": "Yayınlanan personel rehberi, Bitcoin, Ether ve ödeme amaçlı stablecoinlerin işletme rezervlerine dahil edilmesine izin vermektedir.",
+    "url": "https://cointelegraph-tr.com/news/cftc-staff-say-exchanges-can-count-bitcoin-toward-operating-reserves",
+    "published": "2026-11-23T23:43:34Z",
+    "importance": 4
+   }
   ]
  },
  "seen": {
-  "https://cointelegraph-tr.com/news/ledger-cto-charles-guillemet-to-leave-after-nine-years-at-company": 1795135984.298436,
-  "https://cointelegraph-tr.com/news/moonpay-seeks-us-bank-charter-for-stablecoin-custody-services": 1795135984.298436,
-  "https://www.theblock.co/news/markets/2026-11-19-kalshi-quintenz-insider-trading-prediction-markets-stocks-444133": 1795135984.298436,
-  "https://www.coindesk.com/business/2026/11/19/sky-s-usds-stablecoin-shrinks-35-as-usd1-5-billion-exits-reserves-after-illicit-finance-report": 1795135984.298436,
-  "https://www.theblock.co/news/regulation/2026-11-19-ripple-alderoty-elizabeth-warren-wont-set-crypto-policy-backs-durable-agency-rules-444105": 1795135984.298436,
-  "https://cointelegraph-tr.com/news/ethereum-glamsterdam-could-slip-to-may-2027": 1795135984.298436,
-  "https://www.coindesk.com/policy/2026/11/19/trump-s-democratic-sec-pick-suggests-tokenization-policy-deserves-full-rule-process": 1795135984.298436,
-  "https://cointelegraph-tr.com/news/why-higher-rates-could-slow-bitcoin-buying-at-treasury-firms": 1795135984.298436,
   "https://cointelegraph-tr.com/markets/blackrock-ibit-record-single-day-outflow": 1795163196.5854204,
   "https://www.coindesk.com/markets/2026/11/20/wrapped-monero-token-plunges-99-as-issuer-linked-wallet-sells-usd13-5-million": 1795163196.5854204,
   "https://www.theblock.co/news/business/2026-11-20-michael-saylor-natural-demand-strategy-strc-444190": 1795163196.5854204,
@@ -232,7 +263,25 @@
   "https://cointelegraph-tr.com/news/ecb-expands-eurosystem-collateral-tokenized-securities": 1795474421.2049186,
   "https://www.coindesk.com/business/2026/11/23/japan-to-ramp-up-crypto-tax-audits-after-uncovering-usd24-5-million-in-hidden-income": 1795474421.2049186,
   "https://www.coindesk.com/markets/2026/11/23/live-updates-bitcoin-climbs-back-above-usd61-000-as-stocks-rebound-from-ai-rout": 1795474421.2049186,
-  "https://www.theblock.co/news/business/2026-11-23-visa-launches-experimental-ai-agent-wallet-for-eligible-us-users-to-earn-ousd-from-paid-tasks-444903": 1795474421.2049186
+  "https://www.theblock.co/news/business/2026-11-23-visa-launches-experimental-ai-agent-wallet-for-eligible-us-users-to-earn-ousd-from-paid-tasks-444903": 1795474421.2049186,
+  "https://www.theblock.co/news/markets/2026-11-24-bitcoin-60000-jensen-huang-fizzles-445472": 1795503319.6898184,
+  "https://www.theblock.co/newsletters/the-daily/2026-11-24-doj-binance-hack-strategy-bitcoin-more-crypto-news-445430": 1795503319.6898184,
+  "https://cointelegraph-tr.com/markets/why-42-macro-says-its-waiting-to-buy-the-bitcoin-dip": 1795503319.6898184,
+  "https://www.theblock.co/news/regulation/2026-11-23-kalshi-pauses-operations-utah-dodging-ban-new-york-445456": 1795503319.6898184,
+  "https://cointelegraph-tr.com/news/google-wants-make-you-star-your-own-ai-slop-movies": 1795503319.6898184,
+  "https://www.theblock.co/news/markets/2026-11-23-california-court-terminates-lawsuit-coinbase-terrausd-445448": 1795503319.6898184,
+  "https://cointelegraph-tr.com/news/ethereum-foundation-doubles-protocol-security-team-amid-ai-quantum-overhaul": 1795503319.6898184,
+  "https://www.theblock.co/news/regulation/2026-11-23-cftc-staff-bitcoin-ether-count-toward-derivatives-firms-operating-expenses-445435": 1795503319.6898184,
+  "https://www.coindesk.com/policy/2026/11/23/u-s-cftc-sets-policies-on-event-contract-data-using-crypto-to-check-financial-boxes": 1795503319.6898184,
+  "https://cointelegraph-tr.com/news/cftc-staff-say-exchanges-can-count-bitcoin-toward-operating-reserves": 1795503319.6898184,
+  "https://www.theblock.co/news/markets/2026-11-23-grayscale-bitcoin-altcoins-oversold-ai-risks-crypto-outlook-445418": 1795503319.6898184,
+  "https://www.theblock.co/news/business/2026-11-23-grayscale-launches-2x-zcash-etf-three-months-spot-fund-debut-445407": 1795503319.6898184,
+  "https://cointelegraph-tr.com/news/us-seeks-11b-crypto-stolen-north-korea-binance-hack": 1795503319.6898184,
+  "https://cointelegraph-tr.com/news/kalshi-temporary-win-new-york-gambling-law-dispute": 1795503319.6898184,
+  "https://www.theblock.co/news/regulation/2026-11-23-doj-1-17-billion-usdc-binance-hack-circle-replacement-tokens-445398": 1795503319.6898184,
+  "https://www.theblock.co/news/regulation/2026-11-23-cftc-prediction-market-rules-advance-white-house-review-amid-state-federal-jurisdiction-fight-445384": 1795503319.6898184,
+  "https://www.coindesk.com/business/2026/11/23/binance-hackers-push-usd247-million-through-transactions-designed-to-cloud-the-source": 1795503319.6898184,
+  "https://www.theblock.co/news/business/2026-11-23-bitmine-adds-7819-eth-tom-lee-makes-hard-money-case-444948": 1795503319.6898184
  },
  "tries": {
   "https://www.theblock.co/news/defi/2026-10-29-uniswap-token-jar-tjar-robinhood-432131": 1
