@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-24T18:49:48Z",
+ "updated": "2026-11-25T03:00:00Z",
  "sources": [
   "coindesk.com",
   "cointelegraph-tr.com",
@@ -13,50 +13,71 @@
     "url": "https://www.theblock.co/news/business/2026-11-24-ethereum-treasury-firm-btcs-sells-43-8-million-eth-cut-aave-debt-ceo-says-we-do-not-take-this-lightly-445562",
     "published": "2026-11-24T15:27:50Z",
     "importance": 4
+   },
+   {
+    "title": "Neuberger Berman’ın HINC Fonu Aave’nin Kurumsal Borç Verme Platformuna Yüksek Verimli Kredi Getiriyor",
+    "summary": "Neuberger Berman'ın tokenleştirilmiş yüksek verimli fonu HINC, Aave Horizon'da piyasaya sürüldü. Uygun yatırımcıların fon karşılığında USDC, GHO ve RLUSD borç almasına olanak tanıyor.",
+    "url": "https://www.theblock.co/news/markets/2026-11-24-neuberger-berman-tokenized-hinc-fund-aave-horizon-collateral-445391",
+    "published": "2026-11-24T14:00:00Z",
+    "importance": 3
    }
   ],
   "BTC": [
    {
-    "title": "CFTC personeli, borsaların Bitcoin’i işletme rezervlerine dahil edebileceğini belirtti",
-    "summary": "Yayınlanan personel rehberi, Bitcoin, Ether ve ödeme amaçlı stablecoinlerin işletme rezervlerine dahil edilmesine izin vermektedir.",
-    "url": "https://cointelegraph-tr.com/news/cftc-staff-say-exchanges-can-count-bitcoin-toward-operating-reserves",
-    "published": "2026-11-23T23:43:34Z",
+    "title": "Piyasada Aşırı Korku Hakim Olurken SKY Düştü",
+    "summary": "Geçtiğimiz hafta piyasa düşüş yaşarken Bitcoin yaz aylarındaki kazançlarını geri çekti. Korkg ve Açgözlülük Endeksi düşüş trendini sürdürerek tek haneli rakamlara yaklaştı. Bitcoin fiyatı yerel zirve olan 87.000 dolardan 59.000 dolar civarındaki seviyelere geriledi.",
+    "url": "https://www.theblock.co/newsletters/data-and-insights/2026-11-24-weve-entered-peak-fear-sky-falls-445476",
+    "published": "2026-11-24T17:42:29Z",
     "importance": 4
    },
    {
-    "title": "Nvidia, Jensen Huang'ı yeniden CEO olarak atamasının ardından Bitcoin, kripto ve teknoloji hisseleri yükseldi; NVDA %30 sıçradı",
-    "summary": "Nvidia, Jensen Huang'ı yeniden CEO olarak atamasının ardından Bitcoin, kripto ve teknoloji hisseleri yükseldi. Duyurudan önce Polymarket, Huang'ın yıl sonuna kadar Nvidia'ya yeniden katılma olasılığını yüzde 10,5 olarak fiyatlıyordu.",
-    "url": "https://www.theblock.co/news/markets/2026-11-23-bitcoin-crypto-tech-stocks-rally-nvidia-reinstates-jensen-huang-ceo-nvda-jumps-444952",
-    "published": "2026-11-23T15:02:21Z",
+    "title": "Bitcoin, ABD’nin tarife endişeleri ve Anthropic’in halka arz fiyatının altına gerilemesiyle düştü",
+    "summary": "Tarife endişeleri ABD hisselerini baskılarken Bitcoin 60.000 doların üzerindeki kazançlarını geri verdi ve Anthropic hisseleri 76 doların altında yeni dip seviyelere geriledi.",
+    "url": "https://cointelegraph-tr.com/markets/bitcoin-slides-us-tariff-nerves-anthropic-falls-ipo-price",
+    "published": "2026-11-24T17:09:11Z",
     "importance": 4
    },
    {
-    "title": "42 Macro Bitcoin düşüşünü satın almak için neden bekliyor?",
-    "summary": "Bağımsız makro araştırma şirketi, Bitcoin'deki satış dalgasının henüz sona ermemiş olabileceği konusunda uyarıyor.",
-    "url": "https://cointelegraph-tr.com/markets/why-42-macro-says-its-waiting-to-buy-the-bitcoin-dip",
-    "published": "2026-11-24T05:07:30Z",
-    "importance": 3
+    "title": "Bitcoin ETF'lerinde Kasım Ayı Toplamı 5 Milyar Dolarına Yaklaşırken 570 Milyon Dolarlık Net Çıkış Yaşandı ve BTC 60 Bin Doların Altına Geriledi",
+    "summary": "BlackRock'ın IBIT bitcoin borsa yatırım fonu, pazartesi günü fon dışına çıkan 509,3 milyon dolar ile çıkışlara yine öncülük etti. Kasım ayı toplamı 5 milyar dolara yaklaşırken Bitcoin ETF'lerinden net 570 milyon dolarlık çıkış görüldü ve BTC 60.000 doların altına düştü.",
+    "url": "https://www.theblock.co/news/markets/2026-11-24-bitcoin-etfs-another-570-million-net-outflows-november-total-nears-5-billion-btc-dips-below-60k-445548",
+    "published": "2026-11-24T14:32:21Z",
+    "importance": 4
    },
    {
-    "title": "Grayscale, yapay zeka riskleri kısa vadeli görünümü bulutlandırırken Bitcoin ve büyük altcoin'lerin 'aşırı satılmış' göründüğünü söylüyor",
-    "summary": "Grayscale, Bitcoin'in cumartesi günü yaklaşık 55.000 dolara gerilemesinin mevcut ayı piyasasını en az 411 günle kayıtlardaki en uzun ayı piyasası haline getirdiğini belirtti.",
-    "url": "https://www.theblock.co/news/markets/2026-11-23-grayscale-bitcoin-altcoins-oversold-ai-risks-crypto-outlook-445418",
-    "published": "2026-11-23T22:18:02Z",
-    "importance": 3
+    "title": "Grayscale, Bitcoin’ın 62 Bin Dolarda “Aşırı Satımda” Olduğunu Söylüyor Ancak Yapay Zeka Riskleri Konusunda Uyarıyor",
+    "summary": "Grayscale, Bitcoin'in yüzde 56'lık düşüşle en küçük oranlı gerilemeyi yaşadığını ve ayı piyasasının 411 günle kayıtlardaki en uzun ayı piyasası olduğunu belirtti.",
+    "url": "https://cointelegraph-tr.com/markets/bitcoin-oversold-ai-risks-grayscale",
+    "published": "2026-11-24T13:11:44Z",
+    "importance": 4
    },
    {
-    "title": "Bitcoin'in 5 yıllık getirisi sıfıra yakın, harika anlatılar zayıflıyor ve geriye Fed kalıyor",
-    "summary": "Bitcoin'in 5 yıllık getirisi sıfıra yakın, harika anlatılar zayıflıyor ve geriye Fed kalıyor.",
-    "url": "https://www.coindesk.com/opinion/2026/11/23/bitcoin-s-5-year-return-is-nearly-zero-great-narratives-are-fading-and-what-s-left-is-the-fed",
-    "published": "2026-11-23T14:43:18Z",
-    "importance": 3
+    "title": "Kasım ayında spot ETF çıkışlarının rekor seviye olan 4,71 milyar dolara yükselmesiyle Bitcoin düştü",
+    "summary": "Kasım ayında spot ETF çıkışlarının rekor seviye olan 4,71 milyar dolara ulaşmasıyla Bitcoin fiyatında düşüş görüldü.",
+    "url": "https://www.coindesk.com/daybook-us/2026/11/24/bitcoin-drops-as-november-spot-etf-outflows-increase-to-record-usd4-71-billion",
+    "published": "2026-11-24T12:36:28Z",
+    "importance": 4
    },
    {
-    "title": "'Yapay zeka ticareti asla ölmedi': Trader'lar piyasa toparlanması için alan görüyor, ancak bitcoin'in katılımı başka bir hikaye",
-    "summary": "'Yapay zeka ticareti asla ölmedi': Trader'lar piyasa toparlanması için alan görüyor, ancak bitcoin'in katılımı başka bir hikaye",
-    "url": "https://www.coindesk.com/markets/2026/11/24/ai-trade-never-died-traders-see-room-for-market-recovery-despite-bitcoin-s-weakness",
-    "published": "2026-11-24T16:00:25Z",
-    "importance": 2
+    "title": "Bitcoin pazartesi günkü Nvidia destekli kazançlarını geri verdi, tasfiyeler üçe katlandı",
+    "summary": "Bitcoin pazartesi günü Nvidia kaynaklı kazançlarını geri verirken, tasfiye miktarları üç katına çıktı.",
+    "url": "https://www.coindesk.com/markets/2026/11/24/bitcoin-hands-back-monday-s-nvidia-driven-gains-liquidations-triple",
+    "published": "2026-11-24T11:31:56Z",
+    "importance": 4
+   },
+   {
+    "title": "Bitcoin'in 55.000 dolara gerilemesi rekor düzeyde 11,6 milyon BTC'yi zarara soktu",
+    "summary": "Bitcoin fiyatının 55.000 dolara düşmesiyle rekor düzeyde 11,6 milyon BTC zararda kaldı.",
+    "url": "https://www.coindesk.com/markets/2026/11/24/bitcoin-s-drop-to-usd55-000-left-a-record-11-6-million-btc-underwater",
+    "published": "2026-11-24T11:11:38Z",
+    "importance": 4
+   },
+   {
+    "title": "Jensen Huang'ın Nvidia dönüşüyle yaşanan yükseliş zayıflarken Bitcoin 60.000 doların altına düştü",
+    "summary": "Jensen Huang'ın Nvidia'ya dönüşünün yarattığı yükseliş etkisini yitirirken Bitcoin 60.000 doların altına geriledi.",
+    "url": "https://www.coindesk.com/markets/2026/11/24/bitcoin-falls-below-usd60-000-as-rally-on-jensen-huang-s-nvidia-return-fades",
+    "published": "2026-11-24T10:08:38Z",
+    "importance": 4
    }
   ],
   "ETH": [
@@ -82,34 +103,20 @@
     "importance": 4
    },
    {
-    "title": "72 milyar dolarlık ETH tutan Ethereum cüzdanları gelecekteki bir kuantum saldırısı tehdidi altında",
-    "summary": "72 milyar dolarlık ETH tutan Ethereum cüzdanları gelecekteki bir kuantum saldırısı tehdidi altında.",
-    "url": "https://www.coindesk.com/markets/2026/11/23/ethereum-wallets-holding-usd72-billion-eth-are-under-threat-of-a-future-quantum-attack",
-    "published": "2026-11-23T12:13:35Z",
-    "importance": 4
-   },
-   {
     "title": "Tom Lee 'sert para' savunması yaparken Bitmine 7.819 ETH ekledi",
     "summary": "Bitmine geçen hafta 7.819 ETH ekleyerek toplam varlıklarını 6.085.564 ETH'ye veya dolaşımdaki arzın %4,98'ine çıkardı.",
     "url": "https://www.theblock.co/news/business/2026-11-23-bitmine-adds-7819-eth-tom-lee-makes-hard-money-case-444948",
     "published": "2026-11-23T15:02:41Z",
     "importance": 3
-   },
-   {
-    "title": "Ark, geçen hafta 146 milyon dolarlık Anthropic hissesi satın aldı, Ethereum ve Solana Staking ETF varlıklarını azalttı",
-    "summary": "Cathie Wood'un yönetimindeki Ark Invest, perşembe günkü halka arzından bu yana 1,64 milyon adet Anthropic hissesini 145,9 milyon dolar karşılığında satın aldı.",
-    "url": "https://www.theblock.co/news/business/2026-11-23-ark-buys-146-million-worth-anthropic-since-debut-444866",
-    "published": "2026-11-23T07:12:52Z",
-    "importance": 3
    }
   ],
-  "SOL": [
+  "SKY": [
    {
-    "title": "Ark, geçen hafta 146 milyon dolarlık Anthropic hissesi satın aldı, Ethereum ve Solana Staking ETF varlıklarını azalttı",
-    "summary": "Cathie Wood'un yönetimindeki Ark Invest, perşembe günkü halka arzından bu yana 1,64 milyon adet Anthropic hissesini 145,9 milyon dolar karşılığında satın aldı.",
-    "url": "https://www.theblock.co/news/business/2026-11-23-ark-buys-146-million-worth-anthropic-since-debut-444866",
-    "published": "2026-11-23T07:12:52Z",
-    "importance": 3
+    "title": "Piyasada Aşırı Korku Hakim Olurken SKY Düştü",
+    "summary": "Geçtiğimiz hafta piyasa düşüş yaşarken Bitcoin yaz aylarındaki kazançlarını geri çekti. Korkg ve Açgözlülük Endeksi düşüş trendini sürdürerek tek haneli rakamlara yaklaştı. Bitcoin fiyatı yerel zirve olan 87.000 dolardan 59.000 dolar civarındaki seviyelere geriledi.",
+    "url": "https://www.theblock.co/newsletters/data-and-insights/2026-11-24-weve-entered-peak-fear-sky-falls-445476",
+    "published": "2026-11-24T17:42:29Z",
+    "importance": 4
    }
   ],
   "USDC": [
@@ -119,6 +126,13 @@
     "url": "https://cointelegraph-tr.com/news/cftc-staff-say-exchanges-can-count-bitcoin-toward-operating-reserves",
     "published": "2026-11-23T23:43:34Z",
     "importance": 4
+   },
+   {
+    "title": "Neuberger Berman’ın HINC Fonu Aave’nin Kurumsal Borç Verme Platformuna Yüksek Verimli Kredi Getiriyor",
+    "summary": "Neuberger Berman'ın tokenleştirilmiş yüksek verimli fonu HINC, Aave Horizon'da piyasaya sürüldü. Uygun yatırımcıların fon karşılığında USDC, GHO ve RLUSD borç almasına olanak tanıyor.",
+    "url": "https://www.theblock.co/news/markets/2026-11-24-neuberger-berman-tokenized-hinc-fund-aave-horizon-collateral-445391",
+    "published": "2026-11-24T14:00:00Z",
+    "importance": 3
    }
   ],
   "USDT": [
@@ -129,18 +143,18 @@
     "published": "2026-11-23T23:43:34Z",
     "importance": 4
    }
+  ],
+  "XRP": [
+   {
+    "title": "XRP Ledger DEX Hacmi 3. Çeyrekte Günde 4.51 Milyon XRP'ye Ulaştı",
+    "summary": "Evernorth'a göre XRP Ledger DEX emir defteri hacmi 3. çeyrekte günde ortalama 4,51 milyon XRP oldu. Büyük yatırımcılar ticari faaliyetlerin yüzde 65'ini yönlendirirken, RLUSD yüzde 74 artış gösterdi.",
+    "url": "https://www.theblock.co/news/markets/2026-11-24-xrpl-dex-volume-q3-2026-evernorth-report-445395",
+    "published": "2026-11-24T14:00:02Z",
+    "importance": 3
+   }
   ]
  },
  "seen": {
-  "https://www.coindesk.com/policy/2026/11/20/kalshi-races-to-get-ahead-of-new-york-order-that-could-shut-down-exchange": 1795216740.5935376,
-  "https://www.coindesk.com/business/2026/11/20/fairmint-plans-tokenized-stock-venue-on-canton-ethereum-under-sec-experiment": 1795216740.5935376,
-  "https://www.theblock.co/news/business/2026-11-20-dcgs-zcash-miner-fortitude-clears-vote-nasdaq-listing-zec-retreats-all-time-high-444784": 1795216740.5935376,
-  "https://www.theblock.co/news/regulation/2026-11-20-rep-casten-seeks-curb-prediction-market-insider-trading-doj-whistleblower-program-444779": 1795216740.5935376,
-  "https://cointelegraph-tr.com/news/wrapped-monero-token-crashes-998-amid-suspected-135m-exploit": 1795216740.5935376,
-  "https://cointelegraph-tr.com/news/sky-protocol-sees-2b-in-stablecoin-withdrawals-disputes-illicit-fund-claims": 1795216740.5935376,
-  "https://www.theblock.co/news/markets/2026-11-20-binance-hack-laundering-ramps-up-149-million-bitcoin-mixed-coinjoins-elliptic-444758": 1795216740.5935376,
-  "https://www.theblock.co/news/markets/2026-11-20-jpmorgan-bitcoin-price-correction-gap-86000-production-cost-444763": 1795216740.5935376,
-  "https://www.coindesk.com/markets/2026/11/20/bitcoin-plunges-below-usd59-000-as-rush-to-cash-puts-new-bear-market-lows-back-in-play": 1795216740.5935376,
   "https://www.coindesk.com/markets/2026/11/21/bitcoin-tanks-below-usd57-000-for-the-first-time-in-two-years-and-its-not-alone": 1795234507.1085906,
   "https://www.coindesk.com/markets/2026/11/21/ether-treasury-firm-btcs-warns-sec-its-usd54-million-aave-loan-could-be-liquidated": 1795265871.9007974,
   "https://cointelegraph-tr.com/news/ecb-tokenized-deposits-securities-experiments-appia": 1795265871.9007974,
@@ -227,7 +241,44 @@
   "https://www.theblock.co/news/business/2026-11-24-ethereum-treasury-firm-btcs-sells-43-8-million-eth-cut-aave-debt-ceo-says-we-do-not-take-this-lightly-445562": 1795546188.6994927,
   "https://www.coindesk.com/business/2026/11/24/anchorage-digital-to-unveil-new-asset-management-subsidiary": 1795546188.6994927,
   "https://www.coindesk.com/policy/2026/11/24/south-korea-proposes-ending-2017-ico-ban-to-boost-jobs-and-onshore-crypto-investment": 1795546188.6994927,
-  "https://www.theblock.co/learn/campus/crypto-market-structure-basics-442986": 1795546188.6994927
+  "https://www.theblock.co/learn/campus/crypto-market-structure-basics-442986": 1795546188.6994927,
+  "https://www.theblock.co/news/regulation/2026-11-24-new-york-proposal-prediction-market-tax-446082": 1795575600.6360538,
+  "https://cointelegraph-tr.com/news/cleanspark-weighs-selling-more-bitcoin-than-it-mines-to-de-risk-books": 1795575600.6360538,
+  "https://cointelegraph-tr.com/news/what-happened-in-crypto-today": 1795575600.6360538,
+  "https://www.theblock.co/news/business/2026-11-24-bitcoin-miner-cleanspark-swings-987-million-annual-loss-btc-production-declines-446061": 1795575600.6360538,
+  "https://cointelegraph-tr.com/news/europol-crypto-trail-streaming-piracy-crackdown": 1795575600.6360538,
+  "https://www.theblock.co/news/regulation/2026-11-24-sec-staff-gives-molecule-no-action-relief-scientific-research-tokens-446067": 1795575600.6360538,
+  "https://cointelegraph-tr.com/news/utah-moves-to-dismiss-criminal-charges-against-kalshi-after-trading-halt": 1795575600.6360538,
+  "https://cointelegraph-tr.com/news/coldcard-how-security-reviews-missed-bitcoin-wallet-flaw-years": 1795575600.6360538,
+  "https://www.theblock.co/news/business/2026-11-24-kraken-krak-early-2027-launch-us-credit-cards-bitcoin-cashback-usdc-collateral-445498": 1795575600.6360538,
+  "https://cointelegraph-tr.com/news/cftc-new-prediction-market-rules-firms-seek-us-entry": 1795575600.6360538,
+  "https://cointelegraph-tr.com/news/blackrock-launches-tokenized-money-market-fund-stablecoins-hong-kong": 1795575600.6360538,
+  "https://www.theblock.co/news/regulation/2026-11-24-rep-raskin-probes-trump-jr-s-firms-investments-polymarket-juul-suspiciously-well-timed-government-favors-446052": 1795575600.6360538,
+  "https://www.coindesk.com/policy/2026/11/24/utah-moves-to-drop-criminal-pursuit-of-kalshi-after-the-firm-halted-services-there": 1795575600.6360538,
+  "https://www.theblock.co/newsletters/data-and-insights/2026-11-24-weve-entered-peak-fear-sky-falls-445476": 1795575600.6360538,
+  "https://cointelegraph-tr.com/markets/bitcoin-slides-us-tariff-nerves-anthropic-falls-ipo-price": 1795575600.6360538,
+  "https://www.theblock.co/news/deals/2026-11-24-robinhood-onchain-trading-platform-rialto-funding-446030": 1795575600.6360538,
+  "https://www.theblock.co/news/markets/2026-11-24-bitcoin-etfs-another-570-million-net-outflows-november-total-nears-5-billion-btc-dips-below-60k-445548": 1795575600.6360538,
+  "https://cointelegraph-tr.com/news/russia-usdt-buyer-face-22-tax-december-launch": 1795575600.6360538,
+  "https://www.theblock.co/news/markets/2026-11-24-xrpl-dex-volume-q3-2026-evernorth-report-445395": 1795575600.6360538,
+  "https://www.theblock.co/news/business/2026-11-24-ledn-launches-us-custody-account-bitcoin-gold-stablecoins-lending-445411": 1795575600.6360538,
+  "https://www.theblock.co/news/markets/2026-11-24-neuberger-berman-tokenized-hinc-fund-aave-horizon-collateral-445391": 1795575600.6360538,
+  "https://cointelegraph-tr.com/news/swiss-central-bank-ubs-six-explore-ledger-tokenized-settlement": 1795575600.6360538,
+  "https://www.theblock.co/news/business/2026-11-24-blackrock-opens-tokenized-money-market-fund-with-100-million-in-assets-to-hong-kong-investors-445524": 1795575600.6360538,
+  "https://cointelegraph-tr.com/markets/bitcoin-oversold-ai-risks-grayscale": 1795575600.6360538,
+  "https://www.coindesk.com/markets/2026/11/24/a-wallet-linked-to-popular-crypto-trader-ansem-sold-usd2-million-in-memecoins-as-his-namesake-token-cratered": 1795575600.6360538,
+  "https://www.coindesk.com/tech/2026/11/24/live-updates-bitcoin-pulls-back-to-usd60-000-as-stock-rally-fails-to-budge-crypto": 1795575600.6360538,
+  "https://www.coindesk.com/daybook-us/2026/11/24/bitcoin-drops-as-november-spot-etf-outflows-increase-to-record-usd4-71-billion": 1795575600.6360538,
+  "https://www.coindesk.com/business/2026/11/24/jpmorgan-hsbc-and-stonex-complete-first-digital-gold-trades-in-london": 1795575600.6360538,
+  "https://www.theblock.co/news/ecosystems/2026-11-24-ethereum-foundation-doubles-protocol-security-team-calls-ai-a-more-urgent-risk-than-quantum-445497": 1795575600.6360538,
+  "https://www.coindesk.com/markets/2026/11/24/bitcoin-hands-back-monday-s-nvidia-driven-gains-liquidations-triple": 1795575600.6360538,
+  "https://www.theblock.co/news/regulation/2026-11-24-south-korea-new-crypto-bill-445494": 1795575600.6360538,
+  "https://www.coindesk.com/markets/2026/11/24/bitcoin-s-drop-to-usd55-000-left-a-record-11-6-million-btc-underwater": 1795575600.6360538,
+  "https://www.coindesk.com/policy/2026/11/24/u-s-seeks-usd1-1-billion-seized-in-binance-hack-as-north-korean-funds-keep-moving": 1795575600.6360538,
+  "https://www.coindesk.com/business/2026/11/24/btcs-sells-more-than-half-its-ether-to-repay-usd43-8-million-in-aave-debt": 1795575600.6360538,
+  "https://www.coindesk.com/policy/2026/11/24/south-korea-regulator-backs-bank-controlled-stablecoins-after-months-of-dispute": 1795575600.6360538,
+  "https://www.coindesk.com/markets/2026/11/24/bitcoin-falls-below-usd60-000-as-rally-on-jensen-huang-s-nvidia-return-fades": 1795575600.6360538,
+  "https://cointelegraph-tr.com/markets/bitcoin-etfs-bleed-ibit-shares-gain": 1795575600.6360538
  },
  "tries": {
   "https://www.theblock.co/news/defi/2026-10-29-uniswap-token-jar-tjar-robinhood-432131": 1
