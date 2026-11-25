@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-25T03:00:00Z",
+ "updated": "2026-11-25T12:41:09Z",
  "sources": [
   "coindesk.com",
   "cointelegraph-tr.com",
@@ -24,6 +24,20 @@
   ],
   "BTC": [
    {
+    "title": "Bitcoin ETF'leri, yapay zeka hisselerindeki çöküşün ortasında aylık rekor seviyede 5 milyar dolara yakın çıkış kaydetti",
+    "summary": "ABD spot Bitcoin ETF'lerinde kasım ayında 4,94 milyar dolarlık net çıkış kaydedildi. Bu tutar, haziran ayında belirlenen 4,51 milyar dolarlık önceki aylık rekoru aştı.",
+    "url": "https://cointelegraph-tr.com/markets/bitcoin-etfs-near-record-5-billion-monthly-outflows",
+    "published": "2026-11-25T11:12:26Z",
+    "importance": 4
+   },
+   {
+    "title": "Bitcoin ve ether CFTC personelinden masraf gereksinimleri için onay aldı, Ethereum Vakfı güvenlik ekibini iki katına çıkardı ve dahası",
+    "summary": "Günlük bültende bitcoin ve ether CFTC finansal gereksinimleri kapsamında tanınırken, Ethereum Vakfı yapay zeka riskleri arttıkça güvenlik ekibini iki katına çıkarıyor.",
+    "url": "https://www.theblock.co/newsletters/the-daily/2026-11-25-bitcoin-ether-cftc-staff-nod-ethereum-foundation-doubles-security-team-more-crypto-news-446074",
+    "published": "2026-11-25T05:15:00Z",
+    "importance": 4
+   },
+   {
     "title": "Piyasada Aşırı Korku Hakim Olurken SKY Düştü",
     "summary": "Geçtiğimiz hafta piyasa düşüş yaşarken Bitcoin yaz aylarındaki kazançlarını geri çekti. Korkg ve Açgözlülük Endeksi düşüş trendini sürdürerek tek haneli rakamlara yaklaştı. Bitcoin fiyatı yerel zirve olan 87.000 dolardan 59.000 dolar civarındaki seviyelere geriledi.",
     "url": "https://www.theblock.co/newsletters/data-and-insights/2026-11-24-weve-entered-peak-fear-sky-falls-445476",
@@ -38,24 +52,10 @@
     "importance": 4
    },
    {
-    "title": "Bitcoin ETF'lerinde Kasım Ayı Toplamı 5 Milyar Dolarına Yaklaşırken 570 Milyon Dolarlık Net Çıkış Yaşandı ve BTC 60 Bin Doların Altına Geriledi",
-    "summary": "BlackRock'ın IBIT bitcoin borsa yatırım fonu, pazartesi günü fon dışına çıkan 509,3 milyon dolar ile çıkışlara yine öncülük etti. Kasım ayı toplamı 5 milyar dolara yaklaşırken Bitcoin ETF'lerinden net 570 milyon dolarlık çıkış görüldü ve BTC 60.000 doların altına düştü.",
-    "url": "https://www.theblock.co/news/markets/2026-11-24-bitcoin-etfs-another-570-million-net-outflows-november-total-nears-5-billion-btc-dips-below-60k-445548",
-    "published": "2026-11-24T14:32:21Z",
-    "importance": 4
-   },
-   {
     "title": "Grayscale, Bitcoin’ın 62 Bin Dolarda “Aşırı Satımda” Olduğunu Söylüyor Ancak Yapay Zeka Riskleri Konusunda Uyarıyor",
     "summary": "Grayscale, Bitcoin'in yüzde 56'lık düşüşle en küçük oranlı gerilemeyi yaşadığını ve ayı piyasasının 411 günle kayıtlardaki en uzun ayı piyasası olduğunu belirtti.",
     "url": "https://cointelegraph-tr.com/markets/bitcoin-oversold-ai-risks-grayscale",
     "published": "2026-11-24T13:11:44Z",
-    "importance": 4
-   },
-   {
-    "title": "Kasım ayında spot ETF çıkışlarının rekor seviye olan 4,71 milyar dolara yükselmesiyle Bitcoin düştü",
-    "summary": "Kasım ayında spot ETF çıkışlarının rekor seviye olan 4,71 milyar dolara ulaşmasıyla Bitcoin fiyatında düşüş görüldü.",
-    "url": "https://www.coindesk.com/daybook-us/2026/11/24/bitcoin-drops-as-november-spot-etf-outflows-increase-to-record-usd4-71-billion",
-    "published": "2026-11-24T12:36:28Z",
     "importance": 4
    },
    {
@@ -82,6 +82,20 @@
   ],
   "ETH": [
    {
+    "title": "Ethereum Vakfı araştırmacıları kuantum sonrası yükseltme için hash algoritmasını seçti",
+    "summary": "BLAKE3'e göre daha yavaş kanıtlama süresine sahip olmasına rağmen, uzun kriptanaliz geçmişi ve Ethereum genelindeki mevcut rolü nedeniyle Keccak-256 tercih edildi.",
+    "url": "https://www.theblock.co/news/ecosystems/2026-11-25-ethereum-foundation-researchers-pick-one-hash-to-rule-them-all-for-post-quantum-upgrade-446125",
+    "published": "2026-11-25T09:49:45Z",
+    "importance": 4
+   },
+   {
+    "title": "Bitcoin ve ether CFTC personelinden masraf gereksinimleri için onay aldı, Ethereum Vakfı güvenlik ekibini iki katına çıkardı ve dahası",
+    "summary": "Günlük bültende bitcoin ve ether CFTC finansal gereksinimleri kapsamında tanınırken, Ethereum Vakfı yapay zeka riskleri arttıkça güvenlik ekibini iki katına çıkarıyor.",
+    "url": "https://www.theblock.co/newsletters/the-daily/2026-11-25-bitcoin-ether-cftc-staff-nod-ethereum-foundation-doubles-security-team-more-crypto-news-446074",
+    "published": "2026-11-25T05:15:00Z",
+    "importance": 4
+   },
+   {
     "title": "Ethereum hazine şirketi BTCS, Aave borcunu azaltmak için 43.8 milyon dolarlık ETH sattı, CEO ‘bunu hafifçe almıyoruz’ dedi",
     "summary": "Nasdaq'ta işlem gören BTCS, merkeziyetsiz borcu azaltmak ve teminat tasfiyesi riskini sınırlamak için cuma günkü kripto düşüşü sırasında 27.300 ETH sattı.",
     "url": "https://www.theblock.co/news/business/2026-11-24-ethereum-treasury-firm-btcs-sells-43-8-million-eth-cut-aave-debt-ceo-says-we-do-not-take-this-lightly-445562",
@@ -89,24 +103,10 @@
     "importance": 4
    },
    {
-    "title": "Ethereum Vakfı kapsamlı yenileme öncesinde protokol güvenlik ekibini iki katına çıkarıyor",
-    "summary": "Vakıf, bir sonraki yükseltmesinin The Merge'den daha zor olacağını ve gereken geliştirme hızının hataları kullanıma sunmayı kolaylaştıracağını açıkladı.",
-    "url": "https://cointelegraph-tr.com/news/ethereum-foundation-doubles-protocol-security-team-amid-ai-quantum-overhaul",
-    "published": "2026-11-24T00:36:26Z",
-    "importance": 4
-   },
-   {
-    "title": "CFTC personeli, borsaların Bitcoin’i işletme rezervlerine dahil edebileceğini belirtti",
-    "summary": "Yayınlanan personel rehberi, Bitcoin, Ether ve ödeme amaçlı stablecoinlerin işletme rezervlerine dahil edilmesine izin vermektedir.",
-    "url": "https://cointelegraph-tr.com/news/cftc-staff-say-exchanges-can-count-bitcoin-toward-operating-reserves",
-    "published": "2026-11-23T23:43:34Z",
-    "importance": 4
-   },
-   {
-    "title": "Tom Lee 'sert para' savunması yaparken Bitmine 7.819 ETH ekledi",
-    "summary": "Bitmine geçen hafta 7.819 ETH ekleyerek toplam varlıklarını 6.085.564 ETH'ye veya dolaşımdaki arzın %4,98'ine çıkardı.",
-    "url": "https://www.theblock.co/news/business/2026-11-23-bitmine-adds-7819-eth-tom-lee-makes-hard-money-case-444948",
-    "published": "2026-11-23T15:02:41Z",
+    "title": "Hisse senedi satışları yeniden başlarken Ether ve DeFi, bitcoin'in iki katı kadar düştü",
+    "summary": "Hisse senedi satışları yeniden başlarken Ether ve DeFi, bitcoin'in iki katı kadar düştü",
+    "url": "https://www.coindesk.com/markets/2026/11/25/ether-defi-fall-twice-as-hard-as-bitcoin-as-equities-selloff-resumes",
+    "published": "2026-11-25T11:57:50Z",
     "importance": 3
    }
   ],
@@ -119,14 +119,23 @@
     "importance": 4
    }
   ],
-  "USDC": [
+  "SOL": [
    {
-    "title": "CFTC personeli, borsaların Bitcoin’i işletme rezervlerine dahil edebileceğini belirtti",
-    "summary": "Yayınlanan personel rehberi, Bitcoin, Ether ve ödeme amaçlı stablecoinlerin işletme rezervlerine dahil edilmesine izin vermektedir.",
-    "url": "https://cointelegraph-tr.com/news/cftc-staff-say-exchanges-can-count-bitcoin-toward-operating-reserves",
-    "published": "2026-11-23T23:43:34Z",
+    "title": "Japonya’nın SBI ve SMFG’si stablecoin ve tokenizasyon için Solana girişimi başlattı",
+    "summary": "SBI Solana Global, stablecoin ödeme altyapısı geliştirmeyi, yapay zeka ajanlarının mikro ödemelerini araştırmayı ve finansal varlıkları tokenleştirmeyi planlıyor.",
+    "url": "https://cointelegraph-tr.com/news/sbi-smfg-solana-global-stablecoin-tokenization",
+    "published": "2026-11-25T11:49:54Z",
     "importance": 4
    },
+   {
+    "title": "Solana geliştiricileri, halihazırda kaybetmiş bloklar üzerinde doğrulayıcıların çalışmasını durdurmak için harekete geçiyor",
+    "summary": "Solana geliştiricileri, halihazırda kaybetmiş bloklar üzerinde doğrulayıcıların çalışmasını durdurmak için harekete geçiyor.",
+    "url": "https://www.coindesk.com/tech/2026/11/25/solana-developers-move-to-stop-validators-finishing-work-on-blocks-that-already-lost",
+    "published": "2026-11-25T06:33:10Z",
+    "importance": 3
+   }
+  ],
+  "USDC": [
    {
     "title": "Neuberger Berman’ın HINC Fonu Aave’nin Kurumsal Borç Verme Platformuna Yüksek Verimli Kredi Getiriyor",
     "summary": "Neuberger Berman'ın tokenleştirilmiş yüksek verimli fonu HINC, Aave Horizon'da piyasaya sürüldü. Uygun yatırımcıların fon karşılığında USDC, GHO ve RLUSD borç almasına olanak tanıyor.",
@@ -135,16 +144,14 @@
     "importance": 3
    }
   ],
-  "USDT": [
-   {
-    "title": "CFTC personeli, borsaların Bitcoin’i işletme rezervlerine dahil edebileceğini belirtti",
-    "summary": "Yayınlanan personel rehberi, Bitcoin, Ether ve ödeme amaçlı stablecoinlerin işletme rezervlerine dahil edilmesine izin vermektedir.",
-    "url": "https://cointelegraph-tr.com/news/cftc-staff-say-exchanges-can-count-bitcoin-toward-operating-reserves",
-    "published": "2026-11-23T23:43:34Z",
-    "importance": 4
-   }
-  ],
   "XRP": [
+   {
+    "title": "XRP Ledger'ın son çeyrekteki tüm işlem büyümesini yalnızca 10 hesap yönlendirdi",
+    "summary": "XRP Ledger'ın son çeyrekteki tüm işlem büyümesini yalnızca 10 hesap yönlendirdi.",
+    "url": "https://www.coindesk.com/markets/2026/11/25/ten-accounts-drove-all-of-the-xrp-ledger-s-trading-growth-last-quarter",
+    "published": "2026-11-25T06:15:08Z",
+    "importance": 3
+   },
    {
     "title": "XRP Ledger DEX Hacmi 3. Çeyrekte Günde 4.51 Milyon XRP'ye Ulaştı",
     "summary": "Evernorth'a göre XRP Ledger DEX emir defteri hacmi 3. çeyrekte günde ortalama 4,51 milyon XRP oldu. Büyük yatırımcılar ticari faaliyetlerin yüzde 65'ini yönlendirirken, RLUSD yüzde 74 artış gösterdi.",
@@ -155,7 +162,6 @@
   ]
  },
  "seen": {
-  "https://www.coindesk.com/markets/2026/11/21/bitcoin-tanks-below-usd57-000-for-the-first-time-in-two-years-and-its-not-alone": 1795234507.1085906,
   "https://www.coindesk.com/markets/2026/11/21/ether-treasury-firm-btcs-warns-sec-its-usd54-million-aave-loan-could-be-liquidated": 1795265871.9007974,
   "https://cointelegraph-tr.com/news/ecb-tokenized-deposits-securities-experiments-appia": 1795265871.9007974,
   "https://cointelegraph-tr.com/news/us-prediction-market-whistleblower-rewards-30-percent": 1795265871.9007974,
@@ -278,7 +284,37 @@
   "https://www.coindesk.com/business/2026/11/24/btcs-sells-more-than-half-its-ether-to-repay-usd43-8-million-in-aave-debt": 1795575600.6360538,
   "https://www.coindesk.com/policy/2026/11/24/south-korea-regulator-backs-bank-controlled-stablecoins-after-months-of-dispute": 1795575600.6360538,
   "https://www.coindesk.com/markets/2026/11/24/bitcoin-falls-below-usd60-000-as-rally-on-jensen-huang-s-nvidia-return-fades": 1795575600.6360538,
-  "https://cointelegraph-tr.com/markets/bitcoin-etfs-bleed-ibit-shares-gain": 1795575600.6360538
+  "https://cointelegraph-tr.com/markets/bitcoin-etfs-bleed-ibit-shares-gain": 1795575600.6360538,
+  "https://www.theblock.co/news/business/2026-11-25-unicredit-offers-bitcoin-exposure-to-italian-retail-clients-with-capital-protection-at-maturity-446150": 1795610469.9522889,
+  "https://www.coindesk.com/daybook-us/2026/11/25/fed-s-preferred-inflation-gauge-lands-with-a-december-rate-increase-already-priced-in": 1795610469.9522889,
+  "https://www.theblock.co/news/regulation/2026-11-25-dont-mess-with-x-elon-musk-says-after-platform-secures-default-judgment-in-alleged-bitcoin-content-farm-case-446151": 1795610469.9522889,
+  "https://www.coindesk.com/markets/2026/11/25/ether-defi-fall-twice-as-hard-as-bitcoin-as-equities-selloff-resumes": 1795610469.9522889,
+  "https://www.coindesk.com/business/2026/11/25/italy-s-unicredit-debuts-six-year-bitcoin-certificate-with-100-capital-protection-and-65-cap": 1795610469.9522889,
+  "https://cointelegraph-tr.com/news/sbi-smfg-solana-global-stablecoin-tokenization": 1795610469.9522889,
+  "https://cointelegraph-tr.com/news/hong-kong-central-bank-platform-tokenized-debt-securities": 1795610469.9522889,
+  "https://www.coindesk.com/markets/2026/11/25/bitcoin-hasn-t-paid-its-holders-for-the-risk-it-carries-and-now-gold-is-doing-the-same": 1795610469.9522889,
+  "https://cointelegraph-tr.com/markets/bitcoin-etfs-near-record-5-billion-monthly-outflows": 1795610469.9522889,
+  "https://www.coindesk.com/business/2026/11/25/eu-proposes-usd54-7-billion-fund-for-ai-quantum-startups-alongside-post-quantum-security-push": 1795610469.9522889,
+  "https://cointelegraph-tr.com/markets/hyperliquid-hype-price-falls-abraxas-capital-wallets": 1795610469.9522889,
+  "https://www.theblock.co/news/business/2026-11-25-japans-sbi-smfg-tap-solana-stablecoin-tokenization-joint-venture-446131": 1795610469.9522889,
+  "https://www.theblock.co/news/regulation/2026-11-25-hong-kong-debt-securities-tokenization-446132": 1795610469.9522889,
+  "https://cointelegraph-tr.com/news/french-senate-rejects-disclosing-self-custodied-crypto-wallets-100k": 1795610469.9522889,
+  "https://cointelegraph-tr.com/markets/stablecoin-cash-out-2022-bear-market": 1795610469.9522889,
+  "https://www.theblock.co/news/ecosystems/2026-11-25-ethereum-foundation-researchers-pick-one-hash-to-rule-them-all-for-post-quantum-upgrade-446125": 1795610469.9522889,
+  "https://cointelegraph-tr.com/news/eu-55-billion-ai-quantum-computing-investment-fund": 1795610469.9522889,
+  "https://www.coindesk.com/business/2026/11/25/live-updates-bitcoin-slips-back-under-usd60-000-as-hype-leads-altcoins-lower": 1795610469.9522889,
+  "https://www.theblock.co/news/business/2026-11-25-ark-sells-own-bitcoin-btc-dips-446109": 1795610469.9522889,
+  "https://cointelegraph-tr.com/news/south-korea-crypto-bill-stablecoin-race-beyond-issuance": 1795610469.9522889,
+  "https://www.coindesk.com/tech/2026/11/25/solana-developers-move-to-stop-validators-finishing-work-on-blocks-that-already-lost": 1795610469.9522889,
+  "https://www.coindesk.com/markets/2026/11/25/ten-accounts-drove-all-of-the-xrp-ledger-s-trading-growth-last-quarter": 1795610469.9522889,
+  "https://cointelegraph-tr.com/news/solana-dex-velocity-halts-transactions-over-bug-coming-2-months-after-relaunch": 1795610469.9522889,
+  "https://www.theblock.co/newsletters/the-daily/2026-11-25-bitcoin-ether-cftc-staff-nod-ethereum-foundation-doubles-security-team-more-crypto-news-446074": 1795610469.9522889,
+  "https://www.coindesk.com/markets/2026/11/25/crypto-traders-can-now-hedge-nvidia-and-oil-bets-on-derive": 1795610469.9522889,
+  "https://www.coindesk.com/markets/2026/11/23/a-year-after-buying-bitcoin-czech-central-bank-won-t-say-what-it-s-worth": 1795610469.9522889,
+  "https://cointelegraph-tr.com/news/trump-willing-to-pardon-jensen-huang-but-says-it-wont-be-necessary": 1795610469.9522889,
+  "https://www.theblock.co/news/regulation/2026-11-24-utah-moves-to-drop-criminal-charges-kalshi-446090": 1795610469.9522889,
+  "https://www.coindesk.com/policy/2026/11/24/trump-says-he-s-willing-to-give-nvidia-s-huang-a-pardon-doesn-t-think-he-needs-one": 1795610469.9522889,
+  "https://cointelegraph-tr.com/news/hackers-breach-cia-intelligence-network-in-latest-us-cyberattack": 1795610469.9522889
  },
  "tries": {
   "https://www.theblock.co/news/defi/2026-10-29-uniswap-token-jar-tjar-robinhood-432131": 1
