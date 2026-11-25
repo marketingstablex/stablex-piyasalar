@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-25T12:41:09Z",
+ "updated": "2026-11-25T22:26:36Z",
  "sources": [
   "coindesk.com",
   "cointelegraph-tr.com",
@@ -15,6 +15,13 @@
     "importance": 4
    },
    {
+    "title": "Aave Labs, Bakiyeler 63 Milyon Doları Aşarken Tasarruf Uygulamasını Genel Kullanıma Sundu",
+    "summary": "Aave App, ABD, İngiltere ve EEA bölgesinde banka transferlerini ve sekiz ağ üzerinden stablecoin yatırımlarını destekliyor.",
+    "url": "https://www.theblock.co/news/defi/2026-11-25-aave-labs-publicly-launches-savings-app-as-balances-top-63-million-446674",
+    "published": "2026-11-25T16:00:00Z",
+    "importance": 3
+   },
+   {
     "title": "Neuberger Berman’ın HINC Fonu Aave’nin Kurumsal Borç Verme Platformuna Yüksek Verimli Kredi Getiriyor",
     "summary": "Neuberger Berman'ın tokenleştirilmiş yüksek verimli fonu HINC, Aave Horizon'da piyasaya sürüldü. Uygun yatırımcıların fon karşılığında USDC, GHO ve RLUSD borç almasına olanak tanıyor.",
     "url": "https://www.theblock.co/news/markets/2026-11-24-neuberger-berman-tokenized-hinc-fund-aave-horizon-collateral-445391",
@@ -23,6 +30,20 @@
    }
   ],
   "BTC": [
+   {
+    "title": "Şifrelenmemiş bağlantıları istismar eden hashrate korsanlığı saldırısı Bitcoin madencilerini vurdu",
+    "summary": "Braiins, bir saldırganın bitcoin madenciliği ödüllerini çalmak amacıyla madencilerin işlem gücünü başka bir yöne yönlendirdiği konusunda uyardı.",
+    "url": "https://www.theblock.co/news/ecosystems/2026-11-25-bitcoin-miners-hit-hashrate-hijacking-attack-exploiting-unencrypted-connections-446723",
+    "published": "2026-11-25T19:37:10Z",
+    "importance": 4
+   },
+   {
+    "title": "CoinShares'ten Butterfill 'ayı piyasasının sonunu' görürken Bitcoin 58.000 doların altına geriledi",
+    "summary": "Hisse senetlerinin düşmesi ve ABD enflasyonunun yükselmesiyle kripto para piyasası değeri Eylül 2024'ten bu yana en düşük seviyesine geriledi.",
+    "url": "https://www.theblock.co/news/markets/2026-11-25-bitcoin-falls-below-58000-coinshares-butterfill-sees-tail-end-bear-market-446678",
+    "published": "2026-11-25T17:26:55Z",
+    "importance": 4
+   },
    {
     "title": "Bitcoin ETF'leri, yapay zeka hisselerindeki çöküşün ortasında aylık rekor seviyede 5 milyar dolara yakın çıkış kaydetti",
     "summary": "ABD spot Bitcoin ETF'lerinde kasım ayında 4,94 milyar dolarlık net çıkış kaydedildi. Bu tutar, haziran ayında belirlenen 4,51 milyar dolarlık önceki aylık rekoru aştı.",
@@ -64,28 +85,14 @@
     "url": "https://www.coindesk.com/markets/2026/11/24/bitcoin-hands-back-monday-s-nvidia-driven-gains-liquidations-triple",
     "published": "2026-11-24T11:31:56Z",
     "importance": 4
-   },
-   {
-    "title": "Bitcoin'in 55.000 dolara gerilemesi rekor düzeyde 11,6 milyon BTC'yi zarara soktu",
-    "summary": "Bitcoin fiyatının 55.000 dolara düşmesiyle rekor düzeyde 11,6 milyon BTC zararda kaldı.",
-    "url": "https://www.coindesk.com/markets/2026/11/24/bitcoin-s-drop-to-usd55-000-left-a-record-11-6-million-btc-underwater",
-    "published": "2026-11-24T11:11:38Z",
-    "importance": 4
-   },
-   {
-    "title": "Jensen Huang'ın Nvidia dönüşüyle yaşanan yükseliş zayıflarken Bitcoin 60.000 doların altına düştü",
-    "summary": "Jensen Huang'ın Nvidia'ya dönüşünün yarattığı yükseliş etkisini yitirirken Bitcoin 60.000 doların altına geriledi.",
-    "url": "https://www.coindesk.com/markets/2026/11/24/bitcoin-falls-below-usd60-000-as-rally-on-jensen-huang-s-nvidia-return-fades",
-    "published": "2026-11-24T10:08:38Z",
-    "importance": 4
    }
   ],
   "ETH": [
    {
-    "title": "Ethereum Vakfı araştırmacıları kuantum sonrası yükseltme için hash algoritmasını seçti",
-    "summary": "BLAKE3'e göre daha yavaş kanıtlama süresine sahip olmasına rağmen, uzun kriptanaliz geçmişi ve Ethereum genelindeki mevcut rolü nedeniyle Keccak-256 tercih edildi.",
-    "url": "https://www.theblock.co/news/ecosystems/2026-11-25-ethereum-foundation-researchers-pick-one-hash-to-rule-them-all-for-post-quantum-upgrade-446125",
-    "published": "2026-11-25T09:49:45Z",
+    "title": "Ethereum Foundation, kuantum ve yapay zeka tehditlerine karşı Keccak-256’yı destekliyor",
+    "summary": "Ethlabs kurucu ortağı Julian Ma, Ethereum'un Merge'den bu yana en kapsamlı güvenlik yenilemelerinden birine hazırlanırken yapay zekanın daha yakın vadeli bir tehdit oluşturduğunu belirtti.",
+    "url": "https://cointelegraph-tr.com/news/ethereum-foundation-keccak-256-counter-quantum-ai-threats",
+    "published": "2026-11-25T18:54:51Z",
     "importance": 4
    },
    {
@@ -103,11 +110,27 @@
     "importance": 4
    },
    {
+    "title": "Bit Digital, 29.825 ETH Sattıktan Sonra Galaxy'ye 50 Milyon Dolar Geri Ödeme Yaptı",
+    "summary": "Bit Digital, 29.825 ETH sattı ve elde edilen geliri Galaxy ile olan teminatlı borcunu 50 milyon dolara düşürmek için kullandı.",
+    "url": "https://www.theblock.co/news/business/2026-11-25-bit-digital-repays-50-million-to-galaxy-after-selling-29825-eth-446164",
+    "published": "2026-11-25T14:15:44Z",
+    "importance": 3
+   },
+   {
     "title": "Hisse senedi satışları yeniden başlarken Ether ve DeFi, bitcoin'in iki katı kadar düştü",
     "summary": "Hisse senedi satışları yeniden başlarken Ether ve DeFi, bitcoin'in iki katı kadar düştü",
     "url": "https://www.coindesk.com/markets/2026/11/25/ether-defi-fall-twice-as-hard-as-bitcoin-as-equities-selloff-resumes",
     "published": "2026-11-25T11:57:50Z",
     "importance": 3
+   }
+  ],
+  "LINK": [
+   {
+    "title": "Fidelity, Nasdaq'ta listelenmesi planlanan spot Chainlink ETF'si için başvuru yaptı",
+    "summary": "Fidelity, spot Chainlink borsa yatırım fonunu piyasaya sürmek için ABD Menkul Kıymetler ve Borsa Komisyonu'na başvurdu.",
+    "url": "https://www.theblock.co/news/business/2026-11-25-fidelity-chainlink-etf-nasdaq-listing-446735",
+    "published": "2026-11-25T19:32:42Z",
+    "importance": 5
    }
   ],
   "SKY": [
@@ -162,17 +185,6 @@
   ]
  },
  "seen": {
-  "https://www.coindesk.com/markets/2026/11/21/ether-treasury-firm-btcs-warns-sec-its-usd54-million-aave-loan-could-be-liquidated": 1795265871.9007974,
-  "https://cointelegraph-tr.com/news/ecb-tokenized-deposits-securities-experiments-appia": 1795265871.9007974,
-  "https://cointelegraph-tr.com/news/us-prediction-market-whistleblower-rewards-30-percent": 1795265871.9007974,
-  "https://www.coindesk.com/markets/2026/11/21/bitcoin-nodes-could-be-stalled-by-repeating-one-id-50-000-times-ai-found-the-bug": 1795265871.9007974,
-  "https://www.coindesk.com/markets/2026/11/21/xrp-falls-10-as-long-bets-unwind-and-etf-assets-slip-below-usd1-billion": 1795265871.9007974,
-  "https://cointelegraph-tr.com/news/hong-kong-crypto-custody-advisory-licensing-bill": 1795265871.9007974,
-  "https://www.theblock.co/newsletters/the-daily/2026-11-20-jpmorgan-bitcoin-price-drop-miners-senate-passes-death-bets-act-more-crypto-news-444786": 1795265871.9007974,
-  "https://www.theblock.co/news/defi/2026-11-21-cyber-investigating-suspected-1-million-bridge-exploit-as-upbit-bithumb-freeze-transfers-444810": 1795291354.2920885,
-  "https://www.coindesk.com/markets/2026/11/21/bitcoin-bounces-9-from-two-year-low-to-retake-usd60-000-as-traders-eye-monday-s-stock-open": 1795291354.2920885,
-  "https://www.coindesk.com/business/2026/11/21/cross-chain-protocol-chainflip-s-flip-tanks-30-after-suspected-usd4-86-million-vault-drain": 1795291354.2920885,
-  "https://www.theblock.co/news/defi/2026-11-21-chainflips-flip-drops-34-after-attacker-drains-4-86-million-from-vault-with-suspected-key-compromise-444804": 1795291354.2920885,
   "https://www.theblock.co/news/regulation/2026-11-21-kalshi-faces-monday-hearing-on-new-york-order-it-says-would-shut-down-its-exchange-nationwide-444813": 1795306617.2830553,
   "https://cointelegraph-tr.com/news/chainflip-12m-crypto-hack-10-percent-bounty": 1795332242.740463,
   "https://www.coindesk.com/tech/2026/11/22/bitcoin-s-quantum-security-challenge-extends-to-bridges-custodians-and-millions-of-coins": 1795361881.2351315,
@@ -314,7 +326,30 @@
   "https://cointelegraph-tr.com/news/trump-willing-to-pardon-jensen-huang-but-says-it-wont-be-necessary": 1795610469.9522889,
   "https://www.theblock.co/news/regulation/2026-11-24-utah-moves-to-drop-criminal-charges-kalshi-446090": 1795610469.9522889,
   "https://www.coindesk.com/policy/2026/11/24/trump-says-he-s-willing-to-give-nvidia-s-huang-a-pardon-doesn-t-think-he-needs-one": 1795610469.9522889,
-  "https://cointelegraph-tr.com/news/hackers-breach-cia-intelligence-network-in-latest-us-cyberattack": 1795610469.9522889
+  "https://cointelegraph-tr.com/news/hackers-breach-cia-intelligence-network-in-latest-us-cyberattack": 1795610469.9522889,
+  "https://www.theblock.co/news/regulation/2026-11-25-warren-van-hollen-lead-push-scrap-sec-regulation-crypto-innovation-exemption-446756": 1795645596.9744518,
+  "https://cointelegraph-tr.com/news/switzerland-clears-57-jurisdictions-crypto-tax-data-sharing": 1795645596.9744518,
+  "https://cointelegraph-tr.com/news/why-ecb-collateral-eligibility-could-boost-demand-tokenized-bonds": 1795645596.9744518,
+  "https://www.theblock.co/news/ecosystems/2026-11-25-bitcoin-miners-hit-hashrate-hijacking-attack-exploiting-unencrypted-connections-446723": 1795645596.9744518,
+  "https://www.theblock.co/news/business/2026-11-25-fidelity-chainlink-etf-nasdaq-listing-446735": 1795645596.9744518,
+  "https://cointelegraph-tr.com/news/ethereum-foundation-keccak-256-counter-quantum-ai-threats": 1795645596.9744518,
+  "https://www.coindesk.com/business/2026/11/25/french-senate-blocks-new-crypto-tax-and-wallet-list-critics-called-a-kidnapping-risk": 1795645596.9744518,
+  "https://www.theblock.co/news/regulation/2026-11-25-justice-department-takes-aim-billions-crypto-fraud-proceeds-largest-ever-crackdown-446711": 1795645596.9744518,
+  "https://www.theblock.co/news/regulation/2026-11-25-nvidia-290-million-settlement-crypto-mining-class-action-446709": 1795645596.9744518,
+  "https://www.coindesk.com/markets/2026/11/25/this-time-actually-seems-different-crypto-veterans-brace-for-more-pain-as-bitcoin-tumbles": 1795645596.9744518,
+  "https://www.theblock.co/news/markets/2026-11-25-bitcoin-falls-below-58000-coinshares-butterfill-sees-tail-end-bear-market-446678": 1795645596.9744518,
+  "https://cointelegraph-tr.com/news/nvidia-agrees-290m-settlement-crypto-mining-revenue-disclosures": 1795645596.9744518,
+  "https://cointelegraph-tr.com/news/fcc-authorizes-spacex-1m-satellites-orbital-ai-data-centers": 1795645596.9744518,
+  "https://www.theblock.co/news/markets/2026-11-25-franklin-templeton-ezpz-etf-adds-hyperliquid-hype-446686": 1795645596.9744518,
+  "https://www.coindesk.com/policy/2026/11/25/eu-bank-watchdog-seeks-european-commission-rules-for-crypto-firms-offering-defi-lending": 1795645596.9744518,
+  "https://www.coindesk.com/business/2026/11/25/ukrainian-lawmakers-pass-crypto-tax-and-regulation-bill-expected-to-bring-in-usd330-million": 1795645596.9744518,
+  "https://www.theblock.co/news/defi/2026-11-25-aave-labs-publicly-launches-savings-app-as-balances-top-63-million-446674": 1795645596.9744518,
+  "https://www.coindesk.com/coindesk-indices/2026/11/25/crypto-long-and-short-bitcoin-investors-can-t-keep-ignoring-japan": 1795645596.9744518,
+  "https://www.theblock.co/news/regulation/2026-11-25-novatech-founders-ordered-pay-1-3-million-crypto-ponzi-scheme-haitian-investors-446643": 1795645596.9744518,
+  "https://www.coindesk.com/tech/2026/11/25/south-korean-crypto-exchange-bithumb-warns-of-phishing-after-deeper-october-breach-probe": 1795645596.9744518,
+  "https://www.theblock.co/news/regulation/2026-11-25-ukraine-passes-crypto-market-law-with-332-million-revenue-target-446182": 1795645596.9744518,
+  "https://www.theblock.co/news/business/2026-11-25-bit-digital-repays-50-million-to-galaxy-after-selling-29825-eth-446164": 1795645596.9744518,
+  "https://cointelegraph-tr.com/news/ukraine-passes-bill-crypto-regulation-tax": 1795645596.9744518
  },
  "tries": {
   "https://www.theblock.co/news/defi/2026-10-29-uniswap-token-jar-tjar-robinhood-432131": 1
