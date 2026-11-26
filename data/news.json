@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-26T14:21:56Z",
+ "updated": "2026-11-26T23:15:12Z",
  "sources": [
   "coindesk.com",
   "cointelegraph-tr.com",
@@ -22,6 +22,13 @@
     "url": "https://www.theblock.co/news/business/2026-11-25-fidelity-chainlink-etf-nasdaq-listing-446735",
     "published": "2026-11-25T19:32:42Z",
     "importance": 5
+   },
+   {
+    "title": "JPMorgan, bitcoin'deki 'teslimiyet' sinyalinin Strategy'nin rekor düşük NAV çarpanı ile verildiğini söylüyor",
+    "summary": "JPMorgan analistleri, Strategy'nin bitcoin varlıklarına kıyasla değerlemesinin tüm zamanların en düşük seviyesine ulaştığını ve bunun bitcoin için 'teslimiyet' sinyali verdiğini belirtti.",
+    "url": "https://www.theblock.co/news/markets/2026-11-26-jpmorgan-bitcoin-capitulation-strategy-low-nav-multiple-447007",
+    "published": "2026-11-26T16:18:24Z",
+    "importance": 4
    },
    {
     "title": "Bitcoin ETF'leri nakit kaybediyor ve Fed'in yardım etmesi olası görünmüyor",
@@ -64,13 +71,6 @@
     "url": "https://www.theblock.co/news/ecosystems/2026-11-25-bitcoin-miners-hit-hashrate-hijacking-attack-exploiting-unencrypted-connections-446723",
     "published": "2026-11-25T19:37:10Z",
     "importance": 4
-   },
-   {
-    "title": "CoinShares'ten Butterfill 'ayı piyasasının sonunu' görürken Bitcoin 58.000 doların altına geriledi",
-    "summary": "Hisse senetlerinin düşmesi ve ABD enflasyonunun yükselmesiyle kripto para piyasası değeri Eylül 2024'ten bu yana en düşük seviyesine geriledi.",
-    "url": "https://www.theblock.co/news/markets/2026-11-25-bitcoin-falls-below-58000-coinshares-butterfill-sees-tail-end-bear-market-446678",
-    "published": "2026-11-25T17:26:55Z",
-    "importance": 4
    }
   ],
   "ETH": [
@@ -79,13 +79,6 @@
     "summary": "Ethlabs kurucu ortağı Julian Ma, Ethereum'un Merge'den bu yana en kapsamlı güvenlik yenilemelerinden birine hazırlanırken yapay zekanın daha yakın vadeli bir tehdit oluşturduğunu belirtti.",
     "url": "https://cointelegraph-tr.com/news/ethereum-foundation-keccak-256-counter-quantum-ai-threats",
     "published": "2026-11-25T18:54:51Z",
-    "importance": 4
-   },
-   {
-    "title": "Bitcoin ve ether CFTC personelinden masraf gereksinimleri için onay aldı, Ethereum Vakfı güvenlik ekibini iki katına çıkardı ve dahası",
-    "summary": "Günlük bültende bitcoin ve ether CFTC finansal gereksinimleri kapsamında tanınırken, Ethereum Vakfı yapay zeka riskleri arttıkça güvenlik ekibini iki katına çıkarıyor.",
-    "url": "https://www.theblock.co/newsletters/the-daily/2026-11-25-bitcoin-ether-cftc-staff-nod-ethereum-foundation-doubles-security-team-more-crypto-news-446074",
-    "published": "2026-11-25T05:15:00Z",
     "importance": 4
    },
    {
@@ -135,13 +128,6 @@
     "url": "https://cointelegraph-tr.com/news/sbi-smfg-solana-global-stablecoin-tokenization",
     "published": "2026-11-25T11:49:54Z",
     "importance": 4
-   },
-   {
-    "title": "Solana geliştiricileri, halihazırda kaybetmiş bloklar üzerinde doğrulayıcıların çalışmasını durdurmak için harekete geçiyor",
-    "summary": "Solana geliştiricileri, halihazırda kaybetmiş bloklar üzerinde doğrulayıcıların çalışmasını durdurmak için harekete geçiyor.",
-    "url": "https://www.coindesk.com/tech/2026/11/25/solana-developers-move-to-stop-validators-finishing-work-on-blocks-that-already-lost",
-    "published": "2026-11-25T06:33:10Z",
-    "importance": 3
    }
   ],
   "XRP": [
@@ -151,22 +137,10 @@
     "url": "https://www.coindesk.com/markets/2026/11/26/ripple-is-worth-usd90-a-share-to-one-fund-and-usd300-to-another-sec-filings-show",
     "published": "2026-11-26T05:30:38Z",
     "importance": 3
-   },
-   {
-    "title": "XRP Ledger'ın son çeyrekteki tüm işlem büyümesini yalnızca 10 hesap yönlendirdi",
-    "summary": "XRP Ledger'ın son çeyrekteki tüm işlem büyümesini yalnızca 10 hesap yönlendirdi.",
-    "url": "https://www.coindesk.com/markets/2026/11/25/ten-accounts-drove-all-of-the-xrp-ledger-s-trading-growth-last-quarter",
-    "published": "2026-11-25T06:15:08Z",
-    "importance": 3
    }
   ]
  },
  "seen": {
-  "https://www.coindesk.com/tech/2026/11/22/bitcoin-s-quantum-security-challenge-extends-to-bridges-custodians-and-millions-of-coins": 1795361881.2351315,
-  "https://cointelegraph-tr.com/news/upbit-bithumb-suspend-cyber-transfers-bridge-exploit": 1795361881.2351315,
-  "https://www.theblock.co/news/ecosystems/2026-11-22-trump-to-host-second-memecoin-dinner-tonight-with-trump-down-99-from-peak-444828": 1795383754.3834121,
-  "https://www.coindesk.com/": 1795383754.3834121,
-  "https://www.theblock.co/news/defi/2026-11-22-chainflips-losses-climb-to-12-million-after-protocol-discloses-122-9-btc-theft-offers-hacker-bounty-444829": 1795383754.3834121,
   "https://www.theblock.co/news/defi/2026-11-22-a-2-million-exploit-leads-to-a-3-7-million-free-for-all-as-traders-empty-fusionists-ace-bridge-444838": 1795401367.4533777,
   "https://cointelegraph-tr.com/magazine/will-bitcoins-big-rebound-hold-more-tampered-ledgers-found-hodlers-digest": 1795401367.4533777,
   "https://www.coindesk.com/policy/2026/11/23/south-korea-to-expand-cryptocurrency-account-freezes-and-curb-illicit-transfers-abroad": 1795432503.189262,
@@ -350,7 +324,19 @@
   "https://cointelegraph-tr.com/news/sky-emergency-vote-25m-transfer-stusds-liquidity-stress": 1795702916.413967,
   "https://www.theblock.co/news/markets/2026-11-26-galaxy-walks-back-bitcoin-bottom-call-446786": 1795702916.413967,
   "https://cointelegraph-tr.com/news/1password-hacker-stole-customer-names-and-emails-but-vaults-safe": 1795702916.413967,
-  "https://www.coindesk.com/policy/2026/11/26/strategic-bitcoin-reserve-bill-to-lock-up-u-s-government-held-bitcoin-for-20-years-goes-to-full-house": 1795702916.413967
+  "https://www.coindesk.com/policy/2026/11/26/strategic-bitcoin-reserve-bill-to-lock-up-u-s-government-held-bitcoin-for-20-years-goes-to-full-house": 1795702916.413967,
+  "https://cointelegraph-tr.com/news/bnb-chain-details-new-layer-1-trading-private-finance-ai": 1795734912.4589112,
+  "https://cointelegraph-tr.com/news/binance-completes-withdrawal-recovery-four-weeks-after-63b-hack": 1795734912.4589112,
+  "https://cointelegraph-tr.com/news/japan-tighter-oversight-defi-self-custodial-wallets": 1795734912.4589112,
+  "https://cointelegraph-tr.com/news/spain-moves-grant-financial-watchdog-power-freeze-crypto-accounts": 1795734912.4589112,
+  "https://cointelegraph-tr.com/markets/crypto-hawkish-fed-risks-december-meltdown": 1795734912.4589112,
+  "https://www.theblock.co/newsletters/tokenization-briefing/2026-11-26-tokenized-anthropic-holders-doubled-in-3-days-446013": 1795734912.4589112,
+  "https://www.coindesk.com/tech/2026/11/26/a-tiny-payment-can-expose-the-ip-address-behind-a-bitcoin-wallet-developer-finds": 1795734912.4589112,
+  "https://www.coindesk.com/markets/2026/11/26/bitcoin-s-dormant-supply-rises-a-behavior-seen-during-previous-bear-market-bottoming-phases": 1795734912.4589112,
+  "https://cointelegraph-tr.com/news/bis-chief-pablo-hernndez-de-cos-next-ecb-president": 1795734912.4589112,
+  "https://www.theblock.co/news/markets/2026-11-26-jpmorgan-bitcoin-capitulation-strategy-low-nav-multiple-447007": 1795734912.4589112,
+  "https://cointelegraph-tr.com/news/how-eu-brokers-could-lose-access-to-kyrgyz-crypto-exchanges": 1795734912.4589112,
+  "https://www.coindesk.com/coindesk-indices/2026/11/26/crypto-for-advisors-four-questions-to-ask-before-trusting-a-crypto-exchange": 1795734912.4589112
  },
  "tries": {
   "https://www.theblock.co/news/defi/2026-10-29-uniswap-token-jar-tjar-robinhood-432131": 1
