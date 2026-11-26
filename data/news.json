@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-25T22:26:36Z",
+ "updated": "2026-11-26T04:20:06Z",
  "sources": [
   "coindesk.com",
   "cointelegraph-tr.com",
@@ -8,28 +8,21 @@
  "bySymbol": {
   "AAVE": [
    {
-    "title": "Ethereum hazine şirketi BTCS, Aave borcunu azaltmak için 43.8 milyon dolarlık ETH sattı, CEO ‘bunu hafifçe almıyoruz’ dedi",
-    "summary": "Nasdaq'ta işlem gören BTCS, merkeziyetsiz borcu azaltmak ve teminat tasfiyesi riskini sınırlamak için cuma günkü kripto düşüşü sırasında 27.300 ETH sattı.",
-    "url": "https://www.theblock.co/news/business/2026-11-24-ethereum-treasury-firm-btcs-sells-43-8-million-eth-cut-aave-debt-ceo-says-we-do-not-take-this-lightly-445562",
-    "published": "2026-11-24T15:27:50Z",
-    "importance": 4
-   },
-   {
     "title": "Aave Labs, Bakiyeler 63 Milyon Doları Aşarken Tasarruf Uygulamasını Genel Kullanıma Sundu",
     "summary": "Aave App, ABD, İngiltere ve EEA bölgesinde banka transferlerini ve sekiz ağ üzerinden stablecoin yatırımlarını destekliyor.",
     "url": "https://www.theblock.co/news/defi/2026-11-25-aave-labs-publicly-launches-savings-app-as-balances-top-63-million-446674",
     "published": "2026-11-25T16:00:00Z",
     "importance": 3
-   },
-   {
-    "title": "Neuberger Berman’ın HINC Fonu Aave’nin Kurumsal Borç Verme Platformuna Yüksek Verimli Kredi Getiriyor",
-    "summary": "Neuberger Berman'ın tokenleştirilmiş yüksek verimli fonu HINC, Aave Horizon'da piyasaya sürüldü. Uygun yatırımcıların fon karşılığında USDC, GHO ve RLUSD borç almasına olanak tanıyor.",
-    "url": "https://www.theblock.co/news/markets/2026-11-24-neuberger-berman-tokenized-hinc-fund-aave-horizon-collateral-445391",
-    "published": "2026-11-24T14:00:00Z",
-    "importance": 3
    }
   ],
   "BTC": [
+   {
+    "title": "Temsilciler Meclisi Komitesi, Stratejik Bitcoin Rezervi Yasa Tasarısını İlerletti",
+    "summary": "Temsilciler Meclisi Komitesi Stratejik Bitcoin Rezervi yasa tasarısını ilerletti ancak yasalaşması için önünde dar bir yol bulunuyor. Mevcut 119. Kongre'nin önümüzdeki haftalarda çalışmalarına ara vermesi bekleniyor ve bu durum oturum sona ermeden tasarının tamamen geçmesi için çok az zaman bırakıyor.",
+    "url": "https://www.theblock.co/news/regulation/2026-11-25-house-committee-advances-strategic-bitcoin-reserve-bill-446778",
+    "published": "2026-11-26T03:03:01Z",
+    "importance": 4
+   },
    {
     "title": "Şifrelenmemiş bağlantıları istismar eden hashrate korsanlığı saldırısı Bitcoin madencilerini vurdu",
     "summary": "Braiins, bir saldırganın bitcoin madenciliği ödüllerini çalmak amacıyla madencilerin işlem gücünü başka bir yöne yönlendirdiği konusunda uyardı.",
@@ -71,20 +64,6 @@
     "url": "https://cointelegraph-tr.com/markets/bitcoin-slides-us-tariff-nerves-anthropic-falls-ipo-price",
     "published": "2026-11-24T17:09:11Z",
     "importance": 4
-   },
-   {
-    "title": "Grayscale, Bitcoin’ın 62 Bin Dolarda “Aşırı Satımda” Olduğunu Söylüyor Ancak Yapay Zeka Riskleri Konusunda Uyarıyor",
-    "summary": "Grayscale, Bitcoin'in yüzde 56'lık düşüşle en küçük oranlı gerilemeyi yaşadığını ve ayı piyasasının 411 günle kayıtlardaki en uzun ayı piyasası olduğunu belirtti.",
-    "url": "https://cointelegraph-tr.com/markets/bitcoin-oversold-ai-risks-grayscale",
-    "published": "2026-11-24T13:11:44Z",
-    "importance": 4
-   },
-   {
-    "title": "Bitcoin pazartesi günkü Nvidia destekli kazançlarını geri verdi, tasfiyeler üçe katlandı",
-    "summary": "Bitcoin pazartesi günü Nvidia kaynaklı kazançlarını geri verirken, tasfiye miktarları üç katına çıktı.",
-    "url": "https://www.coindesk.com/markets/2026/11/24/bitcoin-hands-back-monday-s-nvidia-driven-gains-liquidations-triple",
-    "published": "2026-11-24T11:31:56Z",
-    "importance": 4
    }
   ],
   "ETH": [
@@ -100,13 +79,6 @@
     "summary": "Günlük bültende bitcoin ve ether CFTC finansal gereksinimleri kapsamında tanınırken, Ethereum Vakfı yapay zeka riskleri arttıkça güvenlik ekibini iki katına çıkarıyor.",
     "url": "https://www.theblock.co/newsletters/the-daily/2026-11-25-bitcoin-ether-cftc-staff-nod-ethereum-foundation-doubles-security-team-more-crypto-news-446074",
     "published": "2026-11-25T05:15:00Z",
-    "importance": 4
-   },
-   {
-    "title": "Ethereum hazine şirketi BTCS, Aave borcunu azaltmak için 43.8 milyon dolarlık ETH sattı, CEO ‘bunu hafifçe almıyoruz’ dedi",
-    "summary": "Nasdaq'ta işlem gören BTCS, merkeziyetsiz borcu azaltmak ve teminat tasfiyesi riskini sınırlamak için cuma günkü kripto düşüşü sırasında 27.300 ETH sattı.",
-    "url": "https://www.theblock.co/news/business/2026-11-24-ethereum-treasury-firm-btcs-sells-43-8-million-eth-cut-aave-debt-ceo-says-we-do-not-take-this-lightly-445562",
-    "published": "2026-11-24T15:27:50Z",
     "importance": 4
    },
    {
@@ -158,15 +130,6 @@
     "importance": 3
    }
   ],
-  "USDC": [
-   {
-    "title": "Neuberger Berman’ın HINC Fonu Aave’nin Kurumsal Borç Verme Platformuna Yüksek Verimli Kredi Getiriyor",
-    "summary": "Neuberger Berman'ın tokenleştirilmiş yüksek verimli fonu HINC, Aave Horizon'da piyasaya sürüldü. Uygun yatırımcıların fon karşılığında USDC, GHO ve RLUSD borç almasına olanak tanıyor.",
-    "url": "https://www.theblock.co/news/markets/2026-11-24-neuberger-berman-tokenized-hinc-fund-aave-horizon-collateral-445391",
-    "published": "2026-11-24T14:00:00Z",
-    "importance": 3
-   }
-  ],
   "XRP": [
    {
     "title": "XRP Ledger'ın son çeyrekteki tüm işlem büyümesini yalnızca 10 hesap yönlendirdi",
@@ -174,18 +137,10 @@
     "url": "https://www.coindesk.com/markets/2026/11/25/ten-accounts-drove-all-of-the-xrp-ledger-s-trading-growth-last-quarter",
     "published": "2026-11-25T06:15:08Z",
     "importance": 3
-   },
-   {
-    "title": "XRP Ledger DEX Hacmi 3. Çeyrekte Günde 4.51 Milyon XRP'ye Ulaştı",
-    "summary": "Evernorth'a göre XRP Ledger DEX emir defteri hacmi 3. çeyrekte günde ortalama 4,51 milyon XRP oldu. Büyük yatırımcılar ticari faaliyetlerin yüzde 65'ini yönlendirirken, RLUSD yüzde 74 artış gösterdi.",
-    "url": "https://www.theblock.co/news/markets/2026-11-24-xrpl-dex-volume-q3-2026-evernorth-report-445395",
-    "published": "2026-11-24T14:00:02Z",
-    "importance": 3
    }
   ]
  },
  "seen": {
-  "https://www.theblock.co/news/regulation/2026-11-21-kalshi-faces-monday-hearing-on-new-york-order-it-says-would-shut-down-its-exchange-nationwide-444813": 1795306617.2830553,
   "https://cointelegraph-tr.com/news/chainflip-12m-crypto-hack-10-percent-bounty": 1795332242.740463,
   "https://www.coindesk.com/tech/2026/11/22/bitcoin-s-quantum-security-challenge-extends-to-bridges-custodians-and-millions-of-coins": 1795361881.2351315,
   "https://cointelegraph-tr.com/news/upbit-bithumb-suspend-cyber-transfers-bridge-exploit": 1795361881.2351315,
@@ -349,7 +304,10 @@
   "https://www.coindesk.com/tech/2026/11/25/south-korean-crypto-exchange-bithumb-warns-of-phishing-after-deeper-october-breach-probe": 1795645596.9744518,
   "https://www.theblock.co/news/regulation/2026-11-25-ukraine-passes-crypto-market-law-with-332-million-revenue-target-446182": 1795645596.9744518,
   "https://www.theblock.co/news/business/2026-11-25-bit-digital-repays-50-million-to-galaxy-after-selling-29825-eth-446164": 1795645596.9744518,
-  "https://cointelegraph-tr.com/news/ukraine-passes-bill-crypto-regulation-tax": 1795645596.9744518
+  "https://cointelegraph-tr.com/news/ukraine-passes-bill-crypto-regulation-tax": 1795645596.9744518,
+  "https://www.theblock.co/news/regulation/2026-11-25-house-committee-advances-strategic-bitcoin-reserve-bill-446778": 1795666806.7510319,
+  "https://www.theblock.co/news/business/2026-11-25-layerzero-kakaopay-samsung-446770": 1795666806.7510319,
+  "https://cointelegraph-tr.com/news/ai-labs-likely-sitting-on-cryptography-bombshells-computer-scientist-says": 1795666806.7510319
  },
  "tries": {
   "https://www.theblock.co/news/defi/2026-10-29-uniswap-token-jar-tjar-robinhood-432131": 1
