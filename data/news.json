@@ -1,20 +1,11 @@
 {
- "updated": "2026-11-26T23:15:12Z",
+ "updated": "2026-11-27T05:18:27Z",
  "sources": [
   "coindesk.com",
   "cointelegraph-tr.com",
   "theblock.co"
  ],
  "bySymbol": {
-  "AAVE": [
-   {
-    "title": "Aave Labs, Bakiyeler 63 Milyon Doları Aşarken Tasarruf Uygulamasını Genel Kullanıma Sundu",
-    "summary": "Aave App, ABD, İngiltere ve EEA bölgesinde banka transferlerini ve sekiz ağ üzerinden stablecoin yatırımlarını destekliyor.",
-    "url": "https://www.theblock.co/news/defi/2026-11-25-aave-labs-publicly-launches-savings-app-as-balances-top-63-million-446674",
-    "published": "2026-11-25T16:00:00Z",
-    "importance": 3
-   }
-  ],
   "BTC": [
    {
     "title": "Fidelity, Nasdaq'ta listelenmesi planlanan spot Chainlink ETF'si için başvuru yaptı",
@@ -22,6 +13,13 @@
     "url": "https://www.theblock.co/news/business/2026-11-25-fidelity-chainlink-etf-nasdaq-listing-446735",
     "published": "2026-11-25T19:32:42Z",
     "importance": 5
+   },
+   {
+    "title": "JPMorgan bitcoin 'teslimiyetine' dikkat çekti, Demokratlar SEC'in kripto planlarına karşı çıkıyor ve daha fazlası",
+    "summary": "Günün bülteninde, Strategy'nin Net Aktif Değeri (NAV) Çarpanı düşerken JPMorgan bitcoin 'teslimiyetine' dikkat çekiyor; Demokratlar SEC'in kripto planlarına karşı muhalefeti artırıyor; ve daha fazlası.",
+    "url": "https://www.theblock.co/newsletters/the-daily/2026-11-26-jpmorgan-bitcoin-capitulation-democrats-sec-crypto-plans-more-news-447025",
+    "published": "2026-11-27T02:20:00Z",
+    "importance": 4
    },
    {
     "title": "JPMorgan, bitcoin'deki 'teslimiyet' sinyalinin Strategy'nin rekor düşük NAV çarpanı ile verildiğini söylüyor",
@@ -64,13 +62,6 @@
     "url": "https://www.theblock.co/news/regulation/2026-11-25-house-committee-advances-strategic-bitcoin-reserve-bill-446778",
     "published": "2026-11-26T03:03:01Z",
     "importance": 4
-   },
-   {
-    "title": "Şifrelenmemiş bağlantıları istismar eden hashrate korsanlığı saldırısı Bitcoin madencilerini vurdu",
-    "summary": "Braiins, bir saldırganın bitcoin madenciliği ödüllerini çalmak amacıyla madencilerin işlem gücünü başka bir yöne yönlendirdiği konusunda uyardı.",
-    "url": "https://www.theblock.co/news/ecosystems/2026-11-25-bitcoin-miners-hit-hashrate-hijacking-attack-exploiting-unencrypted-connections-446723",
-    "published": "2026-11-25T19:37:10Z",
-    "importance": 4
    }
   ],
   "ETH": [
@@ -82,24 +73,17 @@
     "importance": 4
    },
    {
+    "title": "Ethereum geliştiricileri, gecikmelerin ardından Glamsterdam’ın Hoodi dağıtımını aralık ortasına planladı",
+    "summary": "Glamsterdam’ın Hoodi yükseltmesi, gaz fiyatlandırmasındaki değişikliklerin bazı mevcut akıllı sözleşmeleri bozabileceği endişeleri üzerine ekim ayında ertelendi.",
+    "url": "https://cointelegraph-tr.com/news/ethereum-devs-set-glamsterdams-hoodi-rollout-for-mid-december-after-delays",
+    "published": "2026-11-27T04:47:36Z",
+    "importance": 3
+   },
+   {
     "title": "Vitalik Buterin, donanım cüzdanlarına yönelik tehditler evrilirken doğrulanabilir çipler çağrısı yaptı",
     "summary": "Buterin, gelecekteki saldırıların gizli kötü amaçlı işlevlere sahip benzer görünümlü çipler kullanabileceği ve bunun donanım tahrifatını tespit etmeyi zorlaştırabileceği uyarısında bulundu.",
     "url": "https://cointelegraph-tr.com/news/vitalik-buterin-verifiable-chips-hardware-wallet-threats-evolve",
     "published": "2026-11-26T12:13:59Z",
-    "importance": 3
-   },
-   {
-    "title": "Bit Digital, 29.825 ETH Sattıktan Sonra Galaxy'ye 50 Milyon Dolar Geri Ödeme Yaptı",
-    "summary": "Bit Digital, 29.825 ETH sattı ve elde edilen geliri Galaxy ile olan teminatlı borcunu 50 milyon dolara düşürmek için kullandı.",
-    "url": "https://www.theblock.co/news/business/2026-11-25-bit-digital-repays-50-million-to-galaxy-after-selling-29825-eth-446164",
-    "published": "2026-11-25T14:15:44Z",
-    "importance": 3
-   },
-   {
-    "title": "Hisse senedi satışları yeniden başlarken Ether ve DeFi, bitcoin'in iki katı kadar düştü",
-    "summary": "Hisse senedi satışları yeniden başlarken Ether ve DeFi, bitcoin'in iki katı kadar düştü",
-    "url": "https://www.coindesk.com/markets/2026/11/25/ether-defi-fall-twice-as-hard-as-bitcoin-as-equities-selloff-resumes",
-    "published": "2026-11-25T11:57:50Z",
     "importance": 3
    }
   ],
@@ -121,16 +105,14 @@
     "importance": 3
    }
   ],
-  "SOL": [
-   {
-    "title": "Japonya’nın SBI ve SMFG’si stablecoin ve tokenizasyon için Solana girişimi başlattı",
-    "summary": "SBI Solana Global, stablecoin ödeme altyapısı geliştirmeyi, yapay zeka ajanlarının mikro ödemelerini araştırmayı ve finansal varlıkları tokenleştirmeyi planlıyor.",
-    "url": "https://cointelegraph-tr.com/news/sbi-smfg-solana-global-stablecoin-tokenization",
-    "published": "2026-11-25T11:49:54Z",
-    "importance": 4
-   }
-  ],
   "XRP": [
+   {
+    "title": "Ripple'ın borç verme planı, XRP Ledger'ın 800 milyon dolarlık stablecoin'lerinden yararlanmaya bir adım daha yaklaştı",
+    "summary": "Ripple'ın borç verme planı, XRP Ledger'ın 800 milyon dolarlık stablecoin'lerinden yararlanmaya bir adım daha yaklaştı",
+    "url": "https://www.coindesk.com/markets/2026/11/27/ripple-s-lending-plan-moves-closer-to-tapping-xrp-ledger-s-usd950-million-in-stablecoins",
+    "published": "2026-11-27T05:06:32Z",
+    "importance": 3
+   },
    {
     "title": "Ripple, SEC dosyalarına göre bir fon için hisse başına 90 dolar, diğeri için 300 dolar değerinde",
     "summary": "Ripple, SEC dosyalarına göre bir fon için hisse başına 90 dolar, diğeri için 300 dolar değerinde.",
@@ -141,8 +123,6 @@
   ]
  },
  "seen": {
-  "https://www.theblock.co/news/defi/2026-11-22-a-2-million-exploit-leads-to-a-3-7-million-free-for-all-as-traders-empty-fusionists-ace-bridge-444838": 1795401367.4533777,
-  "https://cointelegraph-tr.com/magazine/will-bitcoins-big-rebound-hold-more-tampered-ledgers-found-hodlers-digest": 1795401367.4533777,
   "https://www.coindesk.com/policy/2026/11/23/south-korea-to-expand-cryptocurrency-account-freezes-and-curb-illicit-transfers-abroad": 1795432503.189262,
   "https://www.coindesk.com/markets/2026/11/23/bitcoin-breaks-a-record-streak-of-lower-highs-here-s-what-it-means": 1795432503.189262,
   "https://www.theblock.co/news/regulation/2026-11-23-south-korea-to-publish-draft-digital-asset-basic-act-444881": 1795432503.189262,
@@ -336,7 +316,13 @@
   "https://cointelegraph-tr.com/news/bis-chief-pablo-hernndez-de-cos-next-ecb-president": 1795734912.4589112,
   "https://www.theblock.co/news/markets/2026-11-26-jpmorgan-bitcoin-capitulation-strategy-low-nav-multiple-447007": 1795734912.4589112,
   "https://cointelegraph-tr.com/news/how-eu-brokers-could-lose-access-to-kyrgyz-crypto-exchanges": 1795734912.4589112,
-  "https://www.coindesk.com/coindesk-indices/2026/11/26/crypto-for-advisors-four-questions-to-ask-before-trusting-a-crypto-exchange": 1795734912.4589112
+  "https://www.coindesk.com/coindesk-indices/2026/11/26/crypto-for-advisors-four-questions-to-ask-before-trusting-a-crypto-exchange": 1795734912.4589112,
+  "https://www.coindesk.com/markets/2026/11/27/ripple-s-lending-plan-moves-closer-to-tapping-xrp-ledger-s-usd950-million-in-stablecoins": 1795756707.0154347,
+  "https://cointelegraph-tr.com/news/ethereum-devs-set-glamsterdams-hoodi-rollout-for-mid-december-after-delays": 1795756707.0154347,
+  "https://www.coindesk.com/markets/2026/11/27/binance-says-its-withdrawal-suspension-is-over-four-weeks-after-a-usd6-3-billion-hack": 1795756707.0154347,
+  "https://www.coindesk.com/tech/2026/11/27/ethereum-s-much-awaited-glamsterdam-upgrade-cleared-for-december-test-here-s-what-to-know": 1795756707.0154347,
+  "https://www.theblock.co/news/regulation/2026-11-26-china-japan-south-korea-asean-digital-payments-447029": 1795756707.0154347,
+  "https://www.theblock.co/newsletters/the-daily/2026-11-26-jpmorgan-bitcoin-capitulation-democrats-sec-crypto-plans-more-news-447025": 1795756707.0154347
  },
  "tries": {
   "https://www.theblock.co/news/defi/2026-10-29-uniswap-token-jar-tjar-robinhood-432131": 1
