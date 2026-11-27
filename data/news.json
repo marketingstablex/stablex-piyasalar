@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-27T15:31:31Z",
+ "updated": "2026-11-27T23:42:15Z",
  "sources": [
   "coindesk.com",
   "cointelegraph-tr.com",
@@ -7,6 +7,13 @@
  ],
  "bySymbol": {
   "BTC": [
+   {
+    "title": "CryptoQuant, Bitcoin fiyatının toparlanması için USDT arzının büyümesi gerektiğini söylüyor",
+    "summary": "CryptoQuant'a göre Bitcoin fiyatının sürdürülebilir bir şekilde toparlanabilmesi için USDT arzının yeniden büyüme göstermesi gerekiyor.",
+    "url": "https://www.theblock.co/news/markets/2026-11-27-cryptoquant-bitcoin-price-recovery-usdt-supply-growth-447560",
+    "published": "2026-11-27T18:13:45Z",
+    "importance": 4
+   },
    {
     "title": "JPMorgan bitcoin 'teslimiyetine' dikkat çekti, Demokratlar SEC'in kripto planlarına karşı çıkıyor ve daha fazlası",
     "summary": "Günün bülteninde, Strategy'nin Net Aktif Değeri (NAV) Çarpanı düşerken JPMorgan bitcoin 'teslimiyetine' dikkat çekiyor; Demokratlar SEC'in kripto planlarına karşı muhalefeti artırıyor; ve daha fazlası.",
@@ -19,27 +26,6 @@
     "summary": "Bitcoin ETF'leri nakit kaybediyor ve Fed'in yardım etmesi olası görünmüyor.",
     "url": "https://www.coindesk.com/daybook-us/2026/11/26/bitcoin-etfs-are-bleeding-cash-and-the-fed-is-unlikely-to-help",
     "published": "2026-11-26T12:14:46Z",
-    "importance": 4
-   },
-   {
-    "title": "Avrupa'nın tek spot Bitcoin ETF'si İsviçre'de işlem görmeye başladı, BIT diyor",
-    "summary": "BIT Asset Management'ın BBIT fonu, 350 BTC varlık ve yüzde 0,19 yıllık gider oranıyla SIX Swiss Exchange'de piyasaya çıktı.",
-    "url": "https://www.theblock.co/news/markets/2026-11-26-swiss-bitcoin-etf-bbit-begins-trading-europes-only-446724",
-    "published": "2026-11-26T06:30:00Z",
-    "importance": 4
-   },
-   {
-    "title": "Galaxy, bitcoin'in haziran dip tahmininden vazgeçti, 58.525 doların altında daha derin kayıplar konusunda uyardı",
-    "summary": "Galaxy, 30 Haziran kapanış düşüğü olan 58.525 doların altında bir günlük kapanışı, çok daha düşük bir seviyeye doğru hareketin başlangıcı olarak değerlendiriyor.",
-    "url": "https://www.theblock.co/news/markets/2026-11-26-galaxy-walks-back-bitcoin-bottom-call-446786",
-    "published": "2026-11-26T05:16:11Z",
-    "importance": 4
-   },
-   {
-    "title": "ABD hükümetinin bitcoin'lerini 20 yıl boyunca kilitleyecek yasa tasarısı Temsilciler Meclisi'ne ilerliyor",
-    "summary": "ABD hükümetinin bitcoin'lerini 20 yıl boyunca kilitleyecek yasa tasarısı Temsilciler Meclisi'ne ilerliyor.",
-    "url": "https://www.coindesk.com/policy/2026/11/26/strategic-bitcoin-reserve-bill-to-lock-up-u-s-government-held-bitcoin-for-20-years-goes-to-full-house",
-    "published": "2026-11-26T04:46:01Z",
     "importance": 4
    },
    {
@@ -80,16 +66,14 @@
     "importance": 3
    }
   ],
-  "SKY": [
-   {
-    "title": "Sky, likidite baskısı ortasında 25 milyon dolarlık transfer için acil oylama önerdi",
-    "summary": "Sky’nin Core Facilitator’ı, 3 Aralık’taki planlı oylamayı beklememek adına oylamayı hızlandırmak için protokolün acil durum müdahale sürecini başlattı.",
-    "url": "https://cointelegraph-tr.com/news/sky-emergency-vote-25m-transfer-stusds-liquidity-stress",
-    "published": "2026-11-26T05:29:26Z",
-    "importance": 3
-   }
-  ],
   "USDT": [
+   {
+    "title": "CryptoQuant, Bitcoin fiyatının toparlanması için USDT arzının büyümesi gerektiğini söylüyor",
+    "summary": "CryptoQuant'a göre Bitcoin fiyatının sürdürülebilir bir şekilde toparlanabilmesi için USDT arzının yeniden büyüme göstermesi gerekiyor.",
+    "url": "https://www.theblock.co/news/markets/2026-11-27-cryptoquant-bitcoin-price-recovery-usdt-supply-growth-447560",
+    "published": "2026-11-27T18:13:45Z",
+    "importance": 4
+   },
    {
     "title": "Tether, çalınan kripto paraları dakikalar içinde dondurabilir ancak geri almak yıllar sürebilir",
     "summary": "Tether çalınan kripto paraları dakikalar içinde dondurabilirken, bunları geri almak yıllar alabilmektedir.",
@@ -105,41 +89,10 @@
     "url": "https://www.coindesk.com/markets/2026/11/27/ripple-s-lending-plan-moves-closer-to-tapping-xrp-ledger-s-usd950-million-in-stablecoins",
     "published": "2026-11-27T05:06:32Z",
     "importance": 3
-   },
-   {
-    "title": "Ripple, SEC dosyalarına göre bir fon için hisse başına 90 dolar, diğeri için 300 dolar değerinde",
-    "summary": "Ripple, SEC dosyalarına göre bir fon için hisse başına 90 dolar, diğeri için 300 dolar değerinde.",
-    "url": "https://www.coindesk.com/markets/2026/11/26/ripple-is-worth-usd90-a-share-to-one-fund-and-usd300-to-another-sec-filings-show",
-    "published": "2026-11-26T05:30:38Z",
-    "importance": 3
    }
   ]
  },
  "seen": {
-  "https://www.coindesk.com/business/2026/11/23/eric-trump-backed-american-bitcoin-secures-usd150-million-loan-against-its-bitcoin": 1795474421.2049186,
-  "https://www.theblock.co/news/markets/2026-11-23-bitcoin-crypto-tech-stocks-rally-nvidia-reinstates-jensen-huang-ceo-nvda-jumps-444952": 1795474421.2049186,
-  "https://cointelegraph-tr.com/news/nvidia-reinstates-jensen-huang-ceo-intelligence-probe": 1795474421.2049186,
-  "https://www.coindesk.com/opinion/2026/11/23/bitcoin-s-5-year-return-is-nearly-zero-great-narratives-are-fading-and-what-s-left-is-the-fed": 1795474421.2049186,
-  "https://www.coindesk.com/markets/2026/11/23/jensen-huang-returns-as-nvidia-ceo-as-shares-jump-27": 1795474421.2049186,
-  "https://www.theblock.co/news/business/2026-11-23-okxice-launches-tokenized-securities-venue-444898": 1795474421.2049186,
-  "https://cointelegraph-tr.com/news/okxice-launch-113-tokenized-assets-objections": 1795474421.2049186,
-  "https://www.theblock.co/news/ecosystems/2026-11-23-pump-fun-draws-criticism-over-private-key-imports-as-it-retires-external-wallet-sign-in-on-web-444926": 1795474421.2049186,
-  "https://www.coindesk.com/business/2026/11/23/fidelity-investments-strive-etoro-join-okx-ice-tokenized-securities-venue": 1795474421.2049186,
-  "https://cointelegraph-tr.com/news/trumps-american-bitcoin-rises-150m-credit-falconx": 1795474421.2049186,
-  "https://www.theblock.co/news/ecosystems/2026-11-23-solo-bitcoin-miner-beats-odds-wins-191000-block-reward-444919": 1795474421.2049186,
-  "https://cointelegraph-tr.com/news/strategy-buy-457-bitcoin-btc-treasury-losses": 1795474421.2049186,
-  "https://cointelegraph-tr.com/magazine/ai-agents-are-using-credit-cards-where-does-that-leave-crypto": 1795474421.2049186,
-  "https://cointelegraph-tr.com/news/netflix-ftx-scrutiny-obama-production-ties": 1795474421.2049186,
-  "https://www.theblock.co/news/business/2026-11-23-the-dots-arent-done-michael-saylor-bitcoin-444907": 1795474421.2049186,
-  "https://www.coindesk.com/tech/2026/11/23/live-news-wall-street-rebounds-as-dollar-index-hits-highest-since-march-2025": 1795474421.2049186,
-  "https://www.coindesk.com/daybook-us/2026/11/23/bitcoin-s-losing-streak-is-second-longest-ever-and-some-observers-see-more-downside": 1795474421.2049186,
-  "https://www.coindesk.com/markets/2026/11/23/ethereum-wallets-holding-usd72-billion-eth-are-under-threat-of-a-future-quantum-attack": 1795474421.2049186,
-  "https://www.theblock.co/news/deals/2026-11-23-lendingusa-cross-river-bitcoin-backed-loans-444842": 1795474421.2049186,
-  "https://www.coindesk.com/markets/2026/11/23/bitcoin-rebounds-from-2-year-low-as-wall-street-futures-recover": 1795474421.2049186,
-  "https://cointelegraph-tr.com/news/ecb-expands-eurosystem-collateral-tokenized-securities": 1795474421.2049186,
-  "https://www.coindesk.com/business/2026/11/23/japan-to-ramp-up-crypto-tax-audits-after-uncovering-usd24-5-million-in-hidden-income": 1795474421.2049186,
-  "https://www.coindesk.com/markets/2026/11/23/live-updates-bitcoin-climbs-back-above-usd61-000-as-stocks-rebound-from-ai-rout": 1795474421.2049186,
-  "https://www.theblock.co/news/business/2026-11-23-visa-launches-experimental-ai-agent-wallet-for-eligible-us-users-to-earn-ousd-from-paid-tasks-444903": 1795474421.2049186,
   "https://www.theblock.co/news/markets/2026-11-24-bitcoin-60000-jensen-huang-fizzles-445472": 1795503319.6898184,
   "https://www.theblock.co/newsletters/the-daily/2026-11-24-doj-binance-hack-strategy-bitcoin-more-crypto-news-445430": 1795503319.6898184,
   "https://cointelegraph-tr.com/markets/why-42-macro-says-its-waiting-to-buy-the-bitcoin-dip": 1795503319.6898184,
@@ -321,7 +274,10 @@
   "https://www.theblock.co/news/ecosystems/2026-11-27-ethereum-devs-schedule-glamsterdam-upgrade-hoodi-447051": 1795793491.713053,
   "https://www.coindesk.com/markets/2026/11/27/monero-suffers-biggest-single-day-slide-in-over-5-months-here-s-why": 1795793491.713053,
   "https://cointelegraph-tr.com/news/new-york-ag-137b-court-judgment-novatech": 1795793491.713053,
-  "https://cointelegraph-tr.com/news/japans-crypto-security-group-taps-seal-to-speed-up-hack-response": 1795793491.713053
+  "https://cointelegraph-tr.com/news/japans-crypto-security-group-taps-seal-to-speed-up-hack-response": 1795793491.713053,
+  "https://cointelegraph-tr.com/news/franklin-templeton-hype-crypto-index-etf": 1795822935.8025155,
+  "https://www.theblock.co/news/markets/2026-11-27-cryptoquant-bitcoin-price-recovery-usdt-supply-growth-447560": 1795822935.8025155,
+  "https://cointelegraph-tr.com/news/china-march-2027-rollout-blockchain-identity-regulations": 1795822935.8025155
  },
  "tries": {
   "https://www.theblock.co/news/defi/2026-10-29-uniswap-token-jar-tjar-robinhood-432131": 1
