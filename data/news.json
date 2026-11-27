@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-27T05:18:27Z",
+ "updated": "2026-11-27T15:31:31Z",
  "sources": [
   "coindesk.com",
   "cointelegraph-tr.com",
@@ -8,24 +8,10 @@
  "bySymbol": {
   "BTC": [
    {
-    "title": "Fidelity, Nasdaq'ta listelenmesi planlanan spot Chainlink ETF'si için başvuru yaptı",
-    "summary": "Fidelity, spot Chainlink borsa yatırım fonunu piyasaya sürmek için ABD Menkul Kıymetler ve Borsa Komisyonu'na başvurdu.",
-    "url": "https://www.theblock.co/news/business/2026-11-25-fidelity-chainlink-etf-nasdaq-listing-446735",
-    "published": "2026-11-25T19:32:42Z",
-    "importance": 5
-   },
-   {
     "title": "JPMorgan bitcoin 'teslimiyetine' dikkat çekti, Demokratlar SEC'in kripto planlarına karşı çıkıyor ve daha fazlası",
     "summary": "Günün bülteninde, Strategy'nin Net Aktif Değeri (NAV) Çarpanı düşerken JPMorgan bitcoin 'teslimiyetine' dikkat çekiyor; Demokratlar SEC'in kripto planlarına karşı muhalefeti artırıyor; ve daha fazlası.",
     "url": "https://www.theblock.co/newsletters/the-daily/2026-11-26-jpmorgan-bitcoin-capitulation-democrats-sec-crypto-plans-more-news-447025",
     "published": "2026-11-27T02:20:00Z",
-    "importance": 4
-   },
-   {
-    "title": "JPMorgan, bitcoin'deki 'teslimiyet' sinyalinin Strategy'nin rekor düşük NAV çarpanı ile verildiğini söylüyor",
-    "summary": "JPMorgan analistleri, Strategy'nin bitcoin varlıklarına kıyasla değerlemesinin tüm zamanların en düşük seviyesine ulaştığını ve bunun bitcoin için 'teslimiyet' sinyali verdiğini belirtti.",
-    "url": "https://www.theblock.co/news/markets/2026-11-26-jpmorgan-bitcoin-capitulation-strategy-low-nav-multiple-447007",
-    "published": "2026-11-26T16:18:24Z",
     "importance": 4
    },
    {
@@ -57,21 +43,28 @@
     "importance": 4
    },
    {
-    "title": "Temsilciler Meclisi Komitesi, Stratejik Bitcoin Rezervi Yasa Tasarısını İlerletti",
-    "summary": "Temsilciler Meclisi Komitesi Stratejik Bitcoin Rezervi yasa tasarısını ilerletti ancak yasalaşması için önünde dar bir yol bulunuyor. Mevcut 119. Kongre'nin önümüzdeki haftalarda çalışmalarına ara vermesi bekleniyor ve bu durum oturum sona ermeden tasarının tamamen geçmesi için çok az zaman bırakıyor.",
-    "url": "https://www.theblock.co/news/regulation/2026-11-25-house-committee-advances-strategic-bitcoin-reserve-bill-446778",
-    "published": "2026-11-26T03:03:01Z",
-    "importance": 4
+    "title": "Yapay zeka matematik atılımları Bitcoin güvenlik korkularını yeniden canlandırıyor ancak pratik tehdit kanıtlanmadı: K33",
+    "summary": "K33, son matematiksel gelişmelerin Bitcoin'in kriptografisinin tehlikeye atıldığını göstermediğini belirtirken yapay zekaya daha yakından dikkat edilmesini istedi.",
+    "url": "https://www.theblock.co/news/ecosystems/2026-11-27-ai-math-breakthroughs-revive-bitcoin-security-fears-but-practical-threat-remains-unproven-k33-447549",
+    "published": "2026-11-27T14:24:21Z",
+    "importance": 3
+   },
+   {
+    "title": "Bitcoin 'ölüm kesişimi' geliyor: Önceki 13 seferde ne oldu?",
+    "summary": "Bitcoin 'ölüm kesişimi' geliyor: Önceki 13 seferde ne oldu?",
+    "url": "https://www.coindesk.com/daybook-us/2026/11/27/bitcoin-death-cross-is-coming-here-s-what-happened-after-previous-13",
+    "published": "2026-11-27T12:16:07Z",
+    "importance": 3
+   },
+   {
+    "title": "Bitcoin 60.000 doların altına geriledi",
+    "summary": "Nasdaq 100 erken kazançlarının çoğunu geri verirken Bitcoin 60.000 doların altına düştü.",
+    "url": "https://www.coindesk.com/tech/2026/11/27/live-news-bitcoin-rebounds-above-usd61-000-as-ai-stocks-lead-premarket-gains",
+    "published": "2026-11-27T11:34:37Z",
+    "importance": 3
    }
   ],
   "ETH": [
-   {
-    "title": "Ethereum Foundation, kuantum ve yapay zeka tehditlerine karşı Keccak-256’yı destekliyor",
-    "summary": "Ethlabs kurucu ortağı Julian Ma, Ethereum'un Merge'den bu yana en kapsamlı güvenlik yenilemelerinden birine hazırlanırken yapay zekanın daha yakın vadeli bir tehdit oluşturduğunu belirtti.",
-    "url": "https://cointelegraph-tr.com/news/ethereum-foundation-keccak-256-counter-quantum-ai-threats",
-    "published": "2026-11-25T18:54:51Z",
-    "importance": 4
-   },
    {
     "title": "Ethereum geliştiricileri, gecikmelerin ardından Glamsterdam’ın Hoodi dağıtımını aralık ortasına planladı",
     "summary": "Glamsterdam’ın Hoodi yükseltmesi, gaz fiyatlandırmasındaki değişikliklerin bazı mevcut akıllı sözleşmeleri bozabileceği endişeleri üzerine ekim ayında ertelendi.",
@@ -87,21 +80,21 @@
     "importance": 3
    }
   ],
-  "LINK": [
-   {
-    "title": "Fidelity, Nasdaq'ta listelenmesi planlanan spot Chainlink ETF'si için başvuru yaptı",
-    "summary": "Fidelity, spot Chainlink borsa yatırım fonunu piyasaya sürmek için ABD Menkul Kıymetler ve Borsa Komisyonu'na başvurdu.",
-    "url": "https://www.theblock.co/news/business/2026-11-25-fidelity-chainlink-etf-nasdaq-listing-446735",
-    "published": "2026-11-25T19:32:42Z",
-    "importance": 5
-   }
-  ],
   "SKY": [
    {
     "title": "Sky, likidite baskısı ortasında 25 milyon dolarlık transfer için acil oylama önerdi",
     "summary": "Sky’nin Core Facilitator’ı, 3 Aralık’taki planlı oylamayı beklememek adına oylamayı hızlandırmak için protokolün acil durum müdahale sürecini başlattı.",
     "url": "https://cointelegraph-tr.com/news/sky-emergency-vote-25m-transfer-stusds-liquidity-stress",
     "published": "2026-11-26T05:29:26Z",
+    "importance": 3
+   }
+  ],
+  "USDT": [
+   {
+    "title": "Tether, çalınan kripto paraları dakikalar içinde dondurabilir ancak geri almak yıllar sürebilir",
+    "summary": "Tether çalınan kripto paraları dakikalar içinde dondurabilirken, bunları geri almak yıllar alabilmektedir.",
+    "url": "https://www.coindesk.com/business/2026/11/27/tether-can-freeze-stolen-crypto-in-minutes-getting-it-back-can-take-years",
+    "published": "2026-11-27T10:00:00Z",
     "importance": 3
    }
   ],
@@ -123,22 +116,6 @@
   ]
  },
  "seen": {
-  "https://www.coindesk.com/policy/2026/11/23/south-korea-to-expand-cryptocurrency-account-freezes-and-curb-illicit-transfers-abroad": 1795432503.189262,
-  "https://www.coindesk.com/markets/2026/11/23/bitcoin-breaks-a-record-streak-of-lower-highs-here-s-what-it-means": 1795432503.189262,
-  "https://www.theblock.co/news/regulation/2026-11-23-south-korea-to-publish-draft-digital-asset-basic-act-444881": 1795432503.189262,
-  "https://www.theblock.co/news/business/2026-11-23-ocbc-straitsx-pilot-stablecoin-payments-444880": 1795432503.189262,
-  "https://www.coindesk.com/markets/2026/11/23/u-s-inflation-thanksgiving-trading-crypto-week-ahead": 1795432503.189262,
-  "https://cointelegraph-tr.com/news/moldyroost-malware-drain-iphone-wallets-one-tap": 1795432503.189262,
-  "https://www.coindesk.com/tech/2026/11/23/moldyroost-malvertizing-campaign-uses-one-tap-iphone-hacks-to-hunt-crypto-wallet-keys-research-shows": 1795432503.189262,
-  "https://www.coindesk.com/markets/2026/11/23/this-swedish-bitcoin-treasury-firm-lost-30-btc-trading-part-of-its-own-stack": 1795432503.189262,
-  "https://www.theblock.co/news/business/2026-11-23-ark-buys-146-million-worth-anthropic-since-debut-444866": 1795432503.189262,
-  "https://www.coindesk.com/markets/2026/11/23/cardano-holders-are-turning-down-a-usd4-million-request-for-running-its-flagship-event": 1795432503.189262,
-  "https://www.theblock.co/news/markets/2026-11-23-spot-bitcoin-etfs-shed-1-79-billion-in-past-week-444857": 1795432503.189262,
-  "https://www.coindesk.com/markets/2026/11/23/bitcoin-sold-for-usd17-000-on-kraken-s-canadian-dollar-market-and-the-trades-stand": 1795432503.189262,
-  "https://www.coindesk.com/markets/2026/11/23/market-rout-kills-50-basis-points-december-fed-rate-hike-bets": 1795432503.189262,
-  "https://cointelegraph-tr.com/news/trump-renews-call-for-nvidia-to-rehire-jensen-huang-as-ceo": 1795432503.189262,
-  "https://cointelegraph-tr.com/markets/billionaire-bill-ackman-warns-fed-rate-hikes-could-trigger-recession": 1795432503.189262,
-  "https://cointelegraph-tr.com/news/half-wallets-trumps-dinner-list-got-tokens-from-non-us-exchanges": 1795432503.189262,
   "https://www.coindesk.com/business/2026/11/23/eric-trump-backed-american-bitcoin-secures-usd150-million-loan-against-its-bitcoin": 1795474421.2049186,
   "https://www.theblock.co/news/markets/2026-11-23-bitcoin-crypto-tech-stocks-rally-nvidia-reinstates-jensen-huang-ceo-nvda-jumps-444952": 1795474421.2049186,
   "https://cointelegraph-tr.com/news/nvidia-reinstates-jensen-huang-ceo-intelligence-probe": 1795474421.2049186,
@@ -322,7 +299,29 @@
   "https://www.coindesk.com/markets/2026/11/27/binance-says-its-withdrawal-suspension-is-over-four-weeks-after-a-usd6-3-billion-hack": 1795756707.0154347,
   "https://www.coindesk.com/tech/2026/11/27/ethereum-s-much-awaited-glamsterdam-upgrade-cleared-for-december-test-here-s-what-to-know": 1795756707.0154347,
   "https://www.theblock.co/news/regulation/2026-11-26-china-japan-south-korea-asean-digital-payments-447029": 1795756707.0154347,
-  "https://www.theblock.co/newsletters/the-daily/2026-11-26-jpmorgan-bitcoin-capitulation-democrats-sec-crypto-plans-more-news-447025": 1795756707.0154347
+  "https://www.theblock.co/newsletters/the-daily/2026-11-26-jpmorgan-bitcoin-capitulation-democrats-sec-crypto-plans-more-news-447025": 1795756707.0154347,
+  "https://www.theblock.co/news/business/2026-11-27-tether-buys-10-million-of-bitdeer-shares-as-stock-hovers-near-all-time-low-447554": 1795793491.713053,
+  "https://cointelegraph-tr.com/news/what-was-coinbase-worth-while-nasdaq-was-closed": 1795793491.713053,
+  "https://www.theblock.co/news/ecosystems/2026-11-27-ai-math-breakthroughs-revive-bitcoin-security-fears-but-practical-threat-remains-unproven-k33-447549": 1795793491.713053,
+  "https://cointelegraph-tr.com/news/binance-ipo-program-regulatory-approval-yi-he": 1795793491.713053,
+  "https://www.coindesk.com/business/2026/11/27/kalshi-turns-to-small-businesses-as-legal-battles-threaten-forecasts-on-sports": 1795793491.713053,
+  "https://cointelegraph-tr.com/news/brazil-b3-stablecoin-tokenization-launch-2027": 1795793491.713053,
+  "https://cointelegraph-tr.com/news/austria-supervised-crypto-firms-report-204b-h1-volume": 1795793491.713053,
+  "https://www.coindesk.com/daybook-us/2026/11/27/bitcoin-death-cross-is-coming-here-s-what-happened-after-previous-13": 1795793491.713053,
+  "https://www.coindesk.com/markets/2026/11/27/bitcoin-on-course-to-end-seven-week-losing-streak-while-trailing-stock-rebound": 1795793491.713053,
+  "https://www.coindesk.com/tech/2026/11/27/live-news-bitcoin-rebounds-above-usd61-000-as-ai-stocks-lead-premarket-gains": 1795793491.713053,
+  "https://www.coindesk.com/policy/2026/11/27/next-ecb-chief-favors-tokenized-bank-deposits-over-stablecoins-and-bitcoin": 1795793491.713053,
+  "https://cointelegraph-tr.com/markets/bitcoin-supply-metric-new-capitulation-signal": 1795793491.713053,
+  "https://www.coindesk.com/markets/2026/11/27/injective-asks-sec-to-allow-order-books-for-tokenized-stock-trading": 1795793491.713053,
+  "https://www.coindesk.com/business/2026/11/27/brazil-s-stock-exchange-teams-up-with-major-banks-to-launch-real-pegged-stablecoin": 1795793491.713053,
+  "https://www.theblock.co/news/regulation/2026-11-27-bank-of-japan-official-says-stablecoins-need-reserve-rules-to-preserve-singleness-of-money-447059": 1795793491.713053,
+  "https://www.coindesk.com/business/2026/11/27/tether-can-freeze-stolen-crypto-in-minutes-getting-it-back-can-take-years": 1795793491.713053,
+  "https://www.coindesk.com/markets/2026/11/27/bitcoin-tops-usd61-000-as-nasdaq-futures-extend-wednesday-s-rebound": 1795793491.713053,
+  "https://cointelegraph-tr.com/news/esma-overhaul-eu-mica-crypto-register-2027": 1795793491.713053,
+  "https://www.theblock.co/news/ecosystems/2026-11-27-ethereum-devs-schedule-glamsterdam-upgrade-hoodi-447051": 1795793491.713053,
+  "https://www.coindesk.com/markets/2026/11/27/monero-suffers-biggest-single-day-slide-in-over-5-months-here-s-why": 1795793491.713053,
+  "https://cointelegraph-tr.com/news/new-york-ag-137b-court-judgment-novatech": 1795793491.713053,
+  "https://cointelegraph-tr.com/news/japans-crypto-security-group-taps-seal-to-speed-up-hack-response": 1795793491.713053
  },
  "tries": {
   "https://www.theblock.co/news/defi/2026-10-29-uniswap-token-jar-tjar-robinhood-432131": 1
