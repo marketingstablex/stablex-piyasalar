@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-27T23:42:15Z",
+ "updated": "2026-11-28T07:36:52Z",
  "sources": [
   "coindesk.com",
   "cointelegraph-tr.com",
@@ -19,13 +19,6 @@
     "summary": "Günün bülteninde, Strategy'nin Net Aktif Değeri (NAV) Çarpanı düşerken JPMorgan bitcoin 'teslimiyetine' dikkat çekiyor; Demokratlar SEC'in kripto planlarına karşı muhalefeti artırıyor; ve daha fazlası.",
     "url": "https://www.theblock.co/newsletters/the-daily/2026-11-26-jpmorgan-bitcoin-capitulation-democrats-sec-crypto-plans-more-news-447025",
     "published": "2026-11-27T02:20:00Z",
-    "importance": 4
-   },
-   {
-    "title": "Bitcoin ETF'leri nakit kaybediyor ve Fed'in yardım etmesi olası görünmüyor",
-    "summary": "Bitcoin ETF'leri nakit kaybediyor ve Fed'in yardım etmesi olası görünmüyor.",
-    "url": "https://www.coindesk.com/daybook-us/2026/11/26/bitcoin-etfs-are-bleeding-cash-and-the-fed-is-unlikely-to-help",
-    "published": "2026-11-26T12:14:46Z",
     "importance": 4
    },
    {
@@ -57,13 +50,6 @@
     "url": "https://cointelegraph-tr.com/news/ethereum-devs-set-glamsterdams-hoodi-rollout-for-mid-december-after-delays",
     "published": "2026-11-27T04:47:36Z",
     "importance": 3
-   },
-   {
-    "title": "Vitalik Buterin, donanım cüzdanlarına yönelik tehditler evrilirken doğrulanabilir çipler çağrısı yaptı",
-    "summary": "Buterin, gelecekteki saldırıların gizli kötü amaçlı işlevlere sahip benzer görünümlü çipler kullanabileceği ve bunun donanım tahrifatını tespit etmeyi zorlaştırabileceği uyarısında bulundu.",
-    "url": "https://cointelegraph-tr.com/news/vitalik-buterin-verifiable-chips-hardware-wallet-threats-evolve",
-    "published": "2026-11-26T12:13:59Z",
-    "importance": 3
    }
   ],
   "USDT": [
@@ -93,24 +79,6 @@
   ]
  },
  "seen": {
-  "https://www.theblock.co/news/markets/2026-11-24-bitcoin-60000-jensen-huang-fizzles-445472": 1795503319.6898184,
-  "https://www.theblock.co/newsletters/the-daily/2026-11-24-doj-binance-hack-strategy-bitcoin-more-crypto-news-445430": 1795503319.6898184,
-  "https://cointelegraph-tr.com/markets/why-42-macro-says-its-waiting-to-buy-the-bitcoin-dip": 1795503319.6898184,
-  "https://www.theblock.co/news/regulation/2026-11-23-kalshi-pauses-operations-utah-dodging-ban-new-york-445456": 1795503319.6898184,
-  "https://cointelegraph-tr.com/news/google-wants-make-you-star-your-own-ai-slop-movies": 1795503319.6898184,
-  "https://www.theblock.co/news/markets/2026-11-23-california-court-terminates-lawsuit-coinbase-terrausd-445448": 1795503319.6898184,
-  "https://cointelegraph-tr.com/news/ethereum-foundation-doubles-protocol-security-team-amid-ai-quantum-overhaul": 1795503319.6898184,
-  "https://www.theblock.co/news/regulation/2026-11-23-cftc-staff-bitcoin-ether-count-toward-derivatives-firms-operating-expenses-445435": 1795503319.6898184,
-  "https://www.coindesk.com/policy/2026/11/23/u-s-cftc-sets-policies-on-event-contract-data-using-crypto-to-check-financial-boxes": 1795503319.6898184,
-  "https://cointelegraph-tr.com/news/cftc-staff-say-exchanges-can-count-bitcoin-toward-operating-reserves": 1795503319.6898184,
-  "https://www.theblock.co/news/markets/2026-11-23-grayscale-bitcoin-altcoins-oversold-ai-risks-crypto-outlook-445418": 1795503319.6898184,
-  "https://www.theblock.co/news/business/2026-11-23-grayscale-launches-2x-zcash-etf-three-months-spot-fund-debut-445407": 1795503319.6898184,
-  "https://cointelegraph-tr.com/news/us-seeks-11b-crypto-stolen-north-korea-binance-hack": 1795503319.6898184,
-  "https://cointelegraph-tr.com/news/kalshi-temporary-win-new-york-gambling-law-dispute": 1795503319.6898184,
-  "https://www.theblock.co/news/regulation/2026-11-23-doj-1-17-billion-usdc-binance-hack-circle-replacement-tokens-445398": 1795503319.6898184,
-  "https://www.theblock.co/news/regulation/2026-11-23-cftc-prediction-market-rules-advance-white-house-review-amid-state-federal-jurisdiction-fight-445384": 1795503319.6898184,
-  "https://www.coindesk.com/business/2026/11/23/binance-hackers-push-usd247-million-through-transactions-designed-to-cloud-the-source": 1795503319.6898184,
-  "https://www.theblock.co/news/business/2026-11-23-bitmine-adds-7819-eth-tom-lee-makes-hard-money-case-444948": 1795503319.6898184,
   "https://www.theblock.co/news/defi/2026-11-24-ansem-denies-involvement-2-57-million-wallet-drain-black-bull-creator-coin-plummets-55-445705": 1795546188.6994927,
   "https://www.theblock.co/news/regulation/2026-11-24-europol-operation-binance-coinbase-chainalysis-traces-28-5-million-crypto-illegal-streaming-services-446019": 1795546188.6994927,
   "https://cointelegraph-tr.com/news/how-south-koreas-proposed-20-cap-could-change-who-runs-upbit": 1795546188.6994927,
@@ -277,7 +245,8 @@
   "https://cointelegraph-tr.com/news/japans-crypto-security-group-taps-seal-to-speed-up-hack-response": 1795793491.713053,
   "https://cointelegraph-tr.com/news/franklin-templeton-hype-crypto-index-etf": 1795822935.8025155,
   "https://www.theblock.co/news/markets/2026-11-27-cryptoquant-bitcoin-price-recovery-usdt-supply-growth-447560": 1795822935.8025155,
-  "https://cointelegraph-tr.com/news/china-march-2027-rollout-blockchain-identity-regulations": 1795822935.8025155
+  "https://cointelegraph-tr.com/news/china-march-2027-rollout-blockchain-identity-regulations": 1795822935.8025155,
+  "https://www.theblock.co/newsletters/the-daily/2026-11-27-bitcoin-recovery-usdt-supply-ai-threat-bitcoin-more-crypto-news-447571": 1795851412.3882287
  },
  "tries": {
   "https://www.theblock.co/news/defi/2026-10-29-uniswap-token-jar-tjar-robinhood-432131": 1
